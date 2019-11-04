@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Tumatawag sa pamamagitan ng %s</string>
+  <string name="incall_calling_on_same_carrier_template">Tumatawag sa parehong carrier na %s</string>
+  <string name="incall_calling_on_recent_choice_template">Tumatawag sa kamakailang pinili na %s</string>
+  <string name="incall_connecting">Tinatawagan…</string>
+  <string name="incall_connecting_assited_dialed">Tumatawag gamit ang +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Ginagamit ang +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Inililipat…</string>
+  <string name="incall_video_call_requesting">Pakikipag-video call gamit ang carrier…</string>
+  <string name="incall_wifi_video_call_requesting">Pakikipag-video call gamit ang Wi-Fi carrier…</string>
+  <string name="incall_video_call_upgrade_request">Lumilipat sa video ng carrier…</string>
+  <string name="incall_video_call_request_failed">Hindi nakakonekta</string>
+  <string name="incall_video_call_request_rejected">Tinanggihan ang tawag</string>
+  <string name="incall_video_call_request_timed_out">Nag-time out ang tawag</string>
+  <string name="incall_hanging_up">Binababa</string>
+  <string name="incall_call_ended">Natapos ang tawag</string>
+  <string name="incall_remotely_held">Naka-hold</string>
+  <string name="contact_grid_incoming_video_call">Video call sa carrier mula kay</string>
+  <string name="contact_grid_incoming_wifi_video_call">Video call sa Wi-Fi carrier mula kay</string>
+  <string name="contact_grid_incoming_voice_call">Tawag mula kay</string>
+  <string name="contact_grid_incoming_work_call">Tawag sa trabaho mula kay</string>
+  <string name="contact_grid_incoming_via_template">Papasok sa pamamagitan ng %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Pinaghihinalaang spam na tumatawag</string>
+  <string name="contact_grid_callback_number">Numero ng teleponong ito: %1$s</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Jasotako deiak</string>
+  <string name="notification_channel_ongoing_call">Abian diren deiak</string>
+  <string name="notification_channel_missed_call">Dei galduak</string>
+  <string name="notification_channel_voicemail">Ahots-mezuak</string>
+  <string name="notification_channel_misc">Lehenetsia</string>
+</resources>

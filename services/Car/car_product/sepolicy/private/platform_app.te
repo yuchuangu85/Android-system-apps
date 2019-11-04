@@ -1,0 +1,2 @@
+allow platform_app broadcastradio_service:service_manager find;
+allow platform_app carservice_service:service_manager find;

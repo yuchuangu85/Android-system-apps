@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Perbraukite, kad atsakytumėte</string>
+  <string name="call_incoming_swipe_to_reject">Perbraukite žemyn, kad atmestumėte</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Perbraukite dviem pirštais aukštyn, kad atsilieptumėte, arba žemyn, kad atmestumėte skambutį</string>
+  <string name="call_incoming_will_disconnect">Atsakius į šį skambutį, vaizdo skambutis bus baigtas</string>
+  <string name="a11y_call_incoming_decline_description">Atmesti</string>
+  <string name="call_incoming_decline">Atmesti</string>
+  <string name="a11y_call_incoming_answer_description">Atsakyti</string>
+  <string name="call_incoming_answer">Atsakyti</string>
+</resources>

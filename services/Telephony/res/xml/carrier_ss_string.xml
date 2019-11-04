@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- This xml is the command's structure about supplementary service by ussd command.
+     It defines the feature (e.g. call forwarding , caller id), command, parameter, result,
+     response ,and response's value definition.
+     Developer can use the CarrierXmlParser.java to load this xml structure and use function to
+     make ussd command by structure and analyze the ussd response.
+
+     If developer need to define ussd command by specific carrier, developer can add new xml and
+     xml is named carrier_ss_string_carrierId.xml. The carrierId is a number and is defined in
+     <a href="https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/master/assets/carrier_list.textpb">here</a>
+     For example: carrier_ss_string_850.xml
+
+     The tags define as below:
+     <regular_parser> : It is a regular expression for response massage.
+     <feature name="callforwarding"> : It defines feature about call forwarding.
+     <command name="query"> : The command which is named "query" in feature.
+     <service_code> : The command's service code. The value defines by carrier.
+     <action_code> : From TS 22.030 6.5.2, the procedure always starts with *, #, **, ## or *#.
+     <parameter number="1"> : The parameter is supplementary Information. The number defines the
+                              number of entries.
+     <entry position="1">1</entry> :
+        This defines the entry and entry's position and entry's text.
+        The 'position' is the parameter's position.
+        For example: #120*parameter1*parameter2*parameter3*parameter4#
+            parameter1 position=1
+            parameter2 position=2
+            parameter3 position=3
+            parameter4 position=4
+        The entry's text is define the parameter's value. If developer want to dynamic input,
+        text can use string witch start with "tag_" and define in CarrierXmlParser.java.
+        e.g. "tag_number","tag_time"
+     <response_format number ="3"> : This defines the response message format. The number means
+     the number of parameters.
+     <entry position="6" key="status_code"/> :
+         It defines response message's parameter.
+         The 'position' is the index of parser result which is by <regular_parser>.
+         The 'key' is the variable's name which is defined in CarrierXmlParser.java. Developer can
+         get response value by key's name.
+         For example:
+             120*1*7*number*time*1*0*0# parse by <regular_parser>
+             120    position= 2
+             1      position= 4
+             7      position= 6
+             number position= 8
+             time   position= 10
+     <command_result number="3"> :
+         It defines the meaning for 'key' of 'response_format'.
+         The 'number' means the number of entries.
+     <entry key="status_code" definition="activate">7</entry> :
+         The 'key' is the same as 'key' of <response_format>.
+         The 'definition' is meaning for 'key' when response value is the same as text.
+         For example:
+         If response command is 120*1*7*1# and entry is
+         <entry key="status_code" definition="activate">7</entry>
+         After message parse, the result is that key="status_code" and value is 7.
+         After mapping <command_result>, this means that status_code is activate, when key's value
+         is 7 from response message.
+-->
+
+<resources>
+    <!-- This is a parser format by Regular Expression.
+         "response_format"'s position follow below index.
+         ((\d{2,3})(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*))?)?)?)?)?)?)?#)
+         1 2       3  4       5  6       7  8       9  10      11 12     13  14      15 16
+    -->
+    <regular_parser>((\d{2,3})(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*))?)?)?)?)?)?)?#)</regular_parser>
+    <feature name="callforwarding">
+        <command name="query"><!--For example: *#120*1#-->
+            <service_code>120</service_code>
+            <action_code>*#</action_code>
+            <parameter number="1">
+                <entry position="1">1</entry>
+            </parameter>
+            <response_format number ="3"><!--For example: 120*1*7*number*time*1*0*0#-->
+                <entry position="6" key="status_code"/>
+                <entry position="8" key="number"/>
+                <entry position="10" key="time" />
+            </response_format>
+        </command>
+        <command name="activate"><!--For example: *120*1*number*time#-->
+            <service_code>120</service_code>
+            <action_code>*</action_code>
+            <parameter number="3">
+                <entry position="1">1</entry>
+                <entry position="2">tag_number</entry>
+                <entry position="3">tag_time</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 120*1*7*1#-->
+                <entry position="6" key="status_code"/>
+            </response_format>
+        </command>
+        <command name="deactivate"><!--For example: #120*1#-->
+            <service_code>120</service_code>
+            <action_code>#</action_code>
+            <parameter number="1">
+                <entry position="1">1</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 120*1*6*2#-->
+                <entry position="6" key="status_code"/>
+            </response_format>
+        </command>
+        <command_result number="3">
+            <entry key="status_code" definition="activate">7</entry>
+            <entry key="status_code" definition="deactivate">6</entry>
+            <entry key="status_code" definition="unregister">4</entry>
+        </command_result>
+    </feature>
+    <feature name="callerid">
+        <command name="activate"><!--For example: *148*2*password#-->
+            <service_code>148</service_code>
+            <action_code>*</action_code>
+            <parameter number="2">
+                <entry position="1">2</entry>
+                <entry position="2">tag_password</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 148*7#-->
+                <entry position="4" key="status_code"/>
+            </response_format>
+        </command>
+        <command name="deactivate"><!--For example: *148*1*password#-->
+            <service_code>148</service_code>
+            <action_code>*</action_code>
+            <parameter number="2">
+                <entry position="1">1</entry>
+                <entry position="2">tag_password</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 148*7#-->
+                <entry position="4" key="status_code"/>
+            </response_format>
+        </command>
+        <command_result number="1">
+            <entry key="status_code" definition="ok">7</entry>
+        </command_result>
+    </feature>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Mostra un advertiment cada vegada</string>
+  <string name="details">Estàs a punt de trucar a un número internacional, i es poden aplicar càrrecs.</string>
+</resources>

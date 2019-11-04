@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Правядзіце ад значка, каб адхіліць, адправіўшы SMS</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Правядзіце пальцам ад значка, каб адказаць на аўдыявыклік</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Правядзіце пальцам уверх, каб адказаць і ўтрымаць бягучы выклік</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Правядзіце пальцам уверх, каб адказаць і завяршыць выклік на ўтрыманні</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Правядзіце пальцам ад значка, каб адказаць і скончыць бягучы выклік</string>
+  <string name="call_incoming_message_custom">Свой варыянт...</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Свой варыянт...</string>
+  <string name="call_incoming_custom_message_cancel">Скасаваць</string>
+  <string name="call_incoming_custom_message_send">Адправіць</string>
+  <string name="a11y_incoming_call_reject_with_sms">Адхіліць гэты выклік, адправіўшы паведамленне</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Адказаць аўдыявыклікам</string>
+  <string name="a11y_incoming_call_answer_and_release">Адказаць і скончыць бягучы выклік</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Адхіліць, адправіўшы паведамленне</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Адказаць аўдыявыклікам</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Адказаць і скончыць бягучы выклік</string>
+  <string name="call_incoming_video_is_off">Відэа адключана</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Правядзіце двума пальцамі ўверх, каб адказаць; двума пальцамі ўніз – каб адхіліць.</string>
+  <string name="call_incoming_important">Важны</string>
+</resources>

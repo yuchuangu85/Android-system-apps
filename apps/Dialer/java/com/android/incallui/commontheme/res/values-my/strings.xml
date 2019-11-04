@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">ခေါ်ဆိုမှုအပြီးသတ်ရန်</string>
+  <string name="incall_content_description_muted">အသံပိတ်ထားသည်</string>
+  <string name="incall_content_description_unmuted">အသံပြန်ဖွင့်လိုက်သည်</string>
+  <string name="incall_content_description_swap_calls">ခေါ်ဆိုမှုများကို ဖလှယ်ရန်</string>
+  <string name="incall_content_description_swap_sim">ဆင်းမ်ကဒ် ပြောင်းပါ</string>
+  <string name="incall_content_description_merge_calls">ခေါ်ဆိုမှုများပေါင်းရန်</string>
+  <string name="incall_content_description_earpiece">လက်ကိုင်ဖုန်းနားကြပ်</string>
+  <string name="incall_content_description_speaker">စပီကာ</string>
+  <string name="incall_content_description_bluetooth">ဘလူးတုသ်</string>
+  <string name="incall_content_description_headset">ကြိုးတပ်မိုက်ခွက်ပါနားကြပ်</string>
+  <string name="incall_content_description_hold">ခေါ်ဆိုမှုခဏရပ်ရန်</string>
+  <string name="incall_content_description_unhold">ခေါ်ဆိုမှုဆက်လုပ်ရန်</string>
+  <string name="incall_content_description_video_on">ဗီဒီယိုဖွင့်ထားသည်</string>
+  <string name="incall_content_description_video_off">ဗီဒီယိုပိတ်ထားသည်</string>
+  <string name="incall_content_description_swap_video">ဗီဒီယိုဖလှယ်ရန်</string>
+  <string name="incall_label_speaker">စပီကာ</string>
+  <string name="incall_label_audio">အသံ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">对方的视频画面已关闭</string>
+  <string name="videocall_remote_video_on">对方已开启视频功能</string>
+  <string name="videocall_remotely_held">保持的通话</string>
+  <string name="videocall_remotely_resumed">通话已恢复</string>
+  <string name="videocall_charges_alert_dialog_description">通过移动网络发起的视频通话会消耗数据流量和语音通话分钟数。您可能需要支付相关费用。</string>
+  <string name="do_not_show_again">不再显示</string>
+</resources>

@@ -1,0 +1,303 @@
+<!--
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- The name of this application, a wallpaper picker. [CHAR LIMIT=50] -->
+    <string name="wallpaper_app_name">Wallpapers</string>
+
+    <string name="app_name">@string/wallpaper_app_name</string>
+
+    <!-- UI Strings -->
+    <!-- Label which asks the user to select a wallpaper category from the given choices. [CHAR LIMIT=50] -->
+    <string name="select_wallpaper_label">Wallpaper categories</string>
+
+    <!-- Label for a button which lets user set the displayed image as wallpaper. [CHAR LIMIT=30] -->
+    <string name="set_wallpaper_button_text">Set Wallpaper</string>
+
+    <!-- Message shown in a dialog indicating that the app is setting an image as the device
+         wallpaper. [CHAR LIMIT=100] -->
+    <string name="set_wallpaper_progress_message">Setting wallpaper&#8230;</string>
+
+    <!-- Label for a button which lets user try to set the wallpaper again. [CHAR LIMIT=30] -->
+    <string name="try_again">Try again</string>
+
+    <!-- Error message indicating the app could not successfully set an image as the device
+         wallpaper. [CHAR LIMIT=100] -->
+    <string name="set_wallpaper_error_message">Unable to set wallpaper.</string>
+
+    <!-- Error message indicating the app could not load the user-selected wallpaper image for
+         preview. [CHAR LIMIT=100] -->
+    <string name="load_wallpaper_error_message">
+        Unable to load wallpaper. The image is either corrupted or unavailable.
+    </string>
+
+    <!-- Label indicating that the wallpaper being shown near it is the wallpaper that is currently
+         set on the device. [CHAR LIMIT=100] -->
+    <string name="static_wallpaper_presentation_mode_message">Currently set</string>
+
+    <!-- Label indicating that the wallpaper being shown near it is the wallpaper that is currently
+         set on the device and is part of a daily rotation of wallpapers. [CHAR LIMIT=100] -->
+    <string name="rotating_wallpaper_presentation_mode_message">Daily wallpaper</string>
+
+    <!-- Label indicating that the wallpaper being shown is set both on home screen and on lock
+        screen [CHAR LIMIT=100] -->
+    <string name="wallpaper_destination_both">Home &amp; Lock screen</string>
+
+    <!-- Label referring to the home screen of the device, i.e. shown behind the launcher.
+         [CHAR LIMIT=30] -->
+    <string name="home_screen_message">Home screen</string>
+
+    <!-- Label referring to the lock screen of the device, i.e. what is shown when user turns on the
+         device screen. [CHAR LIMIT=30] -->
+    <string name="lock_screen_message">Lock screen</string>
+
+    <!-- Short label describing that a wallpaper has been set to both the home and lock screens of
+         the user's device. [CHAR LIMIT=30] -->
+    <string name="home_and_lock_short_label">Home &#38; Lock</string>
+
+    <!-- Label for a dialog which lets the user set an image as wallpaper. [CHAR LIMIT=50] -->
+    <string name="set_wallpaper_dialog_message">Set wallpaper</string>
+
+    <!-- Label referring to the home screen of the device, i.e. shown behind the launcher.
+         [CHAR LIMIT=100] -->
+    <string name="set_wallpaper_home_screen_destination">Home screen</string>
+
+    <!-- Label referring to the lock screen of the device, i.e. what is shown when user turns on the
+         device screen. [CHAR LIMIT=100] -->
+    <string name="set_wallpaper_lock_screen_destination">Lock screen</string>
+
+    <!-- Label referring to both the home screen and the lock screen of the
+         device. [CHAR LIMIT=100] -->
+    <string name="set_wallpaper_both_destination">Home screen and lock screen</string>
+
+    <!-- Label describing a live wallpaper whose responsibility is to display a different wallpaper
+         on a periodic basis (i.e., in a daily rotation). [CHAR LIMIT=80] -->
+    <string name="no_backup_image_wallpaper_label">Rotating Image Wallpaper</string>
+
+    <!-- Message explaining to the user that the storage permission is needed to view the current
+         wallpaper. [CHAR LIMIT=none] -->
+    <string name="permission_needed_explanation">
+      To display the current wallpaper here,
+      <xliff:g example="Wallpapers" id="app_name">%1$s</xliff:g> needs access to your device\'s
+      storage.
+    </string>
+
+    <!-- Message explaining to the user that the storage permission is needed to view the current
+         wallpaper and that they grant it by going to the app's "app info" Settings page.
+         [CHAR LIMIT=none] -->
+    <string name="permission_needed_explanation_go_to_settings">
+      To display the current wallpaper here, Wallpapers needs access to your device’s
+      storage.\n\nTo change this setting, go to the Permissions area of Wallpapers’ app info.
+    </string>
+
+    <!-- Label for the button which, when clicked, requests the storage permission.
+         [CHAR LIMIT=50] -->
+    <string name="permission_needed_allow_access_button_label">
+      Allow access
+    </string>
+
+    <!-- Description of a live wallpaper whose responsibility is to display a different wallpaper
+         on a periodic basis (i.e., in a daily rotation). [CHAR LIMIT=100] -->
+    <string name="no_backup_image_wallpaper_description">
+      Live wallpaper service for rotating wallpapers
+    </string>
+
+    <!-- Title of a feature where the wallpaper changes on a daily basis. [CHAR LIMIT=50] -->
+    <string name="daily_refresh_tile_title">Daily wallpaper</string>
+
+    <!-- Label indicating user can tap this tile with their finger to enable the feature.
+         [CHAR LIMIT=100] -->
+    <string name="daily_refresh_tile_subtitle">Tap to turn on</string>
+
+    <!-- Message indicating that user must tap the "Set wallpaper" button on a subsequent screen
+         to complete setup of the daily wallpaper rotation feature. [CHAR LIMIT=none] -->
+    <string name="start_rotation_dialog_body_live_wallpaper_needed">
+      Wallpaper will change automatically every day. To finish setup, tap
+      <![CDATA[<strong>Set wallpaper</strong>]]> on the next screen.
+    </string>
+
+    <!-- Message indicating that, if this box is checked, future wallpapers will be enabled only
+         when the device has Wi-fi enabled. [CHAR LIMIT=100] -->
+    <string name="start_rotation_dialog_wifi_only_option_message">
+      Download future wallpapers on Wi-Fi only
+    </string>
+
+    <!-- Label for a button letting the user continue on to enable daily wallpaper rotation.
+         [CHAR LIMIT=30] -->
+    <string name="start_rotation_dialog_continue">Continue</string>
+
+    <!-- Message indicating the app is downloading the first wallpaper in a daily rotation.
+         [CHAR LIMIT=100] -->
+    <string name="start_rotation_progress_message">Downloading first wallpaper&#8230;</string>
+
+    <!-- Error message indicating the app could not download the first wallpaper of a daily
+         rotation. [CHAR LIMIT=none] -->
+    <string name="start_rotation_error_message">
+      Unable to download first wallpaper. Please check your network settings and try again.
+    </string>
+
+    <!-- Message explaining to the user that daily rotation means the wallpaper on the device will
+         change daily. [CHAR LIMIT=none] -->
+    <string name="start_rotation_dialog_body">
+      Wallpaper will change automatically every day
+    </string>
+
+    <!-- Label for a button linking to Android Settings. [CHAR LIMIT=50] -->
+    <string name="settings_button_label">
+      Settings
+    </string>
+
+    <!-- Label for a button allowing user to learn more about a wallpaper [CHAR LIMIT=30] -->
+    <string name="explore">Explore</string>
+
+    <!-- Label for a button letting user set the next wallpaper on the device. [CHAR LIMIT=100] -->
+    <string name="next_wallpaper">Next wallpaper</string>
+
+    <!-- Message indicating that setting the wallpaper on the device has is disabled
+         [CHAR LIMIT=none] -->
+    <string name="wallpaper_disabled_message">
+        Setting a wallpaper is disabled on this device
+    </string>
+
+    <!-- Message indicating the administrator of the device has disabled viewing and setting
+         the wallpaper of the device. [CHAR LIMIT=none] -->
+    <string name="wallpaper_disabled_by_administrator_message">
+        Setting a wallpaper is disabled by your device administrator
+    </string>
+
+    <!-- Message indicating that the selected wallpaper was successfully set on the device.
+         [CHAR_LIMIT=100] -->
+    <string name="wallpaper_set_successfully_message">
+        Wallpaper set successfully
+    </string>
+
+    <!-- Message indicating that the user needs to be connected to the Internet to view the
+         collections of wallpapers.
+         [CHAR_LIMIT=none] -->
+    <string name="wallpapers_unavailable_offline_message">
+        You need an Internet connection to view wallpapers. Please connect and try again."
+    </string>
+
+    <!-- Content descriptions -->
+    <!-- Content description for a thumbnail showing the currently set home screen wallpaper.
+         [CHAR LIMIT=none] -->
+    <string name="currently_set_home_wallpaper_thumbnail">
+      Currently set home screen wallpaper thumbnail
+    </string>
+
+    <!-- Content description for a thumbnail showing the currently set lock screen wallpaper.
+         [CHAR LIMIT=none] -->
+    <string name="currently_set_lock_wallpaper_thumbnail">
+      Currently set lock screen wallpaper thumbnail
+    </string>
+
+    <!-- Content description for a thumbnail showing the currently set wallpaper.
+         [CHAR LIMIT=none] -->
+    <string name="currently_set_wallpaper_thumbnail">Currently set wallpaper thumbnail</string>
+
+    <!-- Content description for a thumbnail image of a wallpaper. [CHAR LIMIT=none] -->
+    <string name="wallpaper_thumbnail">Wallpaper thumbnail</string>
+
+    <!-- Content description for a button letting the user learn more about the currently set home
+         screen wallpaper. [CHAR LIMIT=none] -->
+    <string name="explore_home_screen">Explore home screen wallpaper</string>
+
+    <!-- Content description for a button letting the user learn more about the currently set lock
+         screen wallpaper. [CHAR LIMIT=none] -->
+    <string name="explore_lock_screen">Explore lock screen wallpaper</string>
+
+    <!-- Content description for a button letting the user skip to the next daily wallpaper on the
+         home screen. [CHAR LIMIT=none] -->
+    <string name="refresh_daily_wallpaper_home_content_description">Refresh daily home screen wallpaper</string>
+
+    <!-- Content description for a button letting the user skip to the next daily wallpaper.
+         [CHAR LIMIT=none] -->
+    <string name="refresh_daily_wallpaper_content_description">Refresh daily wallpaper</string>
+
+    <!-- Message shown to user in a progress dialog when the app is in the process of refreshing the
+         daily wallpaper. [CHAR LIMIT=none] -->
+    <string name="refreshing_daily_wallpaper_dialog_message">
+        Refreshing daily wallpaper&#8230;
+    </string>
+
+    <!-- Message shown to user in an alert dialog when the app failed to refresh the user's daily
+         wallpaper. The message also suggests the user to check their network settings since network
+         connection issues are a likely cause of the error. [CHAR LIMIT=none] -->
+    <string name="refresh_daily_wallpaper_failed_message">
+        Failed to refresh daily wallpaper. Please check your network connection and try again.
+    </string>
+
+    <!-- Content description for a button letting the user collapse a visual panel showing info
+         about the wallpaper being previewed. [CHAR LIMIT=none] -->
+    <string name="collapse_attribution_panel">Collapse wallpaper info panel</string>
+
+    <!-- Content description for a button letting the user expand a visual panel showing info about
+         the wallpaper being previewed. [CHAR LIMIT=none] -->
+    <string name="expand_attribution_panel">Expand wallpaper info panel</string>
+
+    <!-- Content -->
+    <!-- Title of the collection of wallpapers stored on the device itself. [CHAR LIMIT=30] -->
+    <string name="on_device_wallpapers_category_title">On-device wallpapers</string>
+
+    <!-- Short title of the collection of wallpapers stored on the device itself.
+         [CHAR LIMIT=30] -->
+    <string name="on_device_wallpapers_category_title_desktop">On device</string>
+
+    <!-- Title of a wallpaper that comes with the Android device. [CHAR LIMIT=30] -->
+    <string name="on_device_wallpaper_title">Android wallpaper</string>
+
+    <!-- Title of the collection of "live" (animated) wallpapers. [CHAR LIMIT=30] -->
+    <string name="live_wallpapers_category_title">Live wallpapers</string>
+
+    <!-- Title of the collection of wallpapers from the user's own photo collection.
+         [CHAR LIMIT=30] -->
+    <string name="my_photos_category_title">My photos</string>
+
+    <!-- Title of a wallpaper that is a user's own photo. [CHAR LIMIT=30] -->
+    <string name="my_photos_generic_wallpaper_title">My photo</string>
+
+    <!-- Title used for a wallpaper which does not have a unique title. [CHAR LIMIT=30] -->
+    <string name="fallback_wallpaper_title">Wallpaper</string>
+
+    <!-- Displayed when user selects a shortcut for an app that was uninstalled [CHAR_LIMIT=none]-->
+    <string name="app_not_found">App isn\'t installed.</string>
+
+    <!-- "Center" wallpaper position option where the custom photo wallpaper is centered to the
+         device's desktop without any scaling. [CHAR_LIMIT=30] -->
+    <string name="center_wallpaper_position">Center</string>
+
+    <!-- "Center crop" wallpaper position option where the custom photo wallpaper is center cropped
+         to the device's desktop so that the maximum area of the photo is shown without empty space.
+         [CHAR_LIMIT=50] -->
+    <string name="center_crop_wallpaper_position">Center crop</string>
+
+    <!-- "Stretch" wallpaper position option where the custom photo wallpaper is scaled and
+         stretched to fit the device's desktop exactly. [CHAR_LIMIT=30] -->
+    <string name="stretch_wallpaper_position">Stretch</string>
+
+    <!-- Logging -->
+    <string name="live_wallpaper_collection_id" translatable="false">live_wallpapers</string>
+    <string name="image_wallpaper_collection_id" translatable="false">image_wallpapers</string>
+    <string name="on_device_wallpaper_collection_id" translatable="false">
+      on_device_wallpapers
+    </string>
+    <string name="third_party_app_wallpaper_collection_id" translatable="false">
+      third_party_app_wallpapers
+    </string>
+
+    <!-- Label for a checkbox which lets user preview the displayed image as wallpaper. [CHAR LIMIT=30] -->
+    <string name="preview">Preview</string>
+</resources>

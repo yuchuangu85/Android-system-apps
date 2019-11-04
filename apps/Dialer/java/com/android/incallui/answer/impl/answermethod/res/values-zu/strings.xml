@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Swayiphela phezulu ukuze uphendule</string>
+  <string name="call_incoming_swipe_to_reject">Swayiphela phansi ukuze unqabele</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Swayiphela phezulu ngeminwe emibili ukuze uphendule noma phansi ukuze wenqabe ikholi</string>
+  <string name="call_incoming_will_disconnect">Ukuphendula le kholi kuzophelisa ikholi yakho yevidiyo</string>
+  <string name="a11y_call_incoming_decline_description">Yenqaba</string>
+  <string name="call_incoming_decline">Yenqaba</string>
+  <string name="a11y_call_incoming_answer_description">Phendula</string>
+  <string name="call_incoming_answer">Phendula</string>
+</resources>

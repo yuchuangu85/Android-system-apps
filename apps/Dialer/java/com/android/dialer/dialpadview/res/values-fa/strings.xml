@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">پیمایش به عقب</string>
+  <string name="description_dialpad_overflow">گزینه‌های بیشتر</string>
+  <string name="description_delete_button">برگشت به عقب</string>
+  <string name="description_image_button_plus">شماره‌گیر به‌علاوه</string>
+  <string name="description_voicemail_button">تماس با پست صوتی</string>
+  <string name="description_dial_button">شماره‌گیری</string>
+  <string name="dialog_voicemail_airplane_mode_message">برای تماس با پست صوتی، ابتدا حالت هواپیما را غیرفعال کنید.</string>
+  <string name="dialog_voicemail_not_ready_message">برای راه‌اندازی پست صوتی به منو &gt; تنظیمات بروید.</string>
+  <string name="add_2sec_pause">افزودن یک مکث ۲ ثانیه‌ای</string>
+  <string name="add_wait">افزودن انتظار</string>
+  <string name="dialer_useDtmfDialpad">استفاده از صفحه‌کلید لمسی</string>
+  <string name="dialer_returnToInCallScreen">برگشت به تماس درحال انجام</string>
+  <string name="dialer_addAnotherCall">افزودن تماس</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">در حال بارگیری سیم کارت...</string>
+  <string name="simContacts_title">مخاطبین سیم‌کارت</string>
+  <string name="menu_callNumber">تماس با %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">‏برقراری تماس اضطراری ازطریق Wi‑Fi امکان‌پذیر نیست</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">تماس با این شماره ممکن نیست</string>
+</resources>

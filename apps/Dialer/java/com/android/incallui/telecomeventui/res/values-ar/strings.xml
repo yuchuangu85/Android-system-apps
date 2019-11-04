@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">إظهار التحذير في كل مرة</string>
+  <string name="details">أنت تتصل برقم دولي وقد يتم فرض رسوم.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">Chọn số</string>
+  <string name="call_disambig_title">Chọn số</string>
+  <string name="make_primary">Nhớ lựa chọn này</string>
+</resources>

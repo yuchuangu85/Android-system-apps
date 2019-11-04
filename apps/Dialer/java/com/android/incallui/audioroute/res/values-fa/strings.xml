@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Bluetooth</string>
+  <string name="audioroute_speaker">بلندگو</string>
+  <string name="audioroute_phone">تلفن</string>
+  <string name="audioroute_headset">هدست سیم‌دار</string>
+</resources>

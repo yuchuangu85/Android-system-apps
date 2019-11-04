@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">ವೀಡಿಯೊ ಕರೆ</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">ಹೋಲ್ಡ್‌‌ ಮಾಡು</string>
+  <string name="incall_label_add_call">ಕರೆಯನ್ನು ಸೇರಿಸಿ</string>
+  <string name="incall_label_mute">ಮ್ಯೂಟ್ ಮಾಡಿ</string>
+  <string name="incall_label_end_call">ಕರೆ ಅಂತ್ಯಗೊಳಿಸಿ</string>
+  <string name="incall_label_dialpad">ಕೀಪ್ಯಾಡ್‌</string>
+  <string name="incall_talkback_speaker_on">, ಆನ್ ಆಗಿದೆ</string>
+  <string name="incall_talkback_speaker_off">, ಆಫ್ ಆಗಿದೆ</string>
+  <string name="incall_label_merge">ವಿಲೀನಗೊಳಿಸು</string>
+  <string name="incall_label_manage">ನಿರ್ವಹಿಸು</string>
+  <string name="a11y_description_incall_label_manage_content">ಕರೆದಾತರನ್ನು ನಿರ್ವಹಿಸಿ</string>
+  <string name="incall_label_swap">ಸ್ವ್ಯಾಪ್‌ ಮಾಡು</string>
+  <string name="incall_label_swap_sim">ಸಿಮ್ ಬದಲಾಯಿಸಿ</string>
+  <string name="incall_note_sent">ಟಿಪ್ಪಣಿ ಕಳುಹಿಸಲಾಗಿದೆ</string>
+</resources>

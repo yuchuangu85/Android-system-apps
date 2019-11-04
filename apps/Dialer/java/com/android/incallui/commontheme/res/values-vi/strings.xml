@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Kết thúc cuộc gọi</string>
+  <string name="incall_content_description_muted">Đã tắt tiếng</string>
+  <string name="incall_content_description_unmuted">Đã bật tiếng</string>
+  <string name="incall_content_description_swap_calls">Hoán đổi cuộc gọi</string>
+  <string name="incall_content_description_swap_sim">Đổi SIM</string>
+  <string name="incall_content_description_merge_calls">Hợp nhất cuộc gọi</string>
+  <string name="incall_content_description_earpiece">Tai nghe điện thoại di động</string>
+  <string name="incall_content_description_speaker">Loa</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Tai nghe có dây</string>
+  <string name="incall_content_description_hold">Giữ cuộc gọi</string>
+  <string name="incall_content_description_unhold">Tiếp tục cuộc gọi</string>
+  <string name="incall_content_description_video_on">Bật video</string>
+  <string name="incall_content_description_video_off">Tắt video</string>
+  <string name="incall_content_description_swap_video">Hoán đổi video</string>
+  <string name="incall_label_speaker">Loa</string>
+  <string name="incall_label_audio">Âm báo</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Відэа гэтага чалавека адключана</string>
+  <string name="videocall_remote_video_on">Відэа гэтага чалавека ўключана</string>
+  <string name="videocall_remotely_held">Выклік на ўтрыманні</string>
+  <string name="videocall_remotely_resumed">Выклік адноўлены</string>
+  <string name="videocall_charges_alert_dialog_description">Для відэавыклікаў праз мабільную сетку выкарыстоўваецца як трафік для перадачы даных, так і хвіліны для галасавой сувязі. Можа спаганяцца аплата.</string>
+  <string name="do_not_show_again">Больш не паказваць</string>
+</resources>

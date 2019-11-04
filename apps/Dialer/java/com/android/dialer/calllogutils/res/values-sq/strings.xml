@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Telefonatë hyrëse</string>
+  <string name="type_incoming_pulled">Telefonata hyrëse u transferua te një pajisje tjetër</string>
+  <string name="type_outgoing">Telefonatë dalëse</string>
+  <string name="type_outgoing_pulled">Telefonata dalëse u transferua te një pajisje tjetër</string>
+  <string name="type_missed">Telefonatë e humbur</string>
+  <string name="type_incoming_video">Telefonatë hyrëse me video</string>
+  <string name="type_incoming_video_pulled">Telefonata hyrëse me video u transferua te një pajisje tjetër</string>
+  <string name="type_outgoing_video">Telefonatë dalëse me video</string>
+  <string name="type_outgoing_video_pulled">Telefonata dalëse me video u transferua te pajisje tjetër</string>
+  <string name="type_missed_video">Telefonatë me video e humbur</string>
+  <string name="type_voicemail">Posta zanore</string>
+  <string name="type_rejected">Telefonatë e refuzuar</string>
+  <string name="type_blocked">Telefonatë e bllokuar</string>
+  <string name="call_details_minutes_abbreviation">min.</string>
+  <string name="call_details_seconds_abbreviation">sek.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekondë</item>
+    <item quantity="other">sekonda</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minutë</item>
+    <item quantity="other">minuta</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Telefonata mori përgjigje në një pajisje tjetër</string>
+  <string name="description_phone_account">në ^1</string>
+  <string name="description_via_number">nëpërmjet %1$s</string>
+  <string name="description_via_number_phone_account">në %1$s, nëpërmjet %2$s</string>
+  <string name="voicemail_string">Posta zanore</string>
+  <string name="just_now">Pikërisht tani</string>
+  <string name="new_call_log_carrier_video">Video e operatorit celular</string>
+  <string name="new_call_log_duo_video">Video e Duo</string>
+  <string name="new_call_log_unknown">I panjohur</string>
+  <string name="new_call_log_secondary_blocked">Bllokuar</string>
+  <string name="new_call_log_secondary_spam">Postë e bezdisshme</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 telefonatë e humbur nga ^2</item>
+    <item quantity="other">^1 telefonata, e fundit është një telefonatë e humbur nga ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 telefonatë e përgjigjur nga ^2</item>
+    <item quantity="other">^1 telefonata, e fundit është një telefonatë e përgjigjur nga ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 telefonatë dalëse për ^2</item>
+    <item quantity="other">^1 telefonata, e fundit është një telefonatë dalëse për ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 telefonatë e bllokuar nga ^2</item>
+    <item quantity="other">^1 telefonata, e fundit është një telefonatë e bllokuar nga ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">në ^1, nëpërmjet ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

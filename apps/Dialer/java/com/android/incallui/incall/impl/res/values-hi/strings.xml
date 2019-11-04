@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">वीडियो कॉल</string>
+  <string name="incall_label_rttcall">आरटीटी</string>
+  <string name="incall_label_hold">होल्ड करें</string>
+  <string name="incall_label_add_call">कॉल जोड़ें</string>
+  <string name="incall_label_mute">म्यूट करें</string>
+  <string name="incall_label_end_call">कॉल समाप्त करें</string>
+  <string name="incall_label_dialpad">कीपैड</string>
+  <string name="incall_talkback_speaker_on">, चालू है</string>
+  <string name="incall_talkback_speaker_off">, बंद है</string>
+  <string name="incall_label_merge">एक बनाएं</string>
+  <string name="incall_label_manage">प्रबंधित करें</string>
+  <string name="a11y_description_incall_label_manage_content">कॉलर प्रबंधित करें</string>
+  <string name="incall_label_swap">स्वैप करें</string>
+  <string name="incall_label_swap_sim">सिम बदलें</string>
+  <string name="incall_note_sent">नोट भेज दिया गया है</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">مخاطب جدید</string>
+  <string name="dialer_shortcut_add_contact_long">مخاطب جدید</string>
+  <string name="dialer_shortcut_disabled_message">میان‌بر کار نمی‌کند. برای حذف کردن، بکشید.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">مخاطب دیگر در دسترس نیست.</string>
+  <string name="dialer_shortcut_no_permissions">برقراری تماس بدون مجوز ممکن نیست.</string>
+</resources>

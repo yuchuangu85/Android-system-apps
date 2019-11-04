@@ -1,0 +1,21 @@
+# Use these reviewers by default.
+davidln@google.com
+hseog@google.com
+johnchoi@google.com
+kwaky@google.com
+priyanksingh@google.com
+stenning@google.com
+
+# People who can originally approve code for Settings.
+asapperstein@google.com
+asargent@google.com
+dehboxturtle@google.com
+dhnishi@google.com
+dling@google.com
+jackqdyulei@google.com
+mfritze@google.com
+zhfan@google.com
+miket@google.com
+
+# Exempt resource files (because they are in a flat directory and too hard to manage via OWNERS)
+per-file *.xml=*

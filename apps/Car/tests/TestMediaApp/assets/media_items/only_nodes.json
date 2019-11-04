@@ -1,0 +1,50 @@
+{
+  "FLAGS": "browsable",
+  "PLAYABLE_HINT": "LIST",
+  "BROWSABLE_HINT": "GRID",
+
+  "METADATA": {
+    "MEDIA_ID": "only_nodes",
+    "DISPLAY_TITLE": "Only nodes"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "browsable",
+      "METADATA": {
+        "MEDIA_ID": "only_nodes simple_leaves",
+        "DISPLAY_TITLE": "Basic songs",
+        "ART_URI": "drawable/ic_heart_plus_plus"
+      },
+      "INCLUDE":"media_items/simple_leaves.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "LIST",
+      "BROWSABLE_HINT": "LIST",
+      "METADATA": {
+        "MEDIA_ID": "only_nodes advanced",
+        "DISPLAY_TITLE": "Advanced",
+        "ART_URI": "drawable/ic_heart_less_less"
+      },
+      "INCLUDE":"media_items/advanced.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "BROWSABLE_HINT": "LIST",
+      "METADATA": {
+        "MEDIA_ID": "only_nodes rabbit hole",
+        "DISPLAY_TITLE": "Rabbit hole 2"
+      },
+      "INCLUDE":"media_items/mixed.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "METADATA": {
+        "MEDIA_ID": "only_nodes empty node 1",
+        "DISPLAY_TITLE": "Empty node 1"
+      }
+    }
+  ]
+}

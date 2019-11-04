@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"Gaya &amp; kertas dinding"</string>
+    <string name="theme_title" msgid="2144932106319405101">"Gaya"</string>
+    <string name="clock_title" msgid="2126046720254613991">"Jam"</string>
+    <string name="grid_title" msgid="2825094404523390773">"Grid"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"Kertas dinding"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"Gunakan"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"Ketik untuk edit"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"Kekalkan kertas dinding semasa"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"Gunakan"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"Halaman <xliff:g id="ID_1">%1$d</xliff:g> daripada <xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"Seterusnya"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"Sebelumnya"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>, digunakan pada masa ini"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>, digunakan dan dipratonton pada masa ini"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>, dipratonton pada masa ini"</string>
+    <string name="theme_description" msgid="3697012391785254635">"Fon: <xliff:g id="ID_1">%1$s</xliff:g>, ikon: <xliff:g id="ID_2">%2$s</xliff:g>, bentuk: <xliff:g id="ID_3">%3$s</xliff:g>, warna: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"Lalai"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"Fon"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"Ikon"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"Warna"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"Bentuk"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"Kertas dinding"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"Tambahkan fon kegemaran anda pada setiap skrin"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"Gaya digunakan"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"Jam digunakan"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"Terdapat masalah menggunakan gaya"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"Seterusnya"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"Sebelumnya"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"Tersuai <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"Gaya Tersuai"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"Padam"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"Pilih fon"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"Pilih ikon"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"Pilih warna"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"Pilih bentuk"</string>
+    <string name="name_component_title" msgid="532425087968663437">"Namakan gaya anda"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"Ikon <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"Padamkan gaya Tersuai?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"Padam"</string>
+    <string name="cancel" msgid="4651030493668562067">"Batal"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"Tetapkan kertas dinding gaya"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"Sebaliknya, gunakan <xliff:g id="ID_1">%1$s</xliff:g>?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"Komponen yang anda pilih sepadan dengan gaya <xliff:g id="ID_1">%1$s</xliff:g>. Sebaliknya, adakah anda ingin menggunakan <xliff:g id="ID_2">%1$s</xliff:g>?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"Gunakan <xliff:g id="ID_1">%1$s</xliff:g>"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"Tidak perlu"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> pratonton jam"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"Op! Berlaku kesilapan."</string>
+</resources>

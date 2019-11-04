@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">ویڈیو کال</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">ہولڈ کریں</string>
+  <string name="incall_label_add_call">کال شامل کریں</string>
+  <string name="incall_label_mute">خاموش کریں</string>
+  <string name="incall_label_end_call">کال ختم کریں</string>
+  <string name="incall_label_dialpad">کی پیڈ</string>
+  <string name="incall_talkback_speaker_on">، آن ہے</string>
+  <string name="incall_talkback_speaker_off">، آف ہے</string>
+  <string name="incall_label_merge">ضم کریں</string>
+  <string name="incall_label_manage">نظم کریں</string>
+  <string name="a11y_description_incall_label_manage_content">کالرز کا نظم کریں</string>
+  <string name="incall_label_swap">تبادلہ کریں</string>
+  <string name="incall_label_swap_sim">‏SIM تبدیل کریں</string>
+  <string name="incall_note_sent">نوٹ بھیج دیا گیا</string>
+</resources>

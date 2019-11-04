@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Video call</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">I-hold</string>
+  <string name="incall_label_add_call">Mag-add: tawag </string>
+  <string name="incall_label_mute">I-mute</string>
+  <string name="incall_label_end_call">Tapusin ang tawag</string>
+  <string name="incall_label_dialpad">Keypad</string>
+  <string name="incall_talkback_speaker_on">,ay On</string>
+  <string name="incall_talkback_speaker_off">, ay Off</string>
+  <string name="incall_label_merge">I-merge</string>
+  <string name="incall_label_manage">Pamahalaan</string>
+  <string name="a11y_description_incall_label_manage_content">Pamahalaan ang mga tumatawag</string>
+  <string name="incall_label_swap">Pagpalitin</string>
+  <string name="incall_label_swap_sim">Baguhin ang SIM</string>
+  <string name="incall_note_sent">Naipadala ang tala</string>
+</resources>

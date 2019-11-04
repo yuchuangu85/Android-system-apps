@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">कॉल समाप्त करें</string>
+  <string name="incall_content_description_muted">म्यूट किया गया</string>
+  <string name="incall_content_description_unmuted">अनम्यूट किया गया</string>
+  <string name="incall_content_description_swap_calls">कॉल स्वैप करें</string>
+  <string name="incall_content_description_swap_sim">सिम बदलें</string>
+  <string name="incall_content_description_merge_calls">कॉल एक करें</string>
+  <string name="incall_content_description_earpiece">हैंडसेट इयरपीस</string>
+  <string name="incall_content_description_speaker">स्‍पीकर</string>
+  <string name="incall_content_description_bluetooth">ब्लूटूथ</string>
+  <string name="incall_content_description_headset">वायर वाला हैडसेट</string>
+  <string name="incall_content_description_hold">कॉल होल्ड करें</string>
+  <string name="incall_content_description_unhold">कॉल फिर से शुरू करें</string>
+  <string name="incall_content_description_video_on">वीडियो चालू</string>
+  <string name="incall_content_description_video_off">वीडियो बंद</string>
+  <string name="incall_content_description_swap_video">वीडियो स्वैप करें</string>
+  <string name="incall_label_speaker">स्‍पीकर</string>
+  <string name="incall_label_audio">साउंड</string>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Row 1 -->
+    <!-- Put back when voicemail is supported: app:image="@drawable/ic_voicemail" -->
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/one"
+        app:numberText="@string/one"
+        app:letterText="@string/one_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/four"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/two"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/two"
+        app:numberText="@string/two"
+        app:letterText="@string/two_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/five"
+        app:layout_constraintStart_toEndOf="@id/one"
+        app:layout_constraintEnd_toStartOf="@+id/three"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/three"
+        app:numberText="@string/three"
+        app:letterText="@string/three_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintVertical_chainStyle="packed"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/six"
+        app:layout_constraintStart_toEndOf="@id/two"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <!-- Row 2 -->
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/four"
+        app:numberText="@string/four"
+        app:letterText="@string/four_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintTop_toBottomOf="@id/one"
+        app:layout_constraintBottom_toTopOf="@+id/seven"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/five"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/five"
+        app:numberText="@string/five"
+        app:letterText="@string/five_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintTop_toBottomOf="@id/two"
+        app:layout_constraintBottom_toTopOf="@+id/eight"
+        app:layout_constraintStart_toEndOf="@id/four"
+        app:layout_constraintEnd_toStartOf="@+id/six"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/six"
+        app:numberText="@string/six"
+        app:letterText="@string/six_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintTop_toBottomOf="@id/three"
+        app:layout_constraintBottom_toTopOf="@+id/nine"
+        app:layout_constraintStart_toEndOf="@id/five"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+
+    <!-- Row 3 -->
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/seven"
+        app:numberText="@string/seven"
+        app:letterText="@string/seven_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintTop_toBottomOf="@id/four"
+        app:layout_constraintBottom_toTopOf="@+id/star"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/eight"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/eight"
+        app:numberText="@string/eight"
+        app:letterText="@string/eight_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintTop_toBottomOf="@id/five"
+        app:layout_constraintBottom_toTopOf="@+id/zero"
+        app:layout_constraintStart_toEndOf="@id/seven"
+        app:layout_constraintEnd_toStartOf="@+id/nine"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/nine"
+        app:numberText="@string/nine"
+        app:letterText="@string/nine_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintTop_toBottomOf="@id/six"
+        app:layout_constraintBottom_toTopOf="@+id/pound"
+        app:layout_constraintStart_toEndOf="@id/eight"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <!-- Row 4 -->
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/star"
+        app:numberText="@string/star"
+        app:letterText="@string/star_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintTop_toBottomOf="@id/seven"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/zero"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/zero"
+        app:numberText="@string/zero"
+        app:letterText="@string/zero_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintTop_toBottomOf="@id/eight"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/star"
+        app:layout_constraintEnd_toStartOf="@+id/pound"/>
+
+    <com.android.car.dialer.ui.dialpad.KeypadButton
+        android:id="@+id/pound"
+        app:numberText="@string/pound"
+        app:letterText="@string/pound_letters"
+        style="@style/KeypadButtonStyle"
+        app:layout_constraintTop_toBottomOf="@id/nine"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/zero"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <include layout="@layout/keypad_dividers"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

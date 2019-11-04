@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Чтобы отклонить вызов и отправить SMS, проведите пальцем от значка</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Чтобы ответить в режиме голосового вызова, проведите пальцем от значка</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Чтобы ответить и поставить текущий вызов на удержание, проведите по экрану вверх</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Чтобы ответить и завершить вызов на удержании, проведите по экрану вверх</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Чтобы ответить и завершить текущий вызов, проведите пальцем от значка</string>
+  <string name="call_incoming_message_custom">Ваш ответ…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Ваш ответ…</string>
+  <string name="call_incoming_custom_message_cancel">Отмена</string>
+  <string name="call_incoming_custom_message_send">Отправить</string>
+  <string name="a11y_incoming_call_reject_with_sms">Отклонить вызов и отправить SMS</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Ответить в режиме голосового вызова</string>
+  <string name="a11y_incoming_call_answer_and_release">Ответить и завершить текущий вызов</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Отклонить вызов и отправить SMS</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Ответить в режиме голосового вызова</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Ответить и завершить текущий вызов</string>
+  <string name="call_incoming_video_is_off">Камера выключена</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Проведите двумя пальцами по экрану вверх, чтобы ответить, или вниз, чтобы отклонить вызов.</string>
+  <string name="call_incoming_important">Важный звонок</string>
+</resources>

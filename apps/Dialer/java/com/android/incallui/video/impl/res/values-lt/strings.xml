@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Vaizdo kamera išjungta</string>
+  <string name="videocall_remote_video_on">Jų vaizdo įrašas rodomas</string>
+  <string name="videocall_remotely_held">Skambutis sulaikytas</string>
+  <string name="videocall_remotely_resumed">Skambutis tęsiamas</string>
+  <string name="videocall_charges_alert_dialog_description">Vaizdo skambučiams mobiliojo ryšio tinklu gali būti naudojamas duomenų ir balso skambučių planas. Gali būti taikomi mokesčiai.</string>
+  <string name="do_not_show_again">Daugiau nerodyti</string>
+</resources>

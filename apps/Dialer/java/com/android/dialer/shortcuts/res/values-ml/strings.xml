@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">പുതിയ കോണ്‍ടാക്റ്റ്</string>
+  <string name="dialer_shortcut_add_contact_long">പുതിയ കോണ്‍ടാക്റ്റ്</string>
+  <string name="dialer_shortcut_disabled_message">കുറുക്കുവഴി പ്രവർത്തിക്കുന്നില്ല. നീക്കംചെയ്യാൻ, വലിച്ചിടുക.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">കോൺടാക്‌റ്റ് ഇനി ലഭ്യമാകില്ല.</string>
+  <string name="dialer_shortcut_no_permissions">അനുമതികളില്ലാത്തതിനാൽ കോൾ ചെയ്യാനായില്ല.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">الصوت التلقائي (%1$s)</string>
+  <string name="ringtone_silent">بدون</string>
+  <string name="ringtone_unknown">نغمة رنين غير معروفة</string>
+  <string name="activity_not_available">لا يوجد تطبيق لإجراء ذلك على هذا الجهاز</string>
+  <string name="outgoing_wps_warning">‏سيؤدي إجراء مكالمة WPS إلى قطع اتصال مكالماتك الحالية.</string>
+  <string name="dialog_continue">متابعة</string>
+  <string name="camera_privacy_text">تم تفعيل إذن الكاميرا</string>
+</resources>

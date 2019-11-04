@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"နောက်ခံပုံများ"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"နောက်ခံပုံ အမျိုးအစားများ"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"နောက်ခံ သတ်မှတ်ပါ"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"နောက်ခံ သတ်မှတ်နေသည်…"</string>
+    <string name="try_again" msgid="8278874823700921234">"ထပ်စမ်းကြည့်ရန်"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"နောက်ခံ သတ်မှတ်၍မရပါ"</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"နောက်ခံကို ဖွင့်၍မရပါ။ ဤပုံသည် ပျက်နေပါသည် သို့မဟုတ် မရနိင်ပါ။"</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"လက်ရှိတွင် သတ်မှတ်ထားသည်"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"နေ့စဉ် နောက်ခံ"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"ပင်မစာမျက်နှာနှင့် လော့ခ်ချထားချိန် မျက်နှာပြင်"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"ပင်မစာမျက်နှာ"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"လော့ခ်ချထားချိန် မျက်နှာပြင်"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"ပင်မနှင့် လော့ခ်မျက်နှာပြင်"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"နောက်ခံ သတ်မှတ်ပါ"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"ပင်မစာမျက်နှာ"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"လော့ခ်ချထားချိန် မျက်နှာပြင်"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"ပင်မစာမျက်နှာနှင့် လော့ခ်စာမျက်နှာ"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"နောက်ခံပုံကို လှည့်နေသည်"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"ဤနေရာတွင် လက်ရှိနောက်ခံကို ပြသရန်အတွက် <xliff:g id="APP_NAME">%1$s</xliff:g> သည် သင့်စက်၏ သိုလှောင်ခန်းကို အသုံးပြုခွင့်လိုအပ်သည်။"</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"ဤနေရာတွင် လက်ရှိနောက်ခံကို ပြသရန်အတွက် Wallpapers သည် သင့်စက်၏ သိုလှောင်ခန်းကို အသုံးပြုခွင့်လိုအပ်သည်။\n\nဤဆက်တင်ကို ပြောင်းရန် Wallpapers ၏ အက်ပ်အချက်အလက်များထဲရှိ \'ခွင့်ပြုချက်များ\' ဧရိယာသို့ သွားပါ။"</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"အသုံးပြုခွင့်ပေးရန်"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"နောက်ခံများ လှည့်ရန်အတွက် သက်ဝင်နောက်ခံ ဝန်ဆောင်မှု"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"နေ့စဉ် နောက်ခံ"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"ဖွင့်ရန်တို့ပါ"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"နောက်ခံသည် နေ့စဉ်အလိုအလျောက် ပြောင်းပါမည်။ စနစ်ထည့်သွင်းမှုကို အဆုံးသတ်ရန် နောက်လာမည့် မျက်နှာပြင်တွင် &lt;strong&gt;နောက်ခံ သတ်မှတ်ရန်&lt;/strong&gt; ကို တို့ပါ။"</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"နောင်လာမည့် နောက်ခံများကို Wi-Fi ဖြင့်သာ ဒေါင်းလုဒ်လုပ်ပါ"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"ရှေ့ဆက်ရန်"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"ပထမဆုံးနောက်ခံကို ဒေါင်းလုဒ်လုပ်နေသည်…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"ပထမဆုံးနောက်ခံကို ဒေါင်းလုဒ်လုပ်၍ မရပါ။ သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"နောက်ခံသည် နေ့စဉ်အလိုအလျောက် ပြောင်းပါမည်"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"ဆက်တင်များ"</string>
+    <string name="explore" msgid="7468719504199497281">"လေ့လာရန်"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"နောက်လာမည့် နောက်ခံ"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"ဤစက်တွင် နောက်ခံသတ်မှတ်ခြင်းကို ပိတ်ထားသည်"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"သင့်စက် စီမံခန့်ခွဲသူက နောက်ခံသတ်မှတ်ခြင်းကို ပိတ်ထားသည်"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"နောက်ခံ အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"နောက်ခံများကို ကြည့်ရန် \'အင်တာနက်\' ချိတ်ဆက်မှု လိုအပ်ပါသည်။ ချိတ်ဆက်ပြီး ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"လက်ရှိသတ်မှတ်ထားသည့် ပင်မစာမျက်နှာ နောက်ခံပုံသေး"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"လက်ရှိသတ်မှတ်ထားသည့် လော့ခ်ချထားချိန် မျက်နှာပြင် နောက်ခံပုံသေး"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"လက်ရှိသတ်မှတ်ထားသည့် နောက်ခံပုံသေး"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"နောက်ခံပုံသေး"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"ပင်မစာမျက်နှာနောက်ခံကို လေ့လာရန်"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"လော့ခ်ချထားချိန် မျက်နှာပြင် နောက်ခံကို လေ့လာရန်"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"နေ့စဉ်ပင်မစာမျက်နှာနောက်ခံကို ပြန်လည်စတင်ရန်"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"နေ့စဉ်နောက်ခံကို ပြန်လည် စတင်ရန်"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"နေ့စဉ်နောက်ခံကို ပြန်လည်စတင်နေသည်…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"နေ့စဉ် နောက်ခံကို ပြန်လည် စတင်ခြင်း မအောင်မြင်ပါ။ ကွန်ရက်ချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"နောက်ခံအချက်အလက် အကန့်ကို လျှော့ပြရန်"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"နောက်ခံအချက်အလက် အကန့်ကို ချဲ့ပြရန်"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"စက်ပေါ်ရှိ နောက်ခံများ"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"စက်ပေါ်ရှိ"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android နောက်ခံ"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"သက်ဝင်နောက်ခံများ"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"ကျွန်ုပ်၏ ဓာတ်ပုံများ"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"ကျွန်ုပ်၏ ဓာတ်ပုံ"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"နောက်ခံ"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"အက်ပ် ထည့်သွင်းမထားပါ။"</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"အလယ်"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"အလယ်တွင် ဖြတ်ညှိရန်"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"ဆွဲဆန့်ရန်"</string>
+    <string name="preview" msgid="1774602101743861071">"အစမ်းကြည့်ရန်"</string>
+</resources>

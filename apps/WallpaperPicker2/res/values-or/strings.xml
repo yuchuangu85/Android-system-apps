@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"ୱାଲ୍‌ପେପର୍‌"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"ୱାଲ୍‌ପେପର୍ ବର୍ଗଗୁଡ଼ିକ"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"ୱାଲପେପର୍‍ ସେଟ୍ କରନ୍ତୁ"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"ୱାଲପେପର୍‌ ସେଟ୍ ହେଉଛି…"</string>
+    <string name="try_again" msgid="8278874823700921234">"ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"ୱାଲପେପର୍‌ ସେଟ୍ କରିବା ପାଇଁ ଅକ୍ଷମ।"</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"ୱାଲପେପର୍ ଲୋଡ୍ କରିବାରେ ଅସମର୍ଥ। ଇମେଜ୍‌ଟି ନଷ୍ଟ ହୋଇଯାଇଛି କିମ୍ବା ଉପଲବ୍ଧ ନାହିଁ।"</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"ଏହିକ୍ଷଣି ସେଟ୍ ହୋଇଛି"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"ଦୈନିକ ୱାଲପେପର୍"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"ହୋମ୍ ଓ ଲକ୍ ସ୍କ୍ରିନ୍"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"ହୋମ୍‍ ସ୍କ୍ରୀନ୍‍"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"ଲକ୍‌ ସ୍କ୍ରୀନ୍‌"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"ହୋମ୍ ଓ ଲକ୍"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"ୱାଲପେପର୍‍ ସେଟ୍ କରନ୍ତୁ"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"ହୋମ୍‍ ସ୍କ୍ରୀନ୍‍"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"ଲକ୍‌ ସ୍କ୍ରୀନ୍‌"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"ହୋମ୍‌ ସ୍କ୍ରୀନ୍‌ ଏବଂ ଲକ୍‌ ସ୍କ୍ରୀନ୍‌"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"ୱାଲପେପର୍‌ ଇମେଜ୍‌କୁ ଘୂରାଇବା"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"ଏଠାରେ ସାମ୍ପ୍ରତିକ ୱାଲପେପର୍‌କୁ ଦେଖାଇବା ପାଇଁ, <xliff:g id="APP_NAME">%1$s</xliff:g> ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଷ୍ଟୋରେଜ୍‌ର ଆକ୍ସେସ୍ ଆବଶ୍ୟକ।"</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"ଏଠାରେ ସାମ୍ପ୍ରତିକ ୱାଲପେପର୍‌କୁ ଦେଖାଇବା ପାଇଁ, ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଷ୍ଟୋରେଜ୍‌ର ଆକ୍ସେସ୍ ଆବଶ୍ୟକ। \n\n ଏହି ସେଟିଙ୍ଗକୁ ପରିବର୍ତ୍ତନ କରିବା ସକାଶେ ୱାଲପେପର୍‌ର ଆପ୍ ସୂଚନା ଅନୁମତି କ୍ଷେତ୍ରକୁ ଯା’ନ୍ତୁ।"</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"ଆକ୍ସେସ୍‌ର ଅନୁମତି ଦିଅନ୍ତୁ"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"ଘୂରୁଥିବା ୱାଲପେପର୍‌ ପାଇଁ ଲାଇଭ୍ ୱାଲପେପର୍ ସେବା"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"ଦୈନିକ ୱାଲପେପର୍"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"ଚାଲୁ କରିବା ପାଇଁ ଟାପ୍ କରନ୍ତୁ"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"ସ୍ଵଚାଳିତ ଭାବେ ପ୍ରତିଦିନ ୱାଲପେପର୍ ପରିବର୍ତ୍ତନ ହେବ। ସେଟ‍ଅପ୍‍କୁ ସମାପ୍ତ କରିବା ପାଇଁ ପରବର୍ତ୍ତୀ ସ୍କ୍ରୀନ୍‍ରେ ଥିବା &lt;strong&gt;ୱାଲପେପର୍ ସେଟ୍ କରନ୍ତୁ&lt;/strong&gt;ରେ ଟାପ୍ କରନ୍ତୁ।"</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"ଭବିଷ୍ୟତରେ ୱାଲପେପର୍‌କୁ କେବଳ ୱାଇ-ଫାଇ ସାହାଯ୍ୟରେ ଡାଉନଲୋଡ୍ କରନ୍ତୁ"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"ଜାରି ରଖନ୍ତୁ"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"ପ୍ରଥମ ୱାଲପେପର୍ ଡାଉନଲୋଡ୍ ହେଉଛି…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"ପ୍ରଥମ ୱାଲପେପର୍‌କୁ ଡାଉନଲୋଡ୍ କରିବାରେ ଅସମର୍ଥ। ଦୟାକରି ଆପଣଙ୍କର ନେଟୱର୍କ ସେଟିଙ୍ଗକୁ ଯାଞ୍ଚ କରିବା ସହିତ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"ସ୍ଵଚାଳିତ ଭାବେ ପ୍ରତିଦିନ ୱାଲପେପର୍ ପରିବର୍ତ୍ତନ ହେବ"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"ସେଟିଙ୍ଗ"</string>
+    <string name="explore" msgid="7468719504199497281">"ଖୋଜନ୍ତୁ"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"ପରବର୍ତ୍ତୀ ୱାଲପେପର୍"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"ଏହି ଡିଭାଇସ୍‌ରେ ୱାଲପେପର୍‌ର ସେଟିଙ୍ଗକୁ ଅକ୍ଷମ କରାଯାଇଛି"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"ୱାଲପେପର୍‌ର ସେଟିଙ୍ଗକୁ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଆଡମିନିଷ୍ଟ୍ରେଟର୍ ଦ୍ଵାରା ଅକ୍ଷମ କରାଯାଇଛି"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"ୱାଲପେପର୍ ସଫଳତାର ସହ ସେଟ୍ ହୋଇଛି"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"ୱାଲପେପର୍ ଦେଖିବା ପାଇଁ ଗୋଟିଏ ଇଣ୍ଟର୍ନେଟ୍ କନେକ୍ସନ୍ ଆବଶ୍ୟକ। ଦୟାକରି କନେକ୍ଟ କରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"ବର୍ତ୍ତମାନ ହୋମ୍ ସ୍କ୍ରୀନ୍‌ରେ ଥିବା ୱାଲପେପର୍‌ର ଥମ୍ବନେଲ୍‌କୁ ସେଟ୍ କରନ୍ତୁ"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"ବର୍ତ୍ତମାନ ଲକ୍ ସ୍କ୍ରୀନ୍‌ରେ ଥିବା ୱାଲପେପର୍‌ର ଥମ୍ବନେଲ୍‌କୁ ଲକ୍ କରନ୍ତୁ"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"ସାମ୍ପ୍ରତିକ ୱାଲପେପର୍‌ ଥମ୍ବନେଲ୍‌କୁ ସେଟ୍ କରନ୍ତୁ"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"ୱାଲପେପର୍‌ ଥମ୍ବନେଲ୍‌"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"ହୋମ୍ ସ୍କ୍ରୀନ୍ ୱାଲପେପର୍‌କୁ ଏକ୍ସପ୍ଲୋର୍ କରନ୍ତୁ"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"ଲକ୍ ସ୍କ୍ରୀନ୍ ୱାଲପେପର୍‌କୁ ଏକ୍ସପ୍ଲୋର୍ କରନ୍ତୁ"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"ଦୈନିକ ହୋମ୍ ସ୍କ୍ରୀନ୍ ୱାଲପେପର୍‌କୁ ରିଫ୍ରେଶ୍ କରନ୍ତୁ"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"ଦୈନିକ ୱାଲପେପର୍‌କୁ ରିଫ୍ରେଶ୍ କରନ୍ତୁ"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"ଦୈନିକ ୱାଲପେପର୍ ରିଫ୍ରେଶ୍ ହେଉଛି…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"ଦୈନିକ ୱାଲପେପର୍‌କୁ ରିଫ୍ରେଶ କରିବାରେ ବିଫଳ ହୋଇଛି। ଦୟାକରି ଆପଣଙ୍କର ନେଟୱର୍କ କନେକ୍ସନ୍‍କୁ ଯାଞ୍ଚ କରିବା ସହିତ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।"</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"ୱାଲପେପର୍‌ ସୂଚନା ପ୍ୟାନେଲକୁ ସଂକୁଚିତ କରନ୍ତୁ"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"ୱାଲପେପର୍‌ ସୂଚନା ପ୍ୟାନେଲ୍‌‍କୁ ବଢ଼ାନ୍ତୁ"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"ଅନ୍-ଡିଭାଇସ୍ ୱାଲପେପର୍"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"ଡିଭାଇସ୍‌ରେ"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android ୱାଲପେପର୍"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"ଲାଇଭ୍ ୱାଲପେପର୍"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"ମୋ ଫଟୋ"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"ମୋ ଫଟୋ"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"ୱାଲପେପର୍"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"ଆପ୍ ଇନଷ୍ଟଲ୍ ହୋଇନାହିଁ।"</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"କେନ୍ଦ୍ର"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"ସେଣ୍ଟର୍ କ୍ରପ୍"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"ପ୍ରସାରିତ କରନ୍ତୁ"</string>
+    <string name="preview" msgid="1774602101743861071">"ପ୍ରିଭ୍ୟୁ"</string>
+</resources>

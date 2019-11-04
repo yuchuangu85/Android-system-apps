@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">صدای پیش‌فرض (%1$s)</string>
+  <string name="ringtone_silent">هیچ‌کدام</string>
+  <string name="ringtone_unknown">آهنگ زنگ ناشناس</string>
+  <string name="activity_not_available">هیچ برنامه‌ای برای انجام این کار در این دستگاه نصب نیست</string>
+  <string name="outgoing_wps_warning">‏اگر تماس WPS برقرار کنید، تماس فعلی‌تان قطع می‌شود.</string>
+  <string name="dialog_continue">ادامه</string>
+  <string name="camera_privacy_text">مجوز دوربین فعال شد</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">የጥሪ ዝርዝሮች</string>
+  <string name="delete">ሰርዝ</string>
+  <string name="call_details_copy_number">ቁጥር ቅዳ</string>
+  <string name="call_details_edit_number">ከመደወል በፊት ቁጥር አርትዕ ያድርጉ</string>
+  <string name="call_details_report_call_id">ትክክለኛ ያልሆነ ቁጥርን ሪፓርት አድርግ</string>
+  <string name="sent_a_photo">አንድ ፎቶ ተልኳል</string>
+  <string name="received_a_photo">አንድ ፎቶ ደርሷል</string>
+  <string name="message_in_quotes">«%1$s»</string>
+  <string name="report_caller_id_dialog_title">የተሳሳተ ቁጥርን ሪፖርት ያድርጉ</string>
+  <string name="report_caller_id_failed">ቁጥሩን ሪፖርት ማድረግ አልተቻለም</string>
+  <string name="report_caller_id_toast">ቁጥሩ ሪፖርት ተደርጓል</string>
+  <string name="assisted_dialing_country_code_entry">የታገዘ መደወያ፦ ጥቅም ላይ የዋለ የአገር ኮድ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">የታገዘ መደወያ ጥቅም ላይ ውሏል</string>
+  <string name="rtt_transcript_not_available">ወደ ጽሁፍ ግልባጭ የሚኖረው መልዕክት አላላክ ላላቸው ጥሪዎች ብቻ ነው</string>
+  <string name="rtt_transcript_link">ወደ ጽሁፍ ገልብጥ ተመልከት</string>
+</resources>

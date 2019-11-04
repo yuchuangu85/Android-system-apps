@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Vendet në afërsi</string>
+  <string name="search_location_permission">Për të marrë informacionet e kontaktit për vendet në afërsi, lejo qasjen te vendndodhja jote.</string>
+  <string name="nearby_places_allow">Lejo</string>
+  <string name="nearby_places_dismiss">Hiq</string>
+</resources>

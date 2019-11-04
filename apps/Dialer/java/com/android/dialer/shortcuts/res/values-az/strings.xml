@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Yeni kontakt</string>
+  <string name="dialer_shortcut_add_contact_long">Yeni kontakt</string>
+  <string name="dialer_shortcut_disabled_message">Qısayol işləmir. Ləğv etmək üçn sürüşdürün.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakt artıq əlçatan deyil.</string>
+  <string name="dialer_shortcut_no_permissions">İcazə olmadan zəng etmək mümkün deyil.</string>
+</resources>

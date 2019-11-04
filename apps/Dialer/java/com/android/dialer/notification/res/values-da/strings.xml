@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Indgående opkald</string>
+  <string name="notification_channel_ongoing_call">Igangværende opkald</string>
+  <string name="notification_channel_missed_call">Ubesvarede opkald</string>
+  <string name="notification_channel_voicemail">Talebeskeder</string>
+  <string name="notification_channel_misc">Standard</string>
+</resources>

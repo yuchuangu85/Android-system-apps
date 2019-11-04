@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Ringer med %s</string>
+  <string name="incall_calling_on_same_carrier_template">Ringer via samma operatör %s</string>
+  <string name="incall_calling_on_recent_choice_template">Ringer via senaste val %s</string>
+  <string name="incall_connecting">Ringer upp …</string>
+  <string name="incall_connecting_assited_dialed">Ringer med +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Med +%1$s (%2$s) …</string>
+  <string name="incall_transferring">Överför …</string>
+  <string name="incall_video_call_requesting">Videosamtal med operatören …</string>
+  <string name="incall_wifi_video_call_requesting">Videosamtal med Wi-Fi-operatören …</string>
+  <string name="incall_video_call_upgrade_request">Växlar till operatörsvideo …</string>
+  <string name="incall_video_call_request_failed">Det går inte att ansluta</string>
+  <string name="incall_video_call_request_rejected">Samtalet avvisat</string>
+  <string name="incall_video_call_request_timed_out">Samtalets tidsgräns nådd</string>
+  <string name="incall_hanging_up">Lägger på</string>
+  <string name="incall_call_ended">Samtal avslutat</string>
+  <string name="incall_remotely_held">Parkerat</string>
+  <string name="contact_grid_incoming_video_call">Operatörsvideosamtal från</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi-operatörsvideosamtal från</string>
+  <string name="contact_grid_incoming_voice_call">Samtal från</string>
+  <string name="contact_grid_incoming_work_call">Jobbsamtal från</string>
+  <string name="contact_grid_incoming_via_template">Inkommande via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Misstänkt spamsamtal</string>
+  <string name="contact_grid_callback_number">Telefonens nummer: %1$s</string>
+</resources>

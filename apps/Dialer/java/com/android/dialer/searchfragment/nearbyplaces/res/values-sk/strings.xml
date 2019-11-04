@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Miesta v okolí</string>
+  <string name="search_location_permission">Ak chcete získať kontaktné údaje miest vo svojom okolí, povoľte aplikácii prístup k svojej polohe.</string>
+  <string name="nearby_places_allow">Povoliť</string>
+  <string name="nearby_places_dismiss">Zavrieť</string>
+</resources>

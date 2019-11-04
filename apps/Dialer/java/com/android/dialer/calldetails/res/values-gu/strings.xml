@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">કૉલની વિગતો</string>
+  <string name="delete">કાઢી નાખો</string>
+  <string name="call_details_copy_number">નંબર કૉપિ કરો</string>
+  <string name="call_details_edit_number">કૉલ કરતાં પહેલાં નંબર સંપાદિત કરો</string>
+  <string name="call_details_report_call_id">અચોક્કસ નંબરની જાણ કરો</string>
+  <string name="sent_a_photo">એક ફોટો મોકલ્યો</string>
+  <string name="received_a_photo">એક ફોટો પ્રાપ્ત કર્યો</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">ખોટા નંબરની જાણ કરો</string>
+  <string name="report_caller_id_failed">નંબરની જાણ કરી શકાઈ નથી</string>
+  <string name="report_caller_id_toast">નંબરની જાણ કરી</string>
+  <string name="assisted_dialing_country_code_entry">સહાયિત ડાયલિંગ: ઉપયોગ કરેલ દેશ કોડ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">સહાયિત ડાયલિંગનો ઉપયોગ થયો હતો</string>
+  <string name="rtt_transcript_not_available">માત્ર મેસેજિંગ સાથેના કૉલ માટે જ ટ્રાન્સક્રિપ્ટ ઉપલબ્ધ રહે છે</string>
+  <string name="rtt_transcript_link">ટ્રાન્સક્રિપ્ટ જુઓ</string>
+</resources>

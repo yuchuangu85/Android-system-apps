@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">அழைப்பைத் துண்டிக்கும்</string>
+  <string name="incall_content_description_muted">ஒலியடக்கப்பட்டது</string>
+  <string name="incall_content_description_unmuted">ஒலி இயக்கப்பட்டது</string>
+  <string name="incall_content_description_swap_calls">அழைப்புகளை மாற்றும்</string>
+  <string name="incall_content_description_swap_sim">சிம்மை மாற்றும்</string>
+  <string name="incall_content_description_merge_calls">அழைப்புகளை இணைக்கும்</string>
+  <string name="incall_content_description_earpiece">ஹேண்ட்செட் இயர்பீஸ்</string>
+  <string name="incall_content_description_speaker">ஸ்பீக்கர்</string>
+  <string name="incall_content_description_bluetooth">புளூடூத்</string>
+  <string name="incall_content_description_headset">வயருடன்கூடிய ஹெட்செட்</string>
+  <string name="incall_content_description_hold">அழைப்பை ஹோல்டில் வைக்கும்</string>
+  <string name="incall_content_description_unhold">அழைப்பை மீண்டும் தொடங்கும்</string>
+  <string name="incall_content_description_video_on">வீடியோ இயக்கப்பட்டது</string>
+  <string name="incall_content_description_video_off">வீடியோ முடக்கப்பட்டது</string>
+  <string name="incall_content_description_swap_video">வீடியோவிற்கு மாற்றும்</string>
+  <string name="incall_label_speaker">ஸ்பீக்கர்</string>
+  <string name="incall_label_audio">ஒலி</string>
+</resources>

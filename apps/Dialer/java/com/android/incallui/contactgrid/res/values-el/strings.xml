@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Κλήση μέσω %s</string>
+  <string name="incall_calling_on_same_carrier_template">Κλήση στην ίδια εταιρεία κινητής τηλεφωνίας, %s</string>
+  <string name="incall_calling_on_recent_choice_template">Κλήση στην πρόσφατη επιλογή, %s</string>
+  <string name="incall_connecting">Κλήση…</string>
+  <string name="incall_connecting_assited_dialed">Κλήση με χρήση του +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Χρήση +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Μεταφορά…</string>
+  <string name="incall_video_call_requesting">Βιντεοκλήση μέσω εταιρείας κινητής τηλεφωνίας…</string>
+  <string name="incall_wifi_video_call_requesting">Βιντεοκλήση WiFi μέσω εταιρείας κινητής τηλεφωνίας…</string>
+  <string name="incall_video_call_upgrade_request">Αλλαγή σε βιντεοκλήση μέσω εταιρείας κινητής τηλεφωνίας…</string>
+  <string name="incall_video_call_request_failed">Αδυναμία σύνδεσης</string>
+  <string name="incall_video_call_request_rejected">Η κλήση απορρίφθηκε</string>
+  <string name="incall_video_call_request_timed_out">Λήξη χρονικού ορίου κλήσης</string>
+  <string name="incall_hanging_up">Κλείσιμο γραμμής</string>
+  <string name="incall_call_ended">Η κλήση τερματίστηκε</string>
+  <string name="incall_remotely_held">Σε αναμονή</string>
+  <string name="contact_grid_incoming_video_call">Βιντεοκλήση μέσω εταιρείας κινητής τηλεφωνίας από</string>
+  <string name="contact_grid_incoming_wifi_video_call">Βιντεοκλήση WiFi μέσω εταιρείας κινητής τηλεφωνίας από</string>
+  <string name="contact_grid_incoming_voice_call">Κλήση από</string>
+  <string name="contact_grid_incoming_work_call">Κλήση από το γραφείο από</string>
+  <string name="contact_grid_incoming_via_template">Εισερχόμενη κλήση μέσω %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Πιθανώς ανεπιθύμητος</string>
+  <string name="contact_grid_callback_number">Ο αριθμός αυτού του τηλεφώνου: %1$s</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">കോള്‍ അവസാനിപ്പിക്കൂ</string>
+  <string name="incall_content_description_muted">മ്യൂട്ടുചെയ്‌തു</string>
+  <string name="incall_content_description_unmuted">അൺമ്യൂട്ടുചെയ്‌തു</string>
+  <string name="incall_content_description_swap_calls">കോളുകൾ സ്വാപ്പുചെയ്യുക</string>
+  <string name="incall_content_description_swap_sim">സിം മാറ്റുക</string>
+  <string name="incall_content_description_merge_calls">കോളുകൾ ലയിപ്പിക്കുക</string>
+  <string name="incall_content_description_earpiece">ഹാൻഡ്‌സെറ്റ് ഇയർപീസ്</string>
+  <string name="incall_content_description_speaker">സ്പീക്കർ</string>
+  <string name="incall_content_description_bluetooth">ബ്ലൂടൂത്ത്</string>
+  <string name="incall_content_description_headset">വയർ മുഖേന ബന്ധിപ്പിച്ച ഹെഡ്‌സെറ്റ്</string>
+  <string name="incall_content_description_hold">കോൾ ഹോൾഡുചെയ്യുക</string>
+  <string name="incall_content_description_unhold">കോൾ പുനരാരംഭിക്കുക</string>
+  <string name="incall_content_description_video_on">വീഡിയോ ഓണാണ്</string>
+  <string name="incall_content_description_video_off">വീഡിയോ ഓഫാണ്</string>
+  <string name="incall_content_description_swap_video">വീഡിയോ സ്വാപ്പുചെയ്യുക</string>
+  <string name="incall_label_speaker">സ്പീക്കർ</string>
+  <string name="incall_label_audio">ശബ്‌ദം</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_bar_expand_collapse_button" msgid="2901704611804567760">"ปุ่มขยาย/ยุบ"</string>
+    <string name="speed_bump_lockout_message" msgid="4050134640025645838">"จดจ่อกับถนน"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">تماس‌های ورودی</string>
+  <string name="notification_channel_ongoing_call">تماس‌های درحال انجام</string>
+  <string name="notification_channel_missed_call">تماس‌های بی‌پاسخ</string>
+  <string name="notification_channel_voicemail">پست‌های صوتی</string>
+  <string name="notification_channel_misc">پیش‌فرض</string>
+</resources>

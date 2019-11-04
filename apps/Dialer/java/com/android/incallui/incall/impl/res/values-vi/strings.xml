@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Gọi điện video</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Giữ</string>
+  <string name="incall_label_add_call">Thêm cuộc gọi</string>
+  <string name="incall_label_mute">Tắt tiếng</string>
+  <string name="incall_label_end_call">Kết thúc cuộc gọi</string>
+  <string name="incall_label_dialpad">Bàn phím</string>
+  <string name="incall_talkback_speaker_on">, đang bật</string>
+  <string name="incall_talkback_speaker_off">, đang tắt</string>
+  <string name="incall_label_merge">Hợp nhất</string>
+  <string name="incall_label_manage">Quản lý</string>
+  <string name="a11y_description_incall_label_manage_content">Quản lý người gọi</string>
+  <string name="incall_label_swap">Hoán đổi</string>
+  <string name="incall_label_swap_sim">Đổi SIM</string>
+  <string name="incall_note_sent">Đã gửi ghi chú</string>
+</resources>

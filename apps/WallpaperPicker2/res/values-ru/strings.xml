@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Обои"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Категории обоев"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Установить как обои"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Установка обоев…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Повторить"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Не удалось установить обои."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Не удалось загрузить обои. Изображение повреждено или недоступно."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Установлено как обои"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Обои на каждый день"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Главный и заблокированный экраны"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Главный экран"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Заблокированный экран"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Оба экрана"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Установка обоев"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Главный экран"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Заблокированный экран"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Главный экран и заблокированный экран"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Автоматически меняющиеся обои"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Чтобы посмотреть текущие обои здесь, предоставьте приложению \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" доступ к памяти устройства."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Чтобы посмотреть текущие обои здесь, предоставьте приложению \"Обои\" доступ к памяти устройства.\n\nЗакрыть доступ можно, нажав \"Настройки &gt; Приложения &gt; Обои &gt; Разрешения\"."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Предоставить доступ"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Сервис, позволяющий автоматически менять обои"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Обои на каждый день"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Нажмите, чтобы включить"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Обои будут автоматически меняться каждый день. Чтобы завершить настройку, нажмите &lt;strong&gt;Установить как обои&lt;/strong&gt; в следующем окне."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Скачивать новые обои только через Wi-Fi"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Далее"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Скачивание обоев…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Не удалось скачать обои. Проверьте подключение к Интернету и повторите попытку."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Обои будут автоматически меняться каждый день"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Открыть настройки"</string>
+    <string name="explore" msgid="7468719504199497281">"Подробнее"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Следующие обои"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"Менять обои на этом устройстве нельзя."</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Установка обоев отключена администратором устройства"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Обои сохранены."</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Не удалось открыть обои. Подключитесь к Интернету и повторите попытку."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Уменьшенное изображение текущих обоев на главном экране"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Уменьшенное изображение текущих обоев на заблокированном экране"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Уменьшенное изображение текущих обоев"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Уменьшенное изображение обоев"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Узнать больше об обоях на главном экране"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Узнать больше об обоях на заблокированном экране"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Обновить ежедневные обои на главном экране"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Обновить ежедневные обои"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Обновление ежедневных обоев…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Не удалось обновить обои. Проверьте подключение к Интернету и повторите попытку."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Свернуть панель с информацией об обоях"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Развернуть панель с информацией об обоях"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Сохраненные на устройстве"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"На устройстве"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Обои для Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Живые обои"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Мои фото"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"Мое фото"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Обои"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Приложение удалено."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Разместить по центру"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Заполнить"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Растянуть"</string>
+    <string name="preview" msgid="1774602101743861071">"Предварительный просмотр"</string>
+</resources>

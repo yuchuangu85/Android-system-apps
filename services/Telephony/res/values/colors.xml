@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <!-- In-call UI -->
+    <color name="incall_callTypeSip">#99CE3F</color> <!-- green -->
+    <color name="incall_call_banner_background">#A0000000</color> <!-- semitransparent black -->
+    <color name="incall_secondary_info_background">#8033b5e5</color> <!-- semitransparent blueish grey -->
+    <color name="incall_call_banner_text_color">#FFFFFF</color> <!-- white -->
+
+    <!-- DTMF Dialer -->
+    <color name="dtmf_dialer_display_text">#FFFFFF</color> <!-- white -->
+
+    <!-- Color of the theme of the People app -->
+    <color name="people_app_theme_color">#33B5E5</color>
+
+    <!-- Put on top of each photo, implying 80% darker than usual. -->
+    <color name="on_hold_dim_effect">#cc000000</color>
+
+    <!-- Used with some smaller texts in manage conference screen. -->
+    <color name="manage_conference_secondary_text_color">#888888</color>
+
+    <!-- Settings screen should use the same colors as the Dialer -->
+    <color name="phone_settings_background_color">#f5f5f5</color>
+    <!-- Action bar text color.  Ensure this stays in sync with dialer_icon_color in action bar. -->
+    <color name="phone_settings_actionbar_text_color">#5f6368</color>
+    <!-- Background color of action bars.  Ensure this stays in sync with Dialer
+         actionbar_background_color. -->
+    <color name="actionbar_background_color">#ffffff</color>
+    <!-- Dark variant of the action bar color.  Ensure this stays in sync with Dialer version. -->
+    <color name="actionbar_background_color_dark">#ffffff</color>
+    <!-- Color for icons in the actionbar. Ensure this stays in sync with Dialer version. -->
+    <color name="actionbar_icon_color">#ffffff</color>
+
+    <!-- Color for the setting text. -->
+    <color name="setting_primary_color">#333333</color>
+    <!-- Color for the setting description text. -->
+    <color name="setting_secondary_color">#737373</color>
+    <color name="setting_disabled_color">#aaaaaa</color>
+
+    <color name="dialer_dialpad_touch_tint">#330288d1</color>
+    <color name="floating_action_button_touch_tint">#80ffffff</color>
+
+    <!-- Color matches dialer settings light M2 theme.-->
+    <color name="dialer_background_color">#ffffff</color>
+    <color name="dialer_divider_color">#d8d8d8</color>
+    <color name="dialer_primary_text_color">#202124</color>
+    <color name="dialer_secondary_text_color">#5f6368</color>
+
+    <!-- Colors for shortcut view -->
+    <color name="emergency_info_btn_bolder">#40ffffff</color>
+    <color name="emergency_info_btn_background_color">@android:color/transparent</color>
+    <color name="emergency_shortcut_button_background_color">#eae8e9</color>
+    <color name="emergency_shortcut_phone_type_icon_color">#e25142</color>
+    <color name="emergency_shortcut_confirm_button_background_color">#e25142</color>
+    <color name="emergency_shortcut_confirm_phone_type_icon_color">#e25142</color>
+    <color name="emergency_call_icon_color">#3c4043</color>
+    <color name="emergency_dialpad_fab_tint_color">@null</color>
+    <color name="white_70_percent">#b3ffffff</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"ఈ నెట్‌వర్క్‌ని యథావిధిగా ఉపయోగించు"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"ఈ నెట్‌వర్క్‌ని ఉపయోగించవద్దు"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"నెట్‌వర్క్‌కి సైన్ ఇన్ చేయండి"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$sకి సైన్ ఇన్ చేయండి"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"మీరు చేరడానికి ప్రయత్నిస్తున్న నెట్‌వర్క్ భద్రతా సమస్యలను కలిగి ఉంది."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"ఉదాహరణకు, లాగిన్ పేజీ చూపిన సంస్థకు చెందినది కాకపోవచ్చు."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"ఏదేమైనా బ్రౌజర్ ద్వారా కొనసాగించు"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"ఈ సర్టిఫికెట్ విశ్వసనీయ అధికార సంస్థ నుండి కాదు."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"సైట్ యొక్క పేరు సర్టిఫికెట్‌లోని పేరుతో సరిపోలలేదు."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"ఈ సర్టిఫికెట్ గడువు ముగిసింది."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"ఈ సర్టిఫికెట్ ఇప్పటికీ చెల్లదు."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"ఈ సర్టిఫికెట్ చెల్లని తేదీని కలిగి ఉంది."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"ఈ సర్టిఫికెట్ చెల్లుబాటు కాదు."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"తెలియని సర్టిఫికెట్ ఎర్రర్."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"భద్రతా హెచ్చరిక"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"సర్టిఫికెట్‌ని చూడండి"</string>
+    <string name="ok" msgid="6584612582120777209">"సరే"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"చిరునామా:"</string>
+    <string name="page_info" msgid="46593086046896385">"పేజీ సమాచారం"</string>
+</resources>

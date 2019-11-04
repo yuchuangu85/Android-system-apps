@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Móttekin símtöl</string>
+  <string name="notification_channel_ongoing_call">Símtöl í gangi</string>
+  <string name="notification_channel_missed_call">Ósvöruð símtöl</string>
+  <string name="notification_channel_voicemail">Talhólfsskilaboð</string>
+  <string name="notification_channel_misc">Sjálfgefið</string>
+</resources>

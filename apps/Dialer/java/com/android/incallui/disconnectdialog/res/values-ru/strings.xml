@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Включить</string>
+  <string name="video_call_not_available_title">В настоящее время видеовызовы недоступны</string>
+  <string name="video_call_not_available_message">Повторите попытку позже или продолжайте выполнять вызов как голосовой.</string>
+  <string name="voice_call">Начать голосовой вызов</string>
+</resources>

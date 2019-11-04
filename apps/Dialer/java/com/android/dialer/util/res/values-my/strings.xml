@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ပုံသေ အသံ (%1$s)</string>
+  <string name="ringtone_silent">မရှိ</string>
+  <string name="ringtone_unknown">မသိသောမြည်သံ</string>
+  <string name="activity_not_available">ဒီကိရိယာထဲမှာ အဲဒါ့အတွက် app မရှိပါ</string>
+  <string name="outgoing_wps_warning">WPS ခေါ်ဆိုပါက သင့်လက်ရှိခေါ်ဆိုမှု ပြတ်တောက်သွားပါမည်။</string>
+  <string name="dialog_continue">ဆက်လုပ်ရန်</string>
+  <string name="camera_privacy_text">ကင်မရာအသုံးပြုခွင့် ဖွင့်ထားပါသည်</string>
+</resources>

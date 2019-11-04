@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Gelen çağrı</string>
+  <string name="type_incoming_pulled">Gelen çağrı başka bir cihaza aktarıldı</string>
+  <string name="type_outgoing">Giden çağrı</string>
+  <string name="type_outgoing_pulled">Giden çağrı başka bir cihaza aktarıldı</string>
+  <string name="type_missed">Cevapsız çağrı</string>
+  <string name="type_incoming_video">Gelen görüntülü görüşme isteği</string>
+  <string name="type_incoming_video_pulled">Gelen görüntülü görüşme isteği başka bir cihaza aktarıldı</string>
+  <string name="type_outgoing_video">Giden görüntülü görüşme isteği</string>
+  <string name="type_outgoing_video_pulled">Giden görüntülü görüşme isteği başka bir cihaza aktarıldı</string>
+  <string name="type_missed_video">Cevapsız görüntülü görüşme isteği</string>
+  <string name="type_voicemail">Sesli mesaj</string>
+  <string name="type_rejected">Reddedilen çağrı</string>
+  <string name="type_blocked">Engellenen çağrı</string>
+  <string name="call_details_minutes_abbreviation">dk.</string>
+  <string name="call_details_seconds_abbreviation">sn.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">saniye</item>
+    <item quantity="other">saniye</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">dakika</item>
+    <item quantity="other">dakika</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Çağrı başka bir cihazda cevaplandı</string>
+  <string name="description_phone_account">^1 hesabında</string>
+  <string name="description_via_number">%1$s kullanılarak</string>
+  <string name="description_via_number_phone_account">%2$s kullanılarak %1$s hesabında</string>
+  <string name="voicemail_string">Sesli mesaj</string>
+  <string name="just_now">Az önce</string>
+  <string name="new_call_log_carrier_video">Operatör görüntülü görüşmesi</string>
+  <string name="new_call_log_duo_video">Duo görüntülü görüşmesi</string>
+  <string name="new_call_log_unknown">Bilinmeyen</string>
+  <string name="new_call_log_secondary_blocked">Engellenmiş</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 cevapsız arama, arayan: ^2</item>
+    <item quantity="other">^1 arama, son cevapsız arama: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 cevaplanmış arama, arayan: ^2</item>
+    <item quantity="other">^1 arama, son cevaplanmış arama: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 giden arama, aranan: ^2</item>
+    <item quantity="other">^1 arama, son giden arama: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 engellenmiş arama, arayan: ^2</item>
+    <item quantity="other">^1 arama, son engellenmiş arama: ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^2 kullanılarak
+    ^1 hesabında</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

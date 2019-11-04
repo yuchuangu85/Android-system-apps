@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Nende video on välj.</string>
+  <string name="videocall_remote_video_on">Nende video on eetris</string>
+  <string name="videocall_remotely_held">Kõne on ootel</string>
+  <string name="videocall_remotely_resumed">Kõne jätkub</string>
+  <string name="videocall_charges_alert_dialog_description">Mobiilsidevõrgu kaudu tehtud videokõned kasutavad nii andmeside- kui ka kõneminuteid. Rakenduda võivad tasud.</string>
+  <string name="do_not_show_again">Ära enam kuva</string>
+</resources>

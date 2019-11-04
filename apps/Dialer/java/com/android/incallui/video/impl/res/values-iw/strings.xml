@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">הווידאו של הצד השני מושבת</string>
+  <string name="videocall_remote_video_on">הווידאו של הצד השני מופעל</string>
+  <string name="videocall_remotely_held">השיחה הועברה להמתנה</string>
+  <string name="videocall_remotely_resumed">השיחה חודשה</string>
+  <string name="videocall_charges_alert_dialog_description">כשמבצעים שיחות וידאו באמצעות הרשת הסלולרית משתמשים גם בחבילת הגלישה וגם בדקות השיחה. החיוב הוא בהתאם לחבילה הסלולרית שלך.</string>
+  <string name="do_not_show_again">הבנתי, לא צריך להציג את זה שוב</string>
+</resources>

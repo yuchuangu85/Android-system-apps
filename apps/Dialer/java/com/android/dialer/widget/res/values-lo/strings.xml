@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">ຂຽນຂໍ້ຄວາມດ້ວຍຕົນເອງ</string>
+  <string name="toolbar_close">ປິດ</string>
+  <string name="all_contacts_empty">ທ່ານຍັງບໍ່ມີລາຍຊື່ຜູ້ຕິດຕໍ່ເທື່ອ</string>
+  <string name="all_contacts_empty_add_contact_action">ສ້າງລາຍຊື່ຜູ້ຕິດຕໍ່ໃໝ່</string>
+  <string name="permission_single_turn_on">ເປີດໃຊ້</string>
+  <string name="permission_no_contacts">ເພື່ອເບິ່ງລາຍຊື່ຜູ້ຕິດຕໍ່ຂອງທ່ານ, ໃຫ້ເປີດການອະນຸຍາດລາຍຊື່ຜູ້ຕິດຕໍ່ກ່ອນ</string>
+  <string name="add_contact_not_available">ບໍ່ມີແອັບລາຍຊື່ຜູ້ຕິດຕໍ່ທີ່ສາມາດໃຊ້ໄດ້</string>
+</resources>

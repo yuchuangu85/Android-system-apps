@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">ກຳລັງໂທຜ່ານ %s</string>
+  <string name="incall_calling_on_same_carrier_template">ກຳລັງໂທຢູ່ເຄືອຂ່າຍດຽວກັນ %s</string>
+  <string name="incall_calling_on_recent_choice_template">ກຳລັງໂທດ້ວຍຕົວເລືອກຫຼ້າສຸດ %s</string>
+  <string name="incall_connecting">ກຳລັງໂທ…</string>
+  <string name="incall_connecting_assited_dialed">ກຳລັງໂທໂດຍໃຊ້+%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">ໂດຍໃຊ້ +%1$s (%2$s)…</string>
+  <string name="incall_transferring">ກຳລັງໂອນຍ້າຍ…</string>
+  <string name="incall_video_call_requesting">ການໂທວິດີໂອເຄືອຂ່າຍ...</string>
+  <string name="incall_wifi_video_call_requesting">ການໂທວິດີໂອເຄືອຂ່າຍ Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">ກຳລັບສະຫຼັບໄປຫາວິດີໂອເຄືອຂ່າຍ…</string>
+  <string name="incall_video_call_request_failed">ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້</string>
+  <string name="incall_video_call_request_rejected">ສາຍຖືກປະຕິເສດ</string>
+  <string name="incall_video_call_request_timed_out">ການໂທໝົດເວລາ</string>
+  <string name="incall_hanging_up">ກຳລັງວາງສາຍ</string>
+  <string name="incall_call_ended">ວາງສາຍແລ້ວ</string>
+  <string name="incall_remotely_held">ຖືສາຍລໍຖ້າ</string>
+  <string name="contact_grid_incoming_video_call">ການໂທວິດີໂອເຄືອຂ່າຍຈາກ</string>
+  <string name="contact_grid_incoming_wifi_video_call">ການໂທວິດີໂອເຄືອຂ່າຍຈາກ Wi-Fi</string>
+  <string name="contact_grid_incoming_voice_call">ການໂທຈາກ</string>
+  <string name="contact_grid_incoming_work_call">Work call from</string>
+  <string name="contact_grid_incoming_via_template">ສາຍໂທເຂົ້າ​ຈາກ %s</string>
+  <string name="contact_grid_incoming_suspected_spam">ຄາດວ່າເປັນການໂທສະແປມ</string>
+  <string name="contact_grid_callback_number">ເບີຂອງໂທລະສັບໜ່ວຍນີ້: %1$s</string>
+</resources>

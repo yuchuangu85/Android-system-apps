@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Ирж буй дуудлага</string>
+  <string name="notification_channel_ongoing_call">Үргэлжилж буй дуудлага</string>
+  <string name="notification_channel_missed_call">Аваагүй дуудлага</string>
+  <string name="notification_channel_voicemail">Дуут шуудан</string>
+  <string name="notification_channel_misc">Өгөгдмөл</string>
+</resources>

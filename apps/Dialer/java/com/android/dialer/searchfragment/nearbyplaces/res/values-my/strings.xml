@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">အနီးတဝိုက်ရှိ နေရာများ</string>
+  <string name="search_location_permission">သင့်အနီးရှိ နေရာများအတွက် အဆက်အသွယ် အချက်အလက်များ ရရှိရန် သင့်တည်နေရာကို သုံးခွင့်ပြုပါ။</string>
+  <string name="nearby_places_allow">ခွင့်ပြုရန်</string>
+  <string name="nearby_places_dismiss">ပယ်ရန်</string>
+</resources>

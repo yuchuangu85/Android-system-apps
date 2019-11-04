@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">កំពុង​ហៅតាម %s</string>
+  <string name="incall_calling_on_same_carrier_template">កំពុង​ហៅ​ទូរសព្ទ​តាមក្រុមហ៊ុន​សេវា​ទូរសព្ទ %s ដូចគ្នា</string>
+  <string name="incall_calling_on_recent_choice_template">កំពុង​ហៅ​ទូរសព្ទ​លើ​ជម្រើស %s ថ្មីៗ</string>
+  <string name="incall_connecting">កំពុង​ហៅ...</string>
+  <string name="incall_connecting_assited_dialed">កំពុង​ហៅ​ទូរសព្ទ ដោយ​ប្រើប្រាស់ +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">កំពុង​ប្រើប្រាស់ +%1$s (%2$s)…</string>
+  <string name="incall_transferring">កំពុងផ្ទេរ...</string>
+  <string name="incall_video_call_requesting">កំពុង​ហៅជា​វីដេអូ​តាម​ក្រុមហ៊ុន​បម្រើ​សេវា​ទូរសព្ទ...</string>
+  <string name="incall_wifi_video_call_requesting">កំពុង​ហៅ​ជា​វីដេអូ​តាម​ក្រុមហ៊ុន​បម្រើ​សេវា​ទូរសព្ទ​តាម Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">កំពុង​ប្ដូរ​ទៅ​ការហៅ​ជា​វីដេអូ​តាម​ក្រុមហ៊ុន​បម្រើ​សេវា​ទូរសព្ទ…</string>
+  <string name="incall_video_call_request_failed">មិនអាច​ភ្ជាប់​បាន</string>
+  <string name="incall_video_call_request_rejected">បាន​បដិសេធ​ការ​ហៅ</string>
+  <string name="incall_video_call_request_timed_out">ការ​ហៅ​បាន​អស់​ពេល</string>
+  <string name="incall_hanging_up">បញ្ចប់​ការ​សន្ទនា</string>
+  <string name="incall_call_ended">បាន​បញ្ចប់​ការ​ហៅ</string>
+  <string name="incall_remotely_held">កំពុង​រង់ចាំ</string>
+  <string name="contact_grid_incoming_video_call">ការហៅ​ជា​​វីដេអូ​លើ​ក្រុមហ៊ុន​បម្រើ​សេវា​ទូរសព្ទ​ពី</string>
+  <string name="contact_grid_incoming_wifi_video_call">ការហៅ​ជា​វីដេអូ​តាម​ក្រុមហ៊ុន​បម្រើ​សេវា​ទូរសព្ទ​តាម Wi-Fi ពី</string>
+  <string name="contact_grid_incoming_voice_call">ការ​ហៅ​ពី</string>
+  <string name="contact_grid_incoming_work_call">ការ​ហៅ​ការងារ​ពី</string>
+  <string name="contact_grid_incoming_via_template">ការ​ហៅ​ចូល​តាម %s</string>
+  <string name="contact_grid_incoming_suspected_spam">អ្នក​ហៅ​​បន្លំ​ដែល​សង្ស័យ</string>
+  <string name="contact_grid_callback_number">លេខ​ទូរសព្ទ​នេះ៖ %1$s</string>
+</resources>

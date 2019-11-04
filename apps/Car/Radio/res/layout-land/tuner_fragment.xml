@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/dialpad_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/manual_tuner_done_button"
+        app:layout_constraintStart_toStartOf="parent"
+        layout="@layout/tuner_dialpad" />
+
+    <com.android.car.radio.widget.BandSelectorFlat
+        android:id="@+id/manual_tuner_band_selector"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/manual_tuner_channel"
+        app:layout_constraintStart_toEndOf="@+id/dialpad_layout"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/manual_tuner_channel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textColor="@color/manual_tuner_button_text_color"
+        app:layout_constraintBottom_toTopOf="@+id/manual_tuner_done_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/dialpad_layout"
+        app:layout_constraintTop_toBottomOf="@+id/manual_tuner_band_selector" />
+
+    <Button
+        android:id="@+id/manual_tuner_done_button"
+        android:layout_width="@dimen/tune_button_width"
+        android:layout_height="@dimen/tune_button_height"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/dialpad_layout"
+        app:layout_constraintTop_toBottomOf="@+id/manual_tuner_channel"
+        android:textColor="@color/manual_tuner_digit_color"
+        android:textAllCaps="false"
+        android:text="@string/enter_text"
+        android:background="@drawable/manual_tuner_button_background" />
+</androidx.constraintlayout.widget.ConstraintLayout>

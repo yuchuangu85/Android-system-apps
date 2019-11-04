@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Маңайдағы орындар</string>
+  <string name="search_location_permission">Маңайдағы орындардың контакт деректерін алу үшін, орын деректеріңізге кіруге рұқсат беріңіз.</string>
+  <string name="nearby_places_allow">Рұқсат беру</string>
+  <string name="nearby_places_dismiss">Жабу</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Mga detalye ng tawag</string>
+  <string name="delete">I-delete</string>
+  <string name="call_details_copy_number">Kopyahin ang numero</string>
+  <string name="call_details_edit_number">I-edit ang numero bago tumawag</string>
+  <string name="call_details_report_call_id">Iulat ang hindi wastong numero</string>
+  <string name="sent_a_photo">Nagpadala ng larawan</string>
+  <string name="received_a_photo">Nakatanggap ng larawan</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Iulat ang hindi tamang numero</string>
+  <string name="report_caller_id_failed">Hindi maiulat ang numero</string>
+  <string name="report_caller_id_toast">Inulat ang numero</string>
+  <string name="assisted_dialing_country_code_entry">May tulong na pag-dial: Ginamit ang code ng bansa na +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Gumamit ng may tulong na pag-dial</string>
+  <string name="rtt_transcript_not_available">Available lang ang transcript para sa mag tawag na may pagmemensahe</string>
+  <string name="rtt_transcript_link">Tingnan ang transcript</string>
+</resources>

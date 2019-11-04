@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Navegar para trás</string>
+  <string name="description_dialpad_overflow">Mais opções</string>
+  <string name="description_delete_button">retrocesso</string>
+  <string name="description_image_button_plus">mais no teclado</string>
+  <string name="description_voicemail_button">Ligar para correio de voz</string>
+  <string name="description_dial_button">marcar</string>
+  <string name="dialog_voicemail_airplane_mode_message">Para efetuar uma chamada para o correio de voz, desative primeiro o modo de avião.</string>
+  <string name="dialog_voicemail_not_ready_message">Para configurar o correio de voz, aceda a Menu &gt; Definições.</string>
+  <string name="add_2sec_pause">Adicionar pausa de 2 seg.</string>
+  <string name="add_wait">Adicionar espera</string>
+  <string name="dialer_useDtmfDialpad">Utilizar teclado numérico com tons de toque</string>
+  <string name="dialer_returnToInCallScreen">Voltar à chamada em curso</string>
+  <string name="dialer_addAnotherCall">Adic. cham.</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">A carregar a partir do cartão SIM...</string>
+  <string name="simContacts_title">Contactos do cartão SIM</string>
+  <string name="menu_callNumber">Telefonar para %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Impossível efetuar chamadas de emergência através de Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Não é possível ligar para este número</string>
+</resources>

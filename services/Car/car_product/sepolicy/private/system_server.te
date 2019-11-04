@@ -1,0 +1,4 @@
+# Car service in system server can read bootuser device id property
+get_prop(system_server, car_bootuser_prop)
+
+allow system_server carservice_service:service_manager find;

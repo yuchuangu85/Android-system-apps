@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">有効にする</string>
+  <string name="video_call_not_available_title">ビデオハングアウトは現在利用できません</string>
+  <string name="video_call_not_available_message">しばらくしてからもう一度試すか、音声通話で続けてください。</string>
+  <string name="voice_call">音声通話</string>
+</resources>

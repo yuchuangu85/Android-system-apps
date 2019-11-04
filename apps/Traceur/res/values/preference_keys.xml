@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="pref_key_tracing_on">tracing_on</string>
+    <string name="pref_key_tags">current_tags_4</string>
+    <string name="pref_key_apps">all_apps</string>
+    <string name="pref_key_buffer_size">buffer_size</string>
+    <string name="pref_key_long_traces">long_traces</string>
+    <string name="pref_key_max_long_trace_size">max_long_trace_size</string>
+    <string name="pref_key_max_long_trace_duration">max_long_trace_duration</string>
+    <string name="pref_key_quick_setting">quick_setting_enabled</string>
+</resources>

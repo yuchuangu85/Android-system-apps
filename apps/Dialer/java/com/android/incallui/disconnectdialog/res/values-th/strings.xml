@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">เปิดใช้</string>
+  <string name="video_call_not_available_title">วิดีโอคอลไม่พร้อมใช้งานในตอนนี้</string>
+  <string name="video_call_not_available_message">ลองโทรอีกครั้งในภายหลัง หรือโทรด้วยเสียงต่อไป</string>
+  <string name="voice_call">การโทรด้วยเสียง</string>
+</resources>

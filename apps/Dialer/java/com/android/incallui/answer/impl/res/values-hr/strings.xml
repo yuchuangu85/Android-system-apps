@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Prijeđite prstom od ikone da biste odbili poruku</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Prijeđite prstom od ikone da biste prihvatili kao audiopoziv</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Prijeđite prstom prema gore za odgovor na poziv i stavljanje poziva u tijeku na čekanje</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Prijeđite prstom prema gore za odgovor na poziv i prekidanje poziva na čekanju</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Prijeđite prstom od ikone da biste prihvatili poziv i prekinuli poziv u tijeku</string>
+  <string name="call_incoming_message_custom">Napišite vlastiti…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Napišite vlastiti…</string>
+  <string name="call_incoming_custom_message_cancel">Odustani</string>
+  <string name="call_incoming_custom_message_send">Pošalji</string>
+  <string name="a11y_incoming_call_reject_with_sms">Odbijte ovaj poziv porukom</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Prihvatte kao audiopoziv</string>
+  <string name="a11y_incoming_call_answer_and_release">Odgovorite na poziv i prekinite poziv u tijeku</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Odbij pomoću poruke</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Prihvati kao audiopoziv</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Odgovorite na poziv i prekinite poziv u tijeku</string>
+  <string name="call_incoming_video_is_off">Videokamera je isključena</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Prijeđite dvama prstima prema gore za odgovor, a dvama prstima prema dolje za odbijanje.</string>
+  <string name="call_incoming_important">Važno</string>
+</resources>

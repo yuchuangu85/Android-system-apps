@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">โทรผ่าน %s</string>
+  <string name="incall_calling_on_same_carrier_template">กำลังโทรโดยใช้ผู้ให้บริการเดียวกัน%s</string>
+  <string name="incall_calling_on_recent_choice_template">กำลังโทรโดยใช้ตัวเลือกล่าสุด%s</string>
+  <string name="incall_connecting">กำลังโทร…</string>
+  <string name="incall_connecting_assited_dialed">โทรด้วย +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">กำลังใช้ +%1$s (%2$s)…</string>
+  <string name="incall_transferring">กำลังโอน…</string>
+  <string name="incall_video_call_requesting">กำลังโทรวิดีโอคอลผ่านผู้ให้บริการ...</string>
+  <string name="incall_wifi_video_call_requesting">กำลังโทรวิดีโอคอลผ่านผู้ให้บริการ Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">กำลังเปลี่ยนไปเป็นวิดีโอคอลผ่านผู้ให้บริการ…</string>
+  <string name="incall_video_call_request_failed">ไม่สามารถเชื่อมต่อ</string>
+  <string name="incall_video_call_request_rejected">สายถูกปฏิเสธ</string>
+  <string name="incall_video_call_request_timed_out">ไม่มีผู้รับสาย</string>
+  <string name="incall_hanging_up">กำลังวางสาย</string>
+  <string name="incall_call_ended">วางสายแล้ว</string>
+  <string name="incall_remotely_held">พักสาย</string>
+  <string name="contact_grid_incoming_video_call">วิดีโอคอลผ่านผู้ให้บริการจาก</string>
+  <string name="contact_grid_incoming_wifi_video_call">วิดีโอคอลผ่านผู้ให้บริการ Wi-Fi จาก</string>
+  <string name="contact_grid_incoming_voice_call">โทรจาก</string>
+  <string name="contact_grid_incoming_work_call">โทรเรื่องงานจาก</string>
+  <string name="contact_grid_incoming_via_template">สายเรียกเข้าผ่าน %s</string>
+  <string name="contact_grid_incoming_suspected_spam">ผู้โทรที่สงสัยว่าเป็นสแปม</string>
+  <string name="contact_grid_callback_number">หมายเลขโทรศัพท์นี้: %1$s</string>
+</resources>

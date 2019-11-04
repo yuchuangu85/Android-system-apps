@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">მათი ვიდ. გამორთულია</string>
+  <string name="videocall_remote_video_on">მისი ვიდეო ჩართულია</string>
+  <string name="videocall_remotely_held">ზარი მოცდის რეჟიმშია</string>
+  <string name="videocall_remotely_resumed">ზარი განახლდა</string>
+  <string name="videocall_charges_alert_dialog_description">მობილური ქსელის მეშვეობით შესრულებული ვიდეოზარები იყენებს როგორც მობილურ ინტერნეტს, ასევე ხმოვანი ზარის წუთებს. შესაძლოა მოგიწიოთ საფასურის გადახდა.</string>
+  <string name="do_not_show_again">აღარ მაჩვენო</string>
+</resources>

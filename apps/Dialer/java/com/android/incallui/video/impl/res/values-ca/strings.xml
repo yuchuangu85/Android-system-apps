@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Tenen vídeo desactivat</string>
+  <string name="videocall_remote_video_on">Té el vídeo activat</string>
+  <string name="videocall_remotely_held">Trucada en espera</string>
+  <string name="videocall_remotely_resumed">Trucada represa</string>
+  <string name="videocall_charges_alert_dialog_description">Les videotrucades que es fan a través de la xarxa mòbil fan servir tant dades com minuts de veu. És possible que s\'apliquin càrrecs.</string>
+  <string name="do_not_show_again">No ho tornis a mostrar</string>
+</resources>

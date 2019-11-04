@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Ligando via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Usando a mesma operadora para ligar: %s</string>
+  <string name="incall_calling_on_recent_choice_template">Usando a última opção para ligar: %s</string>
+  <string name="incall_connecting">Ligando…</string>
+  <string name="incall_connecting_assited_dialed">Chamada usando +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Usando +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Transferindo…</string>
+  <string name="incall_video_call_requesting">Fazendo videochamada via operadora...</string>
+  <string name="incall_wifi_video_call_requesting">Fazendo videochamada via operadora de Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Alternando para videochamada via operadora…</string>
+  <string name="incall_video_call_request_failed">Não foi possível conectar</string>
+  <string name="incall_video_call_request_rejected">Chamada recusada</string>
+  <string name="incall_video_call_request_timed_out">Chamada expirada</string>
+  <string name="incall_hanging_up">Desligando</string>
+  <string name="incall_call_ended">Chamada encerrada</string>
+  <string name="incall_remotely_held">Em espera</string>
+  <string name="contact_grid_incoming_video_call">Videochamada via operadora feita por</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videochamada via operadora de Wi-Fi feita por</string>
+  <string name="contact_grid_incoming_voice_call">Chamada de</string>
+  <string name="contact_grid_incoming_work_call">Chamada de trabalho de</string>
+  <string name="contact_grid_incoming_via_template">Chamada de %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Autor da chamada suspeito de spam</string>
+  <string name="contact_grid_callback_number">O número deste smartphone: %1$s</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"استخدام هذه الشبكة كما هي"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"عدم استخدام هذه الشبكة"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"تسجيل الدخول إلى الشبكة"</string>
+    <!-- String.format failed for translation -->
+    <!-- no translation found for action_bar_title (2566334512545554724) -->
+    <skip />
+    <string name="ssl_error_warning" msgid="494203210316238046">"الشبكة التي تحاول الانضمام إليها بها مشاكل أمنية."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"على سبيل المثال، قد لا تنتمي صفحة تسجيل الدخول إلى المنظمة المعروضة."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"المتابعة على أي حال عبر المتصفح"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"هذه الشهادة ليست من جهة موثوق بها."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"لا يتطابق اسم الموقع مع الاسم على الشهادة."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"انتهت صلاحية هذه الشهادة."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"هذه الشهادة ليست صالحة بعد."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"تشتمل هذه الشهادة على تاريخ غير صالح."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"هذه الشهادة غير صالحة."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"حدث خطأ غير معروف بالشهادة."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"تحذير أمني"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"عرض الشهادة"</string>
+    <string name="ok" msgid="6584612582120777209">"حسنًا"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"العنوان:"</string>
+    <string name="page_info" msgid="46593086046896385">"معلومات الصفحة"</string>
+</resources>

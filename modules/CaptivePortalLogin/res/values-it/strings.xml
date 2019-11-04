@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Utilizza questa rete così com\'è"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Non utilizzare questa rete"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Accedi alla rete"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Accedi a %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"La rete a cui stai tentando di accedere presenta problemi di sicurezza."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Ad esempio, la pagina di accesso potrebbe non appartenere all\'organizzazione indicata."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Continua comunque dal browser"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Questo certificato non proviene da un\'autorità attendibile."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Il nome del sito non corrisponde al nome nel certificato."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Il certificato è scaduto."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Questo certificato non è ancora valido."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Questo certificato presenta una data non valida."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Questo certificato non è valido."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Errore certificato sconosciuto."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Avviso di sicurezza"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Visualizza certificato"</string>
+    <string name="ok" msgid="6584612582120777209">"OK"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Indirizzo:"</string>
+    <string name="page_info" msgid="46593086046896385">"Informazioni sulla pagina"</string>
+</resources>

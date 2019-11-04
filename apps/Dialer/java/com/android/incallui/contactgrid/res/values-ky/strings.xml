@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s аркылуу чалуу</string>
+  <string name="incall_calling_on_same_carrier_template">Ошол эле %s оператору аркылуу чалынууда</string>
+  <string name="incall_calling_on_recent_choice_template">Акыркы тандалган %s оператору аркылуу чалынууда</string>
+  <string name="incall_connecting">Чалуу...</string>
+  <string name="incall_connecting_assited_dialed">Код аркылуу чалуу +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) колдонулууда…</string>
+  <string name="incall_transferring">Өткөрүлүүдө…</string>
+  <string name="incall_video_call_requesting">Видео чалуулар…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi аркылуу видео режиминде чалууда…</string>
+  <string name="incall_video_call_upgrade_request">Байланыш операторунун видеосуна которулуу…</string>
+  <string name="incall_video_call_request_failed">Ката кетти</string>
+  <string name="incall_video_call_request_rejected">Чалуу четке кагылды</string>
+  <string name="incall_video_call_request_timed_out">Чалуунун күтүү убакыты аяктады</string>
+  <string name="incall_hanging_up">Чалуу аяктоодо</string>
+  <string name="incall_call_ended">Чалуу аяктады</string>
+  <string name="incall_remotely_held">Күтүү режиминде</string>
+  <string name="contact_grid_incoming_video_call">Видео чалуу:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi аркылуу видео чалуу:</string>
+  <string name="contact_grid_incoming_voice_call">Чалып жатат:</string>
+  <string name="contact_grid_incoming_work_call">Иш боюнча чалып жатат:</string>
+  <string name="contact_grid_incoming_via_template">%s аркылуу чалып жатат</string>
+  <string name="contact_grid_incoming_suspected_spam">Спам окшойт</string>
+  <string name="contact_grid_callback_number">Бул телефондун номери: %1$s</string>
+</resources>

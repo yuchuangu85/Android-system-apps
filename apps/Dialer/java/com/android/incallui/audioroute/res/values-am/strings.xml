@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">ብሉቱዝ</string>
+  <string name="audioroute_speaker">ድምፅ ማጉያ</string>
+  <string name="audioroute_phone">ስልክ</string>
+  <string name="audioroute_headset">ባለ ገመድ ማዳመጫ</string>
+</resources>

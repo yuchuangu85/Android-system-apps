@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Maeneo ya karibu</string>
+  <string name="search_location_permission">Ruhusu sehemu yako ifikiwe ili upate maelezo ya anwani kuhusu maeneo yaliyo karibu.</string>
+  <string name="nearby_places_allow">Ruhusu</string>
+  <string name="nearby_places_dismiss">Ondoa</string>
+</resources>

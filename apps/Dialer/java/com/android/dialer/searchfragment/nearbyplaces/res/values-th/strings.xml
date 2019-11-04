@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">สถานที่ใกล้เคียง</string>
+  <string name="search_location_permission">หากต้องการรับข้อมูลติดต่อสำหรับสถานที่ใกล้เคียง โปรดอนุญาตให้เข้าถึงตำแหน่งของคุณได้</string>
+  <string name="nearby_places_allow">อนุญาต</string>
+  <string name="nearby_places_dismiss">ปิด</string>
+</resources>

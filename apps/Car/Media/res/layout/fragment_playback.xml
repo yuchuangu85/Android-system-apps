@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2018, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/playback_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/app_bar_guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="@dimen/appbar_first_row_height"/>
+
+    <Space
+        android:id="@+id/control_bar_first_row_guideline"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/control_bar_height"
+        android:layout_marginBottom="@dimen/control_bar_margin_bottom"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <com.android.car.apps.common.BackgroundImageView
+        android:id="@+id/playback_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <include
+        layout="@layout/scrim_overlay"
+        android:id="@+id/background_scrim"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <FrameLayout
+        android:id="@+id/nav_icon_container"
+        android:layout_width="@dimen/appbar_view_nav_button_width"
+        android:layout_height="@dimen/appbar_first_row_height"
+        android:padding="@dimen/app_switch_widget_icon_padding"
+        android:background="@drawable/appbar_view_icon_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent">
+        <ImageView
+            android:id="@+id/nav_icon"
+            android:layout_width="@dimen/appbar_view_icon_size"
+            android:layout_height="@dimen/appbar_view_icon_size"
+            android:src="@drawable/ic_expand_more"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:tint="@color/appbar_view_icon_tint"/>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/playback_title"
+        style="@style/AppBarTitleStyle"
+        android:text="@string/fragment_playback_title"
+        app:layout_constraintTop_toTopOf="@id/nav_icon_container"
+        app:layout_constraintBottom_toBottomOf="@id/nav_icon_container"
+        app:layout_constraintLeft_toRightOf="@id/nav_icon_container"
+        app:layout_constraintRight_toLeftOf="@+id/queue_button"/>
+
+    <ImageView
+        android:id="@+id/queue_button"
+        android:layout_width="@dimen/appbar_view_icon_touch_target_size"
+        android:layout_height="@dimen/appbar_view_icon_touch_target_size"
+        android:layout_marginEnd="@dimen/playback_queue_button_margin_end"
+        android:src="@drawable/ic_queue_button"
+        android:scaleType="center"
+        android:background="@drawable/appbar_view_icon_background"
+        app:layout_constraintTop_toTopOf="@id/nav_icon_container"
+        app:layout_constraintBottom_toBottomOf="@id/nav_icon_container"
+        app:layout_constraintRight_toLeftOf="@+id/app_icon_container"/>
+
+    <com.android.car.media.common.MediaAppSelectorWidget
+        android:id="@+id/app_icon_container"
+        android:layout_width="@dimen/app_switch_widget_width"
+        android:layout_height="@dimen/appbar_view_icon_touch_target_size"
+        android:padding="@dimen/app_switch_widget_icon_padding"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@drawable/appbar_view_icon_background"
+        app:switchingEnabled="false"
+        app:layout_constraintTop_toTopOf="@id/nav_icon_container"
+        app:layout_constraintBottom_toBottomOf="@id/nav_icon_container"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <include
+        style="@style/MetadataContainerStyle"
+        android:id="@+id/metadata_container"
+        layout="@layout/metadata_normal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/app_bar_guideline"
+        app:layout_constraintBottom_toTopOf="@+id/control_bar_first_row_guideline"/>
+
+    <SeekBar
+        style="@style/SeekBarStyle"
+        android:id="@+id/seek_bar"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:focusable="false"
+        android:layout_marginStart="@dimen/playback_seekbar_margin_x"
+        android:layout_marginEnd="@dimen/playback_seekbar_margin_x"
+        android:paddingEnd="@dimen/playback_seekbar_padding_x"
+        android:paddingStart="@dimen/playback_seekbar_padding_x"
+        android:progressDrawable="@drawable/seekbar_background"
+        android:thumb="@drawable/seekbar_thumb"
+        android:thumbOffset="@dimen/playback_seekbar_thumb_offset"
+        android:splitTrack="false"
+        android:progressTint="@color/progress_bar_highlight"
+        android:progressBackgroundTint="@color/progress_bar_background"
+        android:background="@null"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/metadata_container"
+        app:layout_constraintBottom_toTopOf="@+id/control_bar_first_row_guideline"/>
+
+    <Space
+        android:id="@+id/queue_list_top_constraint"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fragment_playback_queue_overlap_top"
+        app:layout_constraintBottom_toBottomOf="@+id/app_bar_guideline"/>
+
+    <Space
+        android:id="@+id/queue_list_bottom_constraint"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/fragment_playback_queue_overlap_bottom"
+        app:layout_constraintTop_toTopOf="@+id/control_bar_first_row_guideline"/>
+
+    <!-- The queue_container is a workaround for a bug in PagedRecyclerView (b/136669451). -->
+    <RelativeLayout
+        android:id="@+id/queue_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="@+id/queue_list_top_constraint"
+        app:layout_constraintBottom_toBottomOf="@+id/queue_list_bottom_constraint">
+        <com.android.car.apps.common.widget.PagedRecyclerView
+            android:id="@+id/queue_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:fadeScrollbars="true"
+            android:requiresFadingEdge="vertical"
+            android:fadingEdgeLength="@dimen/queue_fading_edge_length"/>
+    </RelativeLayout>
+
+    <include
+        layout="@layout/scrim_overlay"
+        android:id="@+id/control_bar_scrim"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <com.android.car.media.common.PlaybackControlsActionBar
+        android:id="@+id/playback_controls"
+        style="@style/ControlBar"
+        android:layout_marginHorizontal="@dimen/control_bar_margin_x"
+        android:layout_marginBottom="@dimen/control_bar_margin_bottom"
+        app:columns="5"
+        app:enableOverflow="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

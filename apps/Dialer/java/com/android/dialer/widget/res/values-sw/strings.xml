@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Andika ujumbe maalum</string>
+  <string name="toolbar_close">Funga</string>
+  <string name="all_contacts_empty">Bado huna anwani zozote</string>
+  <string name="all_contacts_empty_add_contact_action">Ongeza anwani mpya</string>
+  <string name="permission_single_turn_on">Washa</string>
+  <string name="permission_no_contacts">Ili uone anwani zako, washa ruhusa ya Anwani.</string>
+  <string name="add_contact_not_available">Hakuna programu ya anwani iliyopatikana</string>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="?android:colorPrimary">
+    <include layout="@layout/section_header"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/content_section"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.android.customization.widget.PreviewPager
+                android:id="@+id/grid_preview_pager"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/preview_pager_background"
+                app:card_style="screen_aspect_ratio"
+                app:layout_constrainedHeight="true"
+                app:layout_constraintBottom_toTopOf="@id/options_container"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHeight_max="@dimen/preview_pager_max_height"
+                app:layout_constraintHeight_min="@dimen/preview_pager_min_height"
+                app:layout_constraintVertical_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_chainStyle="spread_inside"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/options_container"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/options_container_height"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                app:layout_constraintBottom_toTopOf="@id/placeholder"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/grid_preview_pager"
+                app:layout_constraintVertical_bias="1.0"/>
+
+            <Space
+                android:id="@+id/placeholder"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/min_taptarget_height"
+                app:layout_constraintBottom_toTopOf="@id/apply_button"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/options_container"
+                app:layout_constraintVertical_bias="1.0"/>
+
+            <Button
+                android:id="@+id/apply_button"
+                style="@style/ActionPrimaryButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="10dp"
+                android:layout_marginVertical="10dp"
+                android:layout_weight="1"
+                android:text="@string/apply_theme_btn"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.core.widget.ContentLoadingProgressBar
+            android:id="@+id/loading_indicator"
+            style="@android:style/Widget.DeviceDefault.ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:layout_gravity="center_horizontal|top"
+            android:indeterminate="true"/>
+        <FrameLayout
+            android:id="@+id/error_section"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+            <TextView
+                android:id="@+id/error_message"
+                style="@style/HeaderTextAppearance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:text="@string/something_went_wrong"/>
+        </FrameLayout>
+    </FrameLayout>
+</LinearLayout>

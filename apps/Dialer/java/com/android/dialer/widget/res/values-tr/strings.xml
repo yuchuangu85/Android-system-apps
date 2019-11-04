@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Özel bir mesaj yazın</string>
+  <string name="toolbar_close">Kapat</string>
+  <string name="all_contacts_empty">Henüz hiç kişiniz yok</string>
+  <string name="all_contacts_empty_add_contact_action">Yeni kişi oluştur</string>
+  <string name="permission_single_turn_on">Etkinleştir</string>
+  <string name="permission_no_contacts">Kişilerinizi görmek için Kişiler iznini etkinleştirin.</string>
+  <string name="add_contact_not_available">Kullanılabilir kişi uygulaması yok</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Standardklingelton (%1$s)</string>
+  <string name="ringtone_silent">Ohne</string>
+  <string name="ringtone_unknown">Unbekannter Klingelton</string>
+  <string name="activity_not_available">Keine entsprechende App auf diesem Gerät</string>
+  <string name="outgoing_wps_warning">Wenn du jetzt einen Anruf über WPS tätigst, wird deine bestehende Verbindung getrennt.</string>
+  <string name="dialog_continue">Weiter</string>
+  <string name="camera_privacy_text">Berechtigung für Kamera aktiviert</string>
+</resources>

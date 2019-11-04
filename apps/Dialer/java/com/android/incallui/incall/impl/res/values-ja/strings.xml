@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">ビデオ通話</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">保留</string>
+  <string name="incall_label_add_call">通話を追加</string>
+  <string name="incall_label_mute">ミュート</string>
+  <string name="incall_label_end_call">通話を終了</string>
+  <string name="incall_label_dialpad">キーパッド</string>
+  <string name="incall_talkback_speaker_on">がオンです</string>
+  <string name="incall_talkback_speaker_off">がオフです</string>
+  <string name="incall_label_merge">統合</string>
+  <string name="incall_label_manage">管理</string>
+  <string name="a11y_description_incall_label_manage_content">発信者を管理</string>
+  <string name="incall_label_swap">切り替え</string>
+  <string name="incall_label_swap_sim">SIM を変更</string>
+  <string name="incall_note_sent">メモを送信しました</string>
+</resources>

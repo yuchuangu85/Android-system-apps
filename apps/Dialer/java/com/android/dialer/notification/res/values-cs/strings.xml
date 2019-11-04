@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Příchozí hovory</string>
+  <string name="notification_channel_ongoing_call">Probíhající hovory</string>
+  <string name="notification_channel_missed_call">Zmeškané hovory</string>
+  <string name="notification_channel_voicemail">Hlasové zprávy</string>
+  <string name="notification_channel_misc">Výchozí</string>
+</resources>

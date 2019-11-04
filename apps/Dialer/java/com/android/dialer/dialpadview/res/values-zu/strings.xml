@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Zulazula uye emuva</string>
+  <string name="description_dialpad_overflow">Izinketho eziningi</string>
+  <string name="description_delete_button">i-backspace</string>
+  <string name="description_image_button_plus">ukudayela kwe-plus</string>
+  <string name="description_voicemail_button">shayela ivoyisimeyili</string>
+  <string name="description_dial_button">dayela</string>
+  <string name="dialog_voicemail_airplane_mode_message">Ukushayela i-voicemail, vala kuqala imodi Yendiza.</string>
+  <string name="dialog_voicemail_not_ready_message">Ukuya emyalezweni wephimbo, yana ezisethweni &gt; zemenyu.</string>
+  <string name="add_2sec_pause">Faka ukumisa okwesikhashana kwamasekhondi angu-2</string>
+  <string name="add_wait">Yengeza ukulinda</string>
+  <string name="dialer_useDtmfDialpad">Sebenzisa ikhiphedi yethoni yokuthinta</string>
+  <string name="dialer_returnToInCallScreen">Buyela kukholi eqhubekayo</string>
+  <string name="dialer_addAnotherCall">Engeza ikholi</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Ilayisha kusuka ekhadini le-SIM...</string>
+  <string name="simContacts_title">Othintana nabo bekhadi le-SIM</string>
+  <string name="menu_callNumber">Shayela %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Ayikwazi ukwenza amakholi aphuthumayo nge-Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Ayikwazi ukushayela le nombolo</string>
+</resources>

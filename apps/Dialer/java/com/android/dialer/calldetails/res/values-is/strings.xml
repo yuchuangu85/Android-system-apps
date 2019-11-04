@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Símtalsupplýsingar</string>
+  <string name="delete">Eyða</string>
+  <string name="call_details_copy_number">Afrita númer</string>
+  <string name="call_details_edit_number">Breyta númeri áður en hringt er</string>
+  <string name="call_details_report_call_id">Tilkynna rangt númer</string>
+  <string name="sent_a_photo">Sendi mynd</string>
+  <string name="received_a_photo">Tók á móti mynd</string>
+  <string name="message_in_quotes">„%1$s“</string>
+  <string name="report_caller_id_dialog_title">Tilkynna rangt númer</string>
+  <string name="report_caller_id_failed">Ekki tókst að tilkynna númerið</string>
+  <string name="report_caller_id_toast">Númer tilkynnt</string>
+  <string name="assisted_dialing_country_code_entry">Aðstoð við hringingar: Landskóði notaður: +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Aðstoð við hringingar var notuð</string>
+  <string name="rtt_transcript_not_available">Textauppskrift er aðeins í boði fyrir símtöl með skilaboðum</string>
+  <string name="rtt_transcript_link">Sjá textauppskrift</string>
+</resources>

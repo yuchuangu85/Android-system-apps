@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">இயக்கு</string>
+  <string name="video_call_not_available_title">தற்போது வீடியோவில் அழைக்க முடியாது</string>
+  <string name="video_call_not_available_message">பிறகு அழைக்க முயற்சிக்கவும் அல்லது குரல் அழைப்பைச் செய்யவும்.</string>
+  <string name="voice_call">குரல் அழைப்பு</string>
+</resources>

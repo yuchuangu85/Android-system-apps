@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Styles for chassis tab view -->
+    <style name="ChassisTabItemText">
+        <item name="android:textAppearance">@style/TextAppearance.Body3</item>
+        <item name="android:textColor">@color/chassis_tab_item_selector</item>
+        <item name="android:layout_width">@dimen/chassis_tab_width</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="ChassisTabItemIcon">
+        <item name="android:layout_width">@dimen/chassis_tab_icon_size</item>
+        <item name="android:layout_height">@dimen/chassis_tab_icon_size</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:tint">@color/chassis_tab_item_selector</item>
+        <item name="android:tintMode">src_in</item>
+    </style>
+
+    <style name="ChassisTabItemBackground">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+
+    <style name="ChassisToolbarTitleStyle">
+        <item name="android:textAppearance">@style/TextAppearance.Body1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginStart">@dimen/chassis_toolbar_view_title_margin_start</item>
+    </style>
+
+    <style name="ChassisToolbarContainerStyle"/>
+
+    <style name="ChassisToolbarRowSeparatorStyle">
+        <item name="android:layout_width">match_parent</item>
+        <!-- can't use 0dp or the constraintlayout effect kicks in -->
+        <item name="android:layout_height">0.01dp</item>
+    </style>
+
+    <style name="ChassisToolbarBottomStyle">
+        <item name="android:layout_width">match_parent</item>
+        <!-- can't use 0dp or the constraintlayout effect kicks in -->
+        <item name="android:layout_height">0.01dp</item>
+    </style>
+
+    <style name="ChassisToolbarNavIconContainerStyle">
+        <item name="android:layout_width">@dimen/chassis_toolbar_view_nav_button_width</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+    </style>
+
+    <style name="ChassisToolbarNavIconStyle">
+        <item name="android:layout_width">@dimen/chassis_toolbar_view_icon_size</item>
+        <item name="android:layout_height">@dimen/chassis_toolbar_view_icon_size</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:src">@drawable/ic_arrow_back</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="ChassisToolbarLogoStyle">
+        <item name="android:layout_width">@dimen/chassis_toolbar_view_icon_size</item>
+        <item name="android:layout_height">@dimen/chassis_toolbar_view_icon_size</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:scaleType">fitXY</item>
+    </style>
+
+    <style name="TextAppearance">
+        <item name="android:fontFamily">roboto-regular</item>
+        <item name="android:textColor">@color/primary_text_color</item>
+    </style>
+
+    <style name="TextAppearance.Body1" parent="TextAppearance">
+        <item name="android:textSize">32sp</item>
+        <item name="android:letterSpacing">@dimen/letter_spacing_body1</item>
+    </style>
+
+    <style name="TextAppearance.Body3" parent="TextAppearance">
+        <item name="android:textSize">24sp</item>
+        <item name="android:letterSpacing">@dimen/letter_spacing_body3</item>
+    </style>
+
+</resources>

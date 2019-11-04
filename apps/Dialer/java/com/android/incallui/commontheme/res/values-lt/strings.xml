@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Baigti skambutį</string>
+  <string name="incall_content_description_muted">Nutildyta</string>
+  <string name="incall_content_description_unmuted">Garsas įjungtas</string>
+  <string name="incall_content_description_swap_calls">Sukeisti skambučius</string>
+  <string name="incall_content_description_swap_sim">Pakeisti SIM kortelę</string>
+  <string name="incall_content_description_merge_calls">Sujungti skambučius</string>
+  <string name="incall_content_description_earpiece">Telefono garsiakalbis prie ausies</string>
+  <string name="incall_content_description_speaker">Garsiakalbis</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Laidinės ausinės</string>
+  <string name="incall_content_description_hold">Sulaikyti skambutį</string>
+  <string name="incall_content_description_unhold">Tęsti skambutį</string>
+  <string name="incall_content_description_video_on">Vaizdas įjungtas</string>
+  <string name="incall_content_description_video_off">Vaizdas išjungtas</string>
+  <string name="incall_content_description_swap_video">Sukeisti vaizdą</string>
+  <string name="incall_label_speaker">Garsiakalbis</string>
+  <string name="incall_label_audio">Garsas</string>
+</resources>

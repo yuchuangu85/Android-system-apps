@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Hívás adatai</string>
+  <string name="delete">Törlés</string>
+  <string name="call_details_copy_number">Szám másolása</string>
+  <string name="call_details_edit_number">Szám szerkesztése hívás előtt</string>
+  <string name="call_details_report_call_id">Pontatlan szám bejelentése</string>
+  <string name="sent_a_photo">Küldött egy fotót</string>
+  <string name="received_a_photo">Kapott egy fotót</string>
+  <string name="message_in_quotes">„%1$s”</string>
+  <string name="report_caller_id_dialog_title">Helytelen szám bejelentése</string>
+  <string name="report_caller_id_failed">Nem sikerült bejelenteni a számot</string>
+  <string name="report_caller_id_toast">Szám bejelentve</string>
+  <string name="assisted_dialing_country_code_entry">Támogatott tárcsázás: Használt országhívószám +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">A támogatott tárcsázás aktív volt</string>
+  <string name="rtt_transcript_not_available">Az átiratok csak az üzenetküldési funkciót is használó hívások esetén állnak rendelkezésre</string>
+  <string name="rtt_transcript_link">Átirat megtekintése</string>
+</resources>

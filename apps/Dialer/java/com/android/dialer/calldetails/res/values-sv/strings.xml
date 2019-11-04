@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Samtalsinformation</string>
+  <string name="delete">Radera</string>
+  <string name="call_details_copy_number">Kopiera nummer</string>
+  <string name="call_details_edit_number">Redigera nummer före samtal</string>
+  <string name="call_details_report_call_id">Rapportera felaktigt nummer</string>
+  <string name="sent_a_photo">Skickade ett foto</string>
+  <string name="received_a_photo">Tog emot ett foto</string>
+  <string name="message_in_quotes">%1$s</string>
+  <string name="report_caller_id_dialog_title">Rapportera felaktigt nummer</string>
+  <string name="report_caller_id_failed">Det gick inte att rapportera nummer</string>
+  <string name="report_caller_id_toast">Nummer rapporterat</string>
+  <string name="assisted_dialing_country_code_entry">Assisterad uppringning: använd landskod +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Assisterad uppringning användes</string>
+  <string name="rtt_transcript_not_available">Transkription finns endast för samtal med meddelanden</string>
+  <string name="rtt_transcript_link">Visa transkription</string>
+</resources>

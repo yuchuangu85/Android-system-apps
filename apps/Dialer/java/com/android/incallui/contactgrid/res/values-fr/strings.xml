@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Appel via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Appel avec le même opérateur (%s)</string>
+  <string name="incall_calling_on_recent_choice_template">Appel avec l\'opérateur habituel (%s)</string>
+  <string name="incall_connecting">Appel en cours</string>
+  <string name="incall_connecting_assited_dialed">Appel en cours avec l\'indicatif +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Utilisation du préfixe +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Transfert…</string>
+  <string name="incall_video_call_requesting">Appels vidéo via l\'opérateur…</string>
+  <string name="incall_wifi_video_call_requesting">Appel vidéo Wi-Fi via l\'opérateur…</string>
+  <string name="incall_video_call_upgrade_request">Conversion de l\'appel audio en appel vidéo…</string>
+  <string name="incall_video_call_request_failed">Impossible de se connecter</string>
+  <string name="incall_video_call_request_rejected">Appel refusé</string>
+  <string name="incall_video_call_request_timed_out">Le délai d\'établissement de la communication a expiré.</string>
+  <string name="incall_hanging_up">Fin de l\'appel...</string>
+  <string name="incall_call_ended">Appel terminé</string>
+  <string name="incall_remotely_held">En attente</string>
+  <string name="contact_grid_incoming_video_call">Appel vidéo (via l\'opérateur) de</string>
+  <string name="contact_grid_incoming_wifi_video_call">Appel vidéo Wi-Fi (via l\'opérateur) de</string>
+  <string name="contact_grid_incoming_voice_call">Appel de</string>
+  <string name="contact_grid_incoming_work_call">Appel professionnel de</string>
+  <string name="contact_grid_incoming_via_template">Appel entrant via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Appel indésirable suspecté</string>
+  <string name="contact_grid_callback_number">Numéro de ce téléphone : %1$s</string>
+</resources>

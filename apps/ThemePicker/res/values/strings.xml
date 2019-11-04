@@ -1,0 +1,193 @@
+<!--
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- The name of this application, a theme picker. [CHAR LIMIT=50] -->
+    <string name="app_name">Styles &amp; wallpapers</string>
+
+    <!-- Title of a section of the customization picker where the user can select a Theme for the
+        device. [CHAR LIMIT=15] -->
+    <string name="theme_title">Style</string>
+
+    <!-- Title of a section of the customization picker where the user can select a Clock face.
+        [CHAR LIMIT=15] -->
+    <string name="clock_title">Clock</string>
+
+    <!-- Title of a section of the customization picker where the user can select a Grid size for
+        the home screen. [CHAR LIMIT=15] -->
+    <string name="grid_title">Grid</string>
+
+    <!-- Title of a section of the customization picker where the user can select a Wallpaper.
+        [CHAR LIMIT=19] -->
+    <string name="wallpaper_title">Wallpaper</string>
+
+    <!-- Label for a button that allows the user to apply the currently selected Theme.
+        [CHAR LIMIT=20] -->
+    <string name="apply_theme_btn">Apply</string>
+
+    <!-- Label telling the user they can tap the card to edit the currently selected custom Theme.
+        [CHAR LIMIT=50] -->
+    <string name="edit_custom_theme_lbl">Tap to edit</string>
+
+    <!-- Label for a checkbox to allow the user to use their currently set wallpaper instead of
+        the one bundled with selected Theme [CHAR LIMIT=35]-->
+    <string name="keep_my_wallpaper">Keep current wallpaper</string>
+
+    <!-- Label for a button that allows the user to apply the currently selected customization option.
+        [CHAR LIMIT=20] -->
+    <string name="apply_btn">Apply</string>
+
+    <!-- Accessibility label for paging indicator in theme picker preview [CHAR LIMIT=NONE] -->
+    <string name="accessibility_preview_pager">Page <xliff:g name="current_page" example="1">%1$d</xliff:g> of <xliff:g name="num_pages" example="2">%2$d</xliff:g></string>
+    <!-- Content description of the next button to bring user to the next preview page.[CHAR LIMIT=NONE] -->
+    <string name="next_page_content_description">Next</string>
+    <!-- Content description of the previous button to bring user to the previous preview page. [CHAR LIMIT=NONE] -->
+    <string name="previous_page_content_description">Previous</string>
+
+    <!-- Content description indicating that the selected option is currently applied to the device. [CHAR_LIMIT=NONE] -->
+    <string name="option_applied_description"><xliff:g name="style_name">%1$s</xliff:g>, currently applied</string>
+
+    <!-- Content description indicating that the selected option is currently applied and previewed. [CHAR_LIMIT=NONE] -->
+    <string name="option_applied_previewed_description"><xliff:g name="style_name">%1$s</xliff:g>, currently applied and previewed</string>
+
+    <!-- Content description indicating that the selected option is currently being previewed. [CHAR_LIMIT=NONE] -->
+    <string name="option_previewed_description"><xliff:g name="style_name">%1$s</xliff:g>, currently previewed</string>
+
+    <!-- Sample text used to show a preview of a selected font [CHAR LIMIT=3] -->
+    <string name="theme_font_example" translatable="false">ABC</string>
+
+    <!-- Content description for previewing a style, describing each of their components. [CHAR_LIMIT=NONE] -->
+    <string name="theme_description">Font: <xliff:g name="font_name">%1$s</xliff:g>, icons: <xliff:g name="icon_name">%2$s</xliff:g>, shape: <xliff:g name="shape_name">%3$s</xliff:g>, color: <xliff:g name="color_name">%4$s</xliff:g> </string>
+
+    <!-- Plus sign used to indicate that the user can add a custom theme -->
+
+    <!-- Name for the Android Theme that comes preset with the device [CHAR LIMIT=10]-->
+    <string name="default_theme_title">Default</string>
+
+    <!-- Title of a page that shows the user the preview of a font selection [CHAR_LIMIT=20] -->
+    <string name="preview_name_font">Font</string>
+
+    <!-- Title of a page that shows the user the preview of a set of icons [CHAR_LIMIT=20] -->
+    <string name="preview_name_icon">Icon</string>
+
+    <!-- Title of a page that shows the user the preview of a color [CHAR_LIMIT=20] -->
+    <string name="preview_name_color">Color</string>
+
+    <!-- Title of a page that shows the user the preview of a set of icons' shape [CHAR_LIMIT=20] -->
+    <string name="preview_name_shape">Shape</string>
+
+    <!-- Title of a page that shows the user the preview of a wallpaper associated with a theme [CHAR_LIMIT=20] -->
+    <string name="preview_name_wallpaper">Wallpaper</string>
+
+    <!-- Header sample text used to preview the look of a particular font, we show samples of
+        uppercase and lowercase characters and numbers. [CHAR LIMIT=30] -->
+    <string name="font_card_title">ABC • abc • 123</string>
+
+    <!-- Body text for previewing a font [CHAR LIMIT=160] -->
+    <string name="font_card_body">Add your favorite fonts to every screen</string>
+
+    <!--Title for a grid option, describing the number of columns and rows, eg: 4x4 [CHAR LIMIT=10] -->
+    <string name="grid_title_pattern"><xliff:g name="num_cols" example="1">%1$d</xliff:g>x<xliff:g name="num_rows" example="1">%2$d</xliff:g></string>
+
+    <!-- Message shown when a theme has been applied successfully in the system [CHAR LIMIT=NONE] -->
+    <string name="applied_theme_msg">Style applied</string>
+
+    <!-- Message shown when a clock has been applied successfully in the system [CHAR LIMIT=NONE] -->
+    <string name="applied_clock_msg">Clock applied</string>
+
+    <!-- Message shown when a theme couldn't be applied in the system because of an error
+        [CHAR LIMIT=NONE] -->
+    <string name="apply_theme_error_msg">There was a problem applying the style</string>
+
+    <!-- Label for a button that takes the user to the next step when configuring a custom theme.
+        [CHAR LIMIT=20] -->
+    <string name="custom_theme_next">Next</string>
+
+    <!-- Label for a button that takes the user back to the previous step when configuring a custom theme.
+        [CHAR LIMIT=20] -->
+    <string name="custom_theme_previous">Previous</string>
+
+    <!-- Generic label for one system Style/Theme (combination of fonts/colors/icons) that is
+        defined and customized by the user (note there could be more than one so the label includes
+        a number, eg "Custom 1, Custom 2, etc") [CHAR LIMIT=15] -->
+    <string name="custom_theme_title">Custom <xliff:g name="custom_num" example="1">%1$d</xliff:g></string>
+
+    <!-- Title for a screen that lets the user define their custom system Style/Theme
+        [CHAR LIMIT=30] -->
+    <string name="custom_theme_fragment_title">Custom Style</string>
+
+    <!-- Title of a menu option that removes the custom theme being currently edited
+        [CHAR LIMIT=30] -->
+    <string name="custom_theme_delete">Delete</string>
+
+    <!-- Title of a page allowing the user to choose a font for a custom theme [CHAR LIMIT=40]-->
+    <string name="font_component_title">Choose font</string>
+
+    <!-- Title of a page allowing the user to choose an icon set for a custom theme [CHAR LIMIT=40]-->
+    <string name="icon_component_title">Choose icons</string>
+
+    <!-- Title of a page allowing the user to choose a color for a custom theme [CHAR LIMIT=40]-->
+    <string name="color_component_title">Choose color</string>
+
+    <!-- Title of a page allowing the user to choose an icon shape for a custom theme [CHAR LIMIT=40]-->
+    <string name="shape_component_title">Choose shape</string>
+
+    <!-- Title of a page allowing the user to set a name for a custom theme [CHAR LIMIT=40]-->
+    <string name="name_component_title">Name your style</string>
+
+    <!-- Title of a set of icons that the user can chose for their custom style (eg, "Icons 2") -->
+    <string name="icon_component_label">Icons <xliff:g name="component_number" example="1">%1$d</xliff:g></string>
+
+    <string name="font_component_option_thumbnail" translatable="false">Aa</string>
+
+    <!-- Dialog box asking the user to confirm if they want to delete the current custom style
+        [CHAR_LIMIT=NONE] -->
+    <string name="delete_custom_theme_confirmation">Delete Custom style?</string>
+
+    <!-- Button in a dialog box confirming that the current style will be deleted [CHAR_LIMIT=20] -->
+    <string name="delete_custom_theme_button">Delete</string>
+
+    <!-- Generic label for canceling the current action [CHAR_LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for a dialog which asks the user the destination (home screen, lock screen, both)
+        where to set the theme's bundled image as wallpaper. [CHAR LIMIT=50] -->
+    <string name="set_theme_wallpaper_dialog_message">Set style wallpaper</string>
+
+    <!-- Title for a dialog box asking the user to use an existing, equivalent theme (style) instead
+        of their customly defined one. [CHAR_LIMIT=30] -->
+    <string name="use_style_instead_title">Use <xliff:g name="style_name">%1$s</xliff:g> instead?</string>
+
+    <!-- Body for a dialog box asking the user to use an existing, equivalent theme (style) instead
+        of their customly defined one. [CHAR_LIMIT=NONE] -->
+    <string name="use_style_instead_body">The components you chose match the <xliff:g name="style_name">%1$s</xliff:g> style. Do you want to use <xliff:g name="style_name">%1$s</xliff:g> instead?</string>
+
+    <!-- Label for a button in the dialog box that asks the user to use an existing, theme (style)
+        instead of their customly defined one. The button let's the user use the suggested theme
+        [CHAR_LIMIT=16] -->
+    <string name="use_style_button">Use <xliff:g name="style_name">%1$s</xliff:g></string>
+
+    <!-- Label for a button in the dialog box that asks the user to use an existing, theme (style)
+        instead of their customly defined one. The button dismisses the dialog and goes back to the
+        previous screen. [CHAR_LIMIT=16]  -->
+    <string name="no_thanks">No, thanks</string>
+
+    <!-- Content description for a screen showing the preview of a clock face. [CHAR_LIMIT=NONE] -->
+    <string name="clock_preview_content_description"><xliff:g name="clock_name">%1$s</xliff:g> clock preview</string>
+
+    <!-- Generic error message [CHAR_LIMIT=NONE] -->
+    <string name="something_went_wrong">Oops! Something went wrong.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Видео позив</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">На чекање</string>
+  <string name="incall_label_add_call">Додај позив</string>
+  <string name="incall_label_mute">Искључи звук</string>
+  <string name="incall_label_end_call">Заврши позив</string>
+  <string name="incall_label_dialpad">Тастатура</string>
+  <string name="incall_talkback_speaker_on">, укључен</string>
+  <string name="incall_talkback_speaker_off">, искључен</string>
+  <string name="incall_label_merge">Обједини</string>
+  <string name="incall_label_manage">Управљај</string>
+  <string name="a11y_description_incall_label_manage_content">Управљајте позиваоцима</string>
+  <string name="incall_label_swap">Замени</string>
+  <string name="incall_label_swap_sim">Промени SIM</string>
+  <string name="incall_note_sent">Белешка је послата</string>
+</resources>

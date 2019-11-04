@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Amaitu deia</string>
+  <string name="incall_content_description_muted">Desaktibatuta dago audioa</string>
+  <string name="incall_content_description_unmuted">Aktibatuta dago audioa</string>
+  <string name="incall_content_description_swap_calls">Aldatu deia</string>
+  <string name="incall_content_description_swap_sim">Aldatu SIMa</string>
+  <string name="incall_content_description_merge_calls">Bateratu deiak</string>
+  <string name="incall_content_description_earpiece">Aurikularrak</string>
+  <string name="incall_content_description_speaker">Bozgorailua</string>
+  <string name="incall_content_description_bluetooth">Bluetooth konexioa</string>
+  <string name="incall_content_description_headset">Kabledun entzungailua</string>
+  <string name="incall_content_description_hold">Utzi deia zain</string>
+  <string name="incall_content_description_unhold">Berrekin deiari</string>
+  <string name="incall_content_description_video_on">Aktibatuta dago bideoa</string>
+  <string name="incall_content_description_video_off">Desaktibatuta dago bideoa</string>
+  <string name="incall_content_description_swap_video">Aldatu bideoa</string>
+  <string name="incall_label_speaker">Bozgorailua</string>
+  <string name="incall_label_audio">Soinua</string>
+</resources>

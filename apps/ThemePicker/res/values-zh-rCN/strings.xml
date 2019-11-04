@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"样式和壁纸"</string>
+    <string name="theme_title" msgid="2144932106319405101">"样式"</string>
+    <string name="clock_title" msgid="2126046720254613991">"时钟"</string>
+    <string name="grid_title" msgid="2825094404523390773">"网格"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"壁纸"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"应用"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"点按即可修改"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"保留当前壁纸"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"应用"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"第 <xliff:g id="ID_1">%1$d</xliff:g> 页，共 <xliff:g id="ID_2">%2$d</xliff:g> 页"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"下一页"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"上一页"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>，目前已应用"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>（目前应用及预览的项）"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>（目前预览的项）"</string>
+    <string name="theme_description" msgid="3697012391785254635">"字体：<xliff:g id="ID_1">%1$s</xliff:g>，图标：<xliff:g id="ID_2">%2$s</xliff:g>，形状：<xliff:g id="ID_3">%3$s</xliff:g>，颜色：<xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"默认"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"字体"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"图标"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"颜色"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"形状"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"壁纸"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"将您喜爱的字体应用于每个屏幕上的文字"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"已应用样式"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"已应用时钟"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"应用样式时出现问题"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"下一步"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"上一步"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"自定义 <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"自定义样式"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"删除"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"选择字体"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"选择图标"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"选择颜色"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"选择形状"</string>
+    <string name="name_component_title" msgid="532425087968663437">"为样式命名"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"图标 <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"要删除自定义样式吗？"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"删除"</string>
+    <string name="cancel" msgid="4651030493668562067">"取消"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"设置样式壁纸"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"要改用<xliff:g id="ID_1">%1$s</xliff:g>吗？"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"您选择的组件与<xliff:g id="ID_1">%1$s</xliff:g>样式相匹配。您要改用<xliff:g id="ID_2">%1$s</xliff:g>吗？"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"使用<xliff:g id="ID_1">%1$s</xliff:g>"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"不用了"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g>时钟预览"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"糟糕！遇到了问题。"</string>
+</resources>

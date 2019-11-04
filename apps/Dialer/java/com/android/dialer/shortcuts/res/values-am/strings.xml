@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">አዲስ ዕውቂያ</string>
+  <string name="dialer_shortcut_add_contact_long">አዲስ ዕውቂያ</string>
+  <string name="dialer_shortcut_disabled_message">አቋራጭ እየሰራ አይደለም። ለማስወገድ ይጎትቱ።</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">እውቂያው ከእንግዲህ በኋላ አይገኝም።</string>
+  <string name="dialer_shortcut_no_permissions">ያለ ፍቃዶች መደወል አይቻልም።</string>
+</resources>

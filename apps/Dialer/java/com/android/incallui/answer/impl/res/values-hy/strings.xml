@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Զանգը մերժելու և հաղորդագրություն ուղարկելու համար պատկերակից մատով մի կողմ սահեցրեք</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Պատկերակից մատով մի կողմ սահեցրեք՝ զանգին անջատված տեսախցիկով պատասխանելու համար</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Սահեցրեք վերև՝ պատասխանելու և ընթացիկ զանգը պահելու համար</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Սահեցրեք վերև՝ պատասխանելու և սպասման մեջ գտնվող զանգն ավարտելու համար</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Պատկերակից մատով մի կողմ սահեցրեք՝ պատասխանելու և ընթացիկ զանգն ավարտելու համար</string>
+  <string name="call_incoming_message_custom">Գրեք ձեր պատասխանը…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Գրեք ձեր պատասխանը…</string>
+  <string name="call_incoming_custom_message_cancel">Չեղարկել</string>
+  <string name="call_incoming_custom_message_send">Ուղարկել</string>
+  <string name="a11y_incoming_call_reject_with_sms">Մերժել զանգը՝ ուղարկելով հաղորդագրություն</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Պատասխանել անջատած տեսախցիկով</string>
+  <string name="a11y_incoming_call_answer_and_release">Պատասխանել և ավարտել ընթացիկ զանգը</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Մերժել՝ ուղարկելով հաղորդագրություն</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">պատասխանել անջատված տեսախցիկով</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Պատասխանել և ավարտել ընթացիկ զանգը</string>
+  <string name="call_incoming_video_is_off">Տեսախցիկն անջատած է</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Պատասխանելու համար երկու մատով սահեցրեք վերև, մերժելու համար՝ ներքև:</string>
+  <string name="call_incoming_important">Կարևոր</string>
+</resources>

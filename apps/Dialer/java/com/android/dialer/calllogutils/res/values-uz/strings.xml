@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Kiruvchi chaqiruv</string>
+  <string name="type_incoming_pulled">Kiruvchi chaqiruv boshqa qurilmaga o‘tkazildi</string>
+  <string name="type_outgoing">Chiquvchi chaqiruv</string>
+  <string name="type_outgoing_pulled">Chiquvchi chaqiruv boshqa qurilmaga o‘tkazildi</string>
+  <string name="type_missed">Javobsiz chaqiruv</string>
+  <string name="type_incoming_video">Kiruvchi videochaqiruv</string>
+  <string name="type_incoming_video_pulled">Kiruvchi videochaqiruv boshqa qurilmaga o‘tkazildi</string>
+  <string name="type_outgoing_video">Chiquvchi videochaqiruv</string>
+  <string name="type_outgoing_video_pulled">Chiquvchi videochaqiruv boshqa qurilmaga o‘tkazildi</string>
+  <string name="type_missed_video">Javobsiz video chaqiruv</string>
+  <string name="type_voicemail">Ovozli pochta</string>
+  <string name="type_rejected">Rad etilgan chaqiruv</string>
+  <string name="type_blocked">Bloklangan chaqiruv</string>
+  <string name="call_details_minutes_abbreviation">daq.</string>
+  <string name="call_details_seconds_abbreviation">son.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">soniya</item>
+    <item quantity="other">soniya</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">daqiqa</item>
+    <item quantity="other">daqiqa</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Chaqiruvga boshqa qurilmadan javob berildi</string>
+  <string name="description_phone_account">^1 orqali</string>
+  <string name="description_via_number">%1$s raqami orqali</string>
+  <string name="description_via_number_phone_account">%1$s, %2$s raqami orqali</string>
+  <string name="voicemail_string">Ovozli pochta</string>
+  <string name="just_now">Hozirgina</string>
+  <string name="new_call_log_carrier_video">Operator orqali video chaqiruv</string>
+  <string name="new_call_log_duo_video">Duo orqali video chaqiruv</string>
+  <string name="new_call_log_unknown">Noma’lum raqam</string>
+  <string name="new_call_log_secondary_blocked">Bloklanganlar</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2: ^1 ta javobsiz chaqiruv</item>
+    <item quantity="other">^2: ^1 ta chaqiruv. Oxirgisi javobsiz.</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2: ^1 ta javob berilgan chaqiruv</item>
+    <item quantity="other">^2: ^1 ta chaqiruv. Oxirgisiga javob berildi.</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^2: ^1 ta chiquvchi chaqiruv</item>
+    <item quantity="other">^2: ^1 ta chaqiruv. Oxirigisi chiquvchi.</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2: ^1 ta bloklangan chaqiruv</item>
+    <item quantity="other">^2: ^1 ta chaqiruv. Oxirgisi bloklandi.</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1, ^2 raqami orqali</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

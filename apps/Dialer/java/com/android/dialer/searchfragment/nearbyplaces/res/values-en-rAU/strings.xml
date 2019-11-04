@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Places nearby</string>
+  <string name="search_location_permission">To get contact information for places near you, allow access to your location.</string>
+  <string name="nearby_places_allow">Allow</string>
+  <string name="nearby_places_dismiss">Dismiss</string>
+</resources>

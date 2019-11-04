@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s арқылы қоңырау шалу</string>
+  <string name="incall_calling_on_same_carrier_template">Қоңырау шалушы қолданған %s операторы қолданылуда</string>
+  <string name="incall_calling_on_recent_choice_template">Бірнеше рет таңдалған %s операторы қолданылуда</string>
+  <string name="incall_connecting">Қоңырау шалуда…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) кодымен қоңырау шалу…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) пайдаланылуда…</string>
+  <string name="incall_transferring">Тасымалдануда...</string>
+  <string name="incall_video_call_requesting">Оператор бейне қоңырауы...</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi бейне қоңырауы…</string>
+  <string name="incall_video_call_upgrade_request">Оператор бейне қоңырауына ауысуда…</string>
+  <string name="incall_video_call_request_failed">Қосылу мүмкін емес</string>
+  <string name="incall_video_call_request_rejected">Қоңырау қабылданбады</string>
+  <string name="incall_video_call_request_timed_out">Қоңырау уақыты бітті</string>
+  <string name="incall_hanging_up">Қоңырау аяқталуда</string>
+  <string name="incall_call_ended">Қоңырау аяқталды</string>
+  <string name="incall_remotely_held">Күтуде</string>
+  <string name="contact_grid_incoming_video_call">Оператор бейне қоңырауы:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi бейне қоңырауы:</string>
+  <string name="contact_grid_incoming_voice_call">Қоңырау шалушы:</string>
+  <string name="contact_grid_incoming_work_call">Жұмыстан қоңырау шалушы:</string>
+  <string name="contact_grid_incoming_via_template">%s арқылы кіріс</string>
+  <string name="contact_grid_incoming_suspected_spam">Спам қоңырау шалушы болуы мүмкін</string>
+  <string name="contact_grid_callback_number">Телефон нөмірі: %1$s</string>
+</resources>

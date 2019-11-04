@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Повлечете од иконата за да одбиете со порака</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Повлечете од иконата за да одговорите на аудиоповик</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Повлечете нагоре за да одговорите и да ставите на чекање појдовен повик</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Повлечете нагоре за да одговорите и да завршите повик на чекање</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Повлечете од иконата за да одговорите и да го завршите тековниот повик</string>
+  <string name="call_incoming_message_custom">Напишете сопствен…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Напишете сопствен…</string>
+  <string name="call_incoming_custom_message_cancel">Откажи</string>
+  <string name="call_incoming_custom_message_send">Испрати</string>
+  <string name="a11y_incoming_call_reject_with_sms">Одбијте го повиков со порака</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Одговорете со аудиоповик</string>
+  <string name="a11y_incoming_call_answer_and_release">Одговорете и завршете го тековниот повик</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Одбијте со порака</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Одговорете со аудиоповик</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Одговорете и завршете го тековниот повик</string>
+  <string name="call_incoming_video_is_off">Видеото е исклучено</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Повлечете нагоре со два прста за да одговорите. Повлечете надолу со два прста за да одбиете.</string>
+  <string name="call_incoming_important">Важно</string>
+</resources>

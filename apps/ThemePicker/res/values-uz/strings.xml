@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"Mavzu va fon rasmlari"</string>
+    <string name="theme_title" msgid="2144932106319405101">"Uslub"</string>
+    <string name="clock_title" msgid="2126046720254613991">"Soat"</string>
+    <string name="grid_title" msgid="2825094404523390773">"Jadval"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"Fon rasmi"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"Tatbiq etish"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"Tahrirlash uchun tegining"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"Joriy fon rasmini saqlab qolish"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"Tatbiq etish"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"Sahifa: <xliff:g id="ID_1">%1$d</xliff:g> / <xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"Keyingisi"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"Avvalgisi"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>, hozirda tatbiq etilgan"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>, hozirda tatbiq etilgan va tanishib chiqilgan"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>, tanishib chiqilgan"</string>
+    <string name="theme_description" msgid="3697012391785254635">"Shrifti: <xliff:g id="ID_1">%1$s</xliff:g>, belgilar: <xliff:g id="ID_2">%2$s</xliff:g>, shakli: <xliff:g id="ID_3">%3$s</xliff:g>, rangi: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"Standart"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"Shrift"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"Ikonka"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"Rang"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"Shakl"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"Fon rasmi"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"Sevimli shriftlarni har bir ekranga kiriting"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"Uslub tatbiq etildi"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"Soat tatbiq qilindi"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"Uslubni tatbiq etishda xatolik yuz berdi"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"Keyingisi"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"Avvalgisi"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"Maxsus <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"Boshqa uslub"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"Oʻchirish"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"Shriftni tanlang"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"Ikonkalarni tanlash"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"Rang tanlang"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"Shakl tanlang"</string>
+    <string name="name_component_title" msgid="532425087968663437">"Uslub nomini kiriting"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"Ikonkalar <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"Maxsus uslub oʻchirib tashlansinmi?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"Oʻchirish"</string>
+    <string name="cancel" msgid="4651030493668562067">"Bekor qilish"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"Fon rasmi uslubini sozlash"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"Oʻrniga <xliff:g id="ID_1">%1$s</xliff:g> ishlatilsinmi?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"Siz tanlagan komponentlar <xliff:g id="ID_1">%1$s</xliff:g> stiliga mos. Oʻrniga <xliff:g id="ID_2">%1$s</xliff:g> ishlatilsinmi?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"<xliff:g id="ID_1">%1$s</xliff:g> ishlatish"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"Kerak emas"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> soatiga razm solish"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"Ana xolos! Xatolik yuz berdi."</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sample Location Attribution</string>
+    <string name="textViewAppInfo"></string>
+    <!--
+      - The main screen (and the only one for this app) displays the text to the user regarding
+      - device's location access by Non-Android entities outside the Android framework control.
+      - Each string-array item denotes a separate paragraph.
+    -->
+    <string-array name="textViewAppInfo_Paragraphs">
+        <item>REPLACE THE TEXT BELOW WITH YOUR OWN TEXT EXPLAINING YOUR NON-ANDROID LOCATION ACCESS USE CASE(S).\n\n</item>
+        <item>This service ...\n</item>
+        <item>&lt;explain what your service does here ... &gt;\n\n</item>
+        <item>To allow this service to access your device GPS location, enable location permission at the "Allow all the time" level.\n\n</item>
+        <item><a href="location_attribution_app://learn_more">Learn more</a>\n</item>
+    </string-array>
+    <!-- NOTE: Replace this link with the actual link to your Non-Android service's help web page -->
+    <string name="urlLearnMore" translatable="false">https://support.oem-name-here.com/path/doc</string>
+    <string name="buttonModifyLocationSettings">Modify app location permission</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">받으려면 위로 스와이프하세요.</string>
+  <string name="call_incoming_swipe_to_reject">거부하려면 아래로 스와이프하세요.</string>
+  <string name="a11y_incoming_call_swipe_to_answer">전화를 받으려면 두 손가락을 사용하여 위로 스와이프하고 거부하려면 아래로 스와이프하세요.</string>
+  <string name="call_incoming_will_disconnect">이 전화를 받으면 화상 통화가 종료됩니다.</string>
+  <string name="a11y_call_incoming_decline_description">거부</string>
+  <string name="call_incoming_decline">거부</string>
+  <string name="a11y_call_incoming_answer_description">통화</string>
+  <string name="call_incoming_answer">통화</string>
+</resources>

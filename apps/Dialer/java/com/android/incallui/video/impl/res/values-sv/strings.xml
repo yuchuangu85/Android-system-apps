@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Deras video avstängd</string>
+  <string name="videocall_remote_video_on">Andra partens video är på</string>
+  <string name="videocall_remotely_held">Parkerat samtal</string>
+  <string name="videocall_remotely_resumed">Samtal återupptaget</string>
+  <string name="videocall_charges_alert_dialog_description">Videosamtal via mobilnätverket förbrukar både data och röstminuter. Avgifter kan tillkomma.</string>
+  <string name="do_not_show_again">Visa inte igen</string>
+</resources>

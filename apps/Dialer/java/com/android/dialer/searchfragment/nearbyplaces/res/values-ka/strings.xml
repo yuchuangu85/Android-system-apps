@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">ახლომდებარე ადგილები</string>
+  <string name="search_location_permission">ახლომდებარე ადგილების საკონტაქტო ინფორმაციის მისაღებად დაუშვით წვდომა თქვენს მდებარეობაზე.</string>
+  <string name="nearby_places_allow">დაშვება</string>
+  <string name="nearby_places_dismiss">დახურვა</string>
+</resources>

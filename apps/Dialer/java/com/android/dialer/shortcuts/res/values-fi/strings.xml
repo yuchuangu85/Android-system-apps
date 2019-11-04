@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Uusi yhteystieto</string>
+  <string name="dialer_shortcut_add_contact_long">Uusi yhteystieto</string>
+  <string name="dialer_shortcut_disabled_message">Pikavalinta ei toimi. Poista vetämällä.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Yhteystieto ei ole enää käytettävissä.</string>
+  <string name="dialer_shortcut_no_permissions">Ei voi soittaa ilman käyttöoikeuksia.</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:title="@string/date_and_time_settings_title">
+    <SwitchPreference
+        android:key="@string/pk_auto_datetime_switch"
+        android:summary="@string/date_time_auto_summary"
+        android:title="@string/date_time_auto"
+        settings:controller="com.android.car.settings.datetime.AutoDatetimeTogglePreferenceController"/>
+    <SwitchPreference
+        android:key="@string/pk_auto_timezone_switch"
+        android:summary="@string/zone_auto_summary"
+        android:title="@string/zone_auto"
+        settings:controller="com.android.car.settings.datetime.AutoTimeZoneTogglePreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.datetime.DatePickerFragment"
+        android:key="@string/pk_date_picker_entry"
+        android:title="@string/date_time_set_date"
+        settings:controller="com.android.car.settings.datetime.DatePickerPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.datetime.TimePickerFragment"
+        android:key="@string/pk_time_picker_entry"
+        android:title="@string/date_time_set_time"
+        settings:controller="com.android.car.settings.datetime.TimePickerPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.datetime.TimeZonePickerScreenFragment"
+        android:key="@string/pk_timezone_picker_screen_entry"
+        android:title="@string/date_time_set_timezone"
+        settings:controller="com.android.car.settings.datetime.TimeZonePickerPreferenceController"/>
+    <SwitchPreference
+        android:key="@string/pk_use_24hour_switch"
+        android:title="@string/date_time_24hour"
+        settings:controller="com.android.car.settings.datetime.TimeFormatTogglePreferenceController"/>
+</PreferenceScreen>

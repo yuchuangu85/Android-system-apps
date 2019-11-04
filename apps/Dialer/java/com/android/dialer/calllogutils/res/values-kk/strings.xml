@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Кіріс қоңырау</string>
+  <string name="type_incoming_pulled">Кіріс қоңырау басқа құрылғыға жіберілді</string>
+  <string name="type_outgoing">Шығыс қоңырау</string>
+  <string name="type_outgoing_pulled">Шығыс қоңырау басқа құрылғыға жіберілді</string>
+  <string name="type_missed">Жіберіп алған қоңырау</string>
+  <string name="type_incoming_video">Кіріс бейне қоңырау</string>
+  <string name="type_incoming_video_pulled">Кіріс бейне қоңырау басқа құрылғыға жіберілді</string>
+  <string name="type_outgoing_video">Шығыс бейне қоңырау</string>
+  <string name="type_outgoing_video_pulled">Шығыс бейне қоңырау басқа құрылғыға жіберілді</string>
+  <string name="type_missed_video">Жіберіп алған бейне қоңырау</string>
+  <string name="type_voicemail">Дауыстық хабар</string>
+  <string name="type_rejected">Қабылданбаған қоңырау</string>
+  <string name="type_blocked">Бөгелген қоңырау</string>
+  <string name="call_details_minutes_abbreviation">мин</string>
+  <string name="call_details_seconds_abbreviation">сек</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">секунд</item>
+    <item quantity="other">секунд</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">минут</item>
+    <item quantity="other">минут</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Қоңырау басқа құрылғыдан қабылданды</string>
+  <string name="description_phone_account">^1</string>
+  <string name="description_via_number">%1$s арқылы</string>
+  <string name="description_via_number_phone_account">%1$s, %2$s арқылы</string>
+  <string name="voicemail_string">Дауыстық хабар</string>
+  <string name="just_now">Қазір ғана</string>
+  <string name="new_call_log_carrier_video">Оператор бейне қоңырауы</string>
+  <string name="new_call_log_duo_video">Duo бейне қоңырауы</string>
+  <string name="new_call_log_unknown">Белгісіз</string>
+  <string name="new_call_log_secondary_blocked">Бөгелді</string>
+  <string name="new_call_log_secondary_spam">Спам</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2 шалған ^1 қоңырау</item>
+    <item quantity="other">^1 қоңырау, соңғы ^2 шалған қоңырау қабылданбаған</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2 шалған ^1 қоңырауға жауап берілген</item>
+    <item quantity="other">^1 қоңырау, соңғы ^2 шалған қоңырауға жауап берілген</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 шығыс қоңырауын қабылдаушы: ^2</item>
+    <item quantity="other">^1 қоңырау, соңғы шығыс қоңырауын қабылдаушы: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2 шалған ^1 қоңырау бөгелген</item>
+    <item quantity="other">^1 қоңырау, соңғы ^2 шалған қоңырау бөгелген</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1,
+    нөмірі: ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Нов контакт</string>
+  <string name="dialer_shortcut_add_contact_long">Нов контакт</string>
+  <string name="dialer_shortcut_disabled_message">Кратенката не работи. Повлечете за отстранување.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Контактот веќе не е достапен.</string>
+  <string name="dialer_shortcut_no_permissions">Не може да се повикува без дозволи.</string>
+</resources>

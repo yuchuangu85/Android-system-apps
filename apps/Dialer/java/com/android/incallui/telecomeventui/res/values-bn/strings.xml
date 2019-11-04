@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">প্রতিবার সতর্কতা দেখান</string>
+  <string name="details">আপনি একটি আন্তর্জাতিক নম্বরে কল করছেন এবং চার্জ প্রযোজ্য হতে পারে।</string>
+</resources>

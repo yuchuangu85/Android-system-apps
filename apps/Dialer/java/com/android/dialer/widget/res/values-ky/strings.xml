@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Башка билдирүүнү жазыңыз</string>
+  <string name="toolbar_close">Жабуу</string>
+  <string name="all_contacts_empty">Азырынча эч байланышыңыз жок</string>
+  <string name="all_contacts_empty_add_contact_action">Жаңы байланыш түзүү</string>
+  <string name="permission_single_turn_on">Күйгүзүү</string>
+  <string name="permission_no_contacts">Байланыштарыңызды көрүү үчүн, \"Байланыштар\" уруксатын күйгүзүңүз.</string>
+  <string name="add_contact_not_available">Жеткиликтүү байланыштар колдонмосу жок</string>
+</resources>

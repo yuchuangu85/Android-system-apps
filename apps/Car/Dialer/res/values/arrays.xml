@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2019 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <!--The string constants are defined in {@link com.android.car.dialer.ui.TelecomPageTab.Page}
+     and they are used as key mapping to fragments. The array can only be a subset of predefined
+     strings in any order. Tabs will be added in the same order as defined in the array.-->
+    <string-array name="tabs_config">
+        <item>CALL_HISTORY</item>
+        <item>CONTACTS</item>
+        <item>FAVORITE</item>
+        <item>DIAL_PAD</item>
+    </string-array>
+
+    <string-array name="tabs_title">
+        <!-- This array is mapped to tabs_config. -->
+        <!-- And it should be consistent with the mapping in the TelecomPageTab.Factory -->
+        <item>@string/call_history_title</item>
+        <item>@string/contacts_title</item>
+        <item>@string/favorites_title</item>
+        <item>@string/dialpad_title</item>
+    </string-array>
+
+    <string-array name="contact_order_entry_values">
+        <item>given_name</item>
+        <item>family_name</item>
+    </string-array>
+
+    <string-array name="contact_order_entries">
+        <!-- This array is mapped to contact_order_keys. -->
+        <item>@string/give_name_first_title</item>
+        <item>@string/family_name_first_title</item>
+    </string-array>
+</resources>

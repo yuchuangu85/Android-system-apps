@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Sfondi"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Categorie di sfondi"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Imposta sfondo"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Impostazione dello sfondo…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Riprova"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Impossibile impostare lo sfondo."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Impossibile caricare lo sfondo. L\'immagine è danneggiata o non disponibile."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Attualmente impostato"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Sfondo giornaliero"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Schermate Home e di blocco"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Schermata Home"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Schermata di blocco"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Schermate Home e di blocco"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Imposta sfondo"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Schermata Home"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Schermata di blocco"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Schermata Home e schermata di blocco"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Sfondo di immagini a rotazione"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Per visualizzare qui lo sfondo corrente, <xliff:g id="APP_NAME">%1$s</xliff:g> deve avere accesso allo spazio di archiviazione del dispositivo."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Per visualizzare qui lo sfondo corrente, l\'app Sfondi deve avere accesso allo spazio di archiviazione del dispositivo.\n\nPer modificare questa impostazione, vai all\'area Autorizzazioni nella sezione Informazioni app di Sfondi."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Consenti accesso"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Servizio di sfondi animati per sfondi a rotazione"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Sfondo giornaliero"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Tocca per attivare"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Lo sfondo cambierà automaticamente ogni giorno. Per terminare la configurazione, tocca &lt;strong&gt;Imposta sfondo&lt;/strong&gt; nella prossima schermata."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Scarica sfondi futuri solo tramite Wi-Fi"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Continua"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Download del primo sfondo…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Impossibile scaricare il primo sfondo. Controlla le impostazioni di rete e riprova."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Lo sfondo cambierà automaticamente ogni giorno"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Impostazioni"</string>
+    <string name="explore" msgid="7468719504199497281">"Esplora"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Sfondo successivo"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"L\'impostazione di sfondi è stata disattivata su questo dispositivo"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"L\'impostazione di sfondi è stata disattivata dall\'amministratore del dispositivo"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Sfondo impostato"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Per visualizzare gli sfondi è necessaria una connessione a Internet. Connettiti e riprova."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Miniatura dello sfondo attuale della schermata Home"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Miniatura dello sfondo attuale della schermata di blocco"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Miniatura dello sfondo attuale"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Miniatura dello sfondo"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Esplora lo sfondo della schermata Home"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Esplora lo sfondo della schermata di blocco"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Aggiorna lo sfondo giornaliero della schermata Home"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Aggiorna lo sfondo giornaliero"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Aggiornamento dello sfondo giornaliero…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Impossibile aggiornare lo sfondo giornaliero. Controlla la connessione di rete e riprova."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Comprime il riquadro informazioni dello sfondo"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Espande il riquadro informazioni dello sfondo"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Sfondi sul dispositivo"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"Sul dispositivo"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Sfondo Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Sfondi animati"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Le mie foto"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"La mia foto"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Sfondo"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"App non installata."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Al centro"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Ritaglia al centro"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Allunga"</string>
+    <string name="preview" msgid="1774602101743861071">"Anteprima"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Жауап беру үшін жоғары сырғытыңыз</string>
+  <string name="call_incoming_swipe_to_reject">Қабылдамау үшін төмен сырғытыңыз</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Қоңырауға жауап беру үшін екі саусақпен жоғары, ал қабылдамау үшін төмен сырғытыңыз</string>
+  <string name="call_incoming_will_disconnect">Бұл қоңырауға жауап беру бейне қоңырауыңызды аяқтайды</string>
+  <string name="a11y_call_incoming_decline_description">Қабылдамау</string>
+  <string name="call_incoming_decline">Қабылдамау</string>
+  <string name="a11y_call_incoming_answer_description">Жауап беру</string>
+  <string name="call_incoming_answer">Жауап беру</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Жооп берүү үчүн экранды сүрүп коюңуз</string>
+  <string name="call_incoming_swipe_to_reject">Жооп бергиңиз келбесе ылдый сүрүп коюңуз</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Чалууга жооп берүү үчүн эки манжа менен өйдө сүрүңүз же жооп бергиңиз келбесе ылдый сүрүңүз</string>
+  <string name="call_incoming_will_disconnect">Бул чалууга жооп берсеңиз, видео чалууңуз бүтүп калат</string>
+  <string name="a11y_call_incoming_decline_description">Баш тартуу</string>
+  <string name="call_incoming_decline">Баш тартуу</string>
+  <string name="a11y_call_incoming_answer_description">Жооп берүү</string>
+  <string name="call_incoming_answer">Жооп берүү</string>
+</resources>

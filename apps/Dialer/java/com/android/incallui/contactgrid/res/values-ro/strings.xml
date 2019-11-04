@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Se apelează prin %s</string>
+  <string name="incall_calling_on_same_carrier_template">Se apelează în rețeaua aceluiași operator %s</string>
+  <string name="incall_calling_on_recent_choice_template">Se apelează în rețeaua operatorului ales recent %s</string>
+  <string name="incall_connecting">Se apelează…</string>
+  <string name="incall_connecting_assited_dialed">Se apelează folosind +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Se folosește +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Se transferă…</string>
+  <string name="incall_video_call_requesting">Se apelează video prin operator…</string>
+  <string name="incall_wifi_video_call_requesting">Se apelează video prin operator Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Se comută la apelul video prin operator…</string>
+  <string name="incall_video_call_request_failed">Nu se poate conecta</string>
+  <string name="incall_video_call_request_rejected">Apelul a fost respins</string>
+  <string name="incall_video_call_request_timed_out">Durata de apelare a expirat</string>
+  <string name="incall_hanging_up">Se încheie apelul</string>
+  <string name="incall_call_ended">Apel încheiat</string>
+  <string name="incall_remotely_held">În așteptare</string>
+  <string name="contact_grid_incoming_video_call">Apel video prin operator de la</string>
+  <string name="contact_grid_incoming_wifi_video_call">Apel video prin operator Wi-Fi de la</string>
+  <string name="contact_grid_incoming_voice_call">Apel primit de la</string>
+  <string name="contact_grid_incoming_work_call">Apel de serviciu de la</string>
+  <string name="contact_grid_incoming_via_template">Primite prin %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Posibil apelant spam</string>
+  <string name="contact_grid_callback_number">Numărul acestui telefon: %1$s</string>
+</resources>

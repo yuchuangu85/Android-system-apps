@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">So predeterminat (%1$s)</string>
+  <string name="ringtone_silent">Cap</string>
+  <string name="ringtone_unknown">So de trucada desconegut</string>
+  <string name="activity_not_available">No hi ha cap aplicació per a això en aquest dispositiu.</string>
+  <string name="outgoing_wps_warning">En fer una trucada WPS, es desconnectarà la trucada en curs.</string>
+  <string name="dialog_continue">Continua</string>
+  <string name="camera_privacy_text">S\'ha activat el permís d\'accés a la càmera</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Mesajla reddetmek için, simgeden hızlıca kaydırın</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Sesli çağrı olarak cevaplamak için, simgeden hızlıca kaydırın</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Devam eden çağrı cevaplamak ve bekletmek için hızlıca yukarı kaydırın</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Cevaplamak ve beklemedeki çağrıyı sona erdirmek için hızlıca yukarı kaydırın</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Bir çağrıyı cevaplamak ve devam eden çağrıyı sona erdirmek için simgeden hızlıca kaydırın</string>
+  <string name="call_incoming_message_custom">Kendi yanıtınızı oluşturun…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Kendi yanıtınızı oluşturun…</string>
+  <string name="call_incoming_custom_message_cancel">İptal</string>
+  <string name="call_incoming_custom_message_send">Gönder</string>
+  <string name="a11y_incoming_call_reject_with_sms">Bu çağrıyı mesajla reddedin</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Sesli çağrı olarak cevaplayın</string>
+  <string name="a11y_incoming_call_answer_and_release">Bir çağrıyı cevaplayın ve devam eden çağrıyı sona erdirin</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Çağrıyı, mesajla reddedin</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Sesli çağrı olarak cevaplayın</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Bir çağrı cevaplanır ve devam eden çağrı sona erdirilir</string>
+  <string name="call_incoming_video_is_off">Video kapalı</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Cevaplamak için iki parmağınızla hızlıca yukarı kaydırın. Reddetmek içinse iki parmağınızla hızlıca aşağı kaydırın.</string>
+  <string name="call_incoming_important">Önemli</string>
+</resources>

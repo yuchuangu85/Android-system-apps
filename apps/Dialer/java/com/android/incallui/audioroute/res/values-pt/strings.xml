@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Bluetooth</string>
+  <string name="audioroute_speaker">Alto-falante</string>
+  <string name="audioroute_phone">Smartphone</string>
+  <string name="audioroute_headset">Fone de ouvido com fio</string>
+</resources>

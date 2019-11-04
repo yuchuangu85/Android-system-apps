@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Nuovo contatto</string>
+  <string name="dialer_shortcut_add_contact_long">Nuovo contatto</string>
+  <string name="dialer_shortcut_disabled_message">La scorciatoia non funziona. Trascina per rimuoverla.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Contatto non più disponibile.</string>
+  <string name="dialer_shortcut_no_permissions">Impossibile chiamare senza autorizzazioni.</string>
+</resources>

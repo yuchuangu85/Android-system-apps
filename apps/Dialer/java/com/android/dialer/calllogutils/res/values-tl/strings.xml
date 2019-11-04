@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Papasok na tawag</string>
+  <string name="type_incoming_pulled">Inilipat ang papasok na tawag sa isa pang device</string>
+  <string name="type_outgoing">Papalabas na tawag</string>
+  <string name="type_outgoing_pulled">Inilipat ang papalabas na tawag sa isa pang device</string>
+  <string name="type_missed">Hindi nasagot na tawag</string>
+  <string name="type_incoming_video">Papasok na video call</string>
+  <string name="type_incoming_video_pulled">Inilipat ang papasok na video call sa isa pang device</string>
+  <string name="type_outgoing_video">Papalabas na video call</string>
+  <string name="type_outgoing_video_pulled">Inilipat ang papalabas na video call sa isa pang device</string>
+  <string name="type_missed_video">Hindi nasagot na video call</string>
+  <string name="type_voicemail">Voicemail</string>
+  <string name="type_rejected">Tinanggihang tawag</string>
+  <string name="type_blocked">Naka-block na tawag</string>
+  <string name="call_details_minutes_abbreviation">m</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">segundo</item>
+    <item quantity="other">na segundo</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minuto</item>
+    <item quantity="other">na minuto</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Sinagot ang tawag sa isa pang device</string>
+  <string name="description_phone_account">sa ^1</string>
+  <string name="description_via_number">sa pamamagitan ng %1$s</string>
+  <string name="description_via_number_phone_account">sa %1$s, sa pamamagitan ng %2$s</string>
+  <string name="voicemail_string">Voicemail</string>
+  <string name="just_now">Ngayon lang</string>
+  <string name="new_call_log_carrier_video">Video call sa carrier</string>
+  <string name="new_call_log_duo_video">Video call sa Duo</string>
+  <string name="new_call_log_unknown">Hindi alam</string>
+  <string name="new_call_log_secondary_blocked">Naka-block</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 tawag, ang pinakabago ay isang hindi nasagot na tawag mula kay ^2</item>
+    <item quantity="other">^1 na tawag, ang pinakabago ay isang hindi nasagot na tawag mula kay ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 tawag, ang pinakabago ay isang nasagot na tawag mula kay ^2</item>
+    <item quantity="other">^1 na tawag, ang pinakabago ay isang nasagot na tawag mula kay ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 tawag, ang pinakabago ay isang papalabas na tawag kay ^2</item>
+    <item quantity="other">^1 na tawag, ang pinakabago ay isang papalabas na tawag kay ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 tawag, ang pinakabago ay isang na-block na tawag mula kay ^2</item>
+    <item quantity="other">^1 na tawag, ang pinakabago ay isang na-block na tawag mula kay ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">sa ^1,
+    sa pamamagitan ng ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

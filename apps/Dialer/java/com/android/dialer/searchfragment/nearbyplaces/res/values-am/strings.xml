@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">በአቅራቢያ ያሉ ቦታዎች</string>
+  <string name="search_location_permission">በአቅራቢያዎ ላሉ ቦታዎች የእውቂያ መረጃ ለማግኘት፣ ወደ አካባቢዎ መዳረሻ ይፍቀዱ።</string>
+  <string name="nearby_places_allow">ፍቀድ</string>
+  <string name="nearby_places_dismiss">አሰናብት</string>
+</resources>

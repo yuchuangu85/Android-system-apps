@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Մոտակա վայրեր</string>
+  <string name="search_location_permission">Մոտակայքում գտնվող վայրերի կոնտակտային տվյալները ստանալու համար թույլատրեք օգտագործել տեղադրության մասին տվյալները:</string>
+  <string name="nearby_places_allow">Թույլատրել</string>
+  <string name="nearby_places_dismiss">Ոչ</string>
+</resources>

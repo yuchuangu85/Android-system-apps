@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">S\'està trucant amb %s</string>
+  <string name="incall_calling_on_same_carrier_template">S\'està trucant amb el mateix operador de telefonia mòbil, %s</string>
+  <string name="incall_calling_on_recent_choice_template">S\'està trucant amb un operador de telefonia triat fa poc, %s</string>
+  <string name="incall_connecting">S\'està trucant…</string>
+  <string name="incall_connecting_assited_dialed">Trucada amb +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">S\'està utilitzant +%1$s (%2$s)…</string>
+  <string name="incall_transferring">S\'està transferint…</string>
+  <string name="incall_video_call_requesting">S\'està iniciant una videotrucada amb l\'operador de telefonia mòbil…</string>
+  <string name="incall_wifi_video_call_requesting">S\'està passant a la videotrucada per Wi-Fi amb l\'operador de telefonia mòbil…</string>
+  <string name="incall_video_call_upgrade_request">S\'està passant a la videotrucada amb l\'operador de telefonia mòbil…</string>
+  <string name="incall_video_call_request_failed">No es pot establir la connexió</string>
+  <string name="incall_video_call_request_rejected">La trucada s\'ha rebutjat</string>
+  <string name="incall_video_call_request_timed_out">La trucada ha esgotat el temps d\'espera</string>
+  <string name="incall_hanging_up">S\'està penjant</string>
+  <string name="incall_call_ended">La trucada ha finalitzat</string>
+  <string name="incall_remotely_held">En espera</string>
+  <string name="contact_grid_incoming_video_call">Videotrucada amb l\'operador de telefonia mòbil de:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videotrucada per Wi-Fi amb l\'operador de telefonia mòbil de:</string>
+  <string name="contact_grid_incoming_voice_call">Trucada de</string>
+  <string name="contact_grid_incoming_work_call">Trucada de feina de</string>
+  <string name="contact_grid_incoming_via_template">Entrant via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Possible trucada brossa</string>
+  <string name="contact_grid_callback_number">Número de telèfon d\'aquest dispositiu: %1$s</string>
+</resources>

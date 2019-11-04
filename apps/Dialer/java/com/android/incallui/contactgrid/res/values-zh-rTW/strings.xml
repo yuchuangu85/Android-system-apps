@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">正在透過 %s 撥號</string>
+  <string name="incall_calling_on_same_carrier_template">正在透過相同的電信業者 (%s) 撥號</string>
+  <string name="incall_calling_on_recent_choice_template">正在透過最近所選的電信業者 (%s) 撥號</string>
+  <string name="incall_connecting">撥號中…</string>
+  <string name="incall_connecting_assited_dialed">正在撥號至 +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">正在使用 +%1$s (%2$s)…</string>
+  <string name="incall_transferring">轉接中...</string>
+  <string name="incall_video_call_requesting">電信業者視訊通話…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi 電信業者視訊通話…</string>
+  <string name="incall_video_call_upgrade_request">正在切換至電信業者視訊通話…</string>
+  <string name="incall_video_call_request_failed">無法連線</string>
+  <string name="incall_video_call_request_rejected">通話遭到拒絕</string>
+  <string name="incall_video_call_request_timed_out">通話要求逾時</string>
+  <string name="incall_hanging_up">掛斷中</string>
+  <string name="incall_call_ended">通話已結束</string>
+  <string name="incall_remotely_held">保留中</string>
+  <string name="contact_grid_incoming_video_call">電信業者視訊通話來電：</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi 電信業者視訊通話來電：</string>
+  <string name="contact_grid_incoming_voice_call">語音來電：</string>
+  <string name="contact_grid_incoming_work_call">公司來電：</string>
+  <string name="contact_grid_incoming_via_template">有人透過 %s 來電</string>
+  <string name="contact_grid_incoming_suspected_spam">可疑的騷擾/廣告來電者</string>
+  <string name="contact_grid_callback_number">這支手機的號碼：%1$s</string>
+</resources>

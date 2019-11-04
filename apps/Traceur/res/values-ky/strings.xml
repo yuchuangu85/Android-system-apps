@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="system_tracing" msgid="4719188511746319848">"Тутумга көз салуу"</string>
+    <string name="record_system_activity" msgid="4339462312915377825">"Тутумдун иштешин жакшыртуу үчүн анын аракеттери жазылып, кийинчерээк талданат"</string>
+    <string name="record_trace" msgid="6416875085186661845">"Телефондо аткарылган аракеттерди жаздыруу"</string>
+    <string name="trace_debuggable_applications" msgid="7957069895298887899">"Мүчүлүштүктөрү оңдоло турган колдонмолордун аракеттерин жаздыруу"</string>
+    <string name="categories" msgid="2280163673538611008">"Категориялар"</string>
+    <string name="restore_default_categories" msgid="5090536794637169521">"Демейки категорияларды калыбына келтирүү"</string>
+    <string name="default_categories_restored" msgid="6861683793680564181">"Демейки категориялар калыбына келтирилди"</string>
+    <string name="default_categories" msgid="2117679794687799407">"Демейки"</string>
+    <plurals name="num_categories_selected" formatted="false" msgid="963928263524652497">
+      <item quantity="other">%d тандалды</item>
+      <item quantity="one">%d тандалды</item>
+    </plurals>
+    <string name="applications" msgid="521776761270770549">"Колдонмолор"</string>
+    <string name="no_debuggable_apps" msgid="4386209254520471208">"Бир да мүчүлүштүктөрү оңдоло турган колдонмо жеткиликтүү эмес"</string>
+    <string name="buffer_size" msgid="3944311026715111454">"Процессордун буферинин өлчөмү"</string>
+    <string name="show_quick_settings_tile" msgid="4971147332635291585">"Ыкчам жөндөөлөр тактасын көрсөтүү"</string>
+    <string name="saving_trace" msgid="1468692734770800541">"Телефондо аткарылган аракеттер сакталууда"</string>
+    <string name="trace_saved" msgid="5869970594780992309">"Телефондо аткарылган аракеттер сакталды"</string>
+    <string name="tap_to_share" msgid="6766732404489536899">"Телефондо аткарылган аракеттерди бөлүшүү үчүн таптаңыз"</string>
+    <string name="stop_tracing" msgid="8916938308534164152">"Көз салууну токтотуу"</string>
+    <string name="tracing_categories_unavailable" msgid="5609076391417077752">"Телефондо аткарылган аракеттердин айрым категориялары жеткиликсиз:"</string>
+    <string name="trace_is_being_recorded" msgid="5947378146009337469">"Көз салуу жаздырылууда"</string>
+    <string name="tap_to_stop_tracing" msgid="6533282719573871806">"Көз салууну токтотуу үчүн таптаңыз"</string>
+    <string name="clear_saved_traces" msgid="4809195654452260944">"Сакталган дайындарды тазалоо"</string>
+    <string name="clear_saved_traces_question" msgid="2184026613055303818">"Сакталган дайындар тазалансынбы?"</string>
+    <string name="all_traces_will_be_deleted" msgid="6646545462206955920">"/data/local/traces бөлүмүндөгү бардык дайындар жок кылынат"</string>
+    <string name="clear" msgid="5484761795406948056">"Тазалоо"</string>
+    <string name="system_traces_storage_title" msgid="8294090839883366871">"Тутумдагы аракеттерди жаздыруу"</string>
+    <string name="keywords" msgid="736547007949049535">"тутумга көз салуу, аракеттерди жаздыруу, иштин майнаптуулугу"</string>
+    <string name="share_trace" msgid="4528525067822044385">"Тутумга көз салуу аракеттери бөлүшүлсүнбү?"</string>
+    <string name="system_trace_sensitive_data" msgid="3069389866696009549">"Тутумга көз салуу файлдары тутумдагы жана колдонмодогу купуя дайындарды (мисалы, колдонмонун пайдаланылышы) камтышы мүмкүн. Тутумга көз салуудан алынган маалыматты ишенимдүү байланыштар жана колдонмолор менен гана бөлүшүңүз."</string>
+    <string name="share" msgid="8443979083706282338">"Бөлүшүү"</string>
+    <string name="dont_show_again" msgid="6662492041164390600">"Экинчи көрсөтүлбөсүн"</string>
+    <string name="use_perfetto_beta" msgid="2725630143916520160">"Perfetto\'ну колдонуу (бета сынамык версиясы)"</string>
+    <string name="long_traces" msgid="5110949471775966329">"Узун аракеттер"</string>
+    <string name="long_traces_summary" msgid="419034282946761469">"Түзмөктүн сактагычына үзгүлтүксүз сактоо"</string>
+    <string name="max_long_trace_size" msgid="1943788179787181241">"Аракеттерди жаздыруунун максималдык өлчөмү"</string>
+    <string name="max_long_trace_duration" msgid="8009837944364246785">"Аракеттерди жаздыруунун максималдык узактыгы"</string>
+    <string name="two_hundred_mb" msgid="4950018549725084512">"200 Мб"</string>
+    <string name="one_gb" msgid="590396985168692037">"1 Гб"</string>
+    <string name="five_gb" msgid="7883941043220621649">"5 Гб"</string>
+    <string name="ten_gb" msgid="4150452462544299276">"10 Гб"</string>
+    <string name="twenty_gb" msgid="5717308686812140465">"20 Гб"</string>
+    <string name="ten_minutes" msgid="7039181194343961324">"10 мүнөт"</string>
+    <string name="thirty_minutes" msgid="2575810799813531395">"30 мүнөт"</string>
+    <string name="one_hour" msgid="5219232935307966891">"1 саат"</string>
+    <string name="eight_hours" msgid="3207620892104451552">"8 саат"</string>
+    <string name="twelve_hours" msgid="4647143276394563496">"12 саат"</string>
+    <string name="twentyfour_hours" msgid="2789663313550030791">"24 саат"</string>
+    <string name="four_thousand_kb" msgid="5156346740862105703">"4096 Кб"</string>
+    <string name="eight_thousand_kb" msgid="8815334985638334081">"8192 Кб"</string>
+    <string name="sixteen_thousand_kb" msgid="7342517169232459259">"16384 Кб"</string>
+    <string name="thirtytwo_thousand_kb" msgid="654328198799196150">"32768 Кб"</string>
+    <string name="sixtyfive_thousand_kb" msgid="8168144138598305306">"65536 Кб"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Lähellä olevat paikat</string>
+  <string name="search_location_permission">Voit nähdä lähelläsi olevien paikkojen yhteystiedot sallimalla sijaintisi käyttöoikeus.</string>
+  <string name="nearby_places_allow">Salli</string>
+  <string name="nearby_places_dismiss">Ohita</string>
+</resources>

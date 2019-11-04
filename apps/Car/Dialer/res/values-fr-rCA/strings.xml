@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="phone_app_name" msgid="238824437273544459">"Téléphone"</string>
+    <string name="no_hfp" msgid="7371139867234667691">"Pour passer votre appel, connectez d\'abord votre téléphone à votre voiture par Bluetooth."</string>
+    <string name="bluetooth_unavailable" msgid="5258854283739591569">"Bluetooth n\'est pas disponible."</string>
+    <string name="bluetooth_disabled" msgid="1275246762067907843">"Pour passer ou recevoir des appels, activez le Bluetooth."</string>
+    <string name="bluetooth_unpaired" msgid="1600552386483652892">"Pour passer ou recevoir des appels, associez votre téléphone à votre voiture."</string>
+    <string name="connect_bluetooth_button_text" msgid="293188695227298042">"Connexion au Bluetooth"</string>
+    <string name="emergency_button_text" msgid="3467659545392931727">"Urgence"</string>
+    <string name="emergency_call_description" msgid="6700161437750325693">"Appel d\'urgence"</string>
+    <string name="error_contact_deleted" msgid="6356539067659368396">"Ce contact a peut-être été supprimé."</string>
+    <string name="error_invalid_phone_number" msgid="5349049631580646136">"Impossible de composer ce numéro. Vérifiez-le, puis réessayez."</string>
+    <string name="decline_call" msgid="2505987200485272226">"Refuser"</string>
+    <string name="answer_call" msgid="3272474440561548115">"Répondre"</string>
+    <string name="call_back" msgid="5745638356098600872">"Rappeler"</string>
+    <string name="audio_route_vehicle" msgid="6274519162997743620">"Bluetooth du véhicule"</string>
+    <string name="audio_route_phone_speaker" msgid="407520293892557697">"Haut-parleur"</string>
+    <string name="audio_route_handset" msgid="1100259514278439355">"Combiné"</string>
+    <string name="dial_a_number" msgid="7432322177412387160">"Composer un numéro"</string>
+    <string name="favorites_title" msgid="4767723901530488145">"Favoris"</string>
+    <string name="call_history_title" msgid="1495905524218923242">"Historique des appels"</string>
+    <string name="contacts_title" msgid="9201954388634537346">"Contacts"</string>
+    <string name="dialpad_title" msgid="3746259645005208554">"Pavé numérique"</string>
+    <string name="call_log_header_today" msgid="2069013936632793214">"Aujourd\'hui"</string>
+    <string name="call_log_header_yesterday" msgid="4613686845163357847">"Hier"</string>
+    <string name="call_log_header_older" msgid="3971634717537073179">"Plus anciens"</string>
+    <string name="add_favorite_button" msgid="7914955940249767808">"Ajouter un favori"</string>
+    <string name="favorites_empty" msgid="6712416359691979975">"Vous n\'avez pas encore ajouté de favoris"</string>
+    <string name="search_title" msgid="5412680850141871664">"Rechercher dans les contacts"</string>
+    <string name="search_hint" msgid="3099066132607042439">"Rechercher dans les contacts"</string>
+    <string name="type_multiple" msgid="3402949522797441236">"Plusieurs"</string>
+    <string name="select_number_dialog_title" msgid="5770700626013782205">"Choisir un numéro de téléphone"</string>
+    <string name="select_number_dialog_just_once_button" msgid="1814381354393374660">"Une seule fois"</string>
+    <string name="select_number_dialog_always_button" msgid="6862338683635863764">"Toujours"</string>
+    <string name="primary_number_description" msgid="7428950659304219592">"<xliff:g id="LABEL">%1$s</xliff:g> – Par défaut"</string>
+    <string name="in_call_notification_channel_name" msgid="1978093630512401778">"Notification d\'appel entrant"</string>
+    <string name="notification_incoming_call" msgid="1722904631804432389">"Appel entrant"</string>
+    <string name="missed_call_notification_channel_name" msgid="1135686963409691772">"Notification d\'appel manqué"</string>
+    <string name="notification_missed_call" msgid="7127823385811396529">"Appel manqué"</string>
+    <string name="onhold_call_label" msgid="1937027519810985499">"En attente"</string>
+    <string name="setting_title" msgid="1296639422364732365">"Paramètres"</string>
+    <string name="pref_start_page_title" msgid="1953465507368478503">"Écran de démarrage"</string>
+    <string name="sort_order_title" msgid="975104366728292702">"Ordre des contacts"</string>
+    <string name="give_name_first_title" msgid="9036752103567139094">"Prénom"</string>
+    <string name="family_name_first_title" msgid="7721976826282427987">"Nom de famille"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videochiamata</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">In attesa</string>
+  <string name="incall_label_add_call">Aggiungi chiamata</string>
+  <string name="incall_label_mute">Disattiva</string>
+  <string name="incall_label_end_call">Termina chiamata</string>
+  <string name="incall_label_dialpad">Tastierino</string>
+  <string name="incall_talkback_speaker_on">, attivo</string>
+  <string name="incall_talkback_speaker_off">, non attivo</string>
+  <string name="incall_label_merge">Unisci</string>
+  <string name="incall_label_manage">Gestisci</string>
+  <string name="a11y_description_incall_label_manage_content">Gestisci chiamanti</string>
+  <string name="incall_label_swap">Scambia</string>
+  <string name="incall_label_swap_sim">Cambia SIM</string>
+  <string name="incall_note_sent">Nota inviata</string>
+</resources>

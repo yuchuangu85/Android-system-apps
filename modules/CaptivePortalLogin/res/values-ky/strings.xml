@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Бул тармак кандай болсо, ошондой колдонулсун"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Бул тармак колдонулбасын"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Тармакка кирүү"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$s каттоо эсебине кириңиз"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Кошулайын деген тармагыңызда коопсуздук көйгөйлөрү бар."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Мисалы, каттоо эсебине кирүү баракчасы көрсөтүлгөн уюмга таандык эмес болушу мүмкүн."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Баары бир серепчи аркылуу улантуу"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Бул тастыктама ишеничтүү мекеме аркылуу берилген эмес."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Сайттын аталышы тастыктаманын аталышына дал келбейт."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Бул тастыктаманын мөөнөтү өтүп кеткен."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Бул тастыктама азырынча жараксыз."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Бул тастыктаманын күнү жараксыз."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Бул тастыктама жараксыз."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Тастыктамага байланыштуу белгисиз ката."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Коопсуздук эскертүүсү"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Тастыктаманы көрүү"</string>
+    <string name="ok" msgid="6584612582120777209">"ЖАРАЙТ"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Дарек:"</string>
+    <string name="page_info" msgid="46593086046896385">"Барак жөнүндө маалымат"</string>
+</resources>

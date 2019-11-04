@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">សរសេរ​សារ​ផ្ទាល់ខ្លួន</string>
+  <string name="toolbar_close">បិទ</string>
+  <string name="all_contacts_empty">អ្នកមិនទាន់មានទំនាក់ទំនងនៅឡើយទេ</string>
+  <string name="all_contacts_empty_add_contact_action">បង្កើត​ទំនាក់ទំនង​ថ្មី</string>
+  <string name="permission_single_turn_on">បើក</string>
+  <string name="permission_no_contacts">ដើម្បីមើលទំនាក់ទំនងរបស់អ្នក សូមបើកការ​អនុញ្ញាតកម្មវិធីទំនាក់ទំនង។</string>
+  <string name="add_contact_not_available">មិនមានកម្មវិធីទំនាក់ទំនងទេ</string>
+</resources>

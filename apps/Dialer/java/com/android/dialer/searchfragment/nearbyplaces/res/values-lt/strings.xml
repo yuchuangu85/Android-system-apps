@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Netoliese esančios vietos</string>
+  <string name="search_location_permission">Jei norite gauti netoli jūsų esančių vietų kontaktinės informacijos, suteikite prieigą prie vietovės.</string>
+  <string name="nearby_places_allow">Leisti</string>
+  <string name="nearby_places_dismiss">Atsisakyti</string>
+</resources>

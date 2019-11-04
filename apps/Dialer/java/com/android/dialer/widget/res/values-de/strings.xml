@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Eigene Nachricht schreiben</string>
+  <string name="toolbar_close">Schließen</string>
+  <string name="all_contacts_empty">Du hast noch keine Kontakte</string>
+  <string name="all_contacts_empty_add_contact_action">Neuen Kontakt erstellen</string>
+  <string name="permission_single_turn_on">Aktivieren</string>
+  <string name="permission_no_contacts">Aktiviere die Berechtigung \"Kontakte\", um deine Kontakte abzurufen.</string>
+  <string name="add_contact_not_available">Keine Kontakte-App verfügbar</string>
+</resources>

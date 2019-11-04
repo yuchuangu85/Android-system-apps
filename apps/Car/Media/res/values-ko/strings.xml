@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  Copyright 2016, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browser_loading" msgid="1639570085710372552">"콘텐츠 로드 중…"</string>
+    <string name="nothing_to_play" msgid="3027311268791740588">"여기에는 사용 가능한 미디어가 없습니다."</string>
+    <string name="cannot_connect_to_app" msgid="4732888036680095414">"현재 <xliff:g id="ID_1">%s</xliff:g>이(가) 작동하지 않습니다."</string>
+    <string name="unknown_media_provider_name" msgid="4238216994694326667">"알 수 없음"</string>
+    <string name="unknown_error" msgid="6146463797752964372">"문제 발생"</string>
+    <string name="media_browse_more" msgid="6330295386693311592">"더보기…"</string>
+    <string name="media_app_title" msgid="94717597743776797">"미디어"</string>
+    <string name="search_hint" msgid="5401750426238148416">"노래, 아티스트 등을 검색하세요..."</string>
+    <string name="fragment_playback_title" msgid="5014481549024607614">"지금 재생 중"</string>
+    <string name="default_error_message" msgid="6365377134388091079">"문제가 발생했습니다. 나중에 다시 시도하세요."</string>
+    <string name="error_code_app_error" msgid="1726372057192704809">"지금은 요청하신 작업을 할 수 없습니다."</string>
+    <string name="error_code_not_supported" msgid="1435878548411799387">"이 앱에서는 요청하신 작업을 지원하지 않습니다."</string>
+    <string name="error_code_authentication_expired" msgid="905154133202017052">"이 앱을 사용하려면 로그인하세요."</string>
+    <string name="error_code_premium_account_required" msgid="4736461331592855166">"프리미엄 액세스 권한이 필요합니다."</string>
+    <string name="error_code_concurrent_stream_limit" msgid="1279573243715957403">"너무 많은 기기에서 스트리밍하고 있습니다."</string>
+    <string name="error_code_parental_control_restricted" msgid="5222841294702530806">"차단된 콘텐츠입니다."</string>
+    <string name="error_code_not_available_in_region" msgid="4106605584926645567">"이 지역에서 재생할 수 없는 콘텐츠입니다."</string>
+    <string name="error_code_content_already_playing" msgid="8050972499898729459">"요청하신 콘텐츠를 이미 재생 중입니다."</string>
+    <string name="error_code_skip_limit_reached" msgid="8926507875025988831">"트랙을 더이상 건너뛸 수 없습니다."</string>
+    <string name="error_code_action_aborted" msgid="3889734248905737169">"완료할 수 없습니다. 다시 시도하세요."</string>
+    <string name="error_code_end_of_queue" msgid="2842652212154074468">"현재 재생목록이 비어있습니다."</string>
+</resources>

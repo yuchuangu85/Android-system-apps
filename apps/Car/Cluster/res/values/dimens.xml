@@ -1,0 +1,107 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- Size and position of speedometers -->
+    <dimen name="speedometer_height">600dp</dimen>
+    <dimen name="speedometer_width">600dp</dimen>
+    <dimen name="speedometer_overlap_width">90dp</dimen>
+    <dimen name="speedometer_top">20dp</dimen>
+    <!-- Navigation fragment gradients -->
+    <dimen name="navigation_gradient_height">15dp</dimen>
+    <!-- Facet buttons -->
+    <dimen name="facet_icon_size">30dp</dimen>
+    <dimen name="facet_icon_margin">5dp</dimen>
+    <!-- Gears -->
+    <dimen name="gear_text_size">28sp</dimen>
+    <dimen name="gear_icon_margin">5dp</dimen>
+    <!-- Information space -->
+    <dimen name="info_height">100dp</dimen>
+    <dimen name="info_label_text_size">10sp</dimen>
+    <dimen name="info_value_text_size">20sp</dimen>
+
+    <!--                              -->
+    <!-- Navigation state components  -->
+    <!--                              -->
+    <dimen name="title_text_size">40sp</dimen>
+    <dimen name="nav_state_width">170dp</dimen>
+    <!-- Maneuver -->
+    <dimen name="maneuver_width">60dp</dimen>
+    <dimen name="maneuver_height">60dp</dimen>
+    <dimen name="maneuver_margin">8dp</dimen>
+    <dimen name="provided_maneuver_width">30dp</dimen>
+    <dimen name="provided_maneuver_height">30dp</dimen>
+    <!-- Distance -->
+    <dimen name="distance_width">125dp</dimen>
+    <dimen name="distance_text_size">20sp</dimen>
+    <!-- Segment -->
+    <dimen name="segment_text_size">15sp</dimen>
+    <!-- ETA -->
+    <dimen name="eta_margin_right">15dp</dimen>
+    <dimen name="eta_text_size">15sp</dimen>
+    <!-- Cue -->
+    <dimen name="cue_text_size">15sp</dimen>
+    <!-- Lane -->
+    <dimen name="laneview_height">25dp</dimen>
+    <dimen name="provided_laneview_height">25dp</dimen>
+    <dimen name="lane_width">50dp</dimen>
+    <dimen name="lane_height">50dp</dimen>
+
+    <dimen name="lane_icon_offset">12.5dp</dimen>
+
+    <!--                                   -->
+    <!-- Sensor value conversion constants -->
+    <!--                                   -->
+    <!-- Speed: meters per second to kilometers per hour -->
+    <item name="speed_factor" format="float" type="dimen">3.6</item>
+    <!-- Distance: kilometers to meters -->
+    <item name="distance_factor" format="float" type="dimen">1000</item>
+
+    <!--             -->
+    <!-- Media Facet -->
+    <!--             -->
+    <!-- fragment_metadata.xml -->
+    <dimen name="fragment_metadata_queue_divider_margin">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="fragment_metadata_queue_margin_top">@*android:dimen/car_padding_4</dimen>
+    <dimen name="fragment_metadata_metadata_margin_start">@*android:dimen/car_padding_4</dimen>
+    <dimen name="fragment_metadata_metadata_margin_end">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="fragment_metadata_art_margin_start">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="fragment_metadata_art_margin_end">@*android:dimen/car_padding_4</dimen>
+
+    <!-- metadata_normal.xml -->
+    <dimen name="metadata_normal_subtitle_margin_top">@*android:dimen/car_padding_1</dimen>
+    <dimen name="metadata_normal_time_margin_top">@*android:dimen/car_padding_1</dimen>
+    <dimen name="metadata_normal_seek_margin_top">@*android:dimen/car_padding_4</dimen>
+    <dimen name="metadata_normal_subtitle_margin_end">@*android:dimen/car_padding_3</dimen>
+
+    <!-- Size of the selected app's icon -->
+    <dimen name="playback_app_icon_size">25dp</dimen>
+    <dimen name="playback_fragment_icon_margin_x">15dp</dimen>
+    <dimen name="playback_fragment_icon_margin_top">29dp</dimen>
+
+    <!-- Size of the album art thumbnail -->
+    <dimen name="playback_album_art_size_normal">156dp</dimen>
+
+    <!-- Playback seekbar track height -->
+    <dimen name="playback_seekbar_track_height">8dp</dimen>
+
+    <!-- Paddings of playback seekbar -->
+    <dimen name="playback_seekbar_padding_start">10dp</dimen>
+    <dimen name="playback_seekbar_padding_end">10dp</dimen>
+
+    <!-- Size of the thumb in the playback seekbar -->
+    <dimen name="playback_seekbar_thumb_height">20dp</dimen>
+    <dimen name="playback_seekbar_thumb_width">20dp</dimen>
+
+    <!-- fragment_playback.xml and fragment_playback_with_queue.xml -->
+    <dimen name="fragment_playback_guide_margin_x">@*android:dimen/car_margin</dimen>
+    <dimen name="fragment_playback_guide_margin_top">@*android:dimen/car_padding_4</dimen>
+
+    <!--                     -->
+    <!-- Communication Facet -->
+    <!--                     -->
+    <dimen name="user_profile_title_padding_top">@*android:dimen/car_padding_3</dimen>
+    <dimen name="user_profile_body_padding_top">@*android:dimen/car_padding_3</dimen>
+
+    <dimen name="large_avatar_icon_size">96dp</dimen>
+</resources>

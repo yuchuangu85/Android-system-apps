@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">അവരുടെ വീഡിയോ ഓഫാണ്</string>
+  <string name="videocall_remote_video_on">അവരുടെ വീഡിയോ ഓണാണ്</string>
+  <string name="videocall_remotely_held">കോൾ ഹോൾഡിലാണ്</string>
+  <string name="videocall_remotely_resumed">കോൾ വീണ്ടും ആരംഭിച്ചു</string>
+  <string name="videocall_charges_alert_dialog_description">മൊബൈൽ നെറ്റ്‌വര്‍ക്കിലൂടെ ചെയ്യുന്ന വീഡിയോ കോളുകൾ, ഡാറ്റയും വോയ്‌സ് മിനിറ്റും ഉപയോഗിക്കുന്നു. നിരക്കുകൾ ബാധകമാകാം.</string>
+  <string name="do_not_show_again">വീണ്ടും കാണിക്കരുത്</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">உள்வரும் அழைப்புகள்</string>
+  <string name="notification_channel_ongoing_call">செயலில் உள்ள அழைப்புகள்</string>
+  <string name="notification_channel_missed_call">தவறிய அழைப்புகள்</string>
+  <string name="notification_channel_voicemail">குரலஞ்சல்கள்</string>
+  <string name="notification_channel_misc">இயல்பு</string>
+</resources>

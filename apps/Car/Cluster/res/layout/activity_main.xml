@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark"
+    android:windowIsFloating="true"
+    tools:context=".MainClusterActivity">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/left_unobscured"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="@dimen/speedometer_overlap_width"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/right_unobscured"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="@dimen/speedometer_overlap_width"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gauges_top"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="@dimen/speedometer_top"/>
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/info"/>
+
+    <LinearLayout
+        android:id="@+id/info"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/info_height"
+        app:layout_constraintLeft_toRightOf="@+id/left_unobscured"
+        app:layout_constraintRight_toLeftOf="@+id/right_unobscured"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="start">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_fuel_label"
+                android:textSize="@dimen/info_label_text_size"/>
+
+            <TextView
+                android:id="@+id/info_fuel"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_value_empty"
+                android:textSize="@dimen/info_value_text_size"/>
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_range_label"
+                android:textSize="@dimen/info_label_text_size"/>
+
+            <TextView
+                android:id="@+id/info_range"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_value_empty"
+                android:textSize="@dimen/info_value_text_size"/>
+        </LinearLayout>
+
+        <include
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/navigation_state"
+            layout="@layout/include_navigation_state"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="end">
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_speed_label"
+                android:textSize="@dimen/info_label_text_size"/>
+
+            <TextView
+                android:id="@+id/info_speed"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_value_empty"
+                android:textSize="@dimen/info_value_text_size"/>
+
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_rpm_label"
+                android:textSize="@dimen/info_label_text_size"/>
+
+            <TextView
+                android:id="@+id/info_rpm"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:includeFontPadding="false"
+                android:text="@string/info_value_empty"
+                android:textSize="@dimen/info_value_text_size"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/left_gauge"
+        android:layout_width="@dimen/speedometer_width"
+        android:layout_height="@dimen/speedometer_height"
+        android:src="@drawable/speedometer"
+        android:elevation="2dp"
+        app:layout_constraintTop_toBottomOf="@+id/gauges_top"
+        app:layout_constraintRight_toLeftOf="@+id/left_unobscured"/>
+
+    <ImageView
+        android:id="@+id/right_gauge"
+        android:layout_width="@dimen/speedometer_width"
+        android:layout_height="@dimen/speedometer_height"
+        android:src="@drawable/speedometer"
+        android:elevation="2dp"
+        app:layout_constraintTop_toBottomOf="@+id/gauges_top"
+        app:layout_constraintLeft_toRightOf="@+id/right_unobscured"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:translationZ="4dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <Button
+            android:id="@+id/btn_nav"
+            android:layout_width="@dimen/facet_icon_size"
+            android:layout_height="@dimen/facet_icon_size"
+            android:layout_margin="@dimen/facet_icon_margin"
+            android:background="@drawable/ic_nav"
+            android:backgroundTint="@color/icon_color"
+            android:focusableInTouchMode="true" />
+        <Button
+            android:id="@+id/btn_phone"
+            android:layout_width="@dimen/facet_icon_size"
+            android:layout_height="@dimen/facet_icon_size"
+            android:layout_margin="@dimen/facet_icon_margin"
+            android:background="@drawable/ic_phone"
+            android:backgroundTint="@color/icon_color"
+            android:focusableInTouchMode="true" />
+        <Button
+            android:id="@+id/btn_music"
+            android:layout_width="@dimen/facet_icon_size"
+            android:layout_height="@dimen/facet_icon_size"
+            android:layout_margin="@dimen/facet_icon_margin"
+            android:background="@drawable/ic_music"
+            android:backgroundTint="@color/icon_color"
+            android:focusableInTouchMode="true" />
+        <Button
+            android:id="@+id/btn_car_info"
+            android:layout_width="@dimen/facet_icon_size"
+            android:layout_height="@dimen/facet_icon_size"
+            android:layout_margin="@dimen/facet_icon_margin"
+            android:background="@drawable/ic_car_info"
+            android:backgroundTint="@color/icon_color"
+            android:focusableInTouchMode="true" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:translationZ="4dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:id="@+id/gear_parked"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginHorizontal="@dimen/gear_icon_margin"
+            android:text="@string/gear_parked"
+            android:textColor="@color/icon_color"
+            android:textSize="@dimen/gear_text_size"/>
+
+        <TextView
+            android:id="@+id/gear_reverse"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginHorizontal="@dimen/gear_icon_margin"
+            android:text="@string/gear_reverse"
+            android:textColor="@color/icon_color"
+            android:textSize="@dimen/gear_text_size"/>
+
+        <TextView
+            android:id="@+id/gear_neutral"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginHorizontal="@dimen/gear_icon_margin"
+            android:text="@string/gear_neutral"
+            android:textColor="@color/icon_color"
+            android:textSize="@dimen/gear_text_size"/>
+
+        <TextView
+            android:id="@+id/gear_drive"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginHorizontal="@dimen/gear_icon_margin"
+            android:text="@string/gear_drive"
+            android:textColor="@color/icon_color"
+            android:textSize="@dimen/gear_text_size"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Deslize para cima para atender</string>
+  <string name="call_incoming_swipe_to_reject">Deslize para baixo para rejeitar</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Deslize com dois dedos para cima para atender ou para baixo para rejeitar a chamada</string>
+  <string name="call_incoming_will_disconnect">A videochamada será encerrada se você atender a esta chamada</string>
+  <string name="a11y_call_incoming_decline_description">Recusar</string>
+  <string name="call_incoming_decline">Recusar</string>
+  <string name="a11y_call_incoming_answer_description">Atender</string>
+  <string name="call_incoming_answer">Atender</string>
+</resources>

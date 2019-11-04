@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Hívás befejezése</string>
+  <string name="incall_content_description_muted">Némítva</string>
+  <string name="incall_content_description_unmuted">Némítás feloldva</string>
+  <string name="incall_content_description_swap_calls">Hívások cseréje</string>
+  <string name="incall_content_description_swap_sim">SIM-kártya módosítása</string>
+  <string name="incall_content_description_merge_calls">Hívások egyesítése</string>
+  <string name="incall_content_description_earpiece">Kézibeszélő fülhallgatója</string>
+  <string name="incall_content_description_speaker">Hangszóró</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Vezetékes headset</string>
+  <string name="incall_content_description_hold">Hívás tartása</string>
+  <string name="incall_content_description_unhold">Hívás folytatása</string>
+  <string name="incall_content_description_video_on">Videó be</string>
+  <string name="incall_content_description_video_off">Videó ki</string>
+  <string name="incall_content_description_swap_video">Videó cseréje</string>
+  <string name="incall_label_speaker">Hangszóró</string>
+  <string name="incall_label_audio">Hang</string>
+</resources>

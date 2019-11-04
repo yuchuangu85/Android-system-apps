@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Panggilan masuk</string>
+  <string name="type_incoming_pulled">Panggilan masuk dipindahkan ke peranti lain</string>
+  <string name="type_outgoing">Panggilan keluar</string>
+  <string name="type_outgoing_pulled">Panggilan keluar dipindahkan ke peranti lain</string>
+  <string name="type_missed">Panggilan terlepas</string>
+  <string name="type_incoming_video">Panggilan video masuk</string>
+  <string name="type_incoming_video_pulled">Panggilan video masuk dipindahkan ke peranti lain</string>
+  <string name="type_outgoing_video">Panggilan video keluar</string>
+  <string name="type_outgoing_video_pulled">Panggilan video keluar dipindahkan ke peranti lain</string>
+  <string name="type_missed_video">Telah terlepas panggilan video</string>
+  <string name="type_voicemail">Mel suara</string>
+  <string name="type_rejected">Panggilan yang ditolak</string>
+  <string name="type_blocked">Panggilan yang disekat</string>
+  <string name="call_details_minutes_abbreviation">m</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">saat</item>
+    <item quantity="other">saat</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minit</item>
+    <item quantity="other">minit</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Panggilan dijawab pada peranti lain</string>
+  <string name="description_phone_account">pada ^1</string>
+  <string name="description_via_number">melalui %1$s</string>
+  <string name="description_via_number_phone_account">pada %1$s, melalui %2$s</string>
+  <string name="voicemail_string">Mel suara</string>
+  <string name="just_now">Sebentar tadi</string>
+  <string name="new_call_log_carrier_video">Video pembawa</string>
+  <string name="new_call_log_duo_video">Video Duo</string>
+  <string name="new_call_log_unknown">Tidak diketahui</string>
+  <string name="new_call_log_secondary_blocked">Disekat</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 panggilan terlepas daripada ^2</item>
+    <item quantity="other">^1 panggilan, yang terbaharu ialah panggilan terlepas daripada ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 panggilan dijawab daripada ^2</item>
+    <item quantity="other">^1 panggilan, yang terbaharu ialah panggilan dijawab daripada ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 panggilan keluar kepada ^2</item>
+    <item quantity="other">^1 panggilan, yang terbaharu ialah panggilan keluar kepada ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 panggilan disekat daripada ^2</item>
+    <item quantity="other">^1 panggilan, yang terbaharu ialah panggilan disekat daripada ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">pada ^1, melalui ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">새 연락처</string>
+  <string name="dialer_shortcut_add_contact_long">새 연락처</string>
+  <string name="dialer_shortcut_disabled_message">단축키가 작동하지 않습니다. 삭제하려면 드래그하세요.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">더 이상 사용할 수 없는 연락처입니다.</string>
+  <string name="dialer_shortcut_no_permissions">권한이 없으므로 전화를 걸 수 없습니다.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkBlue">#2b2b77</color>
+
+    <!-- Gear and facet icon colors -->
+    <color name="icon_selected">#6EDDFF</color>
+    <color name="icon_unselected">#1B378A</color>
+
+    <!-- LaneView highlight colors -->
+    <color name="laneDirection">#888888</color>
+    <color name="laneDirectionHighlighted">#FFFFFF</color>
+
+    <!-- Traffic colors -->
+    <color name="low_traffic">#0F9D58</color>
+    <color name="medium_traffic">#F2B300</color>
+    <color name="high_traffic">#E06055</color>
+    <color name="unknown_traffic">#4285F4</color>
+
+    <color name="album_art_background">@*android:color/car_grey_100</color>
+    <!-- Color used on the placeholder album art -->
+    <color name="album_art_placeholder_color">@*android:color/car_grey_800</color>
+    <!-- Color used on the progress bar background -->
+    <color name="progress_bar_background">@*android:color/car_seekbar_track_background</color>
+    <!-- Color used on the progress bar -->
+    <color name="progress_bar_highlight">@*android:color/car_accent</color>
+    <!-- Color used on the thumb of the progress bar -->
+    <color name="progress_bar_thumb_color">@*android:color/car_accent</color>
+</resources>

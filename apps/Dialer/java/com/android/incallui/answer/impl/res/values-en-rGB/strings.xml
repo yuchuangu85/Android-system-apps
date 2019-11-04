@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Swipe from icon to decline with a message</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Swipe from icon to answer as an audio call</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Swipe up to answer and hold ongoing call</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Swipe up to answer and end call on hold</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Swipe from icon to answer and end ongoing call</string>
+  <string name="call_incoming_message_custom">Write your own…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Write your own…</string>
+  <string name="call_incoming_custom_message_cancel">Cancel</string>
+  <string name="call_incoming_custom_message_send">Send</string>
+  <string name="a11y_incoming_call_reject_with_sms">Reject this call with a message</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Answer as an audio call</string>
+  <string name="a11y_incoming_call_answer_and_release">Answer and end ongoing call</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Reject with a message</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Answer as an audio call</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Answer and end ongoing call</string>
+  <string name="call_incoming_video_is_off">Video is off</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Swipe up with two fingers to answer. Swipe down with two fingers to decline.</string>
+  <string name="call_incoming_important">Important</string>
+</resources>

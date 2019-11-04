@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  Copyright 2016, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browser_loading" msgid="1639570085710372552">"Chargement du contenu…"</string>
+    <string name="nothing_to_play" msgid="3027311268791740588">"Aucun contenu multimédia disponible ici."</string>
+    <string name="cannot_connect_to_app" msgid="4732888036680095414">"<xliff:g id="ID_1">%s</xliff:g> ne fonctionne pas pour l\'instant."</string>
+    <string name="unknown_media_provider_name" msgid="4238216994694326667">"Inconnu"</string>
+    <string name="unknown_error" msgid="6146463797752964372">"Une erreur s\'est produite"</string>
+    <string name="media_browse_more" msgid="6330295386693311592">"Plus…"</string>
+    <string name="media_app_title" msgid="94717597743776797">"Médias"</string>
+    <string name="search_hint" msgid="5401750426238148416">"Titres, artistes…"</string>
+    <string name="fragment_playback_title" msgid="5014481549024607614">"En écoute"</string>
+    <string name="default_error_message" msgid="6365377134388091079">"Il y a un problème. Réessayez plus tard."</string>
+    <string name="error_code_app_error" msgid="1726372057192704809">"Impossible d\'effectuer cette opération pour le moment"</string>
+    <string name="error_code_not_supported" msgid="1435878548411799387">"Cette application ne peut pas effectuer cette opération"</string>
+    <string name="error_code_authentication_expired" msgid="905154133202017052">"Connectez-vous pour utiliser cette application"</string>
+    <string name="error_code_premium_account_required" msgid="4736461331592855166">"Accès Premium requis"</string>
+    <string name="error_code_concurrent_stream_limit" msgid="1279573243715957403">"Écoute en cours sur trop d\'appareils"</string>
+    <string name="error_code_parental_control_restricted" msgid="5222841294702530806">"Ce contenu est bloqué"</string>
+    <string name="error_code_not_available_in_region" msgid="4106605584926645567">"Impossible d\'accéder à ce contenu ici"</string>
+    <string name="error_code_content_already_playing" msgid="8050972499898729459">"Ce contenu est déjà en cours de lecture"</string>
+    <string name="error_code_skip_limit_reached" msgid="8926507875025988831">"Impossible de passer d\'autres titres"</string>
+    <string name="error_code_action_aborted" msgid="3889734248905737169">"Impossible de terminer l\'action. Veuillez réessayer."</string>
+    <string name="error_code_end_of_queue" msgid="2842652212154074468">"Aucun autre titre dans la file d\'attente"</string>
+</resources>

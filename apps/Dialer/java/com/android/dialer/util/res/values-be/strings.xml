@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Стандартны гук (%1$s)</string>
+  <string name="ringtone_silent">Няма</string>
+  <string name="ringtone_unknown">Невядомы рынгтон</string>
+  <string name="activity_not_available">На прыладзе няма праграмы для гэтага</string>
+  <string name="outgoing_wps_warning">Выкананне выкліку WPS прывядзе да раз\'яднання бягучага выкліку.</string>
+  <string name="dialog_continue">Працягнуць</string>
+  <string name="camera_privacy_text">Уключаны дазвол на выкарыстанне камеры</string>
+</resources>

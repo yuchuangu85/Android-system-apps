@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Anrufdetails</string>
+  <string name="delete">Löschen</string>
+  <string name="call_details_copy_number">Nummer kopieren</string>
+  <string name="call_details_edit_number">Nummer vor Anruf bearbeiten</string>
+  <string name="call_details_report_call_id">Falsche Nummer melden</string>
+  <string name="sent_a_photo">Hat ein Foto gesendet</string>
+  <string name="received_a_photo">Hat ein Foto empfangen</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Falsche Nummer melden</string>
+  <string name="report_caller_id_failed">Nummer konnte nicht gemeldet werden</string>
+  <string name="report_caller_id_toast">Nummer gemeldet</string>
+  <string name="assisted_dialing_country_code_entry">Unterstützung für Nummerneingabe. Verwendete Landesvorwahl: +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Unterstützung für Nummerneingabe wurde verwendet</string>
+  <string name="rtt_transcript_not_available">Transkript nur für Anrufe mit Nachrichten verfügbar</string>
+  <string name="rtt_transcript_link">Transkript ansehen</string>
+</resources>

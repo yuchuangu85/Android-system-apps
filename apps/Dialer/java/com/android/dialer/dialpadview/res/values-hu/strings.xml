@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Vissza</string>
+  <string name="description_dialpad_overflow">További beállítások</string>
+  <string name="description_delete_button">Backspace</string>
+  <string name="description_image_button_plus">pluszjel tárcsázása</string>
+  <string name="description_voicemail_button">hangposta hívása</string>
+  <string name="description_dial_button">tárcsázás</string>
+  <string name="dialog_voicemail_airplane_mode_message">Hangposta hívásához kapcsolja ki a Repülőgép üzemmódot.</string>
+  <string name="dialog_voicemail_not_ready_message">A hangposta beállításához válassza a Menü &gt; Beállítások pontot.</string>
+  <string name="add_2sec_pause">2 mp-es szünet hozzáadása</string>
+  <string name="add_wait">Várakozás hozzáadása</string>
+  <string name="dialer_useDtmfDialpad">Hangkódos telefonbillentyűzet használata</string>
+  <string name="dialer_returnToInCallScreen">Vissza a folyamatban lévő híváshoz</string>
+  <string name="dialer_addAnotherCall">Hívás hozzáadása</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Betöltés a SIM-kártyáról…</string>
+  <string name="simContacts_title">Névjegyek a SIM-kártyán</string>
+  <string name="menu_callNumber">Hívás: %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Nem lehet segélyhívást kezdeményezni Wi-Fi-n keresztül</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Nem lehet felhívni ezt a számot</string>
+</resources>

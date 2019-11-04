@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Tamatkan panggilan</string>
+  <string name="incall_content_description_muted">Diredamkan</string>
+  <string name="incall_content_description_unmuted">Dinyahredamkan</string>
+  <string name="incall_content_description_swap_calls">Silih panggilan</string>
+  <string name="incall_content_description_swap_sim">Tukar SIM</string>
+  <string name="incall_content_description_merge_calls">Gabung panggilan</string>
+  <string name="incall_content_description_earpiece">Alat dengar telefon mudah alih</string>
+  <string name="incall_content_description_speaker">Pembesar suara</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Set kepala berwayar</string>
+  <string name="incall_content_description_hold">Tunda panggilan</string>
+  <string name="incall_content_description_unhold">Sambung semula panggilan</string>
+  <string name="incall_content_description_video_on">Video dihidupkan</string>
+  <string name="incall_content_description_video_off">Video dimatikan</string>
+  <string name="incall_content_description_swap_video">Silih video</string>
+  <string name="incall_label_speaker">Pmbsr suara</string>
+  <string name="incall_label_audio">Bunyi</string>
+</resources>

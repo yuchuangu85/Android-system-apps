@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Sveip oppover for å svare</string>
+  <string name="call_incoming_swipe_to_reject">Sveip nedover for å avvise</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Sveip oppover med to fingre for å svare på anropet, eller sveip nedover for å avvise det</string>
+  <string name="call_incoming_will_disconnect">Hvis du svarer på dette anropet, avsluttes videosamtalen</string>
+  <string name="a11y_call_incoming_decline_description">Avslå</string>
+  <string name="call_incoming_decline">Avslå</string>
+  <string name="a11y_call_incoming_answer_description">Svar</string>
+  <string name="call_incoming_answer">Svar</string>
+</resources>

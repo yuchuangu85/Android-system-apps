@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">కాల్ వివరాలు</string>
+  <string name="delete">తొలగించు</string>
+  <string name="call_details_copy_number">నంబర్‌ను కాపీ చేయి</string>
+  <string name="call_details_edit_number">కాల్ చేసే ముందు నంబర్‌ను సవరించు</string>
+  <string name="call_details_report_call_id">అనిర్దిష్టంగా ఉండే నంబర్‌ను నివేదించు</string>
+  <string name="sent_a_photo">ఫోటో పంపబడింది</string>
+  <string name="received_a_photo">ఫోటో స్వీకరించబడింది</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">చెల్లని నంబర్‌ను నివేదించండి</string>
+  <string name="report_caller_id_failed">నంబర్‌ను నివేదించడం సాధ్యపడలేదు</string>
+  <string name="report_caller_id_toast">నంబర్ నివేదించబడింది</string>
+  <string name="assisted_dialing_country_code_entry">సహాయక డయలింగ్: ఉపయోగించిన దేశం కోడ్ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">సహాయక డయలింగ్ ఉపయోగించబడింది</string>
+  <string name="rtt_transcript_not_available">లిపి మార్పు సందేశంతో కూడిన కాల్‌లకు మాత్రమే అందుబాటులో ఉంది</string>
+  <string name="rtt_transcript_link">లిపి మార్పును చూడండి</string>
+</resources>

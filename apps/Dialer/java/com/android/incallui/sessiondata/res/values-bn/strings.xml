@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">ফটো দেখানোর জন্য উত্তর দিন</string>
+  <string name="spam_message_text">বার্তা দেখানোর জন্য উত্তর দিন</string>
+</resources>

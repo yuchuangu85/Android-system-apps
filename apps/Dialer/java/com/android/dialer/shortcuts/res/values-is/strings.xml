@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Nýr tengiliður</string>
+  <string name="dialer_shortcut_add_contact_long">Nýr tengiliður</string>
+  <string name="dialer_shortcut_disabled_message">Flýtileið virkar ekki. Dragðu til að fjarlægja.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Tengiliður ekki lengur tiltækur.</string>
+  <string name="dialer_shortcut_no_permissions">Ekki er hægt að hringja án heimilda.</string>
+</resources>

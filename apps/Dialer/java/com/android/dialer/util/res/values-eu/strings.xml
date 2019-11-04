@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Soinu lehenetsia (%1$s)</string>
+  <string name="ringtone_silent">Bat ere ez</string>
+  <string name="ringtone_unknown">Tonu ezezaguna</string>
+  <string name="activity_not_available">Ez dago hori egin dezakeen aplikaziorik gailu honetan</string>
+  <string name="outgoing_wps_warning">WPS dei bat egiten baduzu, eten egingo da uneko deia.</string>
+  <string name="dialog_continue">Egin aurrera</string>
+  <string name="camera_privacy_text">Kamera atzitzeko baimena eman da</string>
+</resources>

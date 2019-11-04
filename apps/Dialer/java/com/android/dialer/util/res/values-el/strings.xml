@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Προεπιλεγμένος ήχος (%1$s)</string>
+  <string name="ringtone_silent">Κανένας</string>
+  <string name="ringtone_unknown">Άγνωστος ήχος κλήσης</string>
+  <string name="activity_not_available">Δεν υπάρχει εφαρμογή γι\' αυτήν την ενέργεια σε αυτήν τη συσκευή</string>
+  <string name="outgoing_wps_warning">Η διενέργεια κλήσης μέσω WPS θα αποσυνδέσει την υφιστάμενη κλήση.</string>
+  <string name="dialog_continue">Συνέχεια</string>
+  <string name="camera_privacy_text">Το δικαίωμα χρήσης της κάμερας έχει ενεργοποιηθεί</string>
+</resources>

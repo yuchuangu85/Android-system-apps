@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">वापस नेविगेट करें</string>
+  <string name="description_dialpad_overflow">अधिक विकल्प</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">प्लस डायल करें</string>
+  <string name="description_voicemail_button">वॉइसमेल पर कॉल करें</string>
+  <string name="description_dial_button">डायल करें</string>
+  <string name="dialog_voicemail_airplane_mode_message">वॉइसमेल कॉल करने के लिए, पहले हवाई जहाज़ मोड बंद करें.</string>
+  <string name="dialog_voicemail_not_ready_message">वॉइसमेल सेट अप करने के लिए, मेनू &gt; सेटिंग पर जाएं.</string>
+  <string name="add_2sec_pause">2-सेकंड का विराम जोड़ें</string>
+  <string name="add_wait">प्रतीक्षा का समय बढ़ाएं</string>
+  <string name="dialer_useDtmfDialpad">टच-टोन कीपैड का उपयोग करें</string>
+  <string name="dialer_returnToInCallScreen">कॉल पर लौटने का कार्य प्रगति पर</string>
+  <string name="dialer_addAnotherCall">कॉल जोड़ें</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">SIM कार्ड से लोड हो रहा है…</string>
+  <string name="simContacts_title">SIM कार्ड के संपर्क</string>
+  <string name="menu_callNumber">%s पर कॉल करें</string>
+  <string name="dialpad_hint_emergency_calling_not_available">वाई-फ़ाई के ज़रिए आपातकालीन कॉल नहीं किए जा सकते</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">इस नंबर पर कॉल नहीं किया जा सकता</string>
+</resources>

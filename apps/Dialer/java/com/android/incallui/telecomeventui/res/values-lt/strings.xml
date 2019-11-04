@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Rodyti įspėjimą kiekvieną kartą</string>
+  <string name="details">Skambinate tarptautiniu numeriu, todėl gali būti taikomi mokesčiai.</string>
+</resources>

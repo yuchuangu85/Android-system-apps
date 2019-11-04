@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">选择号码</string>
+  <string name="call_disambig_title">选择号码</string>
+  <string name="make_primary">记住此选择</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Σύρετε προς τα επάνω για απάντηση</string>
+  <string name="call_incoming_swipe_to_reject">Σύρετε προς τα κάτω για απόρριψη της κλήσης</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Σύρετε με δύο δάχτυλα προς τα πάνω, για να απαντήσετε ή προς τα κάτω, για να απορρίψετε την κλήση.</string>
+  <string name="call_incoming_will_disconnect">Αν απαντήσετε σε αυτήν την κλήση θα τερματιστεί η βιντεοκλήση σας</string>
+  <string name="a11y_call_incoming_decline_description">Απόρριψη</string>
+  <string name="call_incoming_decline">Απόρριψη</string>
+  <string name="a11y_call_incoming_answer_description">Απάντηση</string>
+  <string name="call_incoming_answer">Απάντηση</string>
+</resources>

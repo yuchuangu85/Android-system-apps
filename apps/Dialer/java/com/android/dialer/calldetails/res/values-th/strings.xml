@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">รายละเอียดการโทร</string>
+  <string name="delete">ลบ</string>
+  <string name="call_details_copy_number">คัดลอกหมายเลข</string>
+  <string name="call_details_edit_number">แก้ไขหมายเลขก่อนโทร</string>
+  <string name="call_details_report_call_id">รายงานหมายเลขที่ผิดพลาด</string>
+  <string name="sent_a_photo">ส่งรูปภาพแล้ว</string>
+  <string name="received_a_photo">ได้รับรูปภาพแล้ว</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">รายงานหมายเลขที่ไม่ถูกต้อง</string>
+  <string name="report_caller_id_failed">ไม่สามารถรายงานหมายเลข</string>
+  <string name="report_caller_id_toast">รายงานหมายเลขแล้ว</string>
+  <string name="assisted_dialing_country_code_entry">ระบบช่วยโทร: ใช้รหัสประเทศ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">ใช้ระบบช่วยโทรแล้ว</string>
+  <string name="rtt_transcript_not_available">การถอดเสียงใช้ได้กับการโทรผ่านแชทเท่านั้น</string>
+  <string name="rtt_transcript_link">ดูการถอดเสียง</string>
+</resources>

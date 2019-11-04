@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="ActionBarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">?android:textColorSecondary</item>
+    </style>
+
+    <style name="ActionModeStyle" parent="Widget.AppCompat.ActionMode">
+        <!-- attr "height" was used by support lib should not in overlay scope -->
+        <item name="height">@dimen/action_bar_space_height</item>
+        <item name="titleTextStyle">@style/ToolbarTitle</item>
+        <item name="android:layout_margin">@dimen/search_bar_margin</item>
+    </style>
+
+    <style name="CardViewStyle" parent="@style/Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/app_background_color</item>
+        <item name="cardPreventCornerOverlap">false</item>
+        <item name="cardCornerRadius">@dimen/grid_item_radius</item>
+        <item name="cardElevation">@dimen/grid_item_elevation</item>
+    </style>
+
+    <style name="TrimmedHorizontalProgressBar" parent="android:Widget.Material.ProgressBar.Horizontal">
+        <item name="android:indeterminateDrawable">@drawable/progress_indeterminate_horizontal_material_trimmed</item>
+        <item name="android:minHeight">3dp</item>
+        <item name="android:maxHeight">3dp</item>
+    </style>
+
+    <style name="SnackbarButtonStyle" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">?android:colorPrimary</item>
+    </style>
+
+    <style name="AutoCompleteTextViewStyle" parent="@style/Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:textAppearance">@style/AutoCompleteText</item>
+    </style>
+
+    <style name="BottomSheetDialogStyle" parent="@style/ThemeOverlay.MaterialComponents.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="bottomSheetStyle">@style/BottomSheet</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+    </style>
+
+    <style name="BottomSheet" parent="@style/Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/bottom_sheet_dialog_background</item>
+    </style>
+
+    <style name="OverflowButtonStyle" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">?android:colorControlNormal</item>
+        <item name="android:minWidth">@dimen/button_touch_size</item>
+    </style>
+
+    <style name="OverflowMenuStyle" parent="@style/Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:overlapAnchor">false</item>
+    </style>
+
+    <style name="MaterialAlertDialogTitleStyle" parent="@style/MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked">
+        <item name="android:textColor">?attr/colorOnSurface</item>
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@string/config_fontFamilyMedium</item>
+    </style>
+
+    <style name="MaterialButton" parent="@style/Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="android:textAppearance">@style/MaterialButtonTextAppearance</item>
+    </style>
+
+    <style name="MaterialOutlinedButton" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textAppearance">@style/MaterialButtonTextAppearance</item>
+    </style>
+
+    <style name="DialogTextButton" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textAppearance">@style/MaterialButtonTextAppearance</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="@style/ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="buttonBarPositiveButtonStyle">@style/DialogTextButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/DialogTextButton</item>
+    </style>
+
+    <style name="MaterialAlertDialogTheme" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Centered">
+        <item name="android:dialogCornerRadius">@dimen/grid_item_radius</item>
+        <item name="buttonBarPositiveButtonStyle">@style/DialogTextButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/DialogTextButton</item>
+        <item name="materialAlertDialogTitleTextStyle">@style/MaterialAlertDialogTitleStyle</item>
+    </style>
+</resources>

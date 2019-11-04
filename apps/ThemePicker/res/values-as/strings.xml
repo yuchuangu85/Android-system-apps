@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"শৈলী আৰু ৱালপেপাৰ"</string>
+    <string name="theme_title" msgid="2144932106319405101">"শৈলী"</string>
+    <string name="clock_title" msgid="2126046720254613991">"ঘড়ী"</string>
+    <string name="grid_title" msgid="2825094404523390773">"গ্ৰিড"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"ৱালপেপাৰ"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"প্ৰয়োগ কৰক"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"সম্পাদনা কৰিবলৈ টিপক"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"বৰ্তমানৰ ৱালপেপাৰখন ৰাখক"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"প্ৰয়োগ কৰক"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"পৃষ্ঠা <xliff:g id="ID_2">%2$d</xliff:g>ৰ <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"পৰৱৰ্তী"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"আগৰ"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"বৰ্তমান <xliff:g id="ID_1">%1$s</xliff:g> প্ৰয়োগ কৰা হৈছে"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>, বৰ্তমান প্ৰয়োগ আৰু পূৰ্বদৰ্শন কৰি থকা হৈছে"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>, বৰ্তমান পূৰ্বদৰ্শন কৰি থকা হৈছে"</string>
+    <string name="theme_description" msgid="3697012391785254635">"ফ’ণ্ট: <xliff:g id="ID_1">%1$s</xliff:g>, আইকন: <xliff:g id="ID_2">%2$s</xliff:g>, আকৃতি: <xliff:g id="ID_3">%3$s</xliff:g>, ৰং: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"ডিফ’ল্ট"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"ফ’ণ্ট"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"আইকন"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"ৰং"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"আকৃতি"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"ৱালপেপাৰ"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"প্ৰত্যেকখন স্ক্ৰীণত আপোনাৰ প্ৰিয় ফণ্ট যোগ কৰক"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"শৈলী প্ৰয়োগ কৰা হ’ল"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"ঘড়ী প্ৰয়োগ কৰা হ’ল"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"শৈলীটো প্ৰয়োগ কৰোঁতে কিবা সমস্যা হৈছে"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"পৰৱৰ্তী"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"পূৰ্বৱৰ্তী"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"কাষ্টম <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"কাষ্টম শৈলী"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"মচক"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"ফ’ণ্ট বাছনি কৰক"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"আইকন বাছনি কৰক"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"ৰং বাছনি কৰক"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"আকৃতি বাছনি কৰক"</string>
+    <string name="name_component_title" msgid="532425087968663437">"আপোনাৰ শৈলীৰ নাম দিয়ক"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"আইকন <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"কাষ্টম শৈলী মচিবনে?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"মচক"</string>
+    <string name="cancel" msgid="4651030493668562067">"বাতিল কৰক"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"শৈলীযুক্ত ৱালপেপাৰ ছেট কৰক"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"ইয়াৰ পৰিৱৰ্তে <xliff:g id="ID_1">%1$s</xliff:g> ব্যৱহাৰ কৰিবনে?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"আপুনি বাছনি কৰা উপাদানসমূহ <xliff:g id="ID_1">%1$s</xliff:g>ৰ শৈলীৰ লগত মিলে। আপুনি ইয়াৰ পৰিৱৰ্তে <xliff:g id="ID_2">%1$s</xliff:g> ব্যৱহাৰ কৰিবলৈ বিচাৰিবনে?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"<xliff:g id="ID_1">%1$s</xliff:g> ব্যৱহাৰ কৰক"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"নালাগে, ধন্যবাদ"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> ঘড়ীৰ পূৰ্বদৰ্শন"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"দুঃখিত! কিবা ভুল হ’ল।"</string>
+</resources>

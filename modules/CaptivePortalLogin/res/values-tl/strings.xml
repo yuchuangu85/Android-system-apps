@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Gamitin ang network na ito nang walang pagbabago"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Huwag gamitin ang network na ito"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Mag-sign in sa network"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Mag-sign in sa %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"May mga isyu sa seguridad ang network kung saan mo sinusubukang sumali."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Halimbawa, maaaring hindi sa organisasyong ipinapakita ang page sa pag-log in."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Magpatuloy pa rin sa pamamagitan ng browser"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Ang certificate na ito ay mula sa hindi pinagkakatiwalaang awtoridad."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Ang pangalan ng site ay hindi tumutugma sa pangalan sa certificate."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Nag-expire na ang certificate na ito."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Hindi pa valid ang certificate na ito."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"May invalid na petsa ang certificate na ito."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Invalid ang certificate na ito."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Hindi kilalang error sa certificate."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Babala sa seguridad"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Tingnan ang certificate"</string>
+    <string name="ok" msgid="6584612582120777209">"OK"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Address:"</string>
+    <string name="page_info" msgid="46593086046896385">"Impormasyon ng page"</string>
+</resources>

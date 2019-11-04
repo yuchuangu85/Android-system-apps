@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Yaqin-atrofdagi joylar</string>
+  <string name="search_location_permission">Yon-atrofingizdagi joylarning aloqa ma’lumotlarini olish uchun geoaxborotingizga kirishga ruxsat bering.</string>
+  <string name="nearby_places_allow">Ruxsat berish</string>
+  <string name="nearby_places_dismiss">Yopish</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">ಸಂಖ್ಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="call_disambig_title">ಸಂಖ್ಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="make_primary">ಈ ಆಯ್ಕೆಯನ್ನು ನೆನಪಿಡಿ</string>
+</resources>

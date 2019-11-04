@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Mostrar o aviso sempre</string>
+  <string name="details">Você está ligando para um número internacional sujeito a cobrança.</string>
+</resources>

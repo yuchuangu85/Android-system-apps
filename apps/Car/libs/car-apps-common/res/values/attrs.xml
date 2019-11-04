@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <!-- Attributes for the ClickThroughToolbar. -->
+    <declare-styleable name="ClickThroughToolbar">
+        <!-- Whether or not clicks on this toolbar will pass through to an underlying view. This
+             value is false by default. -->
+        <attr name="clickThrough" format="boolean"/>
+    </declare-styleable>
+
+    <!-- Attributes for the ControlBar. -->
+    <declare-styleable name="ControlBar">
+        <!-- The number of horizontal slots. The minimum number is 3. -->
+        <attr name="columns" format="integer" />
+        <!-- Whether the overflow button enabled or not. -->
+        <attr name="enableOverflow" format="boolean" />
+    </declare-styleable>
+
+    <!-- Attributes for grid items. -->
+    <declare-styleable name="GridItems">
+        <!-- The preferred TextAppearance for the primary text of grid items. -->
+        <attr name="textAppearanceGridItem" format="reference" />
+        <!-- The preferred TextAppearance for the secondary text of grid items. -->
+        <attr name="textAppearanceGridItemSecondary" format="reference" />
+    </declare-styleable>
+
+    <!-- Attributes for tab layout. -->
+    <declare-styleable name="CarTabLayout">
+        <attr name="tabPaddingX" format="reference|dimension"/>
+        <attr name="tabFlexibleLayout" format="reference|boolean"/>
+        <attr name="tabItemLayout" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="PagedRecyclerView">
+        <!-- Whether to include a gutter to the start, end or both sides of the list view items.
+             The gutter width will be the width of the scrollbar, and by default will be set to
+             both. -->
+        <attr name="gutter" format="enum">
+            <!-- No gutter on either side, the list view items will extend the full width of the
+                 PagedRecyclerView. -->
+            <enum name="none" value="0" />
+            <!-- Include a gutter on the start side only (i.e. the side with the scrollbar). -->
+            <enum name="start" value="1" />
+            <!-- Include a gutter on the end side only (i.e. the opposite side to the
+                 scrollbar). -->
+            <enum name="end" value="2" />
+            <!-- Include a gutter on both sides of the list view items. -->
+            <enum name="both" value="3" />
+        </attr>
+        <!-- Position of the scrollbar. Default to left. -->
+        <attr name="scrollBarPosition" format="enum">
+            <!-- Position scrollbar on the left side of the screen -->
+            <enum name="start" value="0" />
+            <!-- Position scrollbar on the right side of the screen -->
+            <enum name="end" value="1" />
+        </attr>
+        <!-- Whether to display the Scroll Bar or not. Defaults to true. If this is set to false,
+             the PagedRecyclerView will behave exactly like the RecyclerView. -->
+        <attr name="scrollBarEnabled" format="boolean" />
+        <!-- Whether to place the scrollbar z-index above the recycler view. Defaults to
+             true. -->
+        <attr name="scrollBarAboveRecyclerView" format="boolean" />
+        <!-- Width of the scrollbar container. -->
+        <attr name="scrollBarContainerWidth" format="dimension" />
+        <!-- Custom Scrollbar class path -->
+        <attr name="scrollBarCustomClass" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="PagedRecyclerViewTheme">
+        <attr name="pagedRecyclerViewStyle" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CrossfadeImageView">
+        <attr name="align_horizontal" format="enum">
+            <enum name="center" value="0"/>
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <!-- Attributes for UX restrictions compliant Button. -->
+    <declare-styleable name="UxrButton">
+        <attr name="carUxRestrictions">
+            <!-- Values are copied from android.car.drivingstate.CarUxRestrictions. Note:
+            UX_RESTRICTIONS_BASELINE is not allowed here because it's useless and confusing. -->
+            <flag name="UX_RESTRICTIONS_NO_DIALPAD" value="1"/>
+            <flag name="UX_RESTRICTIONS_NO_FILTERING" value="2"/>
+            <flag name="UX_RESTRICTIONS_LIMIT_STRING_LENGTH" value="4"/>
+            <flag name="UX_RESTRICTIONS_NO_KEYBOARD" value="8"/>
+            <flag name="UX_RESTRICTIONS_NO_VIDEO" value="16"/>
+            <flag name="UX_RESTRICTIONS_LIMIT_CONTENT" value="32"/>
+            <flag name="UX_RESTRICTIONS_NO_SETUP" value="64"/>
+            <flag name="UX_RESTRICTIONS_NO_TEXT_MESSAGE" value="128"/>
+            <flag name="UX_RESTRICTIONS_NO_VOICE_TRANSCRIPTION" value="256"/>
+            <flag name="UX_RESTRICTIONS_FULLY_RESTRICTED" value="511"/>
+        </attr>
+        <attr name="state_ux_restricted" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="BackgroundImageView">
+        <!-- Sets a scale to be applied on top of the scaling that was used to fit the image to the frame of the view. Defaults to 1.05 -->
+        <attr name="imageAdditionalScale" format="float"/>
+    </declare-styleable>
+    <!-- Attribute for specifying a default style for all BackgroundImageViews -->
+    <attr name="backgroundImageViewStyle" format="reference"/>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">ஒவ்வொரு முறையும் எச்சரிக்கையைக் காட்டு</string>
+  <string name="details">சர்வதேச எண்ணை அழைக்கிறீர்கள், பேமெண்ட்கள் விதிக்கப்படலாம்.</string>
+</resources>

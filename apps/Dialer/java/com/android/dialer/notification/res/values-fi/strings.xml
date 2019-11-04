@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Saapuvat puhelut</string>
+  <string name="notification_channel_ongoing_call">Käynnissä olevat puhelut</string>
+  <string name="notification_channel_missed_call">Vastaamattomat puhelut</string>
+  <string name="notification_channel_voicemail">Vastaajaviestit</string>
+  <string name="notification_channel_misc">Oletus</string>
+</resources>

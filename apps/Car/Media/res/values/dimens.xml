@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2016, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <!-- Music -->
+    <item name="media_scrim_alpha" format="float" type="dimen">0.6</item>
+    <item name="media_scrim_darkened_alpha" format="float" type="dimen">0.9</item>
+    <item name="media_background_alpha" format="float" type="dimen">0.78</item>
+    <dimen name="apps_max_content_width">748dp</dimen>
+
+    <!-- Music now playing screen -->
+    <dimen name="music_action_icon_inset">0dp</dimen>
+    <dimen name="music_action_ripple_inset">32dp</dimen>
+
+    <dimen name="missing_permission_icon_size">128dp</dimen>
+
+    <dimen name="controls_tap_target_width">64dp</dimen>
+    <dimen name="controls_tap_target_height">64dp</dimen>
+    <dimen name="controls_margin">46dp</dimen>
+    <dimen name="controls_spacing_inner">16dp</dimen>
+    <dimen name="controls_spacing_outer">81dp</dimen>
+
+    <!-- Playback seekbar height -->
+    <dimen name="playback_seekbar_height">76dp</dimen>
+    <!-- Playback seekbar track height -->
+    <dimen name="playback_seekbar_track_height">4dp</dimen>
+    <!-- Size of the thumb in the playback seekbar -->
+    <dimen name="playback_seekbar_thumb_height">16dp</dimen>
+    <dimen name="playback_seekbar_thumb_width">16dp</dimen>
+    <dimen name="playback_seekbar_thumb_offset">0px</dimen>
+    <!-- Paddings of playback seekbar -->
+    <dimen name="playback_seekbar_padding_x">0dp</dimen>
+    <!-- x-axis margin of playback seekbar -->
+    <dimen name="playback_seekbar_margin_x">@*android:dimen/car_margin</dimen>
+    <!-- Image size used to generate the background -->
+    <dimen name="playback_background_raw_image_size">300px</dimen>
+
+
+    <!-- Blurring radius used to blur background images -->
+    <item name="playback_background_blur_radius" format="float" type="dimen">25</item>
+    <!-- Scale to apply to images before blurring them to create the playback background -->
+    <item name="playback_background_blur_scale" format="float" type="dimen">.5</item>
+    <!-- Size of the album art thumbnail -->
+    <dimen name="playback_album_art_size">226dp</dimen>
+    <!-- End margin of playback queue button -->
+    <dimen name="playback_queue_button_margin_end">@*android:dimen/car_padding_2</dimen>
+
+    <!-- Tab height -->
+    <dimen name="browse_tab_height">76dp</dimen>
+    <!-- Tab max width -->
+    <dimen name="browse_tab_width">134dp</dimen>
+    <!-- Tab Padding -->
+    <dimen name="browse_tab_padding">@*android:dimen/car_padding_4</dimen>
+    <!-- Browse playback controls size -->
+    <dimen name="browse_playback_controls_height">192dp</dimen>
+    <!-- Selected tab alpha -->
+    <item name="browse_tab_alpha_selected" format="float" type="dimen">1</item>
+    <!-- Unselected tab alpha -->
+    <item name="browse_tab_alpha_unselected" format="float" type="dimen">0.5</item>
+
+    <!-- appbar_view.xml -->
+    <dimen name="appbar_view_nav_button_width">@*android:dimen/car_margin</dimen>
+    <dimen name="appbar_view_tabs_margin_start">@*android:dimen/car_padding_4</dimen>
+    <dimen name="appbar_view_tabs_margin_end">@*android:dimen/car_padding_3</dimen>
+    <dimen name="appbar_view_control_buttons_spacing">@*android:dimen/car_padding_3</dimen>
+    <dimen name="appbar_view_control_buttons_margin_end">@*android:dimen/car_padding_2</dimen>
+    <dimen name="appbar_view_title_margin_start">@dimen/appbar_view_nav_button_width</dimen>
+
+    <!-- browse_state.xml -->
+    <dimen name="browse_state_progress_height">@*android:dimen/car_double_line_list_item_height
+    </dimen>
+    <dimen name="browse_state_error_margin_top">@*android:dimen/car_padding_4</dimen>
+
+    <!-- media_activity.xml -->
+    <dimen name="media_activity_controls_container_padding">@*android:dimen/car_padding_4</dimen>
+    <dimen name="media_activity_controls_margin_start">@*android:dimen/car_padding_4</dimen>
+
+    <!-- BrowseFragment.java -->
+    <!-- Spacer used between the app bar and the top of the browse list/grid -->
+    <dimen name="browse_spacer_height">@*android:dimen/car_padding_2</dimen>
+    <dimen name="grid_item_spacing">@*android:dimen/car_padding_3</dimen>
+
+    <!--  Space between title and subtitle on media browse list/grid  -->
+    <dimen name="media_browse_subtitle_margin_top">@*android:dimen/car_padding_0</dimen>
+
+    <!-- media_browse_grid_item.xml -->
+    <dimen name="media_browse_grid_item_margin_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="media_browse_grid_item_text_margin_top">@*android:dimen/car_padding_3</dimen>
+    <dimen name="media_browse_grid_item_background_radius">4dp</dimen>
+
+    <!-- media_browse_header_item.xml -->
+    <dimen name="media_browse_header_item_height">76dp</dimen>
+    <dimen name="media_browse_header_item_margin_x">0dp</dimen>
+
+    <!-- media_browse_list_item.xml -->
+    <dimen name="media_browse_list_item_height">116dp</dimen>
+    <dimen name="media_browse_list_item_thumbnail_size">76dp</dimen>
+    <dimen name="media_browse_list_item_text_margin_x">@*android:dimen/car_keyline_4</dimen>
+    <dimen name="media_browse_list_item_icon_margin_start">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="media_browse_list_item_arrow_size">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="media_browse_list_item_thumbnail_margin_bottom">1dp</dimen>
+
+    <!-- media_browse_panel_item.xml -->
+    <dimen name="media_browse_panel_item_height">@*android:dimen/car_single_line_list_item_height
+    </dimen>
+    <dimen name="media_browse_panel_item_margin_x">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="media_browse_panel_item_icon_size">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="media_browse_panel_item_icon_margin_end">32dp</dimen>
+    <dimen name="media_browse_panel_item_title_margin_bottom">2dp</dimen>
+
+    <!-- media_browse_icon.xml-->
+    <dimen name="media_browse_indicator_size">25dp</dimen>
+
+    <!-- metadata_normal.xml -->
+    <dimen name="metadata_title_subtitle_margin">@*android:dimen/car_padding_2</dimen>
+    <dimen name="metadata_subtitles_margin">@*android:dimen/car_padding_2</dimen>
+    <dimen name="art_metadata_margin">48dp</dimen>
+
+    <!-- browse_playback_background.xml -->
+    <dimen name="browse_playback_background_radius">@*android:dimen/car_radius_2</dimen>
+    <dimen name="browse_playback_album_art_margin_start">@*android:dimen/car_padding_2</dimen>
+    <dimen name="browse_playback_album_art_margin_end">@*android:dimen/car_padding_4</dimen>
+    <dimen name="browse_playback_text_margin_bottom">@*android:dimen/car_padding_1</dimen>
+
+    <!-- tab_view.xml -->
+    <dimen name="tab_view_icon_size">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="tab_view_icon_margin_bottom">@*android:dimen/car_padding_1</dimen>
+
+    <!-- fragment_error.xml -->
+    <dimen name="fragment_error_button_margin_top">@*android:dimen/car_padding_5</dimen>
+    <dimen name="fragment_error_message_margin_x">@*android:dimen/car_margin</dimen>
+
+    <!-- fragment_playback.xml -->
+    <!-- The length of playback queue fading edge, equals 0.1 * window_height. -->
+    <dimen name="queue_fading_edge_length">81dp</dimen>
+    <dimen name="fragment_metadata_queue_divider_margin">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="fragment_playback_queue_overlap_top">@*android:dimen/car_padding_4</dimen>
+    <dimen name="fragment_playback_queue_overlap_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="fragment_metadata_margin_x">@*android:dimen/car_margin</dimen>
+    <dimen name="playback_title_margin_end">@*android:dimen/car_padding_3</dimen>
+
+    <!-- PlaybackFragment.java -->
+    <dimen name="playback_queue_list_padding_top">@*android:dimen/car_padding_4</dimen>
+
+    <!-- queue_list_item.xml -->
+    <dimen name="queue_list_item_height">116dp</dimen>
+    <dimen name="queue_list_item_padding_x">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="queue_list_item_title_time_margin">@*android:dimen/car_padding_4</dimen>
+    <dimen name="queue_list_item_thumbnail_container_width">@*android:dimen/car_keyline_4</dimen>
+    <dimen name="queue_list_item_thumbnail_size">76dp</dimen>
+    <dimen name="queue_list_item_spacer_width">@dimen/queue_list_item_padding_x</dimen>
+
+    <!-- fragment_browse.xml -->
+    <dimen name="browse_fragment_top_padding">@dimen/appbar_first_row_height</dimen>
+    <dimen name="browse_fragment_bottom_padding">@dimen/minimized_control_bar_height</dimen>
+    <!-- Top padding to use when at browse levels deeper than the first level -->
+    <dimen name="browse_fragment_top_padding_stacked">@dimen/appbar_first_row_height</dimen>
+    <item name="playback_queue_background_alpha" format="float" type="dimen">0.6</item>
+
+    <!-- fragment_search.xml -->
+    <dimen name="search_fragment_top_padding">@dimen/appbar_first_row_height</dimen>
+    <dimen name="search_fragment_bottom_padding">@dimen/minimized_control_bar_height</dimen>
+
+    <!-- ic_queue_button.xml -->
+    <dimen name="queue_button_background_size">54dp</dimen>
+
+</resources>

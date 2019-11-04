@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Блютүүт</string>
+  <string name="audioroute_speaker">Чанга яригч</string>
+  <string name="audioroute_phone">Гар утас</string>
+  <string name="audioroute_headset">Утастай чихэвч</string>
+</resources>

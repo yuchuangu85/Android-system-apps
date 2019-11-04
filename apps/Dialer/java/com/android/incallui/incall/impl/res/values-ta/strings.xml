@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">வீடியோ கால்</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">ஹோல்டில் வை</string>
+  <string name="incall_label_add_call">அழைப்பை சேர்</string>
+  <string name="incall_label_mute">முடக்கு</string>
+  <string name="incall_label_end_call">அழைப்பை முடி</string>
+  <string name="incall_label_dialpad">விசைத்தளம்</string>
+  <string name="incall_talkback_speaker_on">, ஆன்</string>
+  <string name="incall_talkback_speaker_off">, ஆஃப்</string>
+  <string name="incall_label_merge">இணை</string>
+  <string name="incall_label_manage">நிர்வகி</string>
+  <string name="a11y_description_incall_label_manage_content">அழைப்பாளர்களை நிர்வகிக்கும்</string>
+  <string name="incall_label_swap">மாற்று</string>
+  <string name="incall_label_swap_sim">சிம்மை மாற்று</string>
+  <string name="incall_note_sent">குறிப்பு அனுப்பப்பட்டது</string>
+</resources>

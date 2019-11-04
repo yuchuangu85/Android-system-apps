@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Viết tin nhắn tùy chỉnh</string>
+  <string name="toolbar_close">Đóng</string>
+  <string name="all_contacts_empty">Bạn chưa có bất kỳ liên hệ nào</string>
+  <string name="all_contacts_empty_add_contact_action">Tạo liên hệ mới</string>
+  <string name="permission_single_turn_on">Bật</string>
+  <string name="permission_no_contacts">Để xem danh bạ của bạn, bật quyền đối với Danh bạ.</string>
+  <string name="add_contact_not_available">Không có ứng dụng danh bạ</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Warnung jedes Mal anzeigen</string>
+  <string name="details">Du rufst eine Nummer im Ausland an. Hierfür können Gebühren anfallen.</string>
+</resources>

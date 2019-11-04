@@ -1,0 +1,4 @@
+<resources>
+  <string name="private_num_verizon">Obmedzené</string>
+  <string name="private_num_non_verizon">Súkromné číslo</string>
+</resources>

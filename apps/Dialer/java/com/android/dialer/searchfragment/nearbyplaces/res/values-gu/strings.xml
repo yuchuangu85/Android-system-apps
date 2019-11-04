@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">નજીકના સ્થળો</string>
+  <string name="search_location_permission">તમારી નજીકના સ્થાનોની સંપર્ક માહિતી મેળવવા માટે, તમારું સ્થાન ઍક્સેસ કરવાની મંજૂરી આપો.</string>
+  <string name="nearby_places_allow">મંજૂરી આપો</string>
+  <string name="nearby_places_dismiss">છોડી દો</string>
+</resources>

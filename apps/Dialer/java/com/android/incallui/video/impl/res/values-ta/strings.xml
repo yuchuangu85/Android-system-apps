@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">பிறரின் வீடியோ ஆஃப்</string>
+  <string name="videocall_remote_video_on">அவரின் வீடியோ இயக்கப்பட்டுள்ளது</string>
+  <string name="videocall_remotely_held">அழைப்பு ஹோல்டில்</string>
+  <string name="videocall_remotely_resumed">மீண்டும் தொடங்கப்பட்டது</string>
+  <string name="videocall_charges_alert_dialog_description">மொபைல் நெட்வொர்க்கைப் பயன்படுத்தி செய்யப்படும் வீடியோ அழைப்புகள், டேட்டா மற்றும் குரல் நிமிடங்கள் இரண்டையும் பயன்படுத்தும். கட்டணம் விதிக்கப்படலாம்.</string>
+  <string name="do_not_show_again">மீண்டும் காட்டாதே</string>
+</resources>

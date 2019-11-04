@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">UxRestrictionsSample</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="status_header" translatable="false"><u>Current Status</u></string>
+    <string name="driving_state" translatable="false">Driving State: </string>
+    <string name="is_do_reqd" translatable="false">Distraction Optimization Required? </string>
+    <string name="active_restrictions" translatable="false">Active UX Restrictions: </string>
+    <string name="uxr_config_header" translatable="false">UxR Configuration: </string>
+    <string name="action_header" translatable="false"><u>Available Actions</u></string>
+    <string name="disable_uxr" translatable="false">Disable Ux Restriction Engine</string>
+    <string name="show_staged_config" translatable="false">Show Staged Config</string>
+    <string name="show_prod_config" translatable="false">Show Production Config</string>
+    <string name="enable_passenger_mode" translatable="false">Enable Passenger Mode</string>
+    <string name="disable_passenger_mode" translatable="false">Disable Passenger Mode</string>
+    <string name="save_uxr_config_header" translatable="false"><u>Save UX Restrictions For Next Boot</u></string>
+    <string name="save_uxr_config" translatable="false">Save UX Restrictions</string>
+    <string name="set_uxr_config_dialog_title" translatable="false">Select restrictions for IDLING/MOVING</string>
+    <string name="set_uxr_config_dialog_negative_button" translatable="false">Cancel</string>
+    <string name="set_uxr_config_dialog_positive_button" translatable="false">Save UXR Config</string>
+    <string name="no_staged_config" translatable="false">There is no staged configuration found</string>
+    <string name="no_prod_config" translatable="false">There is no production configuration found</string>
+    <string name="staged_config_title" translatable="false">Staged Config</string>
+    <string name="prod_config_title" translatable="false">Production Config</string>
+    <string name="tab_baseline" translatable="false">Baseline</string>
+    <string name="tab_passenger" translatable="false">Passenger</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">啟用</string>
+  <string name="video_call_not_available_title">目前無法使用視訊通話功能</string>
+  <string name="video_call_not_available_message">請稍後再嘗試撥打電話，或以語音方式繼續進行通話。</string>
+  <string name="voice_call">語音通話</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Nabygeleë plekke</string>
+  <string name="search_location_permission">Om kontakinligting vir plekke naby jou te kry, laat toegang tot jou ligging toe.</string>
+  <string name="nearby_places_allow">Laat toe</string>
+  <string name="nearby_places_dismiss">Weier</string>
+</resources>

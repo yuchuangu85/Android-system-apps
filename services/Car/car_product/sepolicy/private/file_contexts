@@ -1,0 +1,9 @@
+/system/bin/com\.android\.car\.procfsinspector     u:object_r:procfsinspector_exec:s0
+
+
+/data/system/car(/.*)? u:object_r:system_car_data_file:s0
+
+/system/bin/car-bugreportd  u:object_r:dumpstate_exec:s0
+/dev/socket/car_br_progress_socket  u:object_r:dumpstate_socket:s0
+/dev/socket/car_br_output_socket  u:object_r:dumpstate_socket:s0
+/dev/socket/car_br_extra_output_socket u:object_r:dumpstate_socket:s0

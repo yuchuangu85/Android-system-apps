@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IME -->
+    <style name="Keyboard">
+        <item name="fontFamily">sans-serif</item>
+        <item name="textStyle">normal</item>
+        <item name="keyTextSize">@dimen/keyboard_key_letter_height</item>
+        <item name="labelTextSize">@dimen/keyboard_key_letter_height</item>
+        <item name="keyTextColorPrimary">?android:attr/textColorPrimary</item>
+        <item name="keyTextColorSecondary">?android:attr/textColorSecondary</item>
+        <item name="keyBackground">@drawable/keyboard_key_background</item>
+    </style>
+</resources>

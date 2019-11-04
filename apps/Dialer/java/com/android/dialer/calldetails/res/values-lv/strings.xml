@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Detalizēta informācija par zvanu</string>
+  <string name="delete">Dzēst</string>
+  <string name="call_details_copy_number">Kopēt numuru</string>
+  <string name="call_details_edit_number">Rediģēt numuru pirms zvanīšanas</string>
+  <string name="call_details_report_call_id">Ziņot par neprecīzu numuru</string>
+  <string name="sent_a_photo">Nosūtīja fotoattēlu</string>
+  <string name="received_a_photo">Saņēma fotoattēlu</string>
+  <string name="message_in_quotes">“%1$s”</string>
+  <string name="report_caller_id_dialog_title">Ziņošana par nepareizu numuru</string>
+  <string name="report_caller_id_failed">Nevarēja nosūtīt ziņojumu par numuru</string>
+  <string name="report_caller_id_toast">Ziņojums par numuru nosūtīts</string>
+  <string name="assisted_dialing_country_code_entry">Numura sastādīšanas palīdzība: izmantots valsts kods +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Tika izmantota numura sastādīšanas palīdzība</string>
+  <string name="rtt_transcript_not_available">Transkripcija ir pieejama tikai zvaniem ar ziņojumapmaiņu.</string>
+  <string name="rtt_transcript_link">Skatīt transkripciju</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">ಬ್ಲೂಟೂತ್‌</string>
+  <string name="audioroute_speaker">ಸ್ಪೀಕರ್‌</string>
+  <string name="audioroute_phone">ಫೋನ್</string>
+  <string name="audioroute_headset">ವೈರ್ಡ್ ಹೆಡ್‌ಸೆಟ್‌</string>
+</resources>

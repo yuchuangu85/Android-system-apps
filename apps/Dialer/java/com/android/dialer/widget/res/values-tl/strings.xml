@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Sumulat ng custom na mensahe</string>
+  <string name="toolbar_close">Isara</string>
+  <string name="all_contacts_empty">Wala ka pang sinumang contact</string>
+  <string name="all_contacts_empty_add_contact_action">Gumawa ng bagong contact</string>
+  <string name="permission_single_turn_on">I-on</string>
+  <string name="permission_no_contacts">Upang makita ang iyong mga contact, i-on ang pahintulot ng Mga Contact.</string>
+  <string name="add_contact_not_available">Walang available na app ng mga contact</string>
+</resources>

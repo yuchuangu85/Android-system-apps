@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Zvanu nodrošina %s</string>
+  <string name="incall_calling_on_same_carrier_template">Zvana, izmantojot to pašu mobilo sakaru operatoru: %s</string>
+  <string name="incall_calling_on_recent_choice_template">Zvana, izmantojot nesen izvēlēto mobilo sakaru operatoru: %s</string>
+  <string name="incall_connecting">Notiek zvanīšana…</string>
+  <string name="incall_connecting_assited_dialed">Zvana, izmantojot +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Izmanto +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Notiek pārsūtīšana…</string>
+  <string name="incall_video_call_requesting">Mobilo sakaru operatora videozvans…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi pakalpojuma nodrošinātāja videozvans…</string>
+  <string name="incall_video_call_upgrade_request">Notiek pārslēgšanās uz mobilo sakaru operatora videozvanu…</string>
+  <string name="incall_video_call_request_failed">Nevar izveidot savienojumu</string>
+  <string name="incall_video_call_request_rejected">Zvans ir noraidīts</string>
+  <string name="incall_video_call_request_timed_out">Iestājās zvana noildze</string>
+  <string name="incall_hanging_up">Tiek nolikta klausule</string>
+  <string name="incall_call_ended">Zvans ir pabeigts</string>
+  <string name="incall_remotely_held">Aizturēts</string>
+  <string name="contact_grid_incoming_video_call">Mobilo sakaru operatora videozvans no</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi pakalpojuma nodrošinātāja videozvans no</string>
+  <string name="contact_grid_incoming_voice_call">Zvans no:</string>
+  <string name="contact_grid_incoming_work_call">Darba zvans no:</string>
+  <string name="contact_grid_incoming_via_template">Ienākošie zvani, ko nodrošina %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Nevēlams zvanītājs</string>
+  <string name="contact_grid_callback_number">Šis tālruņa numurs: %1$s</string>
+</resources>

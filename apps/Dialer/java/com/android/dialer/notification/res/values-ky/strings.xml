@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Кирүүчү чалуулар</string>
+  <string name="notification_channel_ongoing_call">Учурдагы чалуулар</string>
+  <string name="notification_channel_missed_call">Кабыл алынбаган чалуулар</string>
+  <string name="notification_channel_voicemail">Үнкаттар</string>
+  <string name="notification_channel_misc">Демейки</string>
+</resources>

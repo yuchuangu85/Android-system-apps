@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Yeni kişi</string>
+  <string name="dialer_shortcut_add_contact_long">Yeni kişi</string>
+  <string name="dialer_shortcut_disabled_message">Kısayol çalışmıyor. Kaldırmak için sürükleyin.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kişi artık kullanılamıyor.</string>
+  <string name="dialer_shortcut_no_permissions">İzinler olmadan sesli arama yapılamaz.</string>
+</resources>

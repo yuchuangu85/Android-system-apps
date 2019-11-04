@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Domyślny dźwięk (%1$s)</string>
+  <string name="ringtone_silent">Brak</string>
+  <string name="ringtone_unknown">Nieznany dzwonek</string>
+  <string name="activity_not_available">Na urządzeniu nie ma aplikacji, która mogłaby wykonać tę czynność</string>
+  <string name="outgoing_wps_warning">Jeśli nawiążesz połączenie WPS, bieżące połączenie zostanie przerwane.</string>
+  <string name="dialog_continue">Dalej</string>
+  <string name="camera_privacy_text">Uprawnienia do korzystania z aparatu zostały włączone</string>
+</resources>

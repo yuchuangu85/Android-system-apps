@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">इनकमिंग कॉल</string>
+  <string name="notification_channel_ongoing_call">चल रहे कॉल</string>
+  <string name="notification_channel_missed_call">छूटे कॉल</string>
+  <string name="notification_channel_voicemail">वॉइसमेल</string>
+  <string name="notification_channel_misc">डिफ़ॉल्ट</string>
+</resources>

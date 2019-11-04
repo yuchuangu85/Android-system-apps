@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Pozivanje putem operatera %s</string>
+  <string name="incall_calling_on_same_carrier_template">Pozivanje putem istog operatera %s</string>
+  <string name="incall_calling_on_recent_choice_template">Pozivanje prema posljednjem odabiru operatera %s</string>
+  <string name="incall_connecting">Pozivanje…</string>
+  <string name="incall_connecting_assited_dialed">Pozivanje broja +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Upotrebljava se +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Prenošenje...</string>
+  <string name="incall_video_call_requesting">Uspostavljanje videopoziva putem mobilnog operatera...</string>
+  <string name="incall_wifi_video_call_requesting">Uspostavljanje Wi-Fi videpoziva putem mobilnog operatera…</string>
+  <string name="incall_video_call_upgrade_request">Prebacivanje na videopoziv putem mobilnog operatera…</string>
+  <string name="incall_video_call_request_failed">Povezivanje nije moguće</string>
+  <string name="incall_video_call_request_rejected">Poziv je odbijen</string>
+  <string name="incall_video_call_request_timed_out">Poziv je istekao</string>
+  <string name="incall_hanging_up">Prekidanje veze</string>
+  <string name="incall_call_ended">Poziv je završio</string>
+  <string name="incall_remotely_held">Na čekanju</string>
+  <string name="contact_grid_incoming_video_call">Videopoziv putem mobilnog operatera od</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi videopoziv putem mobilnog operatera od</string>
+  <string name="contact_grid_incoming_voice_call">Poziv s broja</string>
+  <string name="contact_grid_incoming_work_call">Poslovni poziv s broja</string>
+  <string name="contact_grid_incoming_via_template">Dolazni pozivi putem davatelja %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Mogući neželjeni pozivatelj</string>
+  <string name="contact_grid_callback_number">Broj ovog telefona: %1$s</string>
+</resources>

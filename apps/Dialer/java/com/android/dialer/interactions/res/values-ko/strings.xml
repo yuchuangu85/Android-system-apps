@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">번호 선택</string>
+  <string name="call_disambig_title">번호 선택</string>
+  <string name="make_primary">이 선택사항 저장</string>
+</resources>

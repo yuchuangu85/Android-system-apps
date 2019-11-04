@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Відео абон. вимкнено</string>
+  <string name="videocall_remote_video_on">Відео співрозмовника ввімкнено</string>
+  <string name="videocall_remotely_held">Виклик утримується</string>
+  <string name="videocall_remotely_resumed">Дзвінок відновлено</string>
+  <string name="videocall_charges_alert_dialog_description">Для відеовикликів, здійснених через мобільну мережу, використовуються хвилини, надані мобільним оператором, і мобільний трафік. Може стягуватися плата.</string>
+  <string name="do_not_show_again">Більше не показувати</string>
+</resources>

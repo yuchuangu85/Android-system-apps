@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Video ir izslēgts</string>
+  <string name="videocall_remote_video_on">Dalībnieku video ir ieslēgts</string>
+  <string name="videocall_remotely_held">Zvans aizturēts</string>
+  <string name="videocall_remotely_resumed">Zvans ir atsākts</string>
+  <string name="videocall_charges_alert_dialog_description">Mobilajā tīklā veiktie videozvani patērē gan datu apjomu, gan balss zvanu minūtes. Var tikt piemērota maksa.</string>
+  <string name="do_not_show_again">Vairs nerādīt</string>
+</resources>

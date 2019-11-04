@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Dolazni pozivi</string>
+  <string name="notification_channel_ongoing_call">Pozivi u toku</string>
+  <string name="notification_channel_missed_call">Propušteni pozivi</string>
+  <string name="notification_channel_voicemail">Govorne poruke</string>
+  <string name="notification_channel_misc">Podrazumevano</string>
+</resources>

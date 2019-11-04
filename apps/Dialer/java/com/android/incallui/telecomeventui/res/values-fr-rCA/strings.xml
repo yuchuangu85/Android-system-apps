@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Toujours afficher l\'avertissement</string>
+  <string name="details">Vous appelez un numéro international, et des frais peuvent s\'appliquer.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Ενεργοποίηση</string>
+  <string name="video_call_not_available_title">Η βιντεοκλήσεις δεν είναι προς το παρόν διαθέσιμες</string>
+  <string name="video_call_not_available_message">Δοκιμάστε να καλέσετε ξανά αργότερα ή συνεχίστε την κλήση ως φωνητική κλήση.</string>
+  <string name="voice_call">Φωνητική κλήση</string>
+</resources>

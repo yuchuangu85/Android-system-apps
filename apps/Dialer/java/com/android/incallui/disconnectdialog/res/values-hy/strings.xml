@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Միացնել</string>
+  <string name="video_call_not_available_title">Տեսազանգը ներկայումս հասանելի չէ</string>
+  <string name="video_call_not_available_message">Ավելի ուշ նորից փորձեք զանգել կամ շարունակեք զանգն առանց տեսապատկերի:</string>
+  <string name="voice_call">Զանգ</string>
+</resources>

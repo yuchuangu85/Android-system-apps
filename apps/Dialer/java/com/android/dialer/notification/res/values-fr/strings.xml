@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Appels entrants</string>
+  <string name="notification_channel_ongoing_call">Appels en cours</string>
+  <string name="notification_channel_missed_call">Appels manqués</string>
+  <string name="notification_channel_voicemail">Messages vocaux</string>
+  <string name="notification_channel_misc">Par défaut</string>
+</resources>

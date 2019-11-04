@@ -1,0 +1,3 @@
+# Keep all ONS classes and its members
+-keep class com.android.ons.** {*;}
+-verbose

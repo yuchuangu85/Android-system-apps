@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">ਸੁਨੇਹੇ ਦੇ ਨਾਲ ਅਸਵੀਕਾਰ ਕਰਨ ਲਈ ਚਿੰਨ੍ਹ ਤੋਂ ਸਵਾਈਪ ਕਰੋ</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio"> ਆਡੀਓ  ਕਾਲ ਵਜੋਂ ਜਵਾਬ ਦੇਣ ਲਈ ਚਿੰਨ੍ਹ ਤੋਂ ਸਵਾਈਪ ਕਰੋ</string>
+  <string name="call_incoming_default_label_answer_and_release_second">ਜਵਾਬ ਦੇਣ ਲਈ ਅਤੇ ਜਾਰੀ ਕਾਲ ਨੂੰ ਰੋਕ ਕੇ ਰੱਖਣ ਲਈ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ</string>
+  <string name="call_incoming_default_label_answer_and_release_third">ਜਵਾਬ ਦੇਣ ਲਈ ਅਤੇ ਰੋਕੀ ਗਈ ਕਾਲ ਸਮਾਪਤ ਕਰਨ ਲਈ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ</string>
+  <string name="call_incoming_swipe_to_answer_and_release">ਜਵਾਬ ਦੇਣ ਲਈ ਅਤੇ ਜਾਰੀ ਕਾਲ ਨੂੰ ਸਮਾਪਤ ਕਰਨ ਲਈ ਪ੍ਰਤੀਕ ਤੋਂ ਸਵਾਈਪ ਕਰੋ</string>
+  <string name="call_incoming_message_custom">ਆਪਣਾ ਖੁਦ ਦਾ ਲਿਖੋ...</string>
+  <string name="call_incoming_respond_via_sms_custom_message">ਆਪਣਾ ਖੁਦ ਦਾ ਲਿਖੋ...</string>
+  <string name="call_incoming_custom_message_cancel">ਰੱਦ ਕਰੋ</string>
+  <string name="call_incoming_custom_message_send">ਭੇਜੋ</string>
+  <string name="a11y_incoming_call_reject_with_sms">ਇੱਕ ਸੁਨੇਹੇ ਨਾਲ ਇਸ ਕਾਲ ਨੂੰ ਰੱਦ ਕਰੋ</string>
+  <string name="a11y_incoming_call_answer_video_as_audio"> ਆਡੀਓ  ਕਾਲ ਵਜੋਂ ਜਵਾਬ ਦਿਓ</string>
+  <string name="a11y_incoming_call_answer_and_release">ਜਵਾਬ ਦਿਓ ਅਤੇ ਜਾਰੀ ਕਾਲ ਨੂੰ ਸਮਾਪਤ ਕਰੋ</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">ਸੁਨੇਹੇ ਨਾਲ ਰੱਦ ਕਰੋ</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio"> ਆਡੀਓ  ਕਾਲ ਵਜੋਂ ਜਵਾਬ ਦਿਓ</string>
+  <string name="a11y_description_incoming_call_answer_and_release">ਜਵਾਬ ਦਿਓ ਅਤੇ ਜਾਰੀ ਕਾਲ ਨੂੰ ਸਮਾਪਤ ਕਰੋ</string>
+  <string name="call_incoming_video_is_off">ਵੀਡੀਓ ਬੰਦ ਹੈ</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">ਜਵਾਬ ਦੇਣ ਲਈ ਦੋ ਉਂਗਲਾਂ ਨਾਲ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ। ਅਸਵੀਕਾਰ ਕਰਨ ਲਈ ਦੋ ਉਂਗਲਾਂ ਨਾਲ ਹੇਠਾਂ ਵੱਲ ਸਵਾਈਪ ਕਰੋ।</string>
+  <string name="call_incoming_important">ਮਹੱਤਵਪੂਰਨ</string>
+</resources>

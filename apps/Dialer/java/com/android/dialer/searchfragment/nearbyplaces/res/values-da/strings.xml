@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Steder i nærheden</string>
+  <string name="search_location_permission">Tillad adgang til din placering for at få kontaktoplysninger om steder i nærheden af dig.</string>
+  <string name="nearby_places_allow">Tillad</string>
+  <string name="nearby_places_dismiss">Afvis</string>
+</resources>

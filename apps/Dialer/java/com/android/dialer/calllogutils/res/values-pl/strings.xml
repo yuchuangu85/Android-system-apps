@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Połączenie przychodzące</string>
+  <string name="type_incoming_pulled">Połączenie przychodzące przekazane na inne urządzenie</string>
+  <string name="type_outgoing">Połączenie wychodzące</string>
+  <string name="type_outgoing_pulled">Połączenie wychodzące przekazane na inne urządzenie</string>
+  <string name="type_missed">Nieodebrane połączenie</string>
+  <string name="type_incoming_video">Przychodząca rozmowa wideo</string>
+  <string name="type_incoming_video_pulled">Przychodząca rozmowa wideo przekazana na inne urządzenie</string>
+  <string name="type_outgoing_video">Wychodząca rozmowa wideo</string>
+  <string name="type_outgoing_video_pulled">Wychodząca rozmowa wideo przekazana na inne urządzenie</string>
+  <string name="type_missed_video">Nieodebrana rozmowa wideo</string>
+  <string name="type_voicemail">Poczta głosowa</string>
+  <string name="type_rejected">Odrzucone połączenie</string>
+  <string name="type_blocked">Zablokowane połączenie</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekunda</item>
+    <item quantity="few">sekundy</item>
+    <item quantity="many">sekund</item>
+    <item quantity="other">sekundy</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minuta</item>
+    <item quantity="few">minuty</item>
+    <item quantity="many">minut</item>
+    <item quantity="other">minuty</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Połączenie zostało odebrane na innym urządzeniu</string>
+  <string name="description_phone_account">na koncie ^1</string>
+  <string name="description_via_number">przez %1$s</string>
+  <string name="description_via_number_phone_account">na koncie %1$s, przez %2$s</string>
+  <string name="voicemail_string">Poczta głosowa</string>
+  <string name="just_now">Przed chwilą</string>
+  <string name="new_call_log_carrier_video">Rozmowa wideo w sieci operatora</string>
+  <string name="new_call_log_duo_video">Rozmowa wideo w Duo</string>
+  <string name="new_call_log_unknown">Nieznany</string>
+  <string name="new_call_log_secondary_blocked">Zablokowany</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 nieodebrane połączenie od: ^2</item>
+    <item quantity="few">^1 nieodebrane połączenia od: ^2</item>
+    <item quantity="many">^1 nieodebranych połączeń od: ^2</item>
+    <item quantity="other">^1 nieodebranego połączenia od: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 odebrane połączenie od: ^2</item>
+    <item quantity="few">^1 połączenia – ostatnie to odebrane połączenie od: ^2</item>
+    <item quantity="many">^1 połączeń – ostatnie to odebrane połączenie od: ^2</item>
+    <item quantity="other">^1 połączenia – ostatnie to odebrane połączenie od: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 połączenie wychodzące z: ^2</item>
+    <item quantity="few">^1 połączenia – ostatnie to połączenie wychodzące z: ^2</item>
+    <item quantity="many">^1 połączeń – ostatnie to połączenie wychodzące z: ^2</item>
+    <item quantity="other">^1 połączenia – ostatnie to połączenie wychodzące z: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 zablokowane połączenie od: ^2</item>
+    <item quantity="few">^1 połączenia – ostatnie to zablokowane połączenie od: ^2</item>
+    <item quantity="many">^1 połączeń – ostatnie to zablokowane połączenie od: ^2</item>
+    <item quantity="other">^1 połączenia – ostatnie to zablokowane połączenie od: ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">na koncie ^1, przez ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

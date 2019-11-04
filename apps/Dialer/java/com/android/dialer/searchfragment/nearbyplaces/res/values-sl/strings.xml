@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Mesta v bližini</string>
+  <string name="search_location_permission">Če si želite ogledati podatke za stik za mesta v bližini, dovolite dostop do svoje lokacije.</string>
+  <string name="nearby_places_allow">Dovoli</string>
+  <string name="nearby_places_dismiss">Opusti</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">დაწერეთ მორგებ. შეტყობინება</string>
+  <string name="toolbar_close">დახურვა</string>
+  <string name="all_contacts_empty">კონტაქტები ჯერ არ გაქვთ</string>
+  <string name="all_contacts_empty_add_contact_action">ახალი კონტაქტის შექმნა</string>
+  <string name="permission_single_turn_on">ჩართვა</string>
+  <string name="permission_no_contacts">კონტაქტების სანახავად ჩართეთ კონტაქტების ნებართვა.</string>
+  <string name="add_contact_not_available">კონტაქტების აპი მიუწვდომელია</string>
+</resources>

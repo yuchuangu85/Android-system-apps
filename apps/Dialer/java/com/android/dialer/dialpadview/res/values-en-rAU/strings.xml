@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Navigate back</string>
+  <string name="description_dialpad_overflow">More options</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">dial plus</string>
+  <string name="description_voicemail_button">call voicemail</string>
+  <string name="description_dial_button">dial</string>
+  <string name="dialog_voicemail_airplane_mode_message">To call voicemail, first turn off Aeroplane mode.</string>
+  <string name="dialog_voicemail_not_ready_message">To set up voicemail, go to Menu &gt; Settings.</string>
+  <string name="add_2sec_pause">Add 2-sec pause</string>
+  <string name="add_wait">Add wait</string>
+  <string name="dialer_useDtmfDialpad">Use touch-tone keypad</string>
+  <string name="dialer_returnToInCallScreen">Return to call in progress</string>
+  <string name="dialer_addAnotherCall">Add call</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Loading from SIM card…</string>
+  <string name="simContacts_title">SIM card contacts</string>
+  <string name="menu_callNumber">Call %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Can’t make emergency calls over Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Can\'t call this number</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Απαντήστε για να αποκαλύψετε τη φωτογραφία</string>
+  <string name="spam_message_text">Απαντήστε για να αποκαλύψετε το μήνυμα</string>
+</resources>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/**
+ * Copyright (C) 2014 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label" msgid="1527793174155125990">"কাজের প্রোফাইল সেট-আপ"</string>
+    <string name="provisioning_error_title" msgid="6320515739861578118">"ওহো!"</string>
+    <string name="setup_work_profile" msgid="1468934631731845267">"কর্মস্থলের প্রোফাইল সেট-আপ করুন"</string>
+    <string name="company_controls_workspace" msgid="2808025277267917221">"আপনার প্রতিষ্ঠান এই প্রোফাইল নিয়ন্ত্রণ করে এবং একে সুরক্ষিত রাখে। আপনি আপনার ডিভাইসের বাকি সব কিছু নিয়ন্ত্রণ করেন।"</string>
+    <string name="company_controls_device" msgid="8230957518758871390">"আপনার সংগঠন এই ডিভাইসটিকে নিয়ন্ত্রণ করবে এবং এটিকে সুরক্ষিত রাখবে৷"</string>
+    <string name="the_following_is_your_mdm" msgid="6613658218262376404">"নিম্নোল্লিখিত অ্যাপ্লিকেশানটিকে এই প্রোফাইলটি অ্যাক্সেস করতে হবে:"</string>
+    <string name="the_following_is_your_mdm_for_device" msgid="6717973404364414816">"নিম্নলিখিত অ্যাপ্লিকেশানটি আপনার ডিভাইস পরিচালনা করবে:"</string>
+    <string name="next" msgid="1004321437324424398">"পরবর্তী"</string>
+    <string name="setting_up_workspace" msgid="7862472373642601041">"কর্মস্থলের প্রোফাইল সেট-আপ করা হচ্ছে…"</string>
+    <string name="admin_has_ability_to_monitor_profile" msgid="7051310668406162979">"আপনার আইটি অ্যাডমিন সেটিংস, কর্পোরেট অ্যাক্সেস, অ্যাপ, অনুমতি এবং নেটওয়ার্ক অ্যাক্টিভিটি সহ ডিভাইসের লোকেশন, কলের ইতিহাস ও পরিচিতি সার্চ করার ইতিহাসের মতো এই প্রোফাইলের সাথে সম্পর্কিত ডেটা মনিটর ও ম্যানেজ করতে পারেন।<xliff:g id="LINE_BREAK">&lt;br&gt;&lt;br&gt;</xliff:g>আপনার সংস্থার গোপনীয়তা নীতি সহ আরও তথ্যের জন্য আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="admin_has_ability_to_monitor_device" msgid="6303112630697870695">"আপনার আইটি অ্যাডমিন সেটিংস, কর্পোরেট অ্যাক্সেস, অ্যাপ, অনুমতি এবং নেটওয়ার্ক অ্যাক্টিভিটি সহ ডিভাইসের লোকেশন, কলের ইতিহাস ও পরিচিতি সার্চ করার ইতিহাসের মতো এই ডিভাইসের সাথে সম্পর্কিত ডেটা মনিটর ও ম্যানেজ করতে পারেন।<xliff:g id="LINE_BREAK">&lt;br&gt;&lt;br&gt;</xliff:g>আপনার সংস্থার গোপনীয়তা নীতি সহ আরও তথ্যের জন্য আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="theft_protection_disabled_warning" msgid="3708092473574738478">"চুরির-সুরক্ষা বৈশিষ্ট্যগুলি ব্যবহার করতে আপনার ডিভাইসে অবশ্যই একটি পাসওয়ার্ড দ্বারা সুরক্ষিত স্ক্রিন লক ব্যবস্থাটিকে সক্ষম রাখতে হবে৷"</string>
+    <string name="contact_your_admin_for_more_info" msgid="9209568156969966347">"আপনার সংস্থার গোপনীয়তা নীতি সহ আরও তথ্যের জন্য আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="learn_more_link" msgid="3012495805919550043">"আরও জানুন"</string>
+    <string name="cancel_setup" msgid="2949928239276274745">"বাতিল করুন"</string>
+    <string name="ok_setup" msgid="4593707675416137504">"ঠিক আছে"</string>
+    <string name="user_consent_msg" msgid="8820951802130353584">"আমি সম্মতি জানাচ্ছি"</string>
+    <string name="url_error" msgid="5958494012986243186">"লিঙ্কটি প্রদর্শন করা যাচ্ছে না।"</string>
+    <string name="terms" msgid="8295436105384703903">"শর্তাদি"</string>
+    <string name="work_profile_info" msgid="5433388376309583996">"কর্মস্থলের প্রোফাইলের তথ্য"</string>
+    <string name="managed_device_info" msgid="1529447646526616811">"পরিচালিত ডিভাইসের তথ্য"</string>
+    <string name="default_managed_profile_name" msgid="5370257687074907055">"কর্মস্থলের প্রোফাইল"</string>
+    <string name="default_first_meat_user_name" msgid="7540515892748490540">"প্রাথমিক ব্যবহারকারী"</string>
+    <string name="delete_profile_title" msgid="2841349358380849525">"বর্তমান প্রোফাইলটি মুছবেন?"</string>
+    <string name="opening_paragraph_delete_profile" msgid="4913885310795775967">"আগে থেকেই আপনার একটি কর্মস্থলের প্রোফাইল আছে। এই অ্যাপটি ব্যবহার করে সেটির পরিচালনা করা হয়:"</string>
+    <string name="read_more_delete_profile" msgid="7789171620401666343">"প্রক্রিয়ার আগে, "<a href="#read_this_link">"এটি পড়ুন"</a>"৷"</string>
+    <string name="sure_you_want_to_delete_profile" msgid="6927697984573575564">"যদি আপনি চালিয়ে যান তবে এই প্রোফাইলের সমস্ত অ্যাপ্লিকেশান ও ডেটা মুছে ফেলা হবে।"</string>
+    <string name="delete_profile" msgid="2299218578684663459">"মুছুন"</string>
+    <string name="cancel_delete_profile" msgid="5155447537894046036">"বাতিল করুন"</string>
+    <string name="encrypt_device_text_for_profile_owner_setup" msgid="7828515754696057140">"আপনার কর্মস্থলের প্রোফাইল সেট-আপ করতে হলে আপনার ডিভাইস এনক্রিপ্ট করতে হবে। এতে কিছুটা সময় লাগতে পারে।"</string>
+    <string name="encrypt_device_text_for_device_owner_setup" msgid="5194673142404735676">"ডিভাইসটি সেট-আপ করার আগে এনক্রিপ্ট করা প্রয়োজন। এতে কিছুটা সময় লাগতে পারে।"</string>
+    <string name="encrypt_this_device_question" msgid="8719916619866892601">"এনক্রিপ্ট করবেন?"</string>
+    <string name="encrypt" msgid="1749320161747489212">"এনক্রিপ্ট করুন"</string>
+    <string name="continue_provisioning_notify_title" msgid="5191449100153186648">"এনক্রিপশন সম্পূর্ণ"</string>
+    <string name="continue_provisioning_notify_text" msgid="1066841819786425980">"আপনার কর্মস্থলের প্রোফাইল সেট-আপ করা অব্যাহত রাখতে আলতো চাপ দিন"</string>
+    <string name="managed_provisioning_error_text" msgid="7063621174570680890">"আপনার কর্মস্থলের প্রোফাইলটি সেটআপ করা যায়নি। আপনার IT বিভাগের সাথে যোগাযোগ করুন অথবা পরে আবার চেষ্টা করুন।"</string>
+    <string name="cant_add_work_profile" msgid="9217268909964154934">"কর্মস্থলের প্রোফাইল যোগ করা যাবে না"</string>
+    <string name="cant_replace_or_remove_work_profile" msgid="7861054306792698290">"কর্মস্থলের প্রোফাইল পরিবর্তন করা বা সরানো যাবে না"</string>
+    <string name="work_profile_cant_be_added_contact_admin" msgid="5393019630297157418">"এই ডিভাইসে অফিসের প্রোফাইল যোগ করা যাবে না। আপনার কোনও প্রশ্ন থাকলে, আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="change_device_launcher" msgid="4523563368433637980">"ডিভাইস লঞ্চার পরিবর্তন করুন"</string>
+    <string name="launcher_app_cant_be_used_by_work_profile" msgid="3524366082000739743">"আপনার কর্মস্থলের প্রোফাইল থেকে এই লঞ্চার অ্যাপটি ব্যবহার করা যাবে না"</string>
+    <string name="cancel_provisioning" msgid="3408069559452653724">"বাতিল করুন"</string>
+    <string name="pick_launcher" msgid="4257084827403983845">"ঠিক আছে"</string>
+    <string name="user_setup_incomplete" msgid="6494920045526591079">"ব্যবহারকারীর সেট-আপ সম্পূর্ণ হয়নি"</string>
+    <string name="default_owned_device_username" msgid="3915120202811807955">"কর্মস্থলের ডিভাইসের ব্যবহারকারী"</string>
+    <string name="setup_work_device" msgid="6003988351437862369">"কর্মস্থলের ডিভাইস সেট-আপ করা হচ্ছে…"</string>
+    <string name="progress_data_process" msgid="1707745321954672971">"সেটআপ ডেটার প্রক্রিয়া হচ্ছে..."</string>
+    <string name="progress_connect_to_wifi" msgid="472251154628863539">"ওয়াই-ফাই -এ সংযুক্ত হচ্ছে..."</string>
+    <string name="progress_connect_to_mobile_network" msgid="3852054186860657088">"মোবাইল নেটওয়ার্কে কানেক্ট করা হচ্ছে…"</string>
+    <string name="progress_download" msgid="3522436271691064624">"প্রশাসক অ্যাপ্লিকেশান ডাউনলোড হচ্ছে..."</string>
+    <string name="progress_install" msgid="2258045670385866183">"প্রশাসক অ্যাপ্লিকেশান ইনস্টল হচ্ছে..."</string>
+    <string name="progress_delete_non_required_apps" msgid="7633458399262691256">"অ-প্রয়োজনীয় সিস্টেম অ্যাপ্সকে সরানো হচ্ছে…"</string>
+    <string name="progress_finishing_touches" msgid="9037776404089697198">"শেষের কয়েকটি জিনিস যোগ করা হচ্ছে…"</string>
+    <string name="progress_set_owner" msgid="8214062820093757961">"ডিভাইসের মালিক সেট করা হচ্ছে..."</string>
+    <string name="progress_initialize" msgid="1104643492713424939">"ডিভাইস আরম্ভ করা হচ্ছে…"</string>
+    <string name="device_doesnt_allow_encryption_contact_admin" msgid="5124643338424539794">"এই ডিভাইসে এনক্রিপশন কাজ করে না যা সেট-আপ করার জন্য প্রয়োজনীয়। সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="stop_setup_reset_device_question" msgid="7547191251522623210">"সেট-আপ বন্ধ করে ডিভাইসটি আবার সেট করবেন?"</string>
+    <string name="this_will_reset_take_back_first_screen" msgid="4623290347188404725">"এটি আপনার ডিভাইসকে আবার সেট করে আপনাকে প্রথম স্ক্রিনে নিয়ে যাবে"</string>
+    <string name="device_owner_cancel_message" msgid="2529288571742712065">"সেট-আপ করা বন্ধ করে আপনার ডিভাইসের ডেটা মুছে ফেলবেন?"</string>
+    <string name="device_owner_cancel_cancel" msgid="1052951540909389275">"বাতিল করুন"</string>
+    <string name="device_owner_error_ok" msgid="2002250763093787051">"ঠিক আছে"</string>
+    <string name="reset" msgid="6467204151306265796">"আবার সেট করুন"</string>
+    <string name="cant_set_up_profile" msgid="4341825293970158436">"প্রোফাইল সেট-আপ করা যাচ্ছে না"</string>
+    <string name="cant_set_up_device" msgid="4120090138983350714">"ডিভাইসটি সেট-আপ করা যাচ্ছে না"</string>
+    <string name="couldnt_set_up_device" msgid="5137950404283642302">"ডিভাইসটি সেট-আপ করা যায়নি। সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="contact_your_admin_for_help" msgid="2009904021552323731">"সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন"</string>
+    <string name="device_already_set_up" msgid="507881934487140294">"ডিভাইসটি আগেই সেট-আপ করা হয়েছে"</string>
+    <string name="error_wifi" msgid="1850288843966836571">"ওয়াই-ফাইয়ের সাথে কানেক্ট করা যায়নি"</string>
+    <string name="device_has_reset_protection_contact_admin" msgid="2662050020376475656">"আপনার ডিভাইসে রিসেট সুরক্ষা চালু আছে। সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="frp_clear_progress_title" msgid="8628074089458234965">"মোছা হচ্ছে"</string>
+    <string name="frp_clear_progress_text" msgid="1740164332830598827">"দয়া করে অপেক্ষা করুন..."</string>
+    <string name="error_hash_mismatch" msgid="1145488923243178454">"চেকসাম সমস্যার জন্য অ্যাডমিন অ্যাপ ব্যবহার করা যায়নি। সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="error_download_failed" msgid="3274283629837019452">"অ্যাডমিন অ্যাপ ডাউনলোড করা যায়নি"</string>
+    <string name="error_package_invalid" msgid="555402554502033988">"অ্যাডমিন অ্যাপ ব্যবহার করা যাচ্ছে না। কিছু উপাদান পাওয়া যাচ্ছে না বা খারাপ হয়ে গেছে। সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="error_installation_failed" msgid="2282903750318407285">"অ্যাডমিন অ্যাপটি ইনস্টল করা যায়নি"</string>
+    <string name="profile_owner_cancel_message" msgid="6868736915633023477">"সেট-আপ করা বন্ধ করবেন?"</string>
+    <string name="profile_owner_cancel_cancel" msgid="4408725524311574891">"না"</string>
+    <string name="profile_owner_cancel_ok" msgid="5951679183850766029">"হ্যাঁ"</string>
+    <string name="profile_owner_cancelling" msgid="5679573829145112822">"বাতিল করা হচ্ছে..."</string>
+    <string name="work_profile_setup_later_title" msgid="9069148190226279892">"প্রোফাইল সেটআপ বন্ধ করবেন?"</string>
+    <string name="work_profile_setup_later_message" msgid="122069011117225292">"আপনি পরে আপনার প্রতিষ্ঠানের ডিভাইস পরিচালনা অ্যাপ ব্যবহার করে আপনার কর্মস্থলের প্রোফাইল সেট-আপ করতে পারবেন"</string>
+    <string name="continue_button" msgid="7177918589510964446">"চালিয়ে যান"</string>
+    <string name="work_profile_setup_stop" msgid="6772128629992514750">"থামান"</string>
+    <string name="dismiss" msgid="9009534756748565880">"খারিজ করুন"</string>
+    <string name="profile_owner_info" msgid="8975319972303812298">"আপনি এমন একটি কর্মস্থলের প্রোফাইল তৈরি করতে চলেছেন যেটি আপনার প্রতিষ্ঠান পরিচালনা এবং নিরীক্ষণ করবে। শর্তাবলী প্রযোজ্য।"</string>
+    <string name="profile_owner_info_with_terms_headers" msgid="7373591910245655373">"আপনি এমন একটি কর্মস্থলের প্রোফাইল তৈরি করতে চলেছেন যেটি আপনার প্রতিষ্ঠান পরিচালনা এবং নিরীক্ষণ করবে। <xliff:g id="TERMS_HEADERS">%1$s</xliff:g> এর শর্তাবলী প্রযোজ্য।"</string>
+    <string name="profile_owner_info_comp" msgid="9190421701126119142">"আপনার কর্মস্থলের অ্যাপগুলির জন্য একটি প্রোফাইল তৈরি করা হবে। আপনার প্রতিষ্ঠান এই প্রোফাইলটি ও আপনার ডিভাইসের অন্যান্য ক্রিয়াকলাপ পরিচালনা এবং নিরীক্ষণ করবে। শর্তাবলী প্রযোজ্য।"</string>
+    <string name="profile_owner_info_with_terms_headers_comp" msgid="2012766614492554556">"আপনার কর্মস্থলের অ্যাপগুলির জন্য একটি প্রোফাইল তৈরি করা হবে। আপনার প্রতিষ্ঠান এই প্রোফাইলটি ও আপনার ডিভাইসের অন্যান্য ক্রিয়াকলাপ পরিচালনা এবং নিরীক্ষণ করবে। <xliff:g id="TERMS_HEADERS">%1$s</xliff:g> এর শর্তাবলী প্রযোজ্য।"</string>
+    <string name="device_owner_info" msgid="3716661456037934467">"<xliff:g id="YOUR_ORGANIZATION">%1$s</xliff:g> এই ডিভাইসটি পরিচালনা করবে, এর ব্যবহারের উপরে নজর রাখবে এবং এটি সুরক্ষিত রাখবে। শর্তাবলী প্রযোজ্য। <xliff:g id="VIEW_TERMS">%2$s</xliff:g>"</string>
+    <string name="device_owner_info_with_terms_headers" msgid="1254243288669282977">"<xliff:g id="YOUR_ORGANIZATION">%1$s</xliff:g> এই ডিভাইসটি পরিচালনা করবে, এর ব্যবহারের উপরে নজর রাখবে এবং এটি সুরক্ষিত রাখবে। <xliff:g id="TERMS_HEADERS">%2$s</xliff:g>-এর শর্তাবলী প্রযোজ্য। <xliff:g id="VIEW_TERMS">%3$s</xliff:g>"</string>
+    <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished" msgid="1604497932637832657">"এই লিঙ্কটি নিরাপদ নয় এবং ডিভাইস সেট-আপ সম্পূর্ণ না হওয়া পর্যন্ত খোলা যাবে না: <xliff:g id="LINK_RAW_TEST">%1$s</xliff:g>"</string>
+    <string name="contact_device_provider" msgid="2843488903902493030">"আরও জানতে, আপনার <xliff:g id="IT_ADMIN">%1$s</xliff:g>-এর সাথে যোগাযোগ করুন।"</string>
+    <string name="if_questions_contact_admin" msgid="3509427015901582047">"আপনার কোনও প্রশ্ন থাকলে আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন"</string>
+    <string name="setup_isnt_finished_contact_admin" msgid="8849644190723875952">"সেট-আপ করা এখনও শেষ হয়নি। সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="for_help_contact_admin" msgid="5922538077702487859">"সাহায্যের জন্য আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন"</string>
+    <string name="organization_admin" msgid="5975914478148511290">"আইটি অ্যাডমিন"</string>
+    <string name="your_org_app_used" msgid="5336414768293540831">"আপনার প্রতিষ্ঠান এই অ্যাপটির সাহায্যে এই ডিভাইসটিকে পরিচালনা এবং নিরীক্ষণ করবে: <xliff:g id="YOUR_ORGANIZATION">%1$s</xliff:g>"</string>
+    <string name="your_organization_beginning" msgid="5952561489910967255">"আপনার প্রতিষ্ঠান"</string>
+    <string name="your_organization_middle" msgid="8288538158061644733">"আপনার প্রতিষ্ঠান"</string>
+    <string name="view_terms" msgid="7230493092383341605">"শর্তাবলী দেখুন"</string>
+    <string name="accept_and_continue" msgid="1632679734918410653">"মেনে নিয়ে এগিয়ে যান"</string>
+    <string name="back" msgid="6455622465896147127">"ফিরে যান"</string>
+    <string name="set_up_your_device" msgid="1896651520959894681">"আপনার ডিভাইস সেট-আপ করুন"</string>
+    <string name="info_anim_title_0" msgid="3285414600215959704">"আপনার কাজের পদ্ধতি পাল্টান"</string>
+    <string name="info_anim_title_1" msgid="2657512519467714760">"ব্যক্তিগত থেকে কাজ আলাদা করুন"</string>
+    <string name="one_place_for_work_apps" msgid="2595597562302953960">"কর্মস্থলের সমস্ত অ্যাপ এক জায়গায়"</string>
+    <string name="info_anim_title_2" msgid="4629781398620470204">"আপনার কাজ হয়ে গেলে কর্মস্থলের প্রোফাইল বন্ধ করে দিন"</string>
+    <string name="provisioning" msgid="4512493827019163451">"প্রস্তুতি চলছে"</string>
+    <string name="copying_certs" msgid="5697938664953550881">"CA সংশাপত্রগুলি সেট-আপ করা হচ্ছে"</string>
+    <string name="setup_profile" msgid="5573950582159698549">"আপনার প্রোফাইল সেট-আপ করুন"</string>
+    <string name="profile_benefits_description" msgid="758432985984252636">"কর্মস্থলের প্রোফাইল ব্যবহার করে আপনি ব্যক্তিগত ডেটা থেকে কর্মস্থলের ডেটা আলাদা রাখতে পারবেন"</string>
+    <string name="comp_profile_benefits_description" msgid="379837075456998273">"কর্মস্থলের প্রোফাইল ব্যবহার করে আপনি কর্মস্থলের অ্যাপগুলি এক যায়গায় রাখতে পারেন"</string>
+    <string name="setup_profile_encryption" msgid="5241291404536277038">"আপনার প্রোফাইল সেট-আপ করুন৷ এনক্রিপশন"</string>
+    <string name="setup_profile_progress" msgid="7742718527853325656">"আপনার প্রোফাইল সেট-আপ করুন৷ অগ্রগতি দেখাচ্ছে"</string>
+    <string name="setup_device" msgid="6725265673245816366">"আপনার ডিভাইস সেট-আপ করুন"</string>
+    <string name="setup_device_encryption" msgid="7852944465414197103">"আপনার ডিভাইস সেট-আপ করুন৷ এনক্রিপশন"</string>
+    <string name="setup_device_progress" msgid="7035335208571175393">"আপনার ডিভাইস সেট-আপ করুন৷ অগ্রগতি দেখাচ্ছে"</string>
+    <string name="learn_more_label" msgid="2723716758654655009">"বোতামের ব্যাপারে আরও জানুন"</string>
+    <string name="mdm_icon_label" msgid="3399134595549660561">"<xliff:g id="ICON_LABEL">%1$s</xliff:g> আইকন"</string>
+    <string name="section_heading" msgid="3924666803774291908">"<xliff:g id="SECTION_HEADING">%1$s</xliff:g> বিভাগের শিরোনাম।"</string>
+    <string name="section_content" msgid="8875502515704374394">"<xliff:g id="SECTION_HEADING">%1$s</xliff:g> বিভাগের কন্টেন্ট: <xliff:g id="SECTION_CONTENT">%2$s</xliff:g>"</string>
+    <string name="expand" msgid="37188292156131304">"বড় করুন"</string>
+    <string name="collapse" msgid="7817530505064432580">"সঙ্কুচিত করুন"</string>
+    <string name="access_list_of_links" msgid="7094123315959323372">"লিঙ্কের তালিকা অ্যাক্সেস করুন"</string>
+    <string name="access_links" msgid="7991363727326168600">"লিঙ্কগুলি অ্যাক্সেস করুন"</string>
+    <string name="access_terms" msgid="1982500872249763745">"শর্তাবলী দেখুন"</string>
+    <string name="read_terms" msgid="1745011123626640728">"শর্তাবলী পড়ুন"</string>
+    <string name="close_list" msgid="9053538299788717597">"তালিকা বন্ধ করুন"</string>
+    <string name="cancel_setup_and_factory_reset_dialog_title" msgid="5416045931532004811">"সেট-আপ করার কাজ বন্ধ করে, ফ্যাক্টরি রিসেট করবেন?"</string>
+    <string name="cancel_setup_and_factory_reset_dialog_msg" msgid="808442439937994485">"এই সেট-আপ করার কাজটি বন্ধ করা হলে তা আপনার ডিভাইসের ফ্যাক্টরি রিসেট করবে এবং আপনাকে প্রথম স্ক্রীনে নিয়ে যাবে৷"</string>
+    <string name="cancel_setup_and_factory_reset_dialog_cancel" msgid="2810966091829264727">"বাতিল করুন"</string>
+    <string name="cancel_setup_and_factory_reset_dialog_ok" msgid="7168008267496150529">"ডিভাইস আবার সেট করুন"</string>
+    <string name="join_two_items" msgid="6110273439759895837">"<xliff:g id="FIRST_ITEM">%1$s</xliff:g> এবং <xliff:g id="SECOND_ITEM">%2$s</xliff:g>"</string>
+    <string name="join_many_items_last" msgid="7469666990442158802">"<xliff:g id="ALL_BUT_LAST_ITEM">%1$s</xliff:g>, এবং <xliff:g id="LAST_ITEM_0">%2$s</xliff:g>"</string>
+    <string name="join_many_items_first" msgid="8365482726853276608">"<xliff:g id="FIRST_ITEM">%1$s</xliff:g>, <xliff:g id="ALL_BUT_FIRST_AND_LAST_ITEM">%2$s</xliff:g>"</string>
+    <string name="join_many_items_middle" msgid="8569294838319639963">"<xliff:g id="ADDED_ITEM">%1$s</xliff:g>, <xliff:g id="REST_OF_ITEMS">%2$s</xliff:g>"</string>
+    <string name="take_a_few_minutes" msgid="6282806501305322838">"কয়েক মিনিট সময় লাগতে পারে"</string>
+    <string name="work_profile_description" msgid="8524116010729569213">"আপনার কাজের অ্যাপগুলি এই প্রোফাইলে রাখা হবে এবং আপনার প্রতিষ্ঠান সেগুলি পরিচালনা করবে"</string>
+    <string name="device_owner_description" msgid="168013145812679664">"আপনার প্রতিষ্ঠান এই ডিভাইসটি সুরক্ষিত রাখবে এবং পরিচালনা করবে"</string>
+    <string name="setup_provisioning_header" msgid="4282483198266806271">"অফিসের ডিভাইস সেট-আপ করা হচ্ছে…"</string>
+    <string name="setup_provisioning_header_description" msgid="2567041263563823566">"অ্যাডমিন অ্যাপ সেট-আপ করা হচ্ছে"</string>
+    <string name="set_up_everything_else" msgid="4407706086957916501">"বাকি সব কিছু সেট-আপ করুন"</string>
+    <string name="now_lets_set_up_everything_else" msgid="2905102208584231894">"এখন বাকি সব কিছু সেট-আপ করুন"</string>
+    <string name="brand_screen_header" msgid="8865808542690116648">"এই ডিভাইসটি আপনার প্রতিষ্ঠানের"</string>
+    <string name="brand_screen_subheader" msgid="7664792208784456436">"এই ফোন ম্যানেজ এবং মনিটর করতে এই অ্যাপ ব্যবহার করা হবে"</string>
+    <string name="downloading_administrator_header" msgid="8660294318893902915">"অফিসের জন্য ডিভাইসের সেট-আপ শুরু করা হচ্ছে…"</string>
+    <string name="work_profile_provisioning_accept_header" msgid="462916780311392444">"প্রথমে, আপনার অফিসের প্রোফাইল সেট-আপ করুন"</string>
+    <string name="work_profile_provisioning_accept_header_post_suw" msgid="1353127953275291089">"প্রথমে, আপনার অফিসের প্রোফাইল সেট-আপ করুন"</string>
+    <string name="work_profile_provisioning_step_1_header" msgid="7914961694921466366">"অফিসের অ্যাপ আপনার অফিসের প্রোফাইলে রাখা হয়েছে"</string>
+    <string name="work_profile_provisioning_step_2_header" msgid="6001172190404670248">"দিনের কাজ শেষ হয়ে গেলে, আপনার অফিসের অ্যাপ আপনি পজ করে দিতে পারেন"</string>
+    <string name="work_profile_provisioning_step_3_header" msgid="7495564624887776704">"আইটি অ্যাডমিন শুধু আপনার অফিসের প্রোফাইলের ডেটা দেখতে পান"</string>
+    <string name="work_profile_provisioning_progress_label" msgid="2627905308998389193">"আপনার অফিসের প্রোফাইল সেট-আপ করা হচ্ছে…"</string>
+    <string name="work_profile_provisioning_summary" msgid="3917907344897144246">"অফিসের অ্যাপ আপনার অফিসের প্রোফাইলে রাখা হয়েছে। দিনের কাজ শেষ হয়ে গেলে, আপনার অফিসের অ্যাপ আপনি পজ করে দিতে পারেন। আইটি অ্যাডমিন শুধু আপনার অফিসের প্রোফাইলের ডেটা দেখতে পান।"</string>
+    <string name="fully_managed_device_provisioning_accept_header" msgid="2944032660440403130">"আপনার অফিসের ডিভাইস সেট-আপ করা যাক"</string>
+    <string name="fully_managed_device_provisioning_step_1_header" msgid="6396274703116708592">"অফিসের অ্যাপ আপনার হাতের কাছে রাখুন"</string>
+    <string name="fully_managed_device_provisioning_step_2_header" msgid="7165472083121590030">"এই ডিভাইস ব্যক্তিগত নয়"</string>
+    <string name="fully_managed_device_provisioning_step_2_subheader" msgid="2848998570491578119">"আপনার আইটি অ্যাডমিন এই ডিভাইসে আপনার ডেটা ও অ্যাক্টিভিটি দেখতে পেতে পারেন।"</string>
+    <string name="fully_managed_device_provisioning_progress_label" msgid="3925516135130021966">"আপনার ডিভাইস সেট-আপ করা হচ্ছে…"</string>
+    <string name="fully_managed_device_provisioning_summary" msgid="1176062866187662479">"আপনার অফিসের অ্যাপ সহজে অ্যাক্সেস করতে এই ডিভাইস ব্যবহার করুন। এই ডিভাইস ব্যক্তিগত নয়, তাই আপনার আইটি অ্যাডমিন আপনার ডেটা ও অ্যাক্টিভিটি দেখতে পেতে পারেন। আরও জানতে আপনার আইটি অ্যাডমিনের সাথে যোগাযোগ করুন।"</string>
+    <string name="fully_managed_device_provisioning_privacy_title" msgid="4017627906103556021">"গোপনীয়তা সংক্রান্ত রিমাইন্ডার"</string>
+    <string name="fully_managed_device_provisioning_privacy_body" msgid="2219074604343348608">"আপনার আইটি অ্যাডমিন এই ডিভাইসে আপনার ডেটা ও অ্যাক্টিভিটি দেখতে পেতে পারেন"</string>
+    <string name="device_provisioning_finished" msgid="3981783240592092906">"আপনার ডিভাইস এখন ব্যবহার করার জন্য প্রস্তুত!"</string>
+    <string name="done" msgid="7755227776955952318">"হয়ে গেছে"</string>
+</resources>

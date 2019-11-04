@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Llamada por medio de %s</string>
+  <string name="incall_calling_on_same_carrier_template">Llamada mediante el mismo proveedor que el destinatario: %s</string>
+  <string name="incall_calling_on_recent_choice_template">Llamada mediante el proveedor seleccionado recientemente: %s</string>
+  <string name="incall_connecting">Llamando…</string>
+  <string name="incall_connecting_assited_dialed">Para llamar, marcar +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Código de país: +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Transfiriendo…</string>
+  <string name="incall_video_call_requesting">Realizando videollamada mediante el proveedor…</string>
+  <string name="incall_wifi_video_call_requesting">Realizando videollamada mediante el proveedor de Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Cambiando a videollamada mediante el proveedor…</string>
+  <string name="incall_video_call_request_failed">No se pudo conectar</string>
+  <string name="incall_video_call_request_rejected">Llamada rechazada</string>
+  <string name="incall_video_call_request_timed_out">Se agotó el tiempo de espera de la llamada</string>
+  <string name="incall_hanging_up">Colgando</string>
+  <string name="incall_call_ended">Llamada finalizada</string>
+  <string name="incall_remotely_held">En espera</string>
+  <string name="contact_grid_incoming_video_call">Videollamada mediante el proveedor de</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videollamada mediante el proveedor de Wi-Fi de</string>
+  <string name="contact_grid_incoming_voice_call">Llamada de</string>
+  <string name="contact_grid_incoming_work_call">Llamada laboral de</string>
+  <string name="contact_grid_incoming_via_template">Entrante por medio de %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Posible spam</string>
+  <string name="contact_grid_callback_number">Número de teléfono de este dispositivo: %1$s</string>
+</resources>

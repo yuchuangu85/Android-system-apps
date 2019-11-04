@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="vvm_unsupported_message_format">സന്ദേശ തരം പിന്തുണയ്‌ക്കുന്നില്ല, കേൾക്കാൻ %s നമ്പറിൽ വിളിക്കുക.</string>
+</resources>

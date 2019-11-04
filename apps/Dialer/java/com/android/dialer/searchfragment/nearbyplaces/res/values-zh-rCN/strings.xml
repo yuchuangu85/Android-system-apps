@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">附近的地点</string>
+  <string name="search_location_permission">要获取附近地点的联系信息，请允许应用使用您的位置信息。</string>
+  <string name="nearby_places_allow">允许</string>
+  <string name="nearby_places_dismiss">关闭</string>
+</resources>

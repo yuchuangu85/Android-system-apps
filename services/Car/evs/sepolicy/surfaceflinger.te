@@ -1,0 +1,2 @@
+allow surfaceflinger hal_evs_driver:fd use;
+allow surfaceflinger hal_evs_driver:binder call;

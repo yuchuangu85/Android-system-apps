@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+  <string name="video_call_not_available_title">ವೀಡಿಯೊ ಕರೆ ಪ್ರಸ್ತುತವಾಗಿ ಲಭ್ಯವಿಲ್ಲ</string>
+  <string name="video_call_not_available_message">ನಂತರ ಮತ್ತೆ ಕರೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ ಅಥವಾ ಧ್ವನಿ ಕರೆಯಂತೆ ಕರೆಯನ್ನು ಮುಂದುವರಿಸಿ.</string>
+  <string name="voice_call">ಧ್ವನಿ ಕರೆ</string>
+</resources>

@@ -1,0 +1,7 @@
+# Copyright (C) 2016 The Android Open Source Project
+#
+# IMPORTANT: Do not create world writable files or directories.
+# This is a common source of Android security bugs.
+#
+on property:boot.car_service_created=1
+    exec - root root -- /system/bin/bootstat -r car_service_created

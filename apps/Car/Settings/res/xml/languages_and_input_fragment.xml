@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:settings="http://schemas.android.com/apk/res-auto"
+                  android:title="@string/languages_and_input_settings">
+    <Preference
+        android:fragment="com.android.car.settings.language.LanguagePickerFragment"
+        android:icon="@drawable/ic_translate"
+        android:key="@string/pk_language_settings_entry"
+        android:title="@string/language_settings"
+        settings:controller="com.android.car.settings.language.LanguageSettingsEntryPreferenceController"/>
+    <com.android.car.settings.common.ButtonPreference
+        android:fragment="com.android.car.settings.applications.defaultapps.DefaultAutofillPickerFragment"
+        android:key="@string/pk_autofill_picker_entry"
+        android:summary="@string/app_list_preference_none"
+        android:title="@string/autofill_settings_title"
+        android:widgetLayout="@layout/details_preference_widget"
+        settings:controller="com.android.car.settings.applications.defaultapps.DefaultAutofillPickerEntryPreferenceController"
+        settings:iconSpaceReserved="true"/>
+    <Preference
+        android:fragment="com.android.car.settings.inputmethod.KeyboardFragment"
+        android:key="@string/pk_keyboard_entry"
+        android:title="@string/keyboard_settings"
+        settings:controller="com.android.car.settings.inputmethod.KeyboardPreferenceController"
+        settings:iconSpaceReserved="true"/>
+    <Preference
+        android:fragment="com.android.car.settings.tts.TextToSpeechOutputFragment"
+        android:key="@string/pk_tts_settings_entry"
+        android:title="@string/text_to_speech_settings"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"
+        settings:iconSpaceReserved="true"/>
+    <com.android.car.settings.common.LogicalPreferenceGroup
+        android:key="@string/pk_language_and_input_extra_settings"
+        settings:controller="com.android.car.settings.common.ExtraSettingsPreferenceController">
+        <intent android:action="com.android.settings.action.EXTRA_SETTINGS">
+            <extra android:name="com.android.settings.category"
+                   android:value="com.android.settings.category.ia.language"/>
+        </intent>
+    </com.android.car.settings.common.LogicalPreferenceGroup>
+</PreferenceScreen>

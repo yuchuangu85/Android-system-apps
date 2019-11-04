@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Käytetään operaattoria %s</string>
+  <string name="incall_calling_on_same_carrier_template">Soitetaan samalla operaattorilla %s</string>
+  <string name="incall_calling_on_recent_choice_template">Soitetaan viimeksi valitulla operaattorilla %s</string>
+  <string name="incall_connecting">Soitetaan…</string>
+  <string name="incall_connecting_assited_dialed">Soitetaan numeroon +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Käytössä +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Siirretään…</string>
+  <string name="incall_video_call_requesting">Soitetaan videopuhelua…</string>
+  <string name="incall_wifi_video_call_requesting">Soitetaan Wi-Fi-videopuhelua…</string>
+  <string name="incall_video_call_upgrade_request">Vaihdetaan videopuheluun…</string>
+  <string name="incall_video_call_request_failed">Yhteyden muodostaminen epäonnistui</string>
+  <string name="incall_video_call_request_rejected">Puhelu hylätty</string>
+  <string name="incall_video_call_request_timed_out">Puhelu aikakatkaistiin</string>
+  <string name="incall_hanging_up">Katkaistaan</string>
+  <string name="incall_call_ended">Puhelu päättyi</string>
+  <string name="incall_remotely_held">Pidossa</string>
+  <string name="contact_grid_incoming_video_call">Videopuhelu käyttäjältä</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi-videopuhelu käyttäjältä</string>
+  <string name="contact_grid_incoming_voice_call">Puhelu henkilöltä</string>
+  <string name="contact_grid_incoming_work_call">Työpuhelu henkilöltä</string>
+  <string name="contact_grid_incoming_via_template">Saapuva puhelu (%s)</string>
+  <string name="contact_grid_incoming_suspected_spam">Mahdollinen häirikkösoittaja</string>
+  <string name="contact_grid_callback_number">Tämän puhelimen numero: %1$s</string>
+</resources>

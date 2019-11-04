@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">جهة اتصال</string>
+  <string name="dialer_shortcut_add_contact_long">جهة اتصال جديدة</string>
+  <string name="dialer_shortcut_disabled_message">الاختصار لا يعمل. اسحب لإزالته.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">جهة الاتصال لم تعد متوفرة.</string>
+  <string name="dialer_shortcut_no_permissions">يتعذر الاتصال دون أذونات.</string>
+</resources>

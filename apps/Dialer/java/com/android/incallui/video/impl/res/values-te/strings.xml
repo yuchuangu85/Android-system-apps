@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">వారి వీడియో ఆఫ్‌లో ఉంది</string>
+  <string name="videocall_remote_video_on">వారి వీడియో ఆన్‌లో ఉంది</string>
+  <string name="videocall_remotely_held">కాల్ హోల్డ్‌లో ఉంది</string>
+  <string name="videocall_remotely_resumed">కాల్ పునఃప్రారంభించబడింది</string>
+  <string name="videocall_charges_alert_dialog_description">మొబైల్ నెట్‌వర్క్‌లో చేసే వీడియో కాల్‌లకు డేటా మరియు వాయిస్ మినిట్స్ రెండూ ఉపయోగించబడతాయి. ఛార్జీలు వర్తించవచ్చు.</string>
+  <string name="do_not_show_again">మళ్లీ చూపవద్దు</string>
+</resources>

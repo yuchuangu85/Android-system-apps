@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Նոր կոնտակտ</string>
+  <string name="dialer_shortcut_add_contact_long">Նոր կոնտակտ</string>
+  <string name="dialer_shortcut_disabled_message">Դյուրանցումը չի աշխատում: Քաշեք՝ հեռացնելու համար:</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Կոնտակտն այլևս հասանելի չէ:</string>
+  <string name="dialer_shortcut_no_permissions">Զանգելու համար պահանջվում է թույլտվություն:</string>
+</resources>

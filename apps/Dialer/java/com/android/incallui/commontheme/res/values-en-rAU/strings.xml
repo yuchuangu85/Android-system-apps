@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">End call</string>
+  <string name="incall_content_description_muted">Muted</string>
+  <string name="incall_content_description_unmuted">Unmuted</string>
+  <string name="incall_content_description_swap_calls">Swap calls</string>
+  <string name="incall_content_description_swap_sim">Change SIM</string>
+  <string name="incall_content_description_merge_calls">Merge calls</string>
+  <string name="incall_content_description_earpiece">Handset earpiece</string>
+  <string name="incall_content_description_speaker">Speaker</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Wired headset</string>
+  <string name="incall_content_description_hold">Hold call</string>
+  <string name="incall_content_description_unhold">Resume call</string>
+  <string name="incall_content_description_video_on">Video on</string>
+  <string name="incall_content_description_video_off">Video off</string>
+  <string name="incall_content_description_swap_video">Swap video</string>
+  <string name="incall_label_speaker">Speaker</string>
+  <string name="incall_label_audio">Sound</string>
+</resources>

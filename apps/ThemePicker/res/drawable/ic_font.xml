@@ -1,0 +1,29 @@
+<!--
+     Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- This path represents a square with rounded corners -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M20,2H4C2.9,2 2,2.9 2,4v16c0,1.1 0.9,2 2,2h16c1.1,0 2,-0.9 2,-2V4C22,2.9 21.1,2 20,2zM20,20H4V4h16V20z"/>
+    <!-- This path represents a letter "A" inside the square -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M10.69,6h2.6l4.51,12h-2.5l-1.01,-2.87H9.7L8.7,18H6.2L10.69,6zM13.56,13.06l-1.06,-3.02L12.07,8.6h-0.13l-0.44,1.44l-1.07,3.02H13.56z"/>
+</vector>

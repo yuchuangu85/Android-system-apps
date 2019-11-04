@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s で発信中</string>
+  <string name="incall_calling_on_same_carrier_template">同じ携帯通信会社（%s）で発信中</string>
+  <string name="incall_calling_on_recent_choice_template">最近選択した携帯通信会社（%s）で発信中</string>
+  <string name="incall_connecting">発信中…</string>
+  <string name="incall_connecting_assited_dialed">電話番号に +%1$s（%2$s）を付けて発信しています…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s（%2$s）を使用しています…</string>
+  <string name="incall_transferring">転送中…</string>
+  <string name="incall_video_call_requesting">携帯通信会社経由でビデオ通話を発信しています…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi 経由でビデオ通話を発信しています…</string>
+  <string name="incall_video_call_upgrade_request">携帯通信会社経由のビデオ通話に切り替えています…</string>
+  <string name="incall_video_call_request_failed">接続できません</string>
+  <string name="incall_video_call_request_rejected">通話が拒否されました</string>
+  <string name="incall_video_call_request_timed_out">通話がタイムアウトしました</string>
+  <string name="incall_hanging_up">通話を終了中</string>
+  <string name="incall_call_ended">通話終了</string>
+  <string name="incall_remotely_held">保留中</string>
+  <string name="contact_grid_incoming_video_call">携帯通信会社経由でビデオ通話を着信中</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi 経由でビデオ通話を着信中</string>
+  <string name="contact_grid_incoming_voice_call">着信</string>
+  <string name="contact_grid_incoming_work_call">仕事の通話の着信</string>
+  <string name="contact_grid_incoming_via_template">%s から着信</string>
+  <string name="contact_grid_incoming_suspected_spam">迷惑電話の疑いあり</string>
+  <string name="contact_grid_callback_number">この電話番号: %1$s</string>
+</resources>

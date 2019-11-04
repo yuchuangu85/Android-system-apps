@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Камерасы өчүк</string>
+  <string name="videocall_remote_video_on">Алардын видеосу күйгүзүлгөн</string>
+  <string name="videocall_remotely_held">Чалуу күтүүгө коюлду.</string>
+  <string name="videocall_remotely_resumed">Чалуу улантылды</string>
+  <string name="videocall_charges_alert_dialog_description">Мобилдик тармак аркылуу видео чалуулар трафик менен сүйлөшүүгө берилген мүнөттөрдү кетирет. Акы алынышы мүмкүн.</string>
+  <string name="do_not_show_again">Экинчи көрсөтүлбөсүн</string>
+</resources>

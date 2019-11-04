@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:title="@string/network_and_internet">
+    <com.android.car.settings.common.MasterSwitchPreference
+        android:fragment="com.android.car.settings.wifi.WifiSettingsFragment"
+        android:icon="@drawable/ic_settings_wifi"
+        android:key="@string/pk_wifi_settings_entry"
+        android:title="@string/wifi_settings"
+        settings:controller="com.android.car.settings.wifi.WifiEntryPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.wifi.WifiTetherFragment"
+        android:key="@string/pk_wifi_tether_settings_entry"
+        android:title="@string/tether_settings_title_all"
+        android:icon="@drawable/ic_wifi_tethering"
+        settings:controller="com.android.car.settings.wifi.WifiTetherPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.network.MobileNetworkFragment"
+        android:icon="@drawable/ic_settings_cellular"
+        android:key="@string/pk_mobile_network_settings_entry"
+        android:title="@string/mobile_network_settings"
+        settings:controller="com.android.car.settings.network.MobileNetworkEntryPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.datausage.DataUsageFragment"
+        android:icon="@drawable/ic_settings_data_usage"
+        android:key="@string/pk_data_usage_settings_entry"
+        android:title="@string/data_usage_settings"
+        settings:controller="com.android.car.settings.datausage.DataUsageEntryPreferenceController"/>
+    <com.android.car.settings.common.LogicalPreferenceGroup
+        android:key="@string/pk_network_and_internet_extra_settings"
+        settings:controller="com.android.car.settings.common.ExtraSettingsPreferenceController">
+        <intent android:action="com.android.settings.action.EXTRA_SETTINGS">
+            <extra android:name="com.android.settings.category"
+                   android:value="com.android.settings.category.ia.wireless"/>
+        </intent>
+    </com.android.car.settings.common.LogicalPreferenceGroup>
+</PreferenceScreen>

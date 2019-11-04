@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">A videokép leállt</string>
+  <string name="videocall_remote_video_on">A videokép be van kapcsolva</string>
+  <string name="videocall_remotely_held">Várakoztatás</string>
+  <string name="videocall_remotely_resumed">Hívás folytatva</string>
+  <string name="videocall_charges_alert_dialog_description">A mobilhálózaton lebonyolított videohívások adatforgalommal és telefonálási idővel is járnak. A szolgáltató díjat számíthat fel ezért.</string>
+  <string name="do_not_show_again">Ne jelenjen meg újra</string>
+</resources>

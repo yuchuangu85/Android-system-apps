@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Novo cont.</string>
+  <string name="dialer_shortcut_add_contact_long">Novo contato</string>
+  <string name="dialer_shortcut_disabled_message">O atalho não está funcionando. Arraste-o para removê-lo.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">O contato não está mais disponível.</string>
+  <string name="dialer_shortcut_no_permissions">Não é possível ligar sem as permissões.</string>
+</resources>

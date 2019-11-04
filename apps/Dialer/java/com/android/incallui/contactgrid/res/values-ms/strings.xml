@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Memanggil melalui %s</string>
+  <string name="incall_calling_on_same_carrier_template">Memanggil menggunakan pembawa yang sama %s</string>
+  <string name="incall_calling_on_recent_choice_template">Memanggil menggunakan pilihan terbaharu %s</string>
+  <string name="incall_connecting">Memanggil…</string>
+  <string name="incall_connecting_assited_dialed">Memanggil dengan menggunakan +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Menggunakan +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Memindahkan…</string>
+  <string name="incall_video_call_requesting">Panggilan video pembawa…</string>
+  <string name="incall_wifi_video_call_requesting">Panggilan video pembawa Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Bertukar kepada video pembawa…</string>
+  <string name="incall_video_call_request_failed">Tidak dapat menyambung</string>
+  <string name="incall_video_call_request_rejected">Panggilan ditolak</string>
+  <string name="incall_video_call_request_timed_out">Panggilan tamat masa</string>
+  <string name="incall_hanging_up">Menamatkan panggilan</string>
+  <string name="incall_call_ended">Panggilan tamat</string>
+  <string name="incall_remotely_held">Panggilan ditahan</string>
+  <string name="contact_grid_incoming_video_call">Panggilan video pembawa daripada</string>
+  <string name="contact_grid_incoming_wifi_video_call">Panggilan video pembawa Wi-Fi daripada</string>
+  <string name="contact_grid_incoming_voice_call">Panggilan daripada</string>
+  <string name="contact_grid_incoming_work_call">Panggilan kerja daripada</string>
+  <string name="contact_grid_incoming_via_template">Panggilan masuk melalui %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Disyaki pemanggil spam</string>
+  <string name="contact_grid_callback_number">Nombor telefon ini: %1$s</string>
+</resources>

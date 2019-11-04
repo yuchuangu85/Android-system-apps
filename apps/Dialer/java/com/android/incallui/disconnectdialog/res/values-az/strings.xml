@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Aktiv edin</string>
+  <string name="video_call_not_available_title">Video zəng hazırda əlçatan deyil</string>
+  <string name="video_call_not_available_message">Daha sonra yenidən cəhd edin və ya audio zənglə davam edin.</string>
+  <string name="voice_call">Səsli zəng</string>
+</resources>

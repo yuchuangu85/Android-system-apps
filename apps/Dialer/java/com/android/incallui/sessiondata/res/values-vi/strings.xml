@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Trả lời để hiển thị ảnh</string>
+  <string name="spam_message_text">Trả lời để hiển thị tin nhắn</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Իր խցիկն անջատած է</string>
+  <string name="videocall_remote_video_on">Զրուցակցի խցիկը միացած է</string>
+  <string name="videocall_remotely_held">Զանգը սպասման մեջ է</string>
+  <string name="videocall_remotely_resumed">Զանգը վերսկսվեց</string>
+  <string name="videocall_charges_alert_dialog_description">Բջջային ցանցի միջոցով արվող տեսազանգերի ժամանակ կսպառվեն ինչպես մեգաբայթեր, այնպես էլ րոպեներ: Կարող է գումար գանձվել:</string>
+  <string name="do_not_show_again">Այլևս ցույց չտալ</string>
+</resources>

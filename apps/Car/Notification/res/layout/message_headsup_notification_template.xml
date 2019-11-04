@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginEnd="@dimen/notification_headsup_card_margin_horizontal"
+        android:layout_marginStart="@dimen/notification_headsup_card_margin_horizontal"
+        app:cardBackgroundColor="?android:attr/colorPrimary"
+        app:cardCornerRadius="@dimen/notification_card_radius">
+
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/inner_template_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/car_notification_card_inner_top_margin">
+
+            <com.android.car.notification.template.CarNotificationHeaderView
+                android:id="@+id/notification_header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="@dimen/card_header_margin_bottom"
+                android:layout_marginStart="@dimen/card_start_margin"
+                app:isHeadsUp="true"/>
+
+            <com.android.car.notification.template.CarNotificationBodyView
+                android:id="@+id/notification_body"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/notification_header"
+                android:layout_marginBottom="@dimen/card_body_margin_bottom"
+                android:layout_toStartOf="@id/message_count"
+                app:showBigIcon="false"/>
+
+            <TextView
+                android:id="@+id/message_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@id/notification_actions"
+                android:layout_alignParentEnd="true"
+                android:layout_marginBottom="@dimen/card_body_margin_bottom"
+                android:layout_marginEnd="@dimen/card_end_margin"
+                style="@style/NotificationBodyContentText"/>
+
+            <com.android.car.notification.template.CarNotificationActionsView
+                android:id="@+id/notification_actions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/notification_body"
+                android:minHeight="@dimen/card_min_bottom_padding"/>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

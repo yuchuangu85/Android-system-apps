@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Край на обаждането</string>
+  <string name="incall_content_description_muted">Заглушено</string>
+  <string name="incall_content_description_unmuted">Пуснато</string>
+  <string name="incall_content_description_swap_calls">Размяна на обажданията</string>
+  <string name="incall_content_description_swap_sim">Смяна на SIM</string>
+  <string name="incall_content_description_merge_calls">Обединяване на обаждания</string>
+  <string name="incall_content_description_earpiece">Телефонна слушалка</string>
+  <string name="incall_content_description_speaker">Високоговорител</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Слушалки с кабел</string>
+  <string name="incall_content_description_hold">Задържане на обаждането</string>
+  <string name="incall_content_description_unhold">Възобновяване на обаждането</string>
+  <string name="incall_content_description_video_on">Видеото е включено</string>
+  <string name="incall_content_description_video_off">Видеото е изключено</string>
+  <string name="incall_content_description_swap_video">Размяна на видеото</string>
+  <string name="incall_label_speaker">Високогов.</string>
+  <string name="incall_label_audio">Звук</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Уваходныя выклікі</string>
+  <string name="notification_channel_ongoing_call">Адбываючыяся выклікі</string>
+  <string name="notification_channel_missed_call">Прапушчаныя выклікі</string>
+  <string name="notification_channel_voicemail">Галасавая пошта</string>
+  <string name="notification_channel_misc">Стандартны</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">รายการโปรด</string>
+  <string name="suggestions_header">ผู้ที่ติดต่อบ่อย</string>
+  <string name="speed_dial_add_button_text">เพิ่ม</string>
+  <string name="speed_dial_remember_this_choice">จำตัวเลือกนี้</string>
+  <string name="speed_dial_disambig_dialog_title">เลือกประเภทการโทร</string>
+  <string name="disambig_option_video_call">วิดีโอคอล</string>
+  <string name="disambig_option_voice_call">โทร</string>
+  <string name="add_favorite_activity_title">เพิ่มรายการโปรด</string>
+  <string name="contact_menu_voice_call">การโทรด้วยเสียง</string>
+  <string name="contact_menu_video_call">วิดีโอคอล</string>
+  <string name="contact_menu_message">ข้อความ</string>
+  <string name="contact_menu_remove">ลบ</string>
+  <string name="contact_menu_contact_info">ข้อมูลติดต่อ</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">เพิ่มรายการโปรด</string>
+  <string name="speed_dial_contacts_permission_description">หากต้องการเปิดใช้การโทรด่วน ให้เปิดสิทธิ์เข้าถึงรายชื่อติดต่อ</string>
+  <string name="speed_dial_turn_on_contacts_permission">เปิด</string>
+  <string name="speed_dial_no_contacts_description">คุณยังไม่ได้เพิ่มรายการโปรดใดๆ</string>
+  <string name="speed_dial_no_contacts_action_text">เพิ่มรายการโปรด</string>
+  <string name="speed_dial_remove_favorites">นำออกจากรายการโปรด</string>
+</resources>

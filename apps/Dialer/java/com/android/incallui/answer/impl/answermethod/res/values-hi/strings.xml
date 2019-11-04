@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">उत्तर देने के लिए ऊपर स्वाइप करें</string>
+  <string name="call_incoming_swipe_to_reject">अस्वीकार करने के लिए नीचे स्वाइप करें</string>
+  <string name="a11y_incoming_call_swipe_to_answer">कॉल का उत्तर देने के लिए दो अंगुलियों से ऊपर या उसे अस्वीकार करने के लिए नीचे स्वाइप करें</string>
+  <string name="call_incoming_will_disconnect">इस कॉल का उत्तर देने से आपका वीडियो कॉल समाप्त हो जाएगा</string>
+  <string name="a11y_call_incoming_decline_description">अस्वीकार करें</string>
+  <string name="call_incoming_decline">अस्वीकार करें</string>
+  <string name="a11y_call_incoming_answer_description">उत्तर दें</string>
+  <string name="call_incoming_answer">उत्तर दें</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Kontaktua</string>
+  <string name="dialer_shortcut_add_contact_long">Kontaktu berria</string>
+  <string name="dialer_shortcut_disabled_message">Lasterbidea ez dabil. Arrastatu kentzeko.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontaktua ez dago jada erabilgarri.</string>
+  <string name="dialer_shortcut_no_permissions">Ezin duzu egin deirik baimenik ez baduzu.</string>
+</resources>

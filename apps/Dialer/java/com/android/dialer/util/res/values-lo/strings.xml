@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ສຽງເລີ່ມຕົ້ນ (%1$s)</string>
+  <string name="ringtone_silent">ບໍ່ມີ</string>
+  <string name="ringtone_unknown">ສຽງ​ໂທ​ເຂົ້າ​ບໍ່​ຮູ້​ຈັກ</string>
+  <string name="activity_not_available">ບໍ່​ມີ​ແອັ​ບຯ​ສຳ​ລັບ​ສິ່ງນັ້ນ​ຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ນີ້</string>
+  <string name="outgoing_wps_warning">ການໂທ WPS ຈະຕັດສາຍທີ່ມີຢູ່ແລ້ວຂອງທ່ານ.</string>
+  <string name="dialog_continue">ດຳເນີນການຕໍ່</string>
+  <string name="camera_privacy_text">ເປີດໃຊ້ສິດອະນຸຍາດກ້ອງຖ່າຍຮູບແລ້ວ</string>
+</resources>

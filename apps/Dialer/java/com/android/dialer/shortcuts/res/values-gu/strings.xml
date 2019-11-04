@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">નવો સંપર્ક</string>
+  <string name="dialer_shortcut_add_contact_long">નવો સંપર્ક</string>
+  <string name="dialer_shortcut_disabled_message">શૉર્ટકટ કામ કરતું નથી. દૂર કરવા માટે ખેંચો.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">સંપર્ક હવે ઉપલબ્ધ નથી.</string>
+  <string name="dialer_shortcut_no_permissions">પરવાનગીઓ વગર કૉલ કરી શકતાં નથી.</string>
+</resources>

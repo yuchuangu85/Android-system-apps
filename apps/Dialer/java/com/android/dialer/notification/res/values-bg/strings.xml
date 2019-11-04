@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Входящи обаждания</string>
+  <string name="notification_channel_ongoing_call">Текущи обаждания</string>
+  <string name="notification_channel_missed_call">Пропуснати обаждания</string>
+  <string name="notification_channel_voicemail">Гласови съобщения</string>
+  <string name="notification_channel_misc">По подразбиране</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Օգտագործել այս ցանցն ինչպես կա"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Չօգտագործել այս ցանցը"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Մուտք գործել ցանց"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Մուտք գործել %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Ցանցը, որին փորձում եք միանալ, անվտանգության խնդիրներ ունի:"</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Օրինակ՝ մուտքի էջը կարող է ցուցադրված կազմակերպության էջը չլինել:"</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Շարունակել այնուամենայնիվ դիտարկիչի միջոցով"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Հավաստագրի աղբյուրը վստահելի չէ:"</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Կայքի անունը չի համապատասխանում հավաստագրում նշված անվանը:"</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Հավաստագրի ժամկետը լրացել է:"</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Հավաստագիրը դեռ վավեր չէ:"</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Հավաստագրի ամսաթիվն անվավեր է:"</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Հավաստագիրն անվավեր է:"</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Հավաստագրի հետ կապված անհայտ սխալ առաջացավ:"</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Զգուշացում"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Դիտել հավաստագիրը"</string>
+    <string name="ok" msgid="6584612582120777209">"Եղավ"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Հասցե՝"</string>
+    <string name="page_info" msgid="46593086046896385">"Էջի մասին"</string>
+</resources>

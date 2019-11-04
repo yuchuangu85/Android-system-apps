@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">برای پاسخ‌گویی، انگشتتان را تند به بالا بکشید</string>
+  <string name="call_incoming_swipe_to_reject">برای رد کردن، انگشتتان را تند به پایین بکشید</string>
+  <string name="a11y_incoming_call_swipe_to_answer">برای پاسخ دادن، با دو انگشت تند به بالا بکشید و برای رد کردن تماس، با دو انگشت تند به پایین بکشید</string>
+  <string name="call_incoming_will_disconnect">اگر به این تماس پاسخ دهید، تماس ویدیویی‌تان تمام می‌شود</string>
+  <string name="a11y_call_incoming_decline_description">رد کردن</string>
+  <string name="call_incoming_decline">رد کردن</string>
+  <string name="a11y_call_incoming_answer_description">پاسخ‌گویی</string>
+  <string name="call_incoming_answer">پاسخ‌گویی</string>
+</resources>

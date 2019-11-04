@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2019 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+    <item msgid="3431380197378148950">"अमेरिका"</item>
+    <item msgid="4791956477275129121">"युरोप"</item>
+    <item msgid="3812126832016254559">"अफ्रिका"</item>
+    <item msgid="2765816300353408280">"एसिया"</item>
+    <item msgid="6683489385344409742">"अस्ट्रेलिया"</item>
+    <item msgid="5194868215515664953">"प्रशान्त"</item>
+    <item msgid="7044520255415007865">"सबै"</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item msgid="8596143519087753804">"१५ सेकेन्ड"</item>
+    <item msgid="772029947136115322">"३० सेकेन्ड"</item>
+    <item msgid="8743663928349474087">"१ मिनेट"</item>
+    <item msgid="1506508631223164814">"२ मिनेट"</item>
+    <item msgid="8664703938127907662">"५ मिनेट"</item>
+    <item msgid="5827960506924849753">"१० मिनेट"</item>
+    <item msgid="6677424950124253938">"३० मिनेट"</item>
+  </string-array>
+    <!-- no translation found for dream_timeout_entries:1 (2517785806387977252) -->
+    <!-- no translation found for dream_timeout_entries:5 (2788593551142462622) -->
+    <!-- no translation found for dream_timeout_entries:6 (8012672183888404961) -->
+    <!-- no translation found for lock_after_timeout_entries:2 (5558060663472279597) -->
+    <!-- no translation found for lock_after_timeout_entries:6 (4376575879222393045) -->
+    <!-- no translation found for lock_after_timeout_entries:7 (811192536981678974) -->
+  <string-array name="entries_font_size">
+    <item msgid="2340391964816059553">"सानो"</item>
+    <item msgid="591935967183159581">"पूर्वनिर्धारित"</item>
+    <item msgid="1714184661981538355">"ठूलो"</item>
+    <item msgid="6195563047686707484">"सबैभन्दा ठूलो"</item>
+  </string-array>
+    <!-- no translation found for wifi_status:1 (4157625910392775808) -->
+  <string-array name="wifi_status_with_ssid">
+    <item msgid="4853670665485437464"></item>
+    <item msgid="6816207058895999545">"स्क्यान गर्दै ..."</item>
+    <item msgid="8058143476674427024">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>सँग जडान हुँदै..."</item>
+    <item msgid="7547609081339573756">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>का साथ प्रमाणीकरण गर्दै..."</item>
+    <item msgid="5145158315060185414">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>बाट IP ठेगाना प्राप्त गर्दै..."</item>
+    <item msgid="3283243151651124831">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>सँग जडित"</item>
+    <item msgid="6600156231416890902">"निलम्बित"</item>
+    <item msgid="4133290864821295785">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g>बाट विच्छेदन गर्दै..."</item>
+    <item msgid="3980154971187953257">"जडान विच्छेद भयो"</item>
+    <item msgid="2847316776634969068">"असफल"</item>
+    <item msgid="4390990424746035383">"अवरूद्ध गरियो"</item>
+    <item msgid="3618248791367063949">"अस्थायी रूपमा कमजोर जडान हटाइँदै"</item>
+  </string-array>
+    <!-- no translation found for wifi_tether_security:0 (5586343370515598801) -->
+    <!-- no translation found for wifi_tether_security:1 (6136336549994615745) -->
+  <string-array name="wifi_p2p_wps_setup">
+    <item msgid="5390235347963255303">"थिच्ने बटन"</item>
+    <item msgid="7401896200768713930">"PIN जोडी उपकरणबाट"</item>
+    <item msgid="4526848028011846710">"यस उपकरणबाट PIN"</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item msgid="8741947238021758201">"जडान गरियो"</item>
+    <item msgid="983792611851499732">"आमन्त्रित"</item>
+    <item msgid="5438273405428201793">"असफल"</item>
+    <item msgid="4646663015449312554">"उपलब्ध"</item>
+    <item msgid="3230556734162006146">"दायरा-बाहिर"</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item msgid="8247986727324120082">"२ मिनेट"</item>
+    <item msgid="2759776603549270587">"५ मिनेट"</item>
+    <item msgid="167772676068860015">"१ घन्टा"</item>
+    <item msgid="5985477119043628504">"कहिल्यै समय सकिँदैन"</item>
+  </string-array>
+    <!-- no translation found for bluetooth_max_connected_audio_devices:2 (5318020123964299318) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:3 (6429260054182662738) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:4 (1644506614010085798) -->
+    <!-- no translation found for wifi_signal:0 (1709949377823900951) -->
+  <string-array name="data_usage_data_range">
+    <item msgid="8986775481492954015">"अन्तिम ३० दिन"</item>
+    <item msgid="3211287705232736964">"प्रयोग चक्र सेट..."</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item msgid="1266031014388516303">"उपयोग समय"</item>
+    <item msgid="2784401352592276015">"पछिल्लो समय प्रयोग गरिएको"</item>
+    <item msgid="249854287216326349">"अनुप्रयोगको नाम"</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item msgid="5538816743897530343">"PEAP"</item>
+    <item msgid="336771389015263226">"TLS"</item>
+    <item msgid="2124951724092063376">"TTLS"</item>
+    <item msgid="7427377376024106344">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="8934819312374410084">"कुनै पनि होइन"</item>
+    <item msgid="8655686691660180616">"MSCHAPV2"</item>
+    <item msgid="1354245862267605928">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:0 (7122038588318037831) -->
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:2 (6333849991499980140) -->
+  <string-array name="wifi_phase2_entries">
+    <item msgid="5865367433072785952">"कुनै पनि होइन"</item>
+    <item msgid="7901133332272818442">"PAP"</item>
+    <item msgid="8549879045980332977">"MSCHAP"</item>
+    <item msgid="7330627471456865502">"MSCHAPV2"</item>
+    <item msgid="6255179395132581882">"GTC"</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item msgid="2717196390555072244">"DHCP"</item>
+    <item msgid="4377002609760712163">"स्थिर"</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item msgid="9032900195127165132">"कुनै पनि होइन"</item>
+    <item msgid="1464741437353223198">"म्यानुअल"</item>
+    <item msgid="5793600062487886090">"प्रोक्सी स्वतः समायोजन"</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item msgid="7099647881902405997">"कुनै पनि होइन"</item>
+    <item msgid="1950796738039490374">"PAP"</item>
+    <item msgid="8166687999538788787">"CHAP"</item>
+    <item msgid="1276004657191968988">"PAP वा CHAP"</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item msgid="4179023087537182757">"IPv4"</item>
+    <item msgid="9148582221081416020">"IPv6"</item>
+    <item msgid="4094895508821270572">"IPv4/IPv6"</item>
+  </string-array>
+    <!-- no translation found for bearer_entries:1 (2740477081395679090) -->
+    <!-- no translation found for mvno_type_entries:0 (6984770764726663331) -->
+    <!-- no translation found for mvno_type_entries:2 (7556656048009090524) -->
+  <string-array name="app_install_location_entries">
+    <item msgid="6621866711026016227">"आन्तरिक उपकरण भण्डारण"</item>
+    <item msgid="3186681694079967527">"हटाउन मिल्ने SD कार्ड"</item>
+    <item msgid="6902033473986647035">"प्रणालीलाई निर्णय गर्न दिनुहोस्"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="1102693344156734891">"स्थान"</item>
+    <item msgid="6842381562497597649">"व्यक्तिगत"</item>
+    <item msgid="3966700236695683444">"सन्देश पठाइदै"</item>
+    <item msgid="8563996233342430477">"मिडिया"</item>
+    <item msgid="5323851085993963783">"यन्त्र"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="2585253854462134715">"भद्दा स्थान"</item>
+    <item msgid="1830619568689922920">"राम्रो स्थान"</item>
+    <item msgid="3317274469481923141">"GPS"</item>
+    <item msgid="8931785990160383356">"कम्पन हुने"</item>
+    <item msgid="8632513128515114092">"सम्पर्कहरू पढ्नुहोस्"</item>
+    <item msgid="3741042113569620272">"सम्पर्कहरू परिमार्जन गर्नुहोस्"</item>
+    <item msgid="4204420969709009931">"कल लग पढ्नुहोस्"</item>
+    <item msgid="2260380357119423209">"कल लग परिमार्जन गर्नुहोस्"</item>
+    <item msgid="6550710385014530934">"पात्रो पढ्नुहोस्"</item>
+    <item msgid="3575906174264853951">"पात्रो परिमार्जन गर्नुहोस्"</item>
+    <item msgid="4319843242568057174">"Wi-Fi स्क्यान"</item>
+    <item msgid="2981791890467303819">"सूचना"</item>
+    <item msgid="6617825156152476692">"सेल स्क्यान"</item>
+    <item msgid="8865260890611559753">"कल फोन"</item>
+    <item msgid="3254999273961542982">"SMS पढ्नुहोस्"</item>
+    <item msgid="7711446453028825171">"SMS लेख्नुहोस्"</item>
+    <item msgid="6123238544099198034">"SMS प्राप्त गर्नुहोस्"</item>
+    <item msgid="838342167431596036">"आपतकालीन SMS प्राप्त गर्नुहोस्"</item>
+    <item msgid="8554432731560956686">"MMS प्राप्त गर्नुहोस्"</item>
+    <item msgid="7464863464299515059">"WAP push प्राप्त गर्नुहोस्"</item>
+    <item msgid="310463075729606765">"SMS पठाउनुहोस्"</item>
+    <item msgid="7338021933527689514">"ICC SMS पढ्नुहोस्"</item>
+    <item msgid="6130369335466613036">"ICC SMS लेख्नुहोस्"</item>
+    <item msgid="6536865581421670942">"सेटिङहरू परिमार्जन गर्नुहोस्"</item>
+    <item msgid="4547203129183558973">"सबभन्दा माथि सार्नुहोस्"</item>
+    <item msgid="9080347512916542840">"सूचनाहरू पहुँच गर्नुहोस्"</item>
+    <item msgid="5332718516635907742">"क्यामेरा"</item>
+    <item msgid="6098422447246167852">"अडियो रेकर्ड गर्नुहोस्"</item>
+    <item msgid="9182794235292595296">"अडियो बजाउनुहोस्"</item>
+    <item msgid="8760743229597702019">"क्लिपबोर्ड पढ्नुहोस्"</item>
+    <item msgid="2266923698240538544">"क्लिपबोर्ड संशोधन गर्नुहोस्"</item>
+    <item msgid="1801619438618539275">"मिडिया बटनहरू"</item>
+    <item msgid="31588119965784465">"श्रब्य फोकस"</item>
+    <item msgid="7565226799008076833">"मास्टर ध्वनि मात्रा"</item>
+    <item msgid="5420704980305018295">"वाणी मात्रा"</item>
+    <item msgid="5797363115508970204">"घन्टी मात्रा"</item>
+    <item msgid="8233154098550715999">"मिडियाको आवाजको मात्रा"</item>
+    <item msgid="5196715605078153950">"अलार्मको आवाजको मात्रा"</item>
+    <item msgid="394030698764284577">"सूचना मात्रा"</item>
+    <item msgid="8952898972491680178">"ब्लुटुथ मात्रा"</item>
+    <item msgid="8506227454543690851">"जागा रहनुहोस्"</item>
+    <item msgid="1108160036049727420">"स्थानको निरीक्षण गर्नुहोस्"</item>
+    <item msgid="1496205959751719491">"उच्च शक्ति स्थान मनिटर"</item>
+    <item msgid="3776296279910987380">"तथ्याङ्क उपयोग प्राप्त गर्नुहोस्"</item>
+    <item msgid="8827100324471975602">"माइक्रोफोनको आवाज बन्द/खुला गर्नुहोस्"</item>
+    <item msgid="6880736730520126864">"टोस्ट देखाउनुहोस्"</item>
+    <item msgid="4933375960222609935">"परियोजना मिडिया"</item>
+    <item msgid="8357907018938895462">"VPN सक्रिय पार्नुहोस्"</item>
+    <item msgid="8143812849911310973">"वालपेपर लेख्नुहोस्"</item>
+    <item msgid="6266277260961066535">"संरचनालाई मद्दत गर्नुहोस्"</item>
+    <item msgid="7715498149883482300">"स्क्रिनसट मद्दत गर्नुहोस्"</item>
+    <item msgid="4046679376726313293">"फोनको अवस्था पढ्नुहोस्"</item>
+    <item msgid="6329507266039719587">"भ्वाइसमेल थप गर्नुहोस्"</item>
+    <item msgid="7692440726415391408">"SIP प्रयोग गर्नुहोस्"</item>
+    <item msgid="8572453398128326267">"बहिर्गमन कललाई प्रशोधन गर्नुहोस्"</item>
+    <item msgid="7775674394089376306">"फिंगरप्रिन्ट"</item>
+    <item msgid="3182815133441738779">"शारीरिक सेन्सरहरू"</item>
+    <item msgid="2793100005496829513">"मोबाइल प्रसारणहरू पढ्नुहोस्"</item>
+    <item msgid="2633626056029384366">"स्थान नक्कल गर्नुहोस्"</item>
+    <item msgid="8356842191824684631">"भण्डारण पढ्नुहोस्"</item>
+    <item msgid="5671906070163291500">"भण्डारण लेख्नुहोस्"</item>
+    <item msgid="2791955098549340418">"स्क्रिन सक्रिय गर्नुहोस्"</item>
+    <item msgid="5599435119609178367">"खाताहरू प्राप्त गर्नुहोस्"</item>
+    <item msgid="1165623660533024666">"पृष्ठभूमिमा सञ्चालन गर्नुहोस्"</item>
+    <item msgid="6423861043647911030">"पहुँचको मात्रा"</item>
+  </string-array>
+    <!-- no translation found for app_ops_labels:41 (2464189519136248621) -->
+  <string-array name="long_press_timeout_selector_titles">
+    <item msgid="8950313530602254787">"छोटो"</item>
+    <item msgid="4816511817309094890">"सामान्य"</item>
+    <item msgid="8305084671259331134">"लामो"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="6928465258504250174">"पूर्वनिर्धारित"</item>
+    <item msgid="4147246073737933622">"Sans-serif"</item>
+    <item msgid="3117680749167407907">"Sans-serif condensed"</item>
+    <item msgid="6529379119163117545">"सन्स-सेरिफ मोनोस्पेस"</item>
+    <item msgid="1487203730637617924">"Serif"</item>
+    <item msgid="4937790671987480464">"सेरिफ मोनोस्पेस"</item>
+    <item msgid="4448481989108928248">"आरामदायक"</item>
+    <item msgid="4627069151979553527">"जोडिएको लेखाइ"</item>
+    <item msgid="6896773537705206194">"लघु दीर्घाक्षर"</item>
+  </string-array>
+    <!-- no translation found for captioning_font_size_selector_titles:1 (5091603983404027034) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (176844712416932112) -->
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="3865198759294188069">"पूर्वनिर्धारित"</item>
+    <item msgid="6488643537808152001">"कुनै पनि होइन"</item>
+    <item msgid="552332815156010137">"रूपरेखा"</item>
+    <item msgid="7187891159463789272">"छाँया राख्नुस्"</item>
+    <item msgid="8019330250538856521">"उठायो"</item>
+    <item msgid="8987385315647049787">"दबेको"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="313003243371588365">"२५%"</item>
+    <item msgid="4665048002584838262">"५०%"</item>
+    <item msgid="1874668269931014581">"७५%"</item>
+    <item msgid="6462911487571123954">"१००%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="326819345272910536">"एपका पूर्वनिर्धारित सेटिङहरू प्रयोग गर्नुहोस्"</item>
+    <item msgid="8611890312638868524">"कालोमा सेतो"</item>
+    <item msgid="5891360837786277638">"सेतोमा कालो"</item>
+    <item msgid="2798457065945456853">"कालोमा पहेँलो"</item>
+    <item msgid="5799049811524553967">"नीलोमा पहेँलो"</item>
+    <item msgid="3673930830658169860">"आफू अनुकूल"</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item msgid="6566768880689730097">"PPTP VPN"</item>
+    <item msgid="1349760781118368659">"L2TP/IPSec VPN पूर्व साझेदारी कुञ्जीकासँग"</item>
+    <item msgid="6128519070545038358">"प्रमाणपत्रहरूसँग L2TP/IPSec VPN"</item>
+    <item msgid="312397853907741968">"IPSec VPN पूर्व साझेदारी कुञ्जी र Xauth प्राधिकरणसँग"</item>
+    <item msgid="3319427315593649917">"प्रमाणपत्रहरू र Xauth प्रमाणीकरणको साथ IPSec VPN"</item>
+    <item msgid="8258927774145391041">"प्रमाणपत्रहरू र हाईब्रिड प्रमाणीकरणसँग IPSec VPN"</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item msgid="2958623927055120839">"कुनै पनि होइन"</item>
+    <item msgid="1157046369795346308">"म्यानुअल"</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item msgid="5408915841694583740">"जडान विच्छेद भयो"</item>
+    <item msgid="8754480102834556765">"सुरुवात भैरहेको छ..."</item>
+    <item msgid="3351334355574270250">"जडान हुँदै..."</item>
+    <item msgid="8303882153995748352">"जडान गरियो"</item>
+    <item msgid="9135049670787351881">"समय सकियो"</item>
+    <item msgid="2124868417182583926">"असफल"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="1164265643455394443">"सोध्नुहोस्"</item>
+    <item msgid="7718817231348607934">"कहिल्यै पनि अनुमति नदिनुहोस्"</item>
+    <item msgid="8184570120217958741">"सधैँ अनुमति दिनुहोस्"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (708247372474061274) -->
+    <!-- no translation found for ram_states:4 (1567326459340152525) -->
+    <!-- no translation found for proc_stats_memory_states:3 (8577246509202964244) -->
+  <string-array name="proc_stats_process_states">
+    <item msgid="7560955722349181440">"लगातार"</item>
+    <item msgid="167418068739176448">"उच्च गतिविधि"</item>
+    <item msgid="4760813290195199773">"महत्वपूर्ण (अग्रभूमि)"</item>
+    <item msgid="2328684826817647595">"महत्वपूर्ण (पृष्ठभूमि)"</item>
+    <item msgid="7746406490652867365">"ब्याकअप"</item>
+    <item msgid="5597404364389196754">"भारी वजन"</item>
+    <item msgid="1290888779300174556">"सेवा (चालु)"</item>
+    <item msgid="7241098542073939046">"सेवा (पुनःसुरु हुँदै)"</item>
+    <item msgid="6610439017684111046">"प्रापक"</item>
+    <item msgid="7367606086319921117">"गृह"</item>
+    <item msgid="3344660712396741826">"पछिल्लो गतिविधि"</item>
+    <item msgid="5006559348883303865">"क्यास (गतिविधि)"</item>
+    <item msgid="8633480732468137525">"क्यास (गतिविधि ग्राहक)"</item>
+    <item msgid="6248998242443333892">"क्यास (खाली)"</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item msgid="3151827842194201728">"टिल"</item>
+    <item msgid="3228505970082457852">"नीलो"</item>
+    <item msgid="6590260735734795647">"इन्डिगो"</item>
+    <item msgid="3521763377357218577">"बैजनी"</item>
+    <item msgid="5932337981182999919">"गुलाबी"</item>
+    <item msgid="5642914536624000094">"रातो"</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item msgid="2860293514533486236">"३० दिनभन्दा बढी पुरानो"</item>
+    <item msgid="8699273238891265610">"६० दिनभन्दा बढी पुरानो"</item>
+    <item msgid="8346279419423837266">"९० दिनभन्दा बढी पुरानो"</item>
+  </string-array>
+    <!-- no translation found for swipe_direction_titles:0 (6583090603341402282) -->
+    <!-- no translation found for swipe_direction_titles:1 (4965730704403236310) -->
+  <string-array name="swipe_direction_values">
+    <item msgid="5298569105095026382">"1"</item>
+    <item msgid="3118234477029486741">"0"</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item msgid="4329206416008519163">"स्वतः पत्ता लगाउनुहोस्"</item>
+    <item msgid="773943026484148895">"शुल्क लाग्ने वाइफाइका रूपमा लिनुहोस्"</item>
+    <item msgid="1008268820118852416">"मिटर नगरिएको रूपमा व्यवहार गर्नुहोस्"</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item msgid="6545683814310036454">"क्रमरहित MAC प्रयोग गर्नुहोस् (पूर्वनिर्धारित)"</item>
+    <item msgid="214234417308375326">"MAC यन्त्र प्रयोग गर्नुहोस्"</item>
+  </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item msgid="7426878022650940844">"होइन"</item>
+    <item msgid="1930581185557754880">"हो"</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item msgid="699295711155561081">"अँध्यारो"</item>
+    <item msgid="5079453644557603349">"उज्यालो"</item>
+  </string-array>
+  <string-array name="autofill_logging_level_entries">
+    <item msgid="6882729786516723474">"निष्क्रिय गर्नुहोस्"</item>
+    <item msgid="4072198137051566919">"डिबग"</item>
+    <item msgid="2473005316958868509">"भर्बोज"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="8444727359525554695">"घरमा मात्र"</item>
+    <item msgid="1161026694891024702">"स्वचालित"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="1823884522189328861">"GSM/WCDMA रुचाइयो"</item>
+    <item msgid="7581481130337402578">"GSM मात्र"</item>
+    <item msgid="8579197487913425819">"WCDMA मात्र"</item>
+    <item msgid="8465243227505412498">"GSM/WCDMA स्वतः"</item>
+    <item msgid="9107479914166352132">"CDMA/EvDo स्वतः"</item>
+    <item msgid="4219607161971472471">"CDMA w/o EvDo"</item>
+    <item msgid="7278975240951052041">"EvDo मात्र"</item>
+    <item msgid="2295969832276827854">"CDMA/EvDo/GSM/WCDMA"</item>
+    <item msgid="9059227943989034424">"CDMA + LTE/EvDo"</item>
+    <item msgid="463168068025354541">"GSM/WCDMA/LTE"</item>
+    <item msgid="1770755308983338311">"विश्वव्यापी"</item>
+    <item msgid="5713723042183940349">"LTE"</item>
+    <item msgid="8600184258612405670">"LTE/WCDMA"</item>
+    <item msgid="5638632460322750180">"TDSCDMA मात्र"</item>
+    <item msgid="4346392996298714633">"TDSCDMA/WCDMA"</item>
+    <item msgid="5004811216708487615">"LTE/TDSCDMA"</item>
+    <item msgid="9191730167201068525">"TDSCDMA/GSM"</item>
+    <item msgid="5874623229495009031">"LTE/TDSCDMA/GSM"</item>
+    <item msgid="5096480046347789213">"TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2075445917638134012">"LTE/TDSCDMA/WCDMA"</item>
+    <item msgid="3353351554070857366">"LTE/TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2067289929099567494">"TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+    <item msgid="4959483620561891661">"LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item msgid="7691437408632563841">"RUIM/SIM"</item>
+    <item msgid="6219184455685527822">"NV"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item msgid="5675987537637081766">"विश्वव्यापी"</item>
+    <item msgid="7893851358184700811">"LTE/CDMA"</item>
+    <item msgid="1779116915491192719">"LTE / GSM / UMTS"</item>
+  </string-array>
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:0 (4760531919194480665) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:1 (7912365765185450743) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:2 (2104740586531949003) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:0 (852926015619722843) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:1 (3792510685855718883) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:2 (1377977453734193662) -->
+</resources>

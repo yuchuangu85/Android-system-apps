@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Видео чалуу</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Күттүрүү</string>
+  <string name="incall_label_add_call">Чалууну кошуу</string>
+  <string name="incall_label_mute">Үнүн өчүрүү</string>
+  <string name="incall_label_end_call">Чалууну бүтүрүү</string>
+  <string name="incall_label_dialpad">Ном. тергич</string>
+  <string name="incall_talkback_speaker_on">, күйүк</string>
+  <string name="incall_talkback_speaker_off">, өчүк</string>
+  <string name="incall_label_merge">Бириктирүү</string>
+  <string name="incall_label_manage">Башкаруу</string>
+  <string name="a11y_description_incall_label_manage_content">Чалуучуларды башкаруу</string>
+  <string name="incall_label_swap">Алмаштыруу</string>
+  <string name="incall_label_swap_sim">SIM-картаны өзгөртүү</string>
+  <string name="incall_note_sent">Билдирүү жөнөтүлдү</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"हे नेटवर्क जसेच्या तसे वापरा"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"हे नेटवर्क वापरू नका"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"नेटवर्क मध्‍ये साइन इन करा"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$sमध्‍ये साइन इन करा"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"ज्या नेटवर्कमध्‍ये तुम्ही सामील होण्याचा प्रयत्न करीत आहात त्यात सुरक्षितता समस्या आहेत."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"उदाहरणार्थ, लॉगिन पृष्‍ठ कदाचित दर्शविलेल्या संस्थेच्या मालकीचे नसावे."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"ब्राउझरद्वारे तरीही सुरु ठेवा"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"हे प्रमाणपत्र विश्वसनीय संस्थेने दिलेले नाही"</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"साइटचे नाव प्रमाणपत्रावरील नावाशी जुळत नाही."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"हे प्रमाणपत्र एक्स्पायर झाले आहे."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"हे प्रमाणपत्र अजून योग्य नाही."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"या प्रमाणपत्राची तारीख चुकीची आहे."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"हे प्रमाणपत्र चुकीचे आहे."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"अज्ञात प्रमाणपत्र एरर."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"सुरक्षितता चेतावणी"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"प्रमाणपत्र पाहा"</string>
+    <string name="ok" msgid="6584612582120777209">"ठीक आहे"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"पत्ता:"</string>
+    <string name="page_info" msgid="46593086046896385">"पेज माहिती"</string>
+</resources>

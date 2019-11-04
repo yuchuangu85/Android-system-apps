@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Адкажыце, каб адкрыць фота</string>
+  <string name="spam_message_text">Адкажыце, каб адкрыць паведамленне</string>
+</resources>

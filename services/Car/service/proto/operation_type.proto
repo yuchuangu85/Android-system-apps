@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+package aae.blemessagestream;
+
+option java_package = "com.android.car.BLEStreamProtos";
+option java_outer_classname = "BLEOperationProto";
+
+// The different message types that indicate the content of the payload.
+//
+// Ensure that these values are positive to reduce incurring too many bytes
+// to encode.
+enum OperationType {
+  // The contents of the payload are unknown.
+  //
+  // Note, this enum name is prefixed. See
+  // go/proto-best-practices-checkers#enum-default-value-name-conflict
+  OPERATION_TYPE_UNKNOWN = 0;
+
+  // The payload contains handshake messages needed to set up encryption.
+  ENCRYPTION_HANDSHAKE = 2;
+
+  // The message is an acknowledgment of a previously received message. The
+  // payload for this type should be empty.
+  ACK = 3;
+
+  // The payload contains a client-specific message.
+  CLIENT_MESSAGE = 4;
+}

@@ -1,0 +1,57 @@
+{
+  "FLAGS": "browsable",
+  "BROWSABLE_HINT": "LIST",
+
+  "METADATA": {
+    "MEDIA_ID": "album_art/art_nodes",
+    "DISPLAY_TITLE": "Album Art"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "album_art/art_nodes nature 64",
+        "DISPLAY_TITLE": "Nature 64"
+      },
+      "INCLUDE":"media_items/album_art/nature/art_nature_64.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "album_art/art_nodes nature 128",
+        "DISPLAY_TITLE": "Nature 128"
+      },
+      "INCLUDE":"media_items/album_art/nature/art_nature_128.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "album_art/art_nodes nature 256",
+        "DISPLAY_TITLE": "Nature 256"
+      },
+      "INCLUDE":"media_items/album_art/nature/art_nature_256.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "album_art/art_nodes nature 512",
+        "DISPLAY_TITLE": "Nature 512"
+      },
+      "INCLUDE":"media_items/album_art/nature/art_nature_512.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "album_art/art_nodes nature 1024",
+        "DISPLAY_TITLE": "Nature 1024"
+      },
+      "INCLUDE":"media_items/album_art/nature/art_nature_1024.json"
+    }
+  ]
+}

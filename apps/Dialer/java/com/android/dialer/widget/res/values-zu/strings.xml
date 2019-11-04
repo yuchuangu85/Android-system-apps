@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Bhala umlayezo wangokwezifiso</string>
+  <string name="toolbar_close">Vala</string>
+  <string name="all_contacts_empty">Awunabo oxhumana nabo okwamanje</string>
+  <string name="all_contacts_empty_add_contact_action">Dala othintana naye omusha</string>
+  <string name="permission_single_turn_on">Vula</string>
+  <string name="permission_no_contacts">Ukuze ubone oxhumana nabo, vula imvume yoxhumana nabo.</string>
+  <string name="add_contact_not_available">Alukho uhlelo lokusebenza loxhumana nabo olutholakalayo</string>
+</resources>

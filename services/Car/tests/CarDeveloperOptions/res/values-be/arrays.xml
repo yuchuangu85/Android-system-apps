@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2019 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+    <item msgid="3431380197378148950">"Амерыка"</item>
+    <item msgid="4791956477275129121">"Еўропа"</item>
+    <item msgid="3812126832016254559">"Афрыка"</item>
+    <item msgid="2765816300353408280">"Азія"</item>
+    <item msgid="6683489385344409742">"Аўстралія"</item>
+    <item msgid="5194868215515664953">"Ціхі акіян"</item>
+    <item msgid="7044520255415007865">"Усе"</item>
+  </string-array>
+    <!-- no translation found for screen_timeout_entries:0 (8596143519087753804) -->
+    <!-- no translation found for dream_timeout_entries:1 (2517785806387977252) -->
+    <!-- no translation found for dream_timeout_entries:5 (2788593551142462622) -->
+    <!-- no translation found for dream_timeout_entries:6 (8012672183888404961) -->
+    <!-- no translation found for lock_after_timeout_entries:2 (5558060663472279597) -->
+    <!-- no translation found for lock_after_timeout_entries:6 (4376575879222393045) -->
+    <!-- no translation found for lock_after_timeout_entries:7 (811192536981678974) -->
+  <string-array name="entries_font_size">
+    <item msgid="2340391964816059553">"Малы"</item>
+    <item msgid="591935967183159581">"Стандартны"</item>
+    <item msgid="1714184661981538355">"Вялікі"</item>
+    <item msgid="6195563047686707484">"Найвялікшы"</item>
+  </string-array>
+    <!-- no translation found for wifi_status:1 (4157625910392775808) -->
+  <string-array name="wifi_status_with_ssid">
+    <item msgid="4853670665485437464"></item>
+    <item msgid="6816207058895999545">"Сканаванне..."</item>
+    <item msgid="8058143476674427024">"Падключэнне да сеткі <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="7547609081339573756">"Аўтэнтыфікацыя ў сетцы <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="5145158315060185414">"Атрыманне IP-адраса ў сетцы <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="3283243151651124831">"Падключаны да сеткi <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+    <item msgid="6600156231416890902">"Прыпынена"</item>
+    <item msgid="4133290864821295785">"Адключэнне ад сеткі <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="3980154971187953257">"Адключана"</item>
+    <item msgid="2847316776634969068">"Няўдала"</item>
+    <item msgid="4390990424746035383">"Заблакiравана"</item>
+    <item msgid="3618248791367063949">"Дрэнная сувязь часова пазбегнута"</item>
+  </string-array>
+    <!-- no translation found for wifi_tether_security:0 (5586343370515598801) -->
+    <!-- no translation found for wifi_tether_security:1 (6136336549994615745) -->
+  <string-array name="wifi_p2p_wps_setup">
+    <item msgid="5390235347963255303">"Націсніце кнопку"</item>
+    <item msgid="7401896200768713930">"PIN-код ад пірынгавай прылады"</item>
+    <item msgid="4526848028011846710">"PIN-код для гэтай прылады"</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item msgid="8741947238021758201">"Падключана"</item>
+    <item msgid="983792611851499732">"Запрошаны"</item>
+    <item msgid="5438273405428201793">"Няўдала"</item>
+    <item msgid="4646663015449312554">"Даступна"</item>
+    <item msgid="3230556734162006146">"Выхад за дазволеныя межы"</item>
+  </string-array>
+    <!-- no translation found for bluetooth_visibility_timeout_entries:1 (2759776603549270587) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:2 (5318020123964299318) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:3 (6429260054182662738) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:4 (1644506614010085798) -->
+    <!-- no translation found for wifi_signal:0 (1709949377823900951) -->
+  <string-array name="data_usage_data_range">
+    <item msgid="8986775481492954015">"Апошнія 30 дзён"</item>
+    <item msgid="3211287705232736964">"Заданне цыклу расходу..."</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item msgid="1266031014388516303">"Час выкарыстання"</item>
+    <item msgid="2784401352592276015">"Апошняе выкарыстанне"</item>
+    <item msgid="249854287216326349">"Назва прыкладання"</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item msgid="5538816743897530343">"PEAP"</item>
+    <item msgid="336771389015263226">"TLS"</item>
+    <item msgid="2124951724092063376">"TTLS"</item>
+    <item msgid="7427377376024106344">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="8934819312374410084">"Няма"</item>
+    <item msgid="8655686691660180616">"MSCHAPV2"</item>
+    <item msgid="1354245862267605928">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:0 (7122038588318037831) -->
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:2 (6333849991499980140) -->
+  <string-array name="wifi_phase2_entries">
+    <item msgid="5865367433072785952">"Няма"</item>
+    <item msgid="7901133332272818442">"PAP"</item>
+    <item msgid="8549879045980332977">"MSCHAP"</item>
+    <item msgid="7330627471456865502">"MSCHAPV2"</item>
+    <item msgid="6255179395132581882">"GTC"</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item msgid="2717196390555072244">"DHCP"</item>
+    <item msgid="4377002609760712163">"Статычны"</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item msgid="9032900195127165132">"Няма"</item>
+    <item msgid="1464741437353223198">"Кіраўніцтва"</item>
+    <item msgid="5793600062487886090">"Аўтаканфігурацыя проксі"</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item msgid="7099647881902405997">"Няма"</item>
+    <item msgid="1950796738039490374">"PAP"</item>
+    <item msgid="8166687999538788787">"CHAP"</item>
+    <item msgid="1276004657191968988">"PAP ці CHAP"</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item msgid="4179023087537182757">"IPv4"</item>
+    <item msgid="9148582221081416020">"IPv6"</item>
+    <item msgid="4094895508821270572">"IPv4/IPv6"</item>
+  </string-array>
+    <!-- no translation found for bearer_entries:1 (2740477081395679090) -->
+    <!-- no translation found for mvno_type_entries:0 (6984770764726663331) -->
+    <!-- no translation found for mvno_type_entries:2 (7556656048009090524) -->
+  <string-array name="app_install_location_entries">
+    <item msgid="6621866711026016227">"Унутраная памяць прылады"</item>
+    <item msgid="3186681694079967527">"Зменная SD-карта"</item>
+    <item msgid="6902033473986647035">"Няхай вырашыць сістэма"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="1102693344156734891">"Месцазнаходжанне"</item>
+    <item msgid="6842381562497597649">"Асабістае"</item>
+    <item msgid="3966700236695683444">"Абмен паведамленнямі"</item>
+    <item msgid="8563996233342430477">"Медыя"</item>
+    <item msgid="5323851085993963783">"Прылада"</item>
+  </string-array>
+    <!-- no translation found for app_ops_summaries:46 (4933375960222609935) -->
+    <!-- no translation found for app_ops_labels:41 (2464189519136248621) -->
+    <!-- no translation found for app_ops_labels:48 (8291198322681891160) -->
+  <string-array name="long_press_timeout_selector_titles">
+    <item msgid="8950313530602254787">"Кароткая"</item>
+    <item msgid="4816511817309094890">"Сярэдняя"</item>
+    <item msgid="8305084671259331134">"Доўгая"</item>
+  </string-array>
+    <!-- no translation found for captioning_typeface_selector_titles:4 (1487203730637617924) -->
+    <!-- no translation found for captioning_font_size_selector_titles:1 (5091603983404027034) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (176844712416932112) -->
+    <!-- no translation found for captioning_edge_type_selector_titles:4 (8019330250538856521) -->
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="313003243371588365">"25%"</item>
+    <item msgid="4665048002584838262">"50 %"</item>
+    <item msgid="1874668269931014581">"75%"</item>
+    <item msgid="6462911487571123954">"100 %"</item>
+  </string-array>
+    <!-- no translation found for captioning_preset_selector_titles:2 (5891360837786277638) -->
+  <string-array name="vpn_types_long">
+    <item msgid="6566768880689730097">"PPTP VPN"</item>
+    <item msgid="1349760781118368659">"L2TP/IPSec VPN з загадзя размеркаванымі ключамі"</item>
+    <item msgid="6128519070545038358">"L2TP/IPSec VPN з сертыфікатамі"</item>
+    <item msgid="312397853907741968">"IPSec VPN з папярэдне размеркаванымі ключамі і аўтэнтыфікацыяй Xauth"</item>
+    <item msgid="3319427315593649917">"IPSec VPN з сертыфікатамі і аўтэнтыфікацыяй Xauth"</item>
+    <item msgid="8258927774145391041">"IPSec VPN з сертыфікатамі і гібрыднай аўтэнтыфікацыяй"</item>
+  </string-array>
+    <!-- no translation found for vpn_proxy_settings:0 (2958623927055120839) -->
+  <string-array name="vpn_states">
+    <item msgid="5408915841694583740">"Адключана"</item>
+    <item msgid="8754480102834556765">"Ініцыялізацыя..."</item>
+    <item msgid="3351334355574270250">"Падключэнне..."</item>
+    <item msgid="8303882153995748352">"Падключана"</item>
+    <item msgid="9135049670787351881">"Тайм-аўт"</item>
+    <item msgid="2124868417182583926">"Няўдала"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="1164265643455394443">"Запытацца"</item>
+    <item msgid="7718817231348607934">"Нiколi не дазваляць"</item>
+    <item msgid="8184570120217958741">"Заўсёды дазваляць"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (708247372474061274) -->
+    <!-- no translation found for ram_states:4 (1567326459340152525) -->
+    <!-- no translation found for proc_stats_memory_states:3 (8577246509202964244) -->
+  <string-array name="proc_stats_process_states">
+    <item msgid="7560955722349181440">"Пастаянны"</item>
+    <item msgid="167418068739176448">"Папулярная дзейнасць"</item>
+    <item msgid="4760813290195199773">"Важна (на пярэднім плане)"</item>
+    <item msgid="2328684826817647595">"Важна (у фоне)"</item>
+    <item msgid="7746406490652867365">"Рэзервовае капіраванне"</item>
+    <item msgid="5597404364389196754">"Вялікая вага"</item>
+    <item msgid="1290888779300174556">"Сэрвіс (працуе)"</item>
+    <item msgid="7241098542073939046">"Сэрвіс (перазапуск)"</item>
+    <item msgid="6610439017684111046">"Прыёмнік"</item>
+    <item msgid="7367606086319921117">"Галоўны"</item>
+    <item msgid="3344660712396741826">"Апошняя дзейнасць"</item>
+    <item msgid="5006559348883303865">"Кэшавана (дзейнасць)"</item>
+    <item msgid="8633480732468137525">"Кэшавана (кліент дзейнасці)"</item>
+    <item msgid="6248998242443333892">"Кэшавана (пуста)"</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item msgid="3151827842194201728">"Сіне-зялёны"</item>
+    <item msgid="3228505970082457852">"Сiнi"</item>
+    <item msgid="6590260735734795647">"Індыга"</item>
+    <item msgid="3521763377357218577">"Фіялетавы"</item>
+    <item msgid="5932337981182999919">"Ружовы"</item>
+    <item msgid="5642914536624000094">"Чырвоны"</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item msgid="2860293514533486236">"Старэйшыя за 30 дзён"</item>
+    <item msgid="8699273238891265610">"Старэйшыя за 60 дзён"</item>
+    <item msgid="8346279419423837266">"Старэйшыя за 90 дзён"</item>
+  </string-array>
+    <!-- no translation found for swipe_direction_titles:0 (6583090603341402282) -->
+    <!-- no translation found for swipe_direction_titles:1 (4965730704403236310) -->
+  <string-array name="swipe_direction_values">
+    <item msgid="5298569105095026382">"1"</item>
+    <item msgid="3118234477029486741">"0"</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item msgid="4329206416008519163">"Вызначаць аўтаматычна"</item>
+    <item msgid="773943026484148895">"Лімітная"</item>
+    <item msgid="1008268820118852416">"Безлімітная"</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item msgid="6545683814310036454">"Выкарыстоўваць выпадковы MAC-адрас (стандартна)"</item>
+    <item msgid="214234417308375326">"Выкарыстоўваць прыладу MAC"</item>
+  </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item msgid="7426878022650940844">"Не"</item>
+    <item msgid="1930581185557754880">"Так"</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item msgid="699295711155561081">"Цёмная"</item>
+    <item msgid="5079453644557603349">"Светлая"</item>
+  </string-array>
+  <string-array name="autofill_logging_level_entries">
+    <item msgid="6882729786516723474">"Выключана"</item>
+    <item msgid="4072198137051566919">"Наладзіць"</item>
+    <item msgid="2473005316958868509">"Падрабязна"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="8444727359525554695">"Толькі дамашнія сеткі"</item>
+    <item msgid="1161026694891024702">"Аўтаматычна"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="1823884522189328861">"Прыярытэт GSM/WCDMA"</item>
+    <item msgid="7581481130337402578">"Толькі GSM"</item>
+    <item msgid="8579197487913425819">"Толькі WCDMA"</item>
+    <item msgid="8465243227505412498">"Аўтаматычны выбар GSM/WCDMA"</item>
+    <item msgid="9107479914166352132">"Аўтаматычны выбар CDMA/EvDo"</item>
+    <item msgid="4219607161971472471">"CDMA без EvDo"</item>
+    <item msgid="7278975240951052041">"Толькі EvDo"</item>
+    <item msgid="2295969832276827854">"CDMA/EvDo/GSM/WCDMA"</item>
+    <item msgid="9059227943989034424">"CDMA + LTE/EvDo"</item>
+    <item msgid="463168068025354541">"GSM/WCDMA/LTE"</item>
+    <item msgid="1770755308983338311">"Глабальная"</item>
+    <item msgid="5713723042183940349">"LTE"</item>
+    <item msgid="8600184258612405670">"LTE/WCDMA"</item>
+    <item msgid="5638632460322750180">"Толькі TDSCDMA"</item>
+    <item msgid="4346392996298714633">"TDSCDMA/WCDMA"</item>
+    <item msgid="5004811216708487615">"LTE/TDSCDMA"</item>
+    <item msgid="9191730167201068525">"TDSCDMA/GSM"</item>
+    <item msgid="5874623229495009031">"LTE/TDSCDMA/GSM"</item>
+    <item msgid="5096480046347789213">"TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2075445917638134012">"LTE/TDSCDMA/WCDMA"</item>
+    <item msgid="3353351554070857366">"LTE/TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2067289929099567494">"TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+    <item msgid="4959483620561891661">"LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item msgid="7691437408632563841">"R-UIM/SIM"</item>
+    <item msgid="6219184455685527822">"NV"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item msgid="5675987537637081766">"Глабальная"</item>
+    <item msgid="7893851358184700811">"LTE / CDMA"</item>
+    <item msgid="1779116915491192719">"LTE / GSM / UMTS"</item>
+  </string-array>
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:0 (4760531919194480665) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:1 (7912365765185450743) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:2 (2104740586531949003) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:0 (852926015619722843) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:1 (3792510685855718883) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:2 (1377977453734193662) -->
+</resources>

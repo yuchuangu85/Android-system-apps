@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Video staat uit</string>
+  <string name="videocall_remote_video_on">Zijn video is aan</string>
+  <string name="videocall_remotely_held">Gesprek in de wacht</string>
+  <string name="videocall_remotely_resumed">Gesprek hervat</string>
+  <string name="videocall_charges_alert_dialog_description">Videogesprekken via het mobiele netwerk verbruiken zowel data als belminuten. Er kunnen kosten in rekening worden gebracht.</string>
+  <string name="do_not_show_again">Niet opnieuw weergeven</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Beëindig oproep</string>
+  <string name="incall_content_description_muted">Gedemp</string>
+  <string name="incall_content_description_unmuted">Ontdemp</string>
+  <string name="incall_content_description_swap_calls">Verwissel oproepe</string>
+  <string name="incall_content_description_swap_sim">Verander SIM</string>
+  <string name="incall_content_description_merge_calls">Voeg oproepe saam</string>
+  <string name="incall_content_description_earpiece">Selfoonoorstuk</string>
+  <string name="incall_content_description_speaker">Luidspreker</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Bedraade kopstuk</string>
+  <string name="incall_content_description_hold">Hou oproep</string>
+  <string name="incall_content_description_unhold">Hervat oproep</string>
+  <string name="incall_content_description_video_on">Video aan</string>
+  <string name="incall_content_description_video_off">Video af</string>
+  <string name="incall_content_description_swap_video">Verwissel video</string>
+  <string name="incall_label_speaker">Luidspreker</string>
+  <string name="incall_label_audio">Klank</string>
+</resources>

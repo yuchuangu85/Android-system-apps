@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Torna enrere</string>
+  <string name="description_dialpad_overflow">Més opcions</string>
+  <string name="description_delete_button">retrocés</string>
+  <string name="description_image_button_plus">afegeix el signe +</string>
+  <string name="description_voicemail_button">truca a la bústia de veu</string>
+  <string name="description_dial_button">marca</string>
+  <string name="dialog_voicemail_airplane_mode_message">Per trucar a la bústia de veu, primer has de desactivar el mode d\'avió.</string>
+  <string name="dialog_voicemail_not_ready_message">Per configurar la bústia de veu, ves a Menú &gt; Configuració.</string>
+  <string name="add_2sec_pause">Afegeix una pausa de 2 segons</string>
+  <string name="add_wait">Afegeix una espera</string>
+  <string name="dialer_useDtmfDialpad">Utilitza el teclat de tons</string>
+  <string name="dialer_returnToInCallScreen">Torna a la trucada en curs</string>
+  <string name="dialer_addAnotherCall">Afegeix una trucada</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">S\'està carregant des de la targeta SIM...</string>
+  <string name="simContacts_title">Contactes de la targeta SIM</string>
+  <string name="menu_callNumber">Truca al %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">No es poden fer trucades d\'emergència per Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">No es pot trucar a aquest número</string>
+</resources>

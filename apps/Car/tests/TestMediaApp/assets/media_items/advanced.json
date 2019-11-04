@@ -1,0 +1,59 @@
+{
+  "FLAGS": "browsable",
+
+  "METADATA": {
+    "MEDIA_ID": "advanced",
+    "DISPLAY_TITLE": "Advanced"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "advanced custom_action",
+        "DISPLAY_TITLE": "Custom Action Item 1",
+        "DURATION": 10000,
+        "ART_URI": "drawable/ic_heart_plus_plus"
+      },
+      "CUSTOM_ACTIONS": ["HEART_LESS_LESS", "HEART_PLUS_PLUS"]
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "advanced custom_action 2",
+        "DISPLAY_TITLE": "Custom Actions overflow",
+        "DURATION": 10000,
+        "ART_URI": "drawable/ic_heart_less_less"
+      },
+      "CUSTOM_ACTIONS": ["HEART_LESS_LESS", "HEART_PLUS_PLUS", "HEART_PLUS_PLUS", "HEART_PLUS_PLUS", "HEART_PLUS_PLUS"]
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "advanced custom_action 3",
+        "DISPLAY_TITLE": "Custom Action Item 3",
+        "DURATION": 10000,
+        "ART_URI": "drawable/ic_rectangle_horiz"
+      },
+      "CUSTOM_ACTIONS": ["HEART_LESS_LESS", "HEART_PLUS_PLUS"]
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "advanced art nodes",
+        "DISPLAY_TITLE": "Album Art"
+      },
+      "INCLUDE":"media_items/album_art/art_nodes.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "LIST",
+      "METADATA": {
+        "MEDIA_ID": "advanced exceptions",
+        "DISPLAY_TITLE": "Exceptions"
+      },
+      "INCLUDE":"media_items/exceptions.json"
+    }
+  ]
+}

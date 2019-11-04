@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Позадине"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Категорије позадина"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Подеси позадину"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Подешава се позадина…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Пробајте поново"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Подешавање позадине није успело."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Учитавање позадине није успело. Слика је оштећена или није доступна."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Тренутно подешена"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Дневна позадина"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Почетни и закључани екран"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Почетни екран"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Закључан екран"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Почетни и закључани екран"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Подесите позадину"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Почетни екран"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Закључан екран"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Почетни екран и закључани екран"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Ротирајућа позадина са сликом"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Да би се актуелна позадина приказивала овде, апликација <xliff:g id="APP_NAME">%1$s</xliff:g> треба да има приступ меморијском простору на уређају."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Да би се актуелна позадина приказивала овде, апликација Позадине мора да има приступ меморијском простору на уређају.\n\nДа бисте променили ово подешавање, идите у одељак Дозволе у информацијама о апликацији Позадине."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Дозволи приступ"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Услуга анимиране позадине за ротирајуће позадине"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Дневна позадина"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Додирните да бисте укључили"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Позадина се аутоматски мења сваки дан. Да бисте довршили подешавање, додирните &lt;strong&gt;Подеси позадину&lt;/strong&gt; на следећем екрану."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Преузимај будуће позадине само преко Wi-Fi мреже"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Настави"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Преузима се прва позадина…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Преузимање прве позадине није успело. Проверите подешавања мреже и пробајте поново."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Позадина се аутоматски мења сваки дан"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Подешавања"</string>
+    <string name="explore" msgid="7468719504199497281">"Истражите"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Следећа позадина"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"Подешавање позадине је онемогућено на овом уређају"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Администратор уређаја је онемогућио подешавање позадине"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Позадина је подешена"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Треба вам интернет веза да бисте прегледали позадине. Повежите се и пробајте поново."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Сличица тренутно подешене позадине за почетни екран"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Сличица тренутно подешене позадине за закључани екран"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Сличица тренутно подешене позадине"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Сличица позадине"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Истражите позадину за почетни екран"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Истражите позадину за закључани екран"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Освежи дневну позадину за почетни екран"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Освежи дневну позадину"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Дневна позадина се освежава…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Освежавање дневне позадине није успело. Проверите мрежну везу и пробајте поново."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Скупи таблу са информацијама о позадини"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Прошири таблу са информацијама о позадини"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Позадине на уређају"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"На уређају"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android позадина"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Анимиране позадине"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Моје слике"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"Моја слика"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Позадина"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Апликација није инсталирана."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Центар"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Опсеци у центру"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Развуци"</string>
+    <string name="preview" msgid="1774602101743861071">"Преглед"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videohívás</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Várakoztatás</string>
+  <string name="incall_label_add_call">Hívás felv.</string>
+  <string name="incall_label_mute">Némítás</string>
+  <string name="incall_label_end_call">Hívás vége</string>
+  <string name="incall_label_dialpad">Billentyűzet</string>
+  <string name="incall_talkback_speaker_on">, be</string>
+  <string name="incall_talkback_speaker_off">, ki</string>
+  <string name="incall_label_merge">Egyesítés</string>
+  <string name="incall_label_manage">Kezelés</string>
+  <string name="a11y_description_incall_label_manage_content">Hívók kezelése</string>
+  <string name="incall_label_swap">Csere</string>
+  <string name="incall_label_swap_sim">Másik SIM</string>
+  <string name="incall_note_sent">Üzenet elküldve</string>
+</resources>

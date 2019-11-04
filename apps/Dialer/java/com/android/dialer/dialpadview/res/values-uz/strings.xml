@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Orqaga qaytish</string>
+  <string name="description_dialpad_overflow">Boshqa parametrlar</string>
+  <string name="description_delete_button">orqaga</string>
+  <string name="description_image_button_plus">plusni terish</string>
+  <string name="description_voicemail_button">ovozli pochta raqamiga terish</string>
+  <string name="description_dial_button">raqam terish</string>
+  <string name="dialog_voicemail_airplane_mode_message">Ovozli pochtaga qo‘ng‘iroq qilish uchun parvoz rejimidan chiqing.</string>
+  <string name="dialog_voicemail_not_ready_message">Ovozli pochtani sozlab olish uchun Menyu &gt; Sozlamalarga o‘ting.</string>
+  <string name="add_2sec_pause">2 soniyalik pauza qo‘shish</string>
+  <string name="add_wait">Pauza qo‘shish</string>
+  <string name="dialer_useDtmfDialpad">Tovushli klaviatura</string>
+  <string name="dialer_returnToInCallScreen">Davom etayotgan chaqiruvga qaytish</string>
+  <string name="dialer_addAnotherCall">Chaqiruv qo‘shish</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">SIM kartadan yuklanmoqda…</string>
+  <string name="simContacts_title">SIM kartadagi kontaktlar</string>
+  <string name="menu_callNumber">%s raqamiga qo‘ng‘iroq qilish</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Wi‑Fi orqali favqulodda xizmatlarga chaqiruv qilib bo‘lmaydi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Bu raqamga qo‘ng‘iroq qilib bo‘lmaydi</string>
+</resources>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <color name="letter_tile_default_color">#cccccc</color>
+    <color name="letter_tile_font_color">#ffffff</color>
+
+    <array name="letter_tile_colors">
+        <item>#db4437</item>
+        <item>#e91e63</item>
+        <item>#9c27b0</item>
+        <item>#673ab7</item>
+        <item>#3f51b5</item>
+        <item>#4285f4</item>
+        <item>#039be5</item>
+        <item>#0097a7</item>
+        <item>#008577</item>
+        <item>#0f9d58</item>
+        <item>#689f38</item>
+        <item>#ef6c00</item>
+        <item>#ff5722</item>
+        <item>#757575</item>
+    </array>
+
+    <color name="improper_image_refs_tint_color">#C8FF0000</color>
+
+    <color name="control_bar_background_color">@android:color/transparent</color>
+    <color name="minimized_control_bar_background_color">#F50E1013</color>
+    <color name="scrim_overlay_color">#C7000000</color>
+    <color name="app_bar_background_color">#E0000000</color>
+    <color name="icon_tint">@*android:color/car_tint</color>
+
+    <color name="car_tab_selected_color">@color/car_tab_selected_color_light</color>
+    <color name="car_tab_selected_color_dark">#E2FFFFFF</color>
+    <color name="car_tab_selected_color_light">#FFFFFFFF</color>
+    <color name="car_tab_unselected_color">@color/car_tab_unselected_color_light</color>
+    <color name="car_tab_unselected_color_dark">#80FFFFFF</color>
+    <color name="car_tab_unselected_color_light">#90FFFFFF</color>
+
+    <color name="primary_text_color">#FFFFFFFF</color>
+    <color name="secondary_text_color">#B8FFFFFF</color>
+
+    <color name="primary_app_icon_color">#FFFFFFFF</color>
+    <color name="secondary_app_icon_color">#B8FFFFFF</color>
+    <color name="car_tint_inverse">@*android:color/car_tint_inverse</color>
+    <color name="car_scrollbar_thumb_inverse">@*android:color/car_scrollbar_thumb_dark</color>
+    <color name="car_card_ripple_background">#17000000</color>
+
+    <color name="background_image_30p_black">#4D000000</color>
+
+    <color name="uxr_button_image_color">@color/primary_app_icon_color</color>
+    <color name="uxr_button_text_color">@color/primary_text_color</color>
+    <color name="uxr_button_image_disabled_color">#80FFFFFF</color>
+    <color name="uxr_button_text_disabled_color">#80FFFFFF</color>
+
+    <color name="control_bar_button_background_color">#66ffffff</color>
+
+    <color name="hero_button_background_color">@*android:color/car_grey_868</color>
+    <color name="hero_button_text_color">@color/uxr_button_text_color_selector</color>
+</resources>

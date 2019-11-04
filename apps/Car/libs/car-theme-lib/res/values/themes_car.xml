@@ -1,0 +1,52 @@
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources>
+    <!-- This theme exists only for defining new attrs relevant to Cars. It should not modify values
+     available from {@link android.R.style#Theme_DeviceDefault}. Overriding theme values is allowed
+     (e.g. {@link android.R.attr.dialogTheme ?android:dialogTheme} provided the referenced Theme
+     can be easily overlaid.-->
+    <style name="Theme.CarDefaultBase" parent="android:Theme.DeviceDefault">
+        <item name="android:dialogTheme">@style/Theme.CarDefault.Dialog</item>
+        <item name="android:alertDialogTheme">@style/Theme.CarDefault.Dialog.Alert</item>
+    </style>
+    <style name="Theme.CarDefaultBase.Dialog" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="android:alertDialogTheme">@style/Theme.CarDefault.Dialog.Alert</item>
+    </style>
+    <style name="Theme.CarDefaultBase.Dialog.Alert" parent="android:Theme.DeviceDefault.Dialog.Alert">
+        <item name="android:alertDialogTheme">@style/Theme.CarDefault.Dialog.Alert</item>
+    </style>
+
+    <!-- Main theme for Car-based activities. This theme will automatically switch to darker colors
+     during night mode. -->
+    <style name="Theme.CarDefault" parent="Theme.CarDefaultBase"/>
+
+    <style name="Theme.CarDefault.Dialog" parent="Theme.CarDefaultBase.Dialog"/>
+
+    <style name="Theme.CarDefault.Dialog.Alert" parent="Theme.CarDefaultBase.Dialog.Alert"/>
+
+    <!-- Variant of the CarDefault theme with no action bar. -->
+    <style name="Theme.CarDefault.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- Variant of the CarDefault theme that has no title bar and fills the entire screen.  This
+     theme sets {@link android.R.attr#windowFullscreen} to true.  -->
+    <style name="Theme.CarDefault.NoActionBar.Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>

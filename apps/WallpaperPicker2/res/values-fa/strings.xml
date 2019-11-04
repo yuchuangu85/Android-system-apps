@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"کاغذدیواری"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"دسته‌های کاغذدیواری"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"تنظیم کاغذ‌دیواری"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"در حال تنظیم کاغذدیواری..."</string>
+    <string name="try_again" msgid="8278874823700921234">"امتحان مجدد"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"کاغذ‌دیواری تنظیم نشد."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"کاغذدیواری باز نشد. تصویر خراب است یا دردسترس نیست."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"درحال حاضر تنظیم‌ شده است"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"کاغذ‌دیواری روزانه"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"صفحه اصلی و صفحه قفل"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"صفحه اصلی"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"صفحه در حالت قفل"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"صفحه اصلی و صفحه در حالت قفل"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"تنظیم کاغذدیواری"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"صفحه اصلی"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"صفحه در حالت قفل"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"صفحه اصلی و صفحه قفل"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"کاغذ‌دیواری با تصویر چرخشی"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"برای نمایش کاغذدیواری فعلی در اینجا، <xliff:g id="APP_NAME">%1$s</xliff:g> باید به حافظه دستگاهتان دسترسی داشته باشد."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"‏برای اینکه کاغذدیواری کنونی اینجا نمایش داده شود، Wallpapers باید به حافظه دستگاهتان دسترسی داشته باشد.\n\nبرای تغییر این تنظیم، به بخش «مجوزها»ی اطلاعات برنامه Wallpapers بروید."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"اجازه دسترسی"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"سرویس کاغذ‌دیواری پویا برای کاغذدیواری‌های چرخشی"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"کاغذ‌دیواری روزانه"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"برای روشن کردن، ضربه بزنید"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"‏کاغذ‌دیواری هر روز به‌طور خودکار تغییر خواهد کرد. برای اتمام راه‌اندازی، روی &lt;strong&gt;تنظیم کاغذدیواری &lt;/strong&gt; در صفحه بعدی ضربه بزنید."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"‏کاغذ‌دیواری‌های بعدی فقط ازطریق Wi-Fi بارگیری شود"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"ادامه"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"درحال بارگیری اولین کاغذ‌دیواری..."</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"بارگیری اولین کاغذ‌دیواری امکان‌پذیر نیست. لطفاً تنظیمات شبکه را بررسی کنید و دوباره امتحان کنید."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"کاغذ‌دیواری هر روز به‌طور خودکار تغییر خواهد کرد"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"تنظیمات"</string>
+    <string name="explore" msgid="7468719504199497281">"کاوش"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"کاغذدیواری بعدی"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"تنظیم کاغذدیواری در این دستگاه غیرفعال شده است"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"تنظیم کاغذدیواری توسط سرپرست دستگاهتان غیرفعال شده است"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"کاغذدیواری باموفقیت تنظیم شد"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"برای دیدن کاغذدیواری‌ها به اتصال اینترنت نیاز دارید. لطفاً به اینترنت متصل شوید و دوباره امتحان کنید."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"تصویر کوچک کاغذ‌دیواری صفحه اصلی درحال حاضر تنظیم شده است"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"تصویر کوچک کاغذ‌دیواری صفحه در حالت قفل درحال حاضر تنظیم شده است"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"تصویر کوچک کاغذ‌دیواری درحال حاضر تنظیم شده است"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"تصویر کوچک کاغذ‌دیواری"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"کاوش کاغذ‌دیواری صفحه اصلی"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"کاوش کاغذ‌دیواری صفحه در حالت قفل"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"بازخوانی کاغذدیواری روزانه در صفحه اصلی"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"بازخوانی کاغذدیواری روزانه"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"درحال بازخوانی کاغذدیواری روزانه…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"کاغذدیواری روزانه بازخوانی نشد. لطفاً اتصال شبکه‌تان را بررسی و دوباره امتحان کنید."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"کوچک کردن پانل اطلاعات کاغذ‌دیواری"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"بزرگ کردن پانل اطلاعات کاغذ‌دیواری"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"کاغذدیواری‌های موجود در دستگاه"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"در دستگاه"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"‏کاغذ‌دیواری Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"کاغذدیواری‌های پویا"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"عکس‌های من"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"عکس من"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"کاغذدیواری"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"برنامه نصب نشده است."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"وسط"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"برش از مرکز برای پر کردن صفحه."</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"کشیدن برای پر کردن صفحه"</string>
+    <string name="preview" msgid="1774602101743861071">"پیش‌نمایش"</string>
+</resources>

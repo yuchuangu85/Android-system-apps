@@ -1,0 +1,2856 @@
+revision: 1
+countries {
+  iso_code: "AD"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "116"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AE"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "998"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "997"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AF"
+  eccs {
+    phone_number: "119"
+    types: POLICE
+    types: FIRE
+  }
+  eccs {
+    phone_number: "020112"
+    types: AMBULANCE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AG"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "AI"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "AL"
+  eccs {
+    phone_number: "129"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "127"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "128"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AM"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AO"
+  eccs {
+    phone_number: "113"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "112"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AR"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "AS"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "AT"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AU"
+  eccs {
+    phone_number: "000"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "AW"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "AZ"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BA"
+  eccs {
+    phone_number: "122"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "124"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "123"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BB"
+  eccs {
+    phone_number: "211"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "511"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "311"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "BD"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BE"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BF"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "18"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BG"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BH"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BI"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BJ"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BM"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "BN"
+  eccs {
+    phone_number: "993"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "991"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "995"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BO"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "119"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "BR"
+  eccs {
+    phone_number: "190"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "192"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "193"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "BS"
+  eccs {
+    phone_number: "919"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "BT"
+  eccs {
+    phone_number: "113"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "112"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "110"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BW"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "997"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "998"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BY"
+  eccs {
+    phone_number: "102"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "103"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "BZ"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "CA"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "CD"
+  eccs {
+    phone_number: "118"
+    types: POLICE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CF"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CG"
+  eccs {
+    phone_number: "118"
+    types: POLICE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CH"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "144"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CI"
+  eccs {
+    phone_number: "170"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "185"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "180"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CK"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CL"
+  eccs {
+    phone_number: "133"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "131"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "132"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CM"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "119"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CN"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "120"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "119"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CO"
+  eccs {
+    phone_number: "123"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CR"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "CU"
+  eccs {
+    phone_number: "106"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "104"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "105"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CV"
+  eccs {
+    phone_number: "132"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "130"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "131"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CY"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "CZ"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "DE"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "DJ"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "18"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "DK"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "DM"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "DO"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "DZ"
+  eccs {
+    phone_number: "1548"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "EC"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "EE"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "EG"
+  eccs {
+    phone_number: "122"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "123"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "180"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ER"
+  eccs {
+    phone_number: "127799"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "202914"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "202099"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ES"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ET"
+  eccs {
+    phone_number: "991"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "FI"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "FJ"
+  eccs {
+    phone_number: "917"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "911"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "FK"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "FM"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "FO"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "FR"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GA"
+  eccs {
+    phone_number: "177"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GB"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GD"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "GE"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GF"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GH"
+  eccs {
+    phone_number: "191"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "193"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "192"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GI"
+  eccs {
+    phone_number: "199"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "190"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GL"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GM"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "116"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GN"
+  eccs {
+    phone_number: "122"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "442020"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "1717"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GP"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GQ"
+  eccs {
+    phone_number: "113"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GR"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GT"
+  eccs {
+    phone_number: "120"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "123"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "GU"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "GW"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "113"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "GY"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "913"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "912"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "HK"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "HN"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "HR"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "HT"
+  eccs {
+    phone_number: "114"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "116"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "HU"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ID"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "113"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IE"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IL"
+  eccs {
+    phone_number: "100"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "101"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "102"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IN"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IO"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "IQ"
+  eccs {
+    phone_number: "130"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IR"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "115"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "125"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IS"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "IT"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "JM"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "JO"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "JP"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "119"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KE"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KG"
+  eccs {
+    phone_number: "102"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "103"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KH"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "119"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KI"
+  eccs {
+    phone_number: "192"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "194"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "193"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "KM"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KN"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "333"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "KP"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KR"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "119"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KW"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "KY"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "KZ"
+  eccs {
+    phone_number: "102"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "103"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LA"
+  eccs {
+    phone_number: "1191"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "1195"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "1190"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LB"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LC"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "911"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "LI"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LK"
+  eccs {
+    phone_number: "119"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "110"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LR"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "LS"
+  eccs {
+    phone_number: "123"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "121"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "122"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LT"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LU"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LV"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "LY"
+  eccs {
+    phone_number: "1515"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MA"
+  eccs {
+    phone_number: "190"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "150"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MC"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MD"
+  eccs {
+    phone_number: "902"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "903"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "901"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ME"
+  eccs {
+    phone_number: "122"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "124"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "123"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MG"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MH"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "MK"
+  eccs {
+    phone_number: "192"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "194"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "193"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ML"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MM"
+  eccs {
+    phone_number: "199"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "192"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "191"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MN"
+  eccs {
+    phone_number: "102"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "103"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MO"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MP"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "MR"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MS"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "6644912802"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "911"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "MT"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MU"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "114"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MV"
+  eccs {
+    phone_number: "119"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "102"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MW"
+  eccs {
+    phone_number: "997"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "998"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "999"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MX"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "MY"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "MZ"
+  eccs {
+    phone_number: "119"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "117"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "198"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NA"
+  eccs {
+    phone_number: "10111"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "211111"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NC"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NE"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NG"
+  eccs {
+    phone_number: "199"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NI"
+  eccs {
+    phone_number: "118"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "128"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NL"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NO"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NP"
+  eccs {
+    phone_number: "100"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "102"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NR"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "111"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "112"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NU"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "NZ"
+  eccs {
+    phone_number: "111"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "OM"
+  eccs {
+    phone_number: "9999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PA"
+  eccs {
+    phone_number: "104"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "911"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "PE"
+  eccs {
+    phone_number: "105"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "110"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "116"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "PF"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PG"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "111"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "110"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PH"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "PK"
+  eccs {
+    phone_number: "15"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "115"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "16"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PL"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PM"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PR"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "PS"
+  eccs {
+    phone_number: "100"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "101"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "102"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PT"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "PW"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "PY"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "QA"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "RE"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "RO"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "RS"
+  eccs {
+    phone_number: "192"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "194"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "193"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "RU"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "RW"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "111"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SA"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "997"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "998"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "SB"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "911"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "988"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "SC"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SD"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: FIRE
+  }
+  eccs {
+    phone_number: "333"
+    types: AMBULANCE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SE"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SG"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "995"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SH"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: FIRE
+  }
+  eccs {
+    phone_number: "911"
+    types: AMBULANCE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "SI"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SK"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SL"
+  eccs {
+    phone_number: "019"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "999"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SM"
+  eccs {
+    phone_number: "113"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SN"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SO"
+  eccs {
+    phone_number: "888"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SR"
+  eccs {
+    phone_number: "115"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SS"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ST"
+  eccs {
+    phone_number: "222222"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "221222"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "112"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SV"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "913"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "SY"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "110"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "113"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "SZ"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "911"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "933"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TC"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "TD"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TG"
+  eccs {
+    phone_number: "117"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TH"
+  eccs {
+    phone_number: "191"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "1669"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "199"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "TJ"
+  eccs {
+    phone_number: "102"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "103"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TK"
+  eccs {
+    phone_number: "111"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TL"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "110"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "3312210"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TM"
+  eccs {
+    phone_number: "002"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "003"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "001"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TN"
+  eccs {
+    phone_number: "197"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "190"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "198"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TO"
+  eccs {
+    phone_number: "922"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "933"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "999"
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "TR"
+  eccs {
+    phone_number: "155"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "112"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "110"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TT"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "990"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TV"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "TW"
+  eccs {
+    phone_number: "110"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "119"
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "TZ"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "UA"
+  eccs {
+    phone_number: "02"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "03"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "01"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "UG"
+  eccs {
+    phone_number: "999"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "US"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "UY"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "UZ"
+  eccs {
+    phone_number: "102"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "103"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "101"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "VA"
+  eccs {
+    phone_number: "113"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "118"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "115"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "VC"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "VE"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "VG"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "VI"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "VN"
+  eccs {
+    phone_number: "113"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "115"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "114"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "VU"
+  eccs {
+    phone_number: "111"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "112"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "113"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "WF"
+  eccs {
+    phone_number: "17"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "15"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "18"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "WS"
+  eccs {
+    phone_number: "911"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "911"
+}
+countries {
+  iso_code: "XK"
+  eccs {
+    phone_number: "192"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "194"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "193"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "YE"
+  eccs {
+    phone_number: "199"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ZA"
+  eccs {
+    phone_number: "112"
+    types: POLICE
+    types: AMBULANCE
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ZM"
+  eccs {
+    phone_number: "991"
+    types: POLICE
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "993"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}
+countries {
+  iso_code: "ZW"
+  eccs {
+    phone_number: "995"
+    types: POLICE
+  }
+  eccs {
+    phone_number: "999"
+    types: AMBULANCE
+  }
+  eccs {
+    phone_number: "993"
+    types: FIRE
+  }
+  ecc_fallback: "112"
+}

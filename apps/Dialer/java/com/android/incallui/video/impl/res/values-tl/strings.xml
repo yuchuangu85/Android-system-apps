@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Off ang video nila</string>
+  <string name="videocall_remote_video_on">Naka-on ang video nila</string>
+  <string name="videocall_remotely_held">Naka-hold ang tawag</string>
+  <string name="videocall_remotely_resumed">Itinuloy ang tawag</string>
+  <string name="videocall_charges_alert_dialog_description">Ang mga video call na ginawa sa pamamagitan ng mobile network ay gumagamit pareho ng data at mga voice minute. Maaaring may mga singil.</string>
+  <string name="do_not_show_again">Huwag ipakitang muli</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Contacte nou</string>
+  <string name="dialer_shortcut_add_contact_long">Contacte nou</string>
+  <string name="dialer_shortcut_disabled_message">La drecera no funciona. Arrossega-la per suprimir-la.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">El contacte ja no està disponible.</string>
+  <string name="dialer_shortcut_no_permissions">No es pot trucar sense permisos.</string>
+</resources>

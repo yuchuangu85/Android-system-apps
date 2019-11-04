@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Артка кайтуу</string>
+  <string name="description_dialpad_overflow">Көбүрөөк мүмкүнчүлүктөр</string>
+  <string name="description_delete_button">артка карай өчүрүү</string>
+  <string name="description_image_button_plus">кошуу белгисин терүү</string>
+  <string name="description_voicemail_button">үн почтасына чалуу</string>
+  <string name="description_dial_button">терүү</string>
+  <string name="dialog_voicemail_airplane_mode_message">Үн почтасын текшерүү үчүн, алгач Учак режимин өчүрүңүз.</string>
+  <string name="dialog_voicemail_not_ready_message">Үн почтасын жөндөө үчүн Меню &gt; Жөндөөлөргө кириңиз.</string>
+  <string name="add_2sec_pause">2-сек. тыныгууну кошуңуз</string>
+  <string name="add_wait">Тыныгуу кошуу</string>
+  <string name="dialer_useDtmfDialpad">Тоналдык терүү тактасын колдонуу</string>
+  <string name="dialer_returnToInCallScreen">Аткарылып жаткан чалууга кайтуу</string>
+  <string name="dialer_addAnotherCall">Чалууну кошуу</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">SIM-картадан жүктөлүүдө…</string>
+  <string name="simContacts_title">SIM картадагы байланыштар</string>
+  <string name="menu_callNumber">%s номерине чалуу</string>
+  <string name="dialpad_hint_emergency_calling_not_available">WiFi аркылуу шашылыш чалуулар иштетилген жок</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Бул номерге чалуу мүмкүн болбой жатат</string>
+</resources>

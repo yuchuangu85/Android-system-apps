@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Шпалеры"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Катэгорыі шпалер"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Усталяваць як шпалеры"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Усталяванне шпалер…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Паўтарыць спробу"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Не ўдалося ўсталяваць як шпалеры."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Немагчыма загрузіць шпалеры. Відарыс пашкоджаны або недаступны."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Усталяванае як шпалеры"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Шпалеры на кожны дзень"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Галоўная старонка і экран блакіроўкі"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Галоўны экран"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Экран блакіроўкі"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Стандартна"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Усталяваць як шпалеры"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Галоўны экран"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Экран блакіроўкі"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Галоўны экран і экран блакіроўкі"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Рэгулярная змена шпалер"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Каб паглядзець бягучыя шпалеры тут, дайце праграме \"<xliff:g id="APP_NAME">%1$s</xliff:g>\" доступ да сховішча прылады."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Каб паглядзець бягучыя шпалеры тут, дайце праграме \"Шпалеры\" доступ да сховішча прылады.\n\nЗакрыць доступ можна, перайшоўшы ў \"Налады &gt; Праграмы &gt; Шпалеры &gt; Дазволы\"."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Дазволіць доступ"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Служба жывых шпалер для іх рэгулярнай змены"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Шпалеры на кожны дзень"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Націсніце, каб уключыць"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Шпалеры будуць аўтаматычна змяняцца кожны дзень. Для завяршэння наладжвання, націсніце &lt;strong&gt;Усталяваць як шпалеры&lt;/strong&gt; на наступным экране."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"У будучыні спампоўваць шпалеры толькі па Wi-Fi"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Працягнуць"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Спампоўка першых шпалер…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Не ўдалося спампаваць першыя шпалеры. Спраўдзіце налады сеткі і паўтарыце спробу."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Шпалеры будуць аўтаматычна змяняцца кожны дзень"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Налады"</string>
+    <string name="explore" msgid="7468719504199497281">"Агляд"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Наступныя шпалеры"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"На гэтай прыладзе нельга мяняць шпалеры"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Усталяванне шпалер адключана адміністратарам прылады"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Шпалеры захаваныя"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Для прагляду шпалер патрабуецца падключэнне да інтэрнэту. Падключыцеся і паўтарыце спробу."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Мініяцюра шпалер, зададзеных для галоўнага экрана"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Мініяцюра шпалер, зададзеных для экрана блакіроўкі"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Мініяцюра зададзеных шпалер"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Мініяцюра шпалер"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Праглядзець шпалеры галоўнага экрана"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Праглядзець шпалеры экрана блакіроўкі"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Абнавіць шпалеры галоўнага экрана на кожны дзень"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Абнавіць шпалеры на кожны дзень"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Абнаўленне шпалер на кожны дзень…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Не атрымалася абнавіць шпалеры на кожны дзень. Спраўдзіце падключэнне да сеткі і паўтарыце спробу."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Згарнуць панэль інфармацыі пра шпалеры"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Разгарнуць панэль інфармацыі пра шпалеры"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Шпалеры на прыладзе"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"На прыладзе"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Шпалеры Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Жывыя шпалеры"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Мае фота"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"Маё фота"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Шпалеры"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Праграма не ўсталявана."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Размясціць па цэнтры"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Запоўніць"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Расцягнуць"</string>
+    <string name="preview" msgid="1774602101743861071">"Перадпрагляд"</string>
+</resources>

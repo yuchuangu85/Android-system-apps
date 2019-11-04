@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Bluetooth-i</string>
+  <string name="audioroute_speaker">Altoparlant</string>
+  <string name="audioroute_phone">Telefoni</string>
+  <string name="audioroute_headset">Kufje me tel</string>
+</resources>

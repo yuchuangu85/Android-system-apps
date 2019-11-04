@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s के माध्यम से कॉल किया जा रहा है</string>
+  <string name="incall_calling_on_same_carrier_template">एक ही वाहक %s के ज़रिए कॉल किया जा रहा है</string>
+  <string name="incall_calling_on_recent_choice_template">हाल ही में चुने गए वाहक %s के ज़रिए कॉल किया जा रहा है</string>
+  <string name="incall_connecting">कॉल किया जा रहा है...</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) का उपयोग करके कॉल कर रहा है…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) का उपयोग किया जा रहा है…</string>
+  <string name="incall_transferring">ट्रांसफ़र किया जा रहा है…</string>
+  <string name="incall_video_call_requesting">वाहक वीडियो कॉलिंग…</string>
+  <string name="incall_wifi_video_call_requesting">वाई-फ़ाई वाहक वीडियो कॉलिंग…</string>
+  <string name="incall_video_call_upgrade_request">वाहक वीडियो पर स्विच हो रहा है …</string>
+  <string name="incall_video_call_request_failed">कनेक्ट करने में असमर्थ</string>
+  <string name="incall_video_call_request_rejected">कॉल अस्‍वीकृत</string>
+  <string name="incall_video_call_request_timed_out">कॉल का समय समाप्‍त</string>
+  <string name="incall_hanging_up">कॉल समाप्त हो रहा है</string>
+  <string name="incall_call_ended">कॉल समाप्त</string>
+  <string name="incall_remotely_held">होल्ड पर</string>
+  <string name="contact_grid_incoming_video_call">इस व्यक्ति की ओर से वाहक वीडियो कॉल</string>
+  <string name="contact_grid_incoming_wifi_video_call">इस व्यक्ति की ओर से वाई-फ़ाई वाहक वीडियो कॉल</string>
+  <string name="contact_grid_incoming_voice_call">इससे कॉल</string>
+  <string name="contact_grid_incoming_work_call">इससे कार्य संबंधी कॉल</string>
+  <string name="contact_grid_incoming_via_template">%s की ओर से इनकमिंग</string>
+  <string name="contact_grid_incoming_suspected_spam">संदिग्ध स्पैम कॉलर</string>
+  <string name="contact_grid_callback_number">इस फ़ोन का नंबर: %1$s</string>
+</resources>

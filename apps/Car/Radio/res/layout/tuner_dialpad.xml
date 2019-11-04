@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:columnCount="@integer/tuner_dialpad_column_count">
+
+    <!-- Row 1 -->
+    <Button
+        android:id="@+id/manual_tuner_1"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_1"
+        android:tag="1"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_2"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_2"
+        android:tag="2"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_3"
+        android:text="@string/manual_tuner_3"
+        android:tag="3"
+        style="@style/DialpadKeyButtonStyle" />
+
+    <!-- Row 2 -->
+    <Button
+        android:id="@+id/manual_tuner_4"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_4"
+        android:tag="4"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_5"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_5"
+        android:tag="5"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_6"
+        android:text="@string/manual_tuner_6"
+        android:tag="6"
+        style="@style/DialpadKeyButtonStyle" />
+
+    <!-- Row 3 -->
+    <Button
+        android:id="@+id/manual_tuner_7"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_7"
+        android:tag="7"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_8"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_8"
+        android:tag="8"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_9"
+        android:text="@string/manual_tuner_9"
+        android:tag="9"
+        style="@style/DialpadKeyButtonStyle" />
+
+    <!-- Row 4 -->
+    <ImageView
+        android:id="@+id/manual_tuner_backspace"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:scaleType="center"
+        android:src="@drawable/ic_backspace"
+        style="@style/DialpadKeyButtonStyle" />
+    <Button
+        android:id="@+id/manual_tuner_0"
+        android:layout_marginRight="@dimen/dialpad_space_horizontal"
+        android:text="@string/manual_tuner_0"
+        android:tag="0"
+        style="@style/DialpadKeyButtonStyle" />
+</GridLayout>

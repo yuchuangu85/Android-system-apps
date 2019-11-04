@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">အဝင်ခေါ်ဆိုမှုများ</string>
+  <string name="notification_channel_ongoing_call">လက်ရှိခေါ်ဆိုမှုများ</string>
+  <string name="notification_channel_missed_call">လွဲသွားသော ခေါ်ဆိုမှုများ</string>
+  <string name="notification_channel_voicemail">အသံစာပို့စနစ်များ</string>
+  <string name="notification_channel_misc">မူရင်း</string>
+</resources>

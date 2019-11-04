@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">بلوتوث</string>
+  <string name="audioroute_speaker">السماعة</string>
+  <string name="audioroute_phone">هاتف</string>
+  <string name="audioroute_headset">سماعة رأس سلكية</string>
+</resources>

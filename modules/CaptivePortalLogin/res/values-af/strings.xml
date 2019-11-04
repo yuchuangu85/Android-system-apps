@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortal-aanmelding"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Gebruik hierdie netwerk nes dit is"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Moenie hierdie netwerk gebruik nie"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Meld by netwerk aan"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Meld aan by %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Die netwerk waarby jy probeer aansluit, het sekuriteitkwessies."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Byvoorbeeld, die aanmeldbladsy behoort dalk nie aan die organisasie wat gewys word nie."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Gaan in elk geval deur blaaier voort"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Hierdie sertifikaat is nie van \'n betroubare owerheid nie."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Die naam van die werf stem nie ooreen met die naam op die sertifikaat nie."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Hierdie sertifikaat het verval."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Hierdie sertifikaat is nog nie geldig nie."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Hierdie sertifikaat het \'n ongeldige datum."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Hierdie sertifikaat is ongeldig."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Onbekende sertifikaatfout."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Sekuriteitswaarskuwing"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Bekyk sertifikaat"</string>
+    <string name="ok" msgid="6584612582120777209">"OK"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Adres:"</string>
+    <string name="page_info" msgid="46593086046896385">"Bladsy-inligting"</string>
+</resources>

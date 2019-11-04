@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Ընտրանի</string>
+  <string name="suggestions_header">Հաճախակի օգտագործվող կոնտակտներ</string>
+  <string name="speed_dial_add_button_text">Ավելացնել</string>
+  <string name="speed_dial_remember_this_choice">Հիշել այս ընտրությունը</string>
+  <string name="speed_dial_disambig_dialog_title">Ընտրեք զանգի տեսակը</string>
+  <string name="disambig_option_video_call">Տեսազանգ</string>
+  <string name="disambig_option_voice_call">Զանգ</string>
+  <string name="add_favorite_activity_title">Ընտրեք կոնտակտ՝ ընտրանիում ավելացնելու համար</string>
+  <string name="contact_menu_voice_call">Զանգ</string>
+  <string name="contact_menu_video_call">Տեսազանգ</string>
+  <string name="contact_menu_message">SMS</string>
+  <string name="contact_menu_remove">Հեռացնել</string>
+  <string name="contact_menu_contact_info">Կոնտակտ</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Ավելացնել ընտրանուն</string>
+  <string name="speed_dial_contacts_permission_description">Արագ համարհավաքման գործառույթից օգտվելու համար միացրեք «Կոնտակտներ» թույլտվությունը:</string>
+  <string name="speed_dial_turn_on_contacts_permission">Միացնել</string>
+  <string name="speed_dial_no_contacts_description">Ցանկում դեռ նախընտրած կոնտակտներ չեք ավելացրել</string>
+  <string name="speed_dial_no_contacts_action_text">Ավելացնել նախընտրած կոնտակտ</string>
+  <string name="speed_dial_remove_favorites">Հեռացնել ընտրանուց</string>
+</resources>

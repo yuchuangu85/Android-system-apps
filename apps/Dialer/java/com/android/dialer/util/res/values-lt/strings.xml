@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Numatytasis garsas (%1$s)</string>
+  <string name="ringtone_silent">Nėra</string>
+  <string name="ringtone_unknown">Nežinomas skambėjimo tonas</string>
+  <string name="activity_not_available">Šiame įrenginyje nėra tam skirtos programos</string>
+  <string name="outgoing_wps_warning">Pradėjus WPS skambutį bus atjungtas dabartinis skambutis.</string>
+  <string name="dialog_continue">Tęsti</string>
+  <string name="camera_privacy_text">Fotoaparato leidimas įgalintas</string>
+</resources>

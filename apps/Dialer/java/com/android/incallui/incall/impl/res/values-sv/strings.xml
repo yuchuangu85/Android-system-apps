@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videosamtal</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Parkera</string>
+  <string name="incall_label_add_call">Lägg t samt.</string>
+  <string name="incall_label_mute">Ljud av</string>
+  <string name="incall_label_end_call">Avsl. samtal</string>
+  <string name="incall_label_dialpad">Knappsats</string>
+  <string name="incall_talkback_speaker_on">, är på</string>
+  <string name="incall_talkback_speaker_off">, är av</string>
+  <string name="incall_label_merge">Sammanfoga</string>
+  <string name="incall_label_manage">Hantera</string>
+  <string name="a11y_description_incall_label_manage_content">Hantera uppringare</string>
+  <string name="incall_label_swap">Växla</string>
+  <string name="incall_label_swap_sim">Ändra SIM</string>
+  <string name="incall_note_sent">Anteckning skickad</string>
+</resources>

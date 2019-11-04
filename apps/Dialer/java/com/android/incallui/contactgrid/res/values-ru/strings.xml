@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Вызов через %s</string>
+  <string name="incall_calling_on_same_carrier_template">Звонок через того же оператора, %s</string>
+  <string name="incall_calling_on_recent_choice_template">Звонок через недавно выбранного оператора, %s</string>
+  <string name="incall_connecting">Вызов…</string>
+  <string name="incall_connecting_assited_dialed">Звонок через код +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Используется код +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Перевод вызова…</string>
+  <string name="incall_video_call_requesting">Видеовызов…</string>
+  <string name="incall_wifi_video_call_requesting">Видеовызов по Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Переключение на видеовызов…</string>
+  <string name="incall_video_call_request_failed">Не удалось установить соединение</string>
+  <string name="incall_video_call_request_rejected">Вызов отклонен</string>
+  <string name="incall_video_call_request_timed_out">Время ожидания истекло</string>
+  <string name="incall_hanging_up">Завершение вызова…</string>
+  <string name="incall_call_ended">Вызов завершен</string>
+  <string name="incall_remotely_held">На удержании</string>
+  <string name="contact_grid_incoming_video_call">Видеовызов от:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Видеовызов по Wi-Fi от:</string>
+  <string name="contact_grid_incoming_voice_call">Вызов от</string>
+  <string name="contact_grid_incoming_work_call">Рабочий вызов от</string>
+  <string name="contact_grid_incoming_via_template">Входящий вызов на %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Подозрение на спам</string>
+  <string name="contact_grid_callback_number">Номер этого телефона: %1$s</string>
+</resources>

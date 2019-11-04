@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Gespreksgegevens</string>
+  <string name="delete">Verwijderen</string>
+  <string name="call_details_copy_number">Nummer kopiëren</string>
+  <string name="call_details_edit_number">Nummer bewerken vóór bellen</string>
+  <string name="call_details_report_call_id">Onjuist nummer melden</string>
+  <string name="sent_a_photo">Foto verzonden</string>
+  <string name="received_a_photo">Foto ontvangen</string>
+  <string name="message_in_quotes">\'%1$s\'</string>
+  <string name="report_caller_id_dialog_title">Incorrect nummer melden</string>
+  <string name="report_caller_id_failed">Kan nummer niet melden</string>
+  <string name="report_caller_id_toast">Nummer gemeld</string>
+  <string name="assisted_dialing_country_code_entry">Ondersteund bellen: landcode +%1$s gebruikt</string>
+  <string name="assisted_dialing_country_code_entry_failure">Ondersteund bellen is gebruikt</string>
+  <string name="rtt_transcript_not_available">Transcript alleen beschikbaar voor oproepen met berichten</string>
+  <string name="rtt_transcript_link">Transcript weergeven</string>
+</resources>

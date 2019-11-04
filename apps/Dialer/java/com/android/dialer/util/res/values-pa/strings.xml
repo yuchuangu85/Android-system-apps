@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ਪੂਰਵ-ਨਿਰਧਾਰਤ ਧੁਨੀ (%1$s)</string>
+  <string name="ringtone_silent">ਕੋਈ ਨਹੀਂ</string>
+  <string name="ringtone_unknown">ਅਗਿਆਤ ਰਿੰਗਟੋਨ</string>
+  <string name="activity_not_available">ਉਸ ਲਈ ਇਸ ਡੀਵਾਈਸ ਤੇ ਕੋਈ ਐਪ ਨਹੀਂ</string>
+  <string name="outgoing_wps_warning">ਇੱਕ WPS ਕਾਲ ਕਰਨਾ ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਕਾਲ ਨੂੰ ਡਿਸਕਨੈਕਟ ਕਰ ਦੇਵੇਗਾ।</string>
+  <string name="dialog_continue">ਜਾਰੀ ਰੱਖੋ</string>
+  <string name="camera_privacy_text">ਕੈਮਰਾ ਇਜਾਜ਼ਤ ਨੂੰ ਯੋਗ ਬਣਾਇਆ ਗਿਆ ਹੈ</string>
+</resources>

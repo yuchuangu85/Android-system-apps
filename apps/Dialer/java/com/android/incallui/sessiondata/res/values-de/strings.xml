@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Annehmen, um Foto zu zeigen</string>
+  <string name="spam_message_text">Annehmen, um Nachricht zu zeigen</string>
+</resources>

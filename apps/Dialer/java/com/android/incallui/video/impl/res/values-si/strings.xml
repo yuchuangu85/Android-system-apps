@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">වීඩියෝ අක්‍රිය කර ඇ.</string>
+  <string name="videocall_remote_video_on">ඔවුන්ගේ වීඩියෝව ක්‍රියාත්මකයි</string>
+  <string name="videocall_remotely_held">ඇමතුම රඳවාගෙන ඇත</string>
+  <string name="videocall_remotely_resumed">ඇමතුම නැවත ආරම්භ විය</string>
+  <string name="videocall_charges_alert_dialog_description">ජංගම ජාලය හරහා සිදු කරන වීඩියෝ ඇමතුම් දත්ත සහ හඬ මිනිත්තු යන දෙකම භාවිත කරයි. ගාස්තු අදාළ විය හැකිය.</string>
+  <string name="do_not_show_again">නැවත පෙන්වන්න එපා</string>
+</resources>

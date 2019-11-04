@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Egin atzera</string>
+  <string name="description_dialpad_overflow">Aukera gehiago</string>
+  <string name="description_delete_button">atzera tekla</string>
+  <string name="description_image_button_plus">markagailuko gehi ikurra</string>
+  <string name="description_voicemail_button">erantzungailua</string>
+  <string name="description_dial_button">markatu</string>
+  <string name="dialog_voicemail_airplane_mode_message">Ahots-mezuak entzuteko, Hegaldi modua desaktibatu behar duzu.</string>
+  <string name="dialog_voicemail_not_ready_message">Erantzungailua konfiguratzeko, joan Menua &gt; Ezarpenak atalera.</string>
+  <string name="add_2sec_pause">Gehitu 2 segundoko pausa</string>
+  <string name="add_wait">Gehitu itxaronaldia</string>
+  <string name="dialer_useDtmfDialpad">Erabili ukipen-tonuak dituen teklatua</string>
+  <string name="dialer_returnToInCallScreen">Itzuli abian den deira</string>
+  <string name="dialer_addAnotherCall">Gehitu deia</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">SIM txarteletik kargatzen…</string>
+  <string name="simContacts_title">SIM txarteleko kontaktuak</string>
+  <string name="menu_callNumber">Deitu %s zenbakira</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Ezin duzu egin larrialdi-deirik Wi-Fi bidez</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Ezin da deitu zenbaki honetara</string>
+</resources>

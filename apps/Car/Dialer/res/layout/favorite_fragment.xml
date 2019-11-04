@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2019 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/favorite_list_fragment"
+        android:name="com.android.car.dialer.ui.favorite.FavoriteListFragment"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"/>
+
+    <LinearLayout
+        android:id="@+id/empty_page_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/favorites_empty"
+            android:layout_marginBottom="@dimen/favorite_add_button_and_text_separation"/>
+
+        <com.android.car.apps.common.UxrButton
+            android:id="@+id/add_favorite_button"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/touch_target_size"
+            android:text="@string/add_favorite_button"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/hero_button_text_color"
+            android:background="@drawable/hero_button_background"
+            android:paddingHorizontal="@dimen/favorite_add_button_padding"
+            android:gravity="center"
+            app:carUxRestrictions="UX_RESTRICTIONS_NO_SETUP"/>
+
+    </LinearLayout>
+
+</FrameLayout>

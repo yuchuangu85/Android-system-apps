@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">วิดีโอปิดอยู่</string>
+  <string name="videocall_remote_video_on">วิดีโอของผู้ใช้เปิดอยู่</string>
+  <string name="videocall_remotely_held">มีการพักสาย</string>
+  <string name="videocall_remotely_resumed">โทรต่อ</string>
+  <string name="videocall_charges_alert_dialog_description">วิดีโอคอลที่โทรผ่านเครือข่ายมือถือจะใช้ทั้งเน็ตมือถือและเวลาโทรจากเครือข่ายซึ่งอาจมีค่าบริการ</string>
+  <string name="do_not_show_again">ไม่ต้องแสดงอีก</string>
+</resources>

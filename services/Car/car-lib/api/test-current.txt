@@ -1,0 +1,25 @@
+// Signature format: 2.0
+package android.car.content.pm {
+
+  public final class CarPackageManager {
+    method public void setEnableActivityBlocking(boolean);
+  }
+
+}
+
+package android.car.drivingstate {
+
+  public final class CarDrivingStateManager {
+    method public void injectDrivingState(int);
+  }
+
+}
+
+package android.car.media {
+
+  public final class CarAudioManager {
+    method public boolean isDynamicRoutingEnabled();
+  }
+
+}
+

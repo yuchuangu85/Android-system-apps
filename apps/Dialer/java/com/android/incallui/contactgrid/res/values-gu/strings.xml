@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s મારફતે કૉલ કરી રહ્યાં છે</string>
+  <string name="incall_calling_on_same_carrier_template">સમાન કૅરિઅર %s પરથી કૉલ કરી રહ્યાં છીએ</string>
+  <string name="incall_calling_on_recent_choice_template">તાજેતરની પસંદગી %s પરથી કૉલ કરી રહ્યાં છીએ</string>
+  <string name="incall_connecting">કૉલ કરી રહ્યાં છે…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s)નો ઉપયોગ કરીને કૉલ કરી રહ્યાં છીએ…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s)નો ઉપયોગ કરી રહ્યાં છીએ…</string>
+  <string name="incall_transferring">સ્થાનાંતરિત કરી રહ્યું છે…</string>
+  <string name="incall_video_call_requesting">કૅરિઅર મારફતે વીડિઓ કૉલ કરી રહ્યાં છીએ…</string>
+  <string name="incall_wifi_video_call_requesting">વાઇ-ફાઇ કૅરિઅર મારફતે વીડિઓ કૉલ કરી રહ્યાં છીએ…</string>
+  <string name="incall_video_call_upgrade_request">કૅરિઅર વીડિઓ પર સ્વિચ કરી રહ્યાં છીએ…</string>
+  <string name="incall_video_call_request_failed">કનેક્ટ કરવામાં અસમર્થ</string>
+  <string name="incall_video_call_request_rejected">કૉલ નકારાયો</string>
+  <string name="incall_video_call_request_timed_out">કૉલનો સમય પૂરો થયો</string>
+  <string name="incall_hanging_up">સમાપ્ત કરી રહ્યાં છે</string>
+  <string name="incall_call_ended">કૉલ સમાપ્ત થયો</string>
+  <string name="incall_remotely_held">હોલ્ડ પર</string>
+  <string name="contact_grid_incoming_video_call">આમના તરફથી કૅરિઅર મારફતે વીડિઓ કૉલ</string>
+  <string name="contact_grid_incoming_wifi_video_call">આમના તરફથી વાઇ-ફાઇ કૅરિઅર મારફતે વીડિઓ કૉલ</string>
+  <string name="contact_grid_incoming_voice_call">આમના તરફથી કૉલ</string>
+  <string name="contact_grid_incoming_work_call">આમના તરફથી કાર્ય કૉલ</string>
+  <string name="contact_grid_incoming_via_template">%s મારફતે ઇનકમિંગ</string>
+  <string name="contact_grid_incoming_suspected_spam">શંકાસ્પદ સ્પામ કૉલર</string>
+  <string name="contact_grid_callback_number">આ ફોનનો નંબર: %1$s</string>
+</resources>

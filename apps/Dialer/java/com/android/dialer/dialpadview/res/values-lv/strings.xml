@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Pāriet atpakaļ</string>
+  <string name="description_dialpad_overflow">Vairāk opciju</string>
+  <string name="description_delete_button">atpakaļatkāpe</string>
+  <string name="description_image_button_plus">ievadīt pluszīmi</string>
+  <string name="description_voicemail_button">zvanīt balss pastam</string>
+  <string name="description_dial_button">sastādīt numuru</string>
+  <string name="dialog_voicemail_airplane_mode_message">Lai piekļūtu balss pastam, vispirms izslēdziet lidojuma režīmu.</string>
+  <string name="dialog_voicemail_not_ready_message">Lai iestatītu balss pastu, atveriet sadaļu Izvēlne &gt; Iestatījumi.</string>
+  <string name="add_2sec_pause">Pievienot 2 sekundes ilgu pauzi</string>
+  <string name="add_wait">Pievienot gaidīšanas funkciju</string>
+  <string name="dialer_useDtmfDialpad">Izmantot skārientastatūru</string>
+  <string name="dialer_returnToInCallScreen">Atgriezties pie pašreizējā zvana</string>
+  <string name="dialer_addAnotherCall">Pievienot zvanu</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Notiek ielāde no SIM kartes...</string>
+  <string name="simContacts_title">SIM kartes kontaktpersonas</string>
+  <string name="menu_callNumber">Zvanīt: %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Izmantojot Wi-Fi, nevar veikt ārkārtas izsaukumus.</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Uz šo numuru nevar piezvanīt.</string>
+</resources>

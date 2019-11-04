@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Çağrıyı sonlandırın</string>
+  <string name="incall_content_description_muted">Ses kapatıldı</string>
+  <string name="incall_content_description_unmuted">Ses açıldı</string>
+  <string name="incall_content_description_swap_calls">Çağrılar arasında geçiş yapın</string>
+  <string name="incall_content_description_swap_sim">SIM\'i değiştirin</string>
+  <string name="incall_content_description_merge_calls">Çağrıları birleştirin</string>
+  <string name="incall_content_description_earpiece">Mobil cihaz kulaklığı</string>
+  <string name="incall_content_description_speaker">Hoparlör</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Kablolu mikrofonlu kulaklık</string>
+  <string name="incall_content_description_hold">Çağrıyı beklet</string>
+  <string name="incall_content_description_unhold">Çağrıyı devam ettir</string>
+  <string name="incall_content_description_video_on">Video açık</string>
+  <string name="incall_content_description_video_off">Video kapalı</string>
+  <string name="incall_content_description_swap_video">Videoyu değiştirin</string>
+  <string name="incall_label_speaker">Hoparlör</string>
+  <string name="incall_label_audio">Ses</string>
+</resources>

@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Name of the phone dialer application [CHAR LIMIT=30]-->
+    <string name="phone_app_name">Phone</string>
+    <!-- Full-screen error text for when the phone can not be used because Bluetooth isn't connected [CHAR LIMIT=NONE]-->
+    <string name="no_hfp">To complete your call, first connect your phone to your car via Bluetooth.</string>
+    <!-- Error text shown on the dialer facet when bluetooth is not supported -->
+    <string name="bluetooth_unavailable">Bluetooth is not available.</string>
+    <!-- Error text shown on the dialer facet for when bluetooth is disabled -->
+    <string name="bluetooth_disabled">To make or receive calls, turn Bluetooth on.</string>
+    <!-- Error text shown on the dialer facet for when bluetooth is not paired -->
+    <string name="bluetooth_unpaired">To make or receive calls, pair your phone with the car.</string>
+    <!-- Button text for connecting to Bluetooth [CHAR LIMIT=40] -->
+    <string name="connect_bluetooth_button_text">Connect to Bluetooth</string>
+    <!-- Button text for making emergency call [CHAR LIMIT=40] -->
+    <string name="emergency_button_text">Emergency</string>
+    <!-- Text indicating emergency call [CHAR LIMIT=40] -->
+    <string name="emergency_call_description">Emergency call</string>
+    <!-- Message informing user that the contact has already been deleted [CHAR LIMIT=120] -->
+    <string name="error_contact_deleted">This contact might have been deleted.</string>
+    <!-- Toast text when user has inputted an invalid phone number [CHAR LIMIT=NONE] -->
+    <string name="error_invalid_phone_number">Can\'t dial this number. Check it and try again.</string>
+
+    <!-- Decline an in coming call [CHAR LIMIT=20] -->
+    <string name="decline_call">Decline</string>
+    <!-- Answer an in coming call [CHAR LIMIT=20] -->
+    <string name="answer_call">Answer</string>
+    <!-- Call back a missed call [CHAR LIMIT=20] -->
+    <string name="call_back">Call back</string>
+
+    <!-- Audio route -->
+    <!-- Label for routing phone audio to the vehicle [CHAR LIMIT=30] -->
+    <string name="audio_route_vehicle">Vehicle bluetooth</string>
+    <!-- Label for routing phone audio to the phone speaker [CHAR LIMIT=30] -->
+    <string name="audio_route_phone_speaker">Speaker phone</string>
+    <!-- Label for routing phone audio to the phone earpiece. [CHAR LIMIT=30] -->
+    <string name="audio_route_handset">Handset</string>
+
+    <!-- Button label to dial a manually entered phone number -->
+    <string name="dial_a_number">Dial a number</string>
+
+    <!-- Titles -->
+    <!-- Title for the favorites [CHAR LIMIT=30] -->
+    <string name="favorites_title">Favorites</string>
+    <!-- Title for the call history [CHAR LIMIT=30] -->
+    <string name="call_history_title">Call History</string>
+    <!-- Title for the contacts [CHAR LIMIT=30] -->
+    <string name="contacts_title">Contacts</string>
+    <!-- Title for the dialpad [CHAR LIMIT=30] -->
+    <string name="dialpad_title">Dialpad</string>
+    <!-- Toolbar title for tabbed pages -->
+    <string name="default_toolbar_title" translatable="false"></string>
+
+    <!-- Headers for call history -->
+    <!-- Header in call log to group calls from the current day. [CHAR LIMIT=30] -->
+    <string name="call_log_header_today">Today</string>
+
+    <!-- Header in call log to group calls from the previous day. [CHAR LIMIT=30] -->
+    <string name="call_log_header_yesterday">Yesterday</string>
+
+    <!-- Header in call log to group calls from before yesterday. [CHAR LIMIT=30] -->
+    <string name="call_log_header_older">Older</string>
+
+    <!-- Button to add start choosing a contact to add as a new favorite [CHAR_LIMIT=50] -->
+    <string name="add_favorite_button">Add a favorite</string>
+    <!-- Error message shown when on the favorites page without any favorites added [CHAR_LIMIT=80] -->
+    <string name="favorites_empty">You haven\'t added any favorites yet</string>
+    <!-- Button to cancel the dialog where you pick a phone number to add as a favorite -->
+    <string name="cancel_add_favorites_dialog" translatable="false">@android:string/cancel</string>
+    <!-- Button to confirm the dialog where you pick a phone number to add as a favorite -->
+    <string name="confirm_add_favorites_dialog" translatable="false">@android:string/ok</string>
+
+    <!-- Keypad strings-->
+    <string name="one" translatable="false">1</string>
+    <string name="two" translatable="false">2</string>
+    <string name="three" translatable="false">3</string>
+    <string name="four" translatable="false">4</string>
+    <string name="five" translatable="false">5</string>
+    <string name="six" translatable="false">6</string>
+    <string name="seven" translatable="false">7</string>
+    <string name="eight" translatable="false">8</string>
+    <string name="nine" translatable="false">9</string>
+    <string name="zero" translatable="false">0</string>
+    <string name="star" translatable="false">*</string>
+    <string name="pound" translatable="false">#</string>
+
+    <string name="two_letters" translatable="false">ABC</string>
+    <string name="three_letters" translatable="false">DEF</string>
+    <string name="four_letters" translatable="false">GHI</string>
+    <string name="five_letters" translatable="false">JKL</string>
+    <string name="six_letters" translatable="false">MNO</string>
+    <string name="seven_letters" translatable="false">PQRS</string>
+    <string name="eight_letters" translatable="false">TUV</string>
+    <string name="nine_letters" translatable="false">WXYZ</string>
+    <string name="zero_letters" translatable="false">+</string>
+
+    <!-- Using spaces here so that the positioning of the number is consistent. -->
+    <string name="one_letters" translatable="false"></string>
+    <string name="star_letters" translatable="false"></string>
+    <string name="pound_letters" translatable="false"></string>
+
+    <string name="search_title">Search contacts</string>
+    <string name="search_hint">Search contacts</string>
+    <string name="type_multiple">Multiple</string>
+
+    <!-- Title for choose a phone number dialog to make a call or send sms [CHAR LIMIT=60] -->
+    <string name="select_number_dialog_title">Choose a phone number</string>
+    <!-- Button for choose a phone number dialog to select the number for just once [CHAR LIMIT=30] -->
+    <string name="select_number_dialog_just_once_button">Just once</string>
+    <!-- Button for choose a phone number dialog to set the selected number as default [CHAR LIMIT=30] -->
+    <string name="select_number_dialog_always_button">Always</string>
+    <!-- Description for the default phone number of the contact [CHAR LIMIT=30] -->
+    <string name="primary_number_description">
+        <xliff:g id="label" example="Mobile">%1$s</xliff:g>
+        " - Default"
+    </string>
+
+    <!-- Heads Up Notification -->
+    <!-- Name of incoming call notification channel in app info [CHAR LIMIT=50] -->
+    <string name="in_call_notification_channel_name">Incoming call notification</string>
+    <!-- Text for incoming call notification [CHAR LIMIT=40]-->
+    <string name="notification_incoming_call">Incoming call</string>
+    <!-- Name of missed call notification channel in app info [CHAR LIMIT=50] -->
+    <string name="missed_call_notification_channel_name">Missed call notification</string>
+    <!-- Title for missed call notification [CHAR LIMIT=40]-->
+    <string name="notification_missed_call">Missed call</string>
+
+    <!-- Onhold User Profile Info -->
+    <!-- Text to show the call is onhold [CHAR LIMIT=40]-->
+    <string name="onhold_call_label">On Hold</string>
+
+    <!-- Contact list headers -->
+    <!-- Contact list label for contact names starting with special characters -->
+    <string name="header_for_type_other" translatable="false">&#8230;</string>
+
+    <!-- Dialer Setting -->
+    <!-- Title of the settings page [CHAR LIMIT=30]-->
+    <string name="setting_title">Settings</string>
+    <!-- Title of the settings to change the start page [CHAR LIMIT=40]-->
+    <string name="pref_start_page_title">Start screen</string>
+    <string name="pref_start_page_key" translatable="false">set_start_page</string>
+
+    <!-- Title of the settings to sort contact order [CHAR LIMIT=40]-->
+    <string name="sort_order_title">Contact order</string>
+    <string name="sort_order_key" translatable="false">contact_order</string>
+    <!-- Title of the settings for sorting Contacts in different orders -->
+    <!-- Title of given name [CHAR LIMIT=40]-->
+    <string name="give_name_first_title">First name</string>
+    <!-- Title of family name [CHAR LIMIT=40]-->
+    <string name="family_name_first_title">Last name</string>
+</resources>

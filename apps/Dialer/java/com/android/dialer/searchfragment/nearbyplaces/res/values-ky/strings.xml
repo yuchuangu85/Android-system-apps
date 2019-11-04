@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Жакын арадагы жерлер</string>
+  <string name="search_location_permission">Жакын арадагы жерлердин байланыш маалыматтарын алуу үчүн, жайгашкан жериңиздин маалыматтарына кирүү мүмкүнчүлүгүн бериңиз.</string>
+  <string name="nearby_places_allow">Уруксат берүү</string>
+  <string name="nearby_places_dismiss">Жабуу</string>
+</resources>

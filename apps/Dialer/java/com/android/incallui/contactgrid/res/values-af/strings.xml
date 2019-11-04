@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Bel via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Bel tans op dieselfde dinesverskaffer %s</string>
+  <string name="incall_calling_on_recent_choice_template">Bel tans op onlangse keuse %s</string>
+  <string name="incall_connecting">Bel tans …</string>
+  <string name="incall_connecting_assited_dialed">Bel tans deur +%1$s (%2$s) te gebruik …</string>
+  <string name="incall_connecting_assited_dialed_component">Gebruik tans +%1$s (%2$s) …</string>
+  <string name="incall_transferring">Dra tans oor ...</string>
+  <string name="incall_video_call_requesting">Diensverskaffervideo-oproep …</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi-diensverskaffervideo-oproep …</string>
+  <string name="incall_video_call_upgrade_request">Skakel oor na diensverskaffervideo …</string>
+  <string name="incall_video_call_request_failed">Kan nie koppel nie</string>
+  <string name="incall_video_call_request_rejected">Oproep geweier</string>
+  <string name="incall_video_call_request_timed_out">Oproep het uitgetel</string>
+  <string name="incall_hanging_up">Lui af</string>
+  <string name="incall_call_ended">Oproep beëindig</string>
+  <string name="incall_remotely_held">Hou aan</string>
+  <string name="contact_grid_incoming_video_call">Diensverskaffervideo-oproep vanaf</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi-diensverskaffervideo-oproep vanaf</string>
+  <string name="contact_grid_incoming_voice_call">Oproep vanaf</string>
+  <string name="contact_grid_incoming_work_call">Werkoproep vanaf</string>
+  <string name="contact_grid_incoming_via_template">Inkomend via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Verdagte strooiposbeller</string>
+  <string name="contact_grid_callback_number">Hierdie foon se nommer: %1$s</string>
+</resources>

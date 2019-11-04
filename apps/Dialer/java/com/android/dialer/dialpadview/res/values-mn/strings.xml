@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Буцах</string>
+  <string name="description_dialpad_overflow">Нэмэлт сонголтууд</string>
+  <string name="description_delete_button">ухраах</string>
+  <string name="description_image_button_plus">залгах</string>
+  <string name="description_voicemail_button">дуут шуудан руу залгах</string>
+  <string name="description_dial_button">залгах</string>
+  <string name="dialog_voicemail_airplane_mode_message">Дуут шуудан руу залгахын тулд эхлээд Нислэгийн горимыг идэвхгүй болгоно уу.</string>
+  <string name="dialog_voicemail_not_ready_message">Дуут шууданг тохируулахын тулд Цэс &gt; Тохиргоо руу очно уу.</string>
+  <string name="add_2sec_pause">2-сек зогсолт нэмэх</string>
+  <string name="add_wait">Хүлээлт нэмэх</string>
+  <string name="dialer_useDtmfDialpad">Хүрэлтээр дуугардаг товчлуур ашиглах</string>
+  <string name="dialer_returnToInCallScreen">Үргэлжилж буй дуудлага руу буцах</string>
+  <string name="dialer_addAnotherCall">Дуудлага нэмэх</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">SIM картаас ачаалж байна…</string>
+  <string name="simContacts_title">SIM картны харилцагч</string>
+  <string name="menu_callNumber">%s руу залгах</string>
+  <string name="dialpad_hint_emergency_calling_not_available">WiFi-р яаралтай дуудлага хийх боломжгүй</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Энэ дугаар руу залгах боломжгүй</string>
+</resources>

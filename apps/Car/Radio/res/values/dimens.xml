@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources>
+    <!-- The default margins -->
+    <dimen name="radio_margin">@*android:dimen/car_margin</dimen>
+    <dimen name="control_button_size">@*android:dimen/car_touch_target_size</dimen>
+    <dimen name="control_button_margin">@*android:dimen/car_padding_1</dimen>
+
+    <!-- The top margin for the container that displays the current station and band. This value
+         is negative in order to align the top of the channel text with the top of the metadata
+         text. -->
+    <dimen name="station_top_margin">-16dp</dimen>
+
+    <!-- Inner padding for the radio buttons. This value creates a touch target on the buttons that
+         is wider than the icon size. -->
+    <dimen name="radio_controls_button_padding">16dp</dimen>
+
+    <!-- Browse items -->
+    <dimen name="browse_list_padding">@*android:dimen/car_padding_4</dimen>
+    <dimen name="browse_item_height">@*android:dimen/car_single_line_list_item_height</dimen>
+    <dimen name="browse_item_metadata_width">0dp</dimen>
+    <dimen name="browse_item_spacing">@*android:dimen/car_padding_3</dimen>
+    <!-- The dimensions of the pill background behind each favorite channel. -->
+    <dimen name="browse_number_bg_width">@*android:dimen/car_button_min_width</dimen>
+    <dimen name="browse_number_bg_height">@*android:dimen/car_button_height</dimen>
+    <dimen name="browse_number_bg_radius">@*android:dimen/car_radius_2</dimen>
+    <!-- The space between the currently playing icon and the radio band -->
+    <dimen name="browse_equalizer_padding">@*android:dimen/car_padding_1</dimen>
+    <dimen name="browse_list_fading_edge_length">@*android:dimen/car_padding_4</dimen>
+
+    <!-- Drawables -->
+    <dimen name="ic_backspace_height">48dp</dimen>
+    <dimen name="ic_backspace_width">48dp</dimen>
+    <dimen name="ic_equalizer_height">36dp</dimen>
+    <dimen name="ic_equalizer_width">36dp</dimen>
+    <dimen name="ic_input_antenna_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_input_antenna_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_list_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_list_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_pause_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_pause_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_play_arrow_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_play_arrow_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_play_arrow_off_height">56dp</dimen>
+    <dimen name="ic_play_arrow_off_width">56dp</dimen>
+    <dimen name="ic_radio_am_height">34dp</dimen>
+    <dimen name="ic_radio_am_width">34dp</dimen>
+    <dimen name="ic_radio_fm_height">34dp</dimen>
+    <dimen name="ic_radio_fm_width">34dp</dimen>
+    <dimen name="ic_skip_next_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_skip_next_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_skip_previous_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_skip_previous_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_star_empty_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_star_empty_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_star_filled_height">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_star_filled_width">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="ic_manual_tuner_button_radius">6dp</dimen>
+    <dimen name="ic_playback_card_background_radius">6dp</dimen>
+    <dimen name="ic_playback_button_background_radius">6dp</dimen>
+
+    <!-- Playback card -->
+    <dimen name="playback_card_height">96dp</dimen>
+    <dimen name="playback_card_controls_width">0dp</dimen>
+    <dimen name="playback_card_controls_height">@dimen/playback_card_height</dimen>
+    <dimen name="playback_card_art_size">@dimen/playback_card_height</dimen>
+    <dimen name="playback_card_channel_size">@dimen/playback_card_height</dimen>
+    <dimen name="playback_card_interior_padding">@*android:dimen/car_padding_4</dimen>
+    <dimen name="playback_card_text_spacing">@*android:dimen/car_padding_1</dimen>
+    <dimen name="playback_card_margin_horizontal">@*android:dimen/car_margin</dimen>
+    <dimen name="playback_card_margin_bottom">@*android:dimen/car_padding_5</dimen>
+    <dimen name="playback_card_station_name_width">0dp</dimen>
+    <dimen name="playback_card_station_details_width">0dp</dimen>
+
+    <!-- Radio Activity -->
+    <dimen name="radio_activity_pager_size">0dp</dimen>
+    <dimen name="radio_activity_status_size">0dp</dimen>
+    <dimen name="radio_activity_playback_width">0dp</dimen>
+
+    <!-- Tuner Buttons -->
+    <dimen name="tune_button_width">254dp</dimen>
+    <dimen name="tune_button_height">76dp</dimen>
+    <dimen name="dialpad_space_horizontal">@*android:dimen/car_padding_5</dimen>
+    <dimen name="dialpad_space_vertical">@*android:dimen/car_padding_5</dimen>
+    <dimen name="dialpad_button_size">@dimen/control_button_size</dimen>
+    <dimen name="dialpad_button_padding">0dp</dimen>
+
+    <!-- Tab/App bar dimensions -->
+    <dimen name="tab_height">@*android:dimen/car_app_bar_height</dimen>
+    <dimen name="tab_icon_margin">@*android:dimen/car_padding_1</dimen>
+    <dimen name="tab_elevation">8dp</dimen>
+    <dimen name="tab_padding">@*android:dimen/car_padding_4</dimen>
+    <dimen name="tab_margin_left">@*android:dimen/car_padding_4</dimen>
+    <dimen name="tab_margin_right">@dimen/radio_margin</dimen>
+    <dimen name="band_selector_size">@dimen/tab_height</dimen>
+
+</resources>

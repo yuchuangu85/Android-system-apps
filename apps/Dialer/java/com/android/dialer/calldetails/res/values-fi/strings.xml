@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Puhelun tiedot</string>
+  <string name="delete">Poista</string>
+  <string name="call_details_copy_number">Kopioi numero</string>
+  <string name="call_details_edit_number">Muokkaa numeroa ennen puhelua</string>
+  <string name="call_details_report_call_id">Ilmoita epätarkasta numerosta</string>
+  <string name="sent_a_photo">Lähetetty kuva</string>
+  <string name="received_a_photo">Vastaanotettu kuva</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Ilmoita väärästä numerosta</string>
+  <string name="report_caller_id_failed">Numerosta ilmoittaminen epäonnistui.</string>
+  <string name="report_caller_id_toast">Numeroa koskeva ilmoitus lähetettiin.</string>
+  <string name="assisted_dialing_country_code_entry">Avustettu soittaminen: käytetty maakoodi +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Käytettiin avustettua soittamista</string>
+  <string name="rtt_transcript_not_available">Transkriptiot ovat käytettävissä ainoastaan puheluissa, joissa on myös viestiominaisuus</string>
+  <string name="rtt_transcript_link">Katso transkriptio</string>
+</resources>

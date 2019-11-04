@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Geri dön</string>
+  <string name="description_dialpad_overflow">Diğer seçenekler</string>
+  <string name="description_delete_button">geri tuşu</string>
+  <string name="description_image_button_plus">tuş takımına artı simgesi ekler</string>
+  <string name="description_voicemail_button">sesli mesajı arar</string>
+  <string name="description_dial_button">telefonu arar</string>
+  <string name="dialog_voicemail_airplane_mode_message">Sesli mesajı aramak için öncelikle Uçak modunu kapatın.</string>
+  <string name="dialog_voicemail_not_ready_message">Sesli mesajı yapılandırmak için Menü &gt; Ayarlar\'a gidin.</string>
+  <string name="add_2sec_pause">2 saniyelik duraklama ekle</string>
+  <string name="add_wait">Bekleme ekle</string>
+  <string name="dialer_useDtmfDialpad">Telefon tuş takımını kullan</string>
+  <string name="dialer_returnToInCallScreen">Devam eden çağrıya dön</string>
+  <string name="dialer_addAnotherCall">Çağrı ekle</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">SIM karttan yükleniyor…</string>
+  <string name="simContacts_title">SIM kart kişileri</string>
+  <string name="menu_callNumber">Telefon et: %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Kablosuz ağ üzerinden acil durum araması yapılamaz</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Bu numara aranamaz</string>
+</resources>

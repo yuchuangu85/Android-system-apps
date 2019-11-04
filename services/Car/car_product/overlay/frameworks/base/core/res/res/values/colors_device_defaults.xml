@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+** Copyright 2018, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<resources>
+    <color name="primary_device_default_dark">@*android:color/car_colorPrimary</color>
+    <color name="primary_device_default_light">@*android:color/car_colorPrimary</color>
+
+    <color name="primary_device_default_settings">@*android:color/car_colorPrimary</color>
+    <color name="primary_device_default_settings_light">@*android:color/car_colorPrimary</color>
+
+    <color name="primary_dark_device_default_dark">@*android:color/car_colorSecondary</color>
+    <color name="primary_dark_device_default_light">@*android:color/car_colorSecondary</color>
+
+    <color name="primary_dark_device_default_settings">@*android:color/car_colorSecondary</color>
+    <color name="primary_dark_device_default_settings_light">@*android:color/car_colorSecondary</color>
+
+    <color name="secondary_device_default_settings">@*android:color/car_colorSecondary</color>
+    <color name="secondary_device_default_settings_light">@*android:color/car_colorSecondary</color>
+
+    <color name="tertiary_device_default_settings">@*android:color/car_grey_772</color>
+    <color name="quaternary_device_default_settings">@*android:color/car_grey_746</color>
+
+    <color name="accent_device_default_light">@*android:color/car_accent</color>
+    <color name="accent_device_default_dark">@*android:color/car_accent</color>
+
+    <color name="background_device_default_dark">@*android:color/car_background</color>
+    <color name="background_device_default_light">@*android:color/car_background</color>
+
+    <color name="background_floating_device_default_dark">@*android:color/car_grey_868</color>
+    <color name="background_floating_device_default_light">@*android:color/car_grey_868</color>
+
+    <color name="error_color_device_default_dark">@*android:color/car_red_a700</color>
+    <color name="error_color_device_default_light">@*android:color/car_red_a700</color>
+</resources>

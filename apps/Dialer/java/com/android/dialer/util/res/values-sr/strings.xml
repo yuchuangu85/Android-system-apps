@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Подразумевани звук (%1$s)</string>
+  <string name="ringtone_silent">Ништа</string>
+  <string name="ringtone_unknown">Непознати звук звона</string>
+  <string name="activity_not_available">На овом уређају нема апликација за то</string>
+  <string name="outgoing_wps_warning">Ако упутите WPS позив, прекинућете постојећи позив.</string>
+  <string name="dialog_continue">Настави</string>
+  <string name="camera_privacy_text">Омогућена је дозвола за камеру</string>
+</resources>

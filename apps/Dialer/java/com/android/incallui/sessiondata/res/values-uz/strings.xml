@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Suratni ochish uchun javob bering</string>
+  <string name="spam_message_text">Xabarni ochish uchun javob bering</string>
+</resources>

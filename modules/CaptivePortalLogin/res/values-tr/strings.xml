@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Bu ağı olduğu gibi kullan"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Bu ağı kullanma"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Ağda oturum açın"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$s üzerinde oturum açın"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Katılmaya çalıştığınız ağda güvenlik sorunları var."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Örneğin, giriş sayfası, gösterilen kuruluşa ait olmayabilir."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Yine de tarayıcıyla devam et"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Bu sertifika güvenilir bir yetkiliden değil."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Sitenin adı sertifika üzerindeki adla eşleşmiyor."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Bu sertifikanın süresi dolmuş."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Bu sertifika henüz geçerli değil."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Bu sertifikanın tarihi geçersiz."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Bu sertifika geçersiz."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Bilinmeyen sertifika hatası."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Güvenlik uyarısı"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Sertifikayı göster"</string>
+    <string name="ok" msgid="6584612582120777209">"Tamam"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Adres:"</string>
+    <string name="page_info" msgid="46593086046896385">"Sayfa bilgileri"</string>
+</resources>

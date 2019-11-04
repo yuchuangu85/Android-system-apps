@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Pomik nazaj</string>
+  <string name="description_dialpad_overflow">Več možnosti</string>
+  <string name="description_delete_button">vračalka</string>
+  <string name="description_image_button_plus">dodaj plus</string>
+  <string name="description_voicemail_button">pokliči odzivnik</string>
+  <string name="description_dial_button">pokliči</string>
+  <string name="dialog_voicemail_airplane_mode_message">Če želite poklicati odzivnik, najprej izklopite način za letalo.</string>
+  <string name="dialog_voicemail_not_ready_message">Če želite nastaviti odzivnik, odprite »Meni« &gt; »Nastavitve«.</string>
+  <string name="add_2sec_pause">Dodaj 2 sekundi premora</string>
+  <string name="add_wait">Dodaj čakanje</string>
+  <string name="dialer_useDtmfDialpad">Uporabi številčnico za tonsko izbiranje</string>
+  <string name="dialer_returnToInCallScreen">Nazaj na klic, ki poteka</string>
+  <string name="dialer_addAnotherCall">Dodaj klic</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Nalaganje s kartice SIM …</string>
+  <string name="simContacts_title">Stiki na kartici SIM</string>
+  <string name="menu_callNumber">Pokliči %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Klicev v sili ni mogoče opravljati prek omrežja Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Te številke ni mogoče poklicati</string>
+</resources>

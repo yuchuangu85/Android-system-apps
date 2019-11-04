@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Videoen deres er slått av</string>
+  <string name="videocall_remote_video_on">Den andre partens video er på</string>
+  <string name="videocall_remotely_held">Samtalen er på vent</string>
+  <string name="videocall_remotely_resumed">Samtale gjenopptatt</string>
+  <string name="videocall_charges_alert_dialog_description">Under videosamtaler via mobilnettverket brukes både mobildata og ringeminutter. Avgifter kan påløpe.</string>
+  <string name="do_not_show_again">Ikke vis dette igjen</string>
+</resources>

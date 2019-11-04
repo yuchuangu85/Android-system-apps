@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">ಹಿಂದಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡು</string>
+  <string name="description_dialpad_overflow">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">ಡಯಲ್ ಪ್ಲಸ್</string>
+  <string name="description_voicemail_button">ಧ್ವನಿಮೇಲ್‌‌ಗೆ ಕರೆ ಮಾಡಿ</string>
+  <string name="description_dial_button">ಡಯಲ್</string>
+  <string name="dialog_voicemail_airplane_mode_message">ಧ್ವನಿಮೇಲ್‌ಗೆ ಕರೆ ಮಾಡಲು, ಮೊದಲು ಏರ್‌ಪ್ಲೇನ್‌‌ ಮೋಡ್‌‌ ಆಫ್‌ ಮಾಡಿ.</string>
+  <string name="dialog_voicemail_not_ready_message">ಧ್ವನಿಮೇಲ್‌ ಹೊಂದಿಸಲು, ಮೆನು &gt; ಸೆಟ್ಟಿಂಗ್‌ಗಳುಗೆ ಹೋಗಿ.</string>
+  <string name="add_2sec_pause">2-ಸೆ ವಿರಾಮವನ್ನು ಸೇರಿಸಿ</string>
+  <string name="add_wait">ನಿರೀಕ್ಷೆಯನ್ನು ಸೇರಿಸಿ</string>
+  <string name="dialer_useDtmfDialpad">ಟಚ್ ಟೋನ್ ಕೀಪ್ಯಾಡ್ ಬಳಸಿ</string>
+  <string name="dialer_returnToInCallScreen">ಪ್ರತ್ಯತ್ತರ ಕರೆಯು ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+  <string name="dialer_addAnotherCall">ಕರೆಯನ್ನು ಸೇರಿಸಿ</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">ಸಿಮ್‌ ಕಾರ್ಡ್‌ನಿಂದ ಲೋಡ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+  <string name="simContacts_title">ಸಿಮ್‌ ಕಾರ್ಡ್‌ ಸಂಪರ್ಕಗಳು</string>
+  <string name="menu_callNumber">%s ಕರೆ ಮಾಡಿ</string>
+  <string name="dialpad_hint_emergency_calling_not_available">ವೈ-ಫೈ ಮೂಲಕ ತುರ್ತು ಕರೆಗಳನ್ನು ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">ಈ ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+</resources>

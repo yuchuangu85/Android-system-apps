@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">ඇමතුම අවසන් කරන්න</string>
+  <string name="incall_content_description_muted">නිහඩ කරන ලදී</string>
+  <string name="incall_content_description_unmuted">නිහඬ කිරීමෙන් ඉවත් කෙරිණි</string>
+  <string name="incall_content_description_swap_calls">ඇමතුම් මාරු කරන්න</string>
+  <string name="incall_content_description_swap_sim">SIM වෙනස් කරන්න</string>
+  <string name="incall_content_description_merge_calls">ඇමතුම් ඒකාබද්ධ කරන්න</string>
+  <string name="incall_content_description_earpiece">හෙඩ්සෙට් සවන්කඩ</string>
+  <string name="incall_content_description_speaker">ස්පීකරය</string>
+  <string name="incall_content_description_bluetooth">බ්ලූටූත්</string>
+  <string name="incall_content_description_headset">රැහැන්ගත කළ හෙඩ්සෙට්</string>
+  <string name="incall_content_description_hold">ඇමතුම රඳවා ගන්න</string>
+  <string name="incall_content_description_unhold">ඇමතුම නැවත අරඹන්න</string>
+  <string name="incall_content_description_video_on">වීඩියෝව ක්‍රියාත්මකයි</string>
+  <string name="incall_content_description_video_off">වීඩියෝව ක්‍රියාවිරහිතයි</string>
+  <string name="incall_content_description_swap_video">වීඩියෝව මාරු කරන්න</string>
+  <string name="incall_label_speaker">ස්පීකරය</string>
+  <string name="incall_label_audio">හඬ</string>
+</resources>

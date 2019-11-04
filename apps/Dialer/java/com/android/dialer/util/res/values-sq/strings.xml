@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Tingulli me parazgjedhje (%1$s)</string>
+  <string name="ringtone_silent">Asnjë</string>
+  <string name="ringtone_unknown">Toni i ziles është i panjohur</string>
+  <string name="activity_not_available">Nuk ka aplikacion për atë në këtë pajisje</string>
+  <string name="outgoing_wps_warning">Kryerja e një telefonate WPS do të shkëputë telefonatën tënde ekzistuese.</string>
+  <string name="dialog_continue">Vazhdo</string>
+  <string name="camera_privacy_text">Leja e kamerës është aktivizuar</string>
+</resources>

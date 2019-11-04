@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="system_tracing" msgid="4719188511746319848">"Gjurmimi i sistemit"</string>
+    <string name="record_system_activity" msgid="4339462312915377825">"Regjistro aktivitetin e sistemit dhe analizoje atë më vonë për të përmirësuar cilësinë e funksionimit"</string>
+    <string name="record_trace" msgid="6416875085186661845">"Regjistro gjurmën"</string>
+    <string name="trace_debuggable_applications" msgid="7957069895298887899">"Gjurmo aplikacionet e gjurmueshme"</string>
+    <string name="categories" msgid="2280163673538611008">"Kategoritë"</string>
+    <string name="restore_default_categories" msgid="5090536794637169521">"Restauro kategoritë e parazgjedhura"</string>
+    <string name="default_categories_restored" msgid="6861683793680564181">"Kategoritë e parazgjedhura u restauruan"</string>
+    <string name="default_categories" msgid="2117679794687799407">"E parazgjedhur"</string>
+    <plurals name="num_categories_selected" formatted="false" msgid="963928263524652497">
+      <item quantity="other">%d të zgjedhura</item>
+      <item quantity="one">%d të zgjedhura</item>
+    </plurals>
+    <string name="applications" msgid="521776761270770549">"Aplikacionet"</string>
+    <string name="no_debuggable_apps" msgid="4386209254520471208">"Nuk ka asnjë aplikacion të korrigjueshëm"</string>
+    <string name="buffer_size" msgid="3944311026715111454">"Madhësia e memories për njësi CPU"</string>
+    <string name="show_quick_settings_tile" msgid="4971147332635291585">"Pllakëza \"Shfaq cilësimet e shpejta\""</string>
+    <string name="saving_trace" msgid="1468692734770800541">"Po ruhet gjurma"</string>
+    <string name="trace_saved" msgid="5869970594780992309">"Gjurma u ruajt"</string>
+    <string name="tap_to_share" msgid="6766732404489536899">"Trokit për të ndarë gjurmën tënde"</string>
+    <string name="stop_tracing" msgid="8916938308534164152">"Ndalo gjurmimin"</string>
+    <string name="tracing_categories_unavailable" msgid="5609076391417077752">"Disa kategori gjurme nuk ofrohen:"</string>
+    <string name="trace_is_being_recorded" msgid="5947378146009337469">"Gjurma po regjistrohet"</string>
+    <string name="tap_to_stop_tracing" msgid="6533282719573871806">"Trokit për të ndaluar gjurmimin"</string>
+    <string name="clear_saved_traces" msgid="4809195654452260944">"Pastro gjurmët e ruajtura"</string>
+    <string name="clear_saved_traces_question" msgid="2184026613055303818">"Të pastrohen gjurmët e ruajtura?"</string>
+    <string name="all_traces_will_be_deleted" msgid="6646545462206955920">"Të gjitha gjurmët do të fshihen nga /data/local/traces"</string>
+    <string name="clear" msgid="5484761795406948056">"Pastro"</string>
+    <string name="system_traces_storage_title" msgid="8294090839883366871">"Gjurmët e sistemit"</string>
+    <string name="keywords" msgid="736547007949049535">"systrace, gjurmimi, cilësia e funksionimit"</string>
+    <string name="share_trace" msgid="4528525067822044385">"Të ndahet gjurmimi?"</string>
+    <string name="system_trace_sensitive_data" msgid="3069389866696009549">"Skedarët e gjurmimit të sistemit mund të përfshijnë të dhëna delikate të sistemit dhe të aplikacioneve (si p.sh. të përdorimit të aplikacioneve). Ndaji gjurmët e sistemit vetëm me personat dhe aplikacionet te të cilët ke besim."</string>
+    <string name="share" msgid="8443979083706282338">"Ndaj"</string>
+    <string name="dont_show_again" msgid="6662492041164390600">"Mos e shfaq përsëri"</string>
+    <string name="use_perfetto_beta" msgid="2725630143916520160">"Përdor Perfetto (beta)"</string>
+    <string name="long_traces" msgid="5110949471775966329">"Gjurmët e gjata"</string>
+    <string name="long_traces_summary" msgid="419034282946761469">"Ruajtur në vazhdimësi në hapësirën ruajtëse të pajisjes"</string>
+    <string name="max_long_trace_size" msgid="1943788179787181241">"Madhësia maksimale e gjurmës së gjatë"</string>
+    <string name="max_long_trace_duration" msgid="8009837944364246785">"Kohëzgjatja maksimale e gjurmës së gjatë"</string>
+    <string name="two_hundred_mb" msgid="4950018549725084512">"200 MB"</string>
+    <string name="one_gb" msgid="590396985168692037">"1 GB"</string>
+    <string name="five_gb" msgid="7883941043220621649">"5 GB"</string>
+    <string name="ten_gb" msgid="4150452462544299276">"10 GB"</string>
+    <string name="twenty_gb" msgid="5717308686812140465">"20 GB"</string>
+    <string name="ten_minutes" msgid="7039181194343961324">"10 minuta"</string>
+    <string name="thirty_minutes" msgid="2575810799813531395">"30 minuta"</string>
+    <string name="one_hour" msgid="5219232935307966891">"1 orë"</string>
+    <string name="eight_hours" msgid="3207620892104451552">"8 orë"</string>
+    <string name="twelve_hours" msgid="4647143276394563496">"12 orë"</string>
+    <string name="twentyfour_hours" msgid="2789663313550030791">"24 orë"</string>
+    <string name="four_thousand_kb" msgid="5156346740862105703">"4096 KB"</string>
+    <string name="eight_thousand_kb" msgid="8815334985638334081">"8192 KB"</string>
+    <string name="sixteen_thousand_kb" msgid="7342517169232459259">"16384 KB"</string>
+    <string name="thirtytwo_thousand_kb" msgid="654328198799196150">"32768 KB"</string>
+    <string name="sixtyfive_thousand_kb" msgid="8168144138598305306">"65536 KB"</string>
+</resources>

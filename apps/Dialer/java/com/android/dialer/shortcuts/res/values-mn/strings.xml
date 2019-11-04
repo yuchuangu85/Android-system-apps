@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Шинэ харилцагч</string>
+  <string name="dialer_shortcut_add_contact_long">Шинэ харилцагч</string>
+  <string name="dialer_shortcut_disabled_message">Товчилбор ажиллахгүй байна. Устгахын тулд чирнэ үү.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Харилцагч байхаа больсон.</string>
+  <string name="dialer_shortcut_no_permissions">Зөвшөөрөлгүйгээр дуудлага хийх боломжгүй.</string>
+</resources>

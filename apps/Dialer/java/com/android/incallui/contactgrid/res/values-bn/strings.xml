@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s এর মাধ্যমে কল করা হচ্ছে</string>
+  <string name="incall_calling_on_same_carrier_template">একই পরিষেবা প্রদানকারীর নেটওয়ার্কে কল করা হচ্ছে: %s</string>
+  <string name="incall_calling_on_recent_choice_template">সম্প্রতি বেছে নেওয়া নেটওয়ার্কে কল করা হচ্ছে: %s</string>
+  <string name="incall_connecting">কল করা হচ্ছে…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) দিয়ে কল করা হচ্ছে...</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) ব্যবহার করা হচ্ছে…</string>
+  <string name="incall_transferring">স্থানান্তর করা হচ্ছে…</string>
+  <string name="incall_video_call_requesting">মোবাইল ডেটা দিয়ে ভিডিও কল করা হচ্ছে…</string>
+  <string name="incall_wifi_video_call_requesting">ওয়াই-ফাই দিয়ে ভিডিও কল করা হচ্ছে…</string>
+  <string name="incall_video_call_upgrade_request">ভয়েস কল থেকে ভিডিও কলে সুইচ করা হচ্ছে…</string>
+  <string name="incall_video_call_request_failed">সংযোগ করা গেল না</string>
+  <string name="incall_video_call_request_rejected">কল অস্বীকার করা হয়েছে</string>
+  <string name="incall_video_call_request_timed_out">কলের সময়সীমা শেষ হয়েছে</string>
+  <string name="incall_hanging_up">কল নামিয়ে রাখা হচ্ছে</string>
+  <string name="incall_call_ended">কল শেষ হয়েছে</string>
+  <string name="incall_remotely_held">হোল্ডে রয়েছে</string>
+  <string name="contact_grid_incoming_video_call">মোবাইল ডেটা দিয়ে এর ভিডিও কল নিন</string>
+  <string name="contact_grid_incoming_wifi_video_call">ওয়াই-ফাই দিয়ে এর ভিডিও কল নিন</string>
+  <string name="contact_grid_incoming_voice_call">এর থেকে আগত কল</string>
+  <string name="contact_grid_incoming_work_call">এর থেকে আগত কর্মক্ষেত্রের কল</string>
+  <string name="contact_grid_incoming_via_template">%s এর মাধ্যমে আগত কল</string>
+  <string name="contact_grid_incoming_suspected_spam">সন্দেহভাজন স্প্যাম কলার</string>
+  <string name="contact_grid_callback_number">এই ফোনের নম্বর: %1$s</string>
+</resources>

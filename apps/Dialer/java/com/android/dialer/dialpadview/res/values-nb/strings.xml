@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Gå tilbake</string>
+  <string name="description_dialpad_overflow">Flere alternativer</string>
+  <string name="description_delete_button">tilbaketast</string>
+  <string name="description_image_button_plus">slå plusstegn</string>
+  <string name="description_voicemail_button">ring talepostkassen</string>
+  <string name="description_dial_button">ring</string>
+  <string name="dialog_voicemail_airplane_mode_message">Du må slå av flymodus før du kan sjekke talepostkassen.</string>
+  <string name="dialog_voicemail_not_ready_message">For å konfigurere talepostfunksjonen, gå til Meny &gt; Innstillinger.</string>
+  <string name="add_2sec_pause">Legg til pause på 2 sek.</string>
+  <string name="add_wait">Legg til Vent</string>
+  <string name="dialer_useDtmfDialpad">Bruk tonetastatur</string>
+  <string name="dialer_returnToInCallScreen">Gå tilbake til aktiv samtale</string>
+  <string name="dialer_addAnotherCall">Nytt anrop</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Henter fra SIM-kort …</string>
+  <string name="simContacts_title">Kontakter på SIM-kort</string>
+  <string name="menu_callNumber">Ring %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Kan ikke ringe nødnumre via Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Kan ikke ringe dette nummeret</string>
+</resources>

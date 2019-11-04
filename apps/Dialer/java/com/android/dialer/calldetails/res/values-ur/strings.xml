@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">کال کی تفصیلات</string>
+  <string name="delete">حذف کریں</string>
+  <string name="call_details_copy_number">نمبر کاپی کریں</string>
+  <string name="call_details_edit_number">کال کرنے سے پہلے نمبر میں ترمیم کریں</string>
+  <string name="call_details_report_call_id">غلط نمبر کی رپورٹ کریں</string>
+  <string name="sent_a_photo">ایک تصویر بھیجی</string>
+  <string name="received_a_photo">ایک تصویر موصول ہوئی</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">غلط نمبر کی اطلاع دیں</string>
+  <string name="report_caller_id_failed">نمبر کی اطلاع نہیں دی جا سکی</string>
+  <string name="report_caller_id_toast">نمبر کی اطلاع دے دی گئی</string>
+  <string name="assisted_dialing_country_code_entry">‏مدد یافتہ ڈائلنگ: استعمال شدہ ملکی کوڈ ‎+%1$s‎‎</string>
+  <string name="assisted_dialing_country_code_entry_failure">مدد یافتہ ڈائلنگ کا استعمال کیا گیا</string>
+  <string name="rtt_transcript_not_available">ٹرانسکرپٹ صرف پیغام والی کالز کے لئے دستیاب ہے</string>
+  <string name="rtt_transcript_link">ٹرانسکرپٹ دیکھیں</string>
+</resources>

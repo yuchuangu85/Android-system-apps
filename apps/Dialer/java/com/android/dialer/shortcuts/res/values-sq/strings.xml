@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Kontakt i ri</string>
+  <string name="dialer_shortcut_add_contact_long">Kontakt i ri</string>
+  <string name="dialer_shortcut_disabled_message">Shkurtorja nuk funksionon. Zvarrite për ta hequr.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakti nuk disponohet më.</string>
+  <string name="dialer_shortcut_no_permissions">Nuk mund të telefonosh pa leje.</string>
+</resources>

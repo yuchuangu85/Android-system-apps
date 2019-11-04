@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Siirry takaisin</string>
+  <string name="description_dialpad_overflow">Lisää vaihtoehtoja</string>
+  <string name="description_delete_button">askelpalautin</string>
+  <string name="description_image_button_plus">paina plus-merkkiä</string>
+  <string name="description_voicemail_button">soita vastaajaan</string>
+  <string name="description_dial_button">soita</string>
+  <string name="dialog_voicemail_airplane_mode_message">Poista lentokonetila käytöstä ennen vastaajaan soittamista.</string>
+  <string name="dialog_voicemail_not_ready_message">Määritä puhelinvastaajan asetukset kohdassa Valikko &gt; Asetukset.</string>
+  <string name="add_2sec_pause">Lisää 2 sekunnin tauko</string>
+  <string name="add_wait">Lisää tauko</string>
+  <string name="dialer_useDtmfDialpad">Käytä näppäimistöä</string>
+  <string name="dialer_returnToInCallScreen">Palaa meneillään olevaan puheluun</string>
+  <string name="dialer_addAnotherCall">Lisää puhelu</string>
+  <string name="imei">IMEI-koodi</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Ladataan SIM-kortilta…</string>
+  <string name="simContacts_title">SIM-kortin yhteystiedot</string>
+  <string name="menu_callNumber">Soita %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Hätäpuhelujen soittaminen Wi-Fi-yhteyden kautta ei onnistu</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Numeroon ei voi soittaa.</string>
+</resources>

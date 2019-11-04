@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Fons de pantalla"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Categories de fons de pantalla"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Estableix el fons de pantalla"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"S\'està establint el fons de pantalla…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Torna-ho a provar"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"No es pot establir el fons de pantalla."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"No es pot carregar el fons de pantalla. La imatge està malmesa o bé no està disponible."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Establert actualment"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Fons de pantalla diari"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Pantalla d\'inici i de bloqueig"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Pantalla d\'inici"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Pantalla de bloqueig"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Pantalla d\'inici i de bloqueig"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Estableix el fons de pantalla"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Pantalla d\'inici"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Pantalla de bloqueig"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Pantalla d\'inici i pantalla de bloqueig"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Fons de pantalla amb una imatge rotativa"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Per mostrar el fons de pantalla actual, <xliff:g id="APP_NAME">%1$s</xliff:g> necessita accedir a l\'emmagatzematge del teu dispositiu."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Per mostrar el fons de pantalla actual, l\'aplicació Fons de pantalla necessita accedir a l\'emmagatzematge del dispositiu.\n\nPots canviar aquesta opció de configuració a l\'apartat Permisos de la informació de l\'aplicació."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Permet l\'accés"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Servei de fons de pantalla animats per a fons de pantalla rotatius"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Fons de pantalla diari"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Toca per activar la funció"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"El fons de pantalla canviarà automàticament cada dia. Per completar la configuració, toca &lt;strong&gt;Estableix el fons de pantalla&lt;/strong&gt; a la pantalla següent."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Baixa els propers fons de pantalla només per Wi-Fi"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Continua"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"S\'està baixant el primer fons de pantalla…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"No es pot baixar el primer fons de pantalla. Comprova la configuració de la xarxa i torna-ho a provar."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"El fons de pantalla canviarà automàticament cada dia"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Configuració"</string>
+    <string name="explore" msgid="7468719504199497281">"Explora"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Fons de pantalla següent"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"L\'opció de definir un fons de pantalla està desactivada en aquest dispositiu"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"L\'administrador del dispositiu ha desactivat l\'opció de definir un fons de pantalla"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"El fons de pantalla s\'ha configurat correctament"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Necessites una connexió a Internet per veure els fons de pantalla. Connecta-t\'hi i torna-ho a provar."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Miniatura del fons de pantalla de la pantalla d\'inici que hi ha establert actualment"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Miniatura del fons de pantalla de la pantalla de bloqueig que hi ha establert actualment"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Miniatura del fons de pantalla que hi ha establert actualment"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Miniatura del fons de pantalla"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Explora el fons de pantalla de la pantalla d\'inici"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Explora el fons de pantalla de la pantalla de bloqueig"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Actualitza el fons de pantalla diari de la pantalla d\'inici"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Actualitza el fons de pantalla diari"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"S\'està actualitzant el fons de pantalla diari…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"No s\'ha pogut actualitzar el fons de pantalla diari. Comprova la connexió a la xarxa i torna-ho a provar."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Replega el tauler d\'informació sobre el fons de pantalla"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Desplega el tauler d\'informació sobre el fons de pantalla"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Fons de pantalla del dispositiu"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"Al dispositiu"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Fons de pantalla d\'Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Fons de pantalla animats"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Les meves fotos"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"La meva foto"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Fons de pantalla"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"L\'aplicació no està instal·lada."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Centra"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Centra i retalla"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Amplia"</string>
+    <string name="preview" msgid="1774602101743861071">"Previsualitza"</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Kirjoita oma viesti</string>
+  <string name="toolbar_close">Sulje</string>
+  <string name="all_contacts_empty">Sinulla ei ole vielä yhteystietoja.</string>
+  <string name="all_contacts_empty_add_contact_action">Luo uusi yhteystieto</string>
+  <string name="permission_single_turn_on">Ota käyttöön</string>
+  <string name="permission_no_contacts">Jos haluat katsella yhteystietojasi, ota Yhteystiedot-käyttöoikeus käyttöön.</string>
+  <string name="add_contact_not_available">Yhteystietosovellusta ei ole käytettävissä.</string>
+</resources>

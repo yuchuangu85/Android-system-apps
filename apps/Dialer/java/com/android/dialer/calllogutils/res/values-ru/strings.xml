@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Входящий вызов</string>
+  <string name="type_incoming_pulled">Входящий вызов переведен на другое устройство</string>
+  <string name="type_outgoing">Исходящий вызов</string>
+  <string name="type_outgoing_pulled">Исходящий вызов переведен на другое устройство</string>
+  <string name="type_missed">Пропущенный вызов</string>
+  <string name="type_incoming_video">Входящий видеовызов</string>
+  <string name="type_incoming_video_pulled">Входящий видеовызов переведен на другое устройство</string>
+  <string name="type_outgoing_video">Исходящий видеовызов</string>
+  <string name="type_outgoing_video_pulled">Исходящий видеовызов переведен на другое устройство</string>
+  <string name="type_missed_video">Пропущенный видеовызов</string>
+  <string name="type_voicemail">Голосовая почта</string>
+  <string name="type_rejected">Отклоненный вызов</string>
+  <string name="type_blocked">Заблокированный вызов</string>
+  <string name="call_details_minutes_abbreviation">мин.</string>
+  <string name="call_details_seconds_abbreviation">сек.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">секунда</item>
+    <item quantity="few">секунды</item>
+    <item quantity="many">секунд</item>
+    <item quantity="other">секунды</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">минута</item>
+    <item quantity="few">минуты</item>
+    <item quantity="many">минут</item>
+    <item quantity="other">минуты</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Вызов принят на другом устройстве</string>
+  <string name="description_phone_account">^1</string>
+  <string name="description_via_number">Номер %1$s</string>
+  <string name="description_via_number_phone_account">%1$s, номер %2$s</string>
+  <string name="voicemail_string">Голосовая почта</string>
+  <string name="just_now">Только что</string>
+  <string name="new_call_log_carrier_video">Видеовызов</string>
+  <string name="new_call_log_duo_video">Видеовызов с помощью Duo</string>
+  <string name="new_call_log_unknown">Неизвестный номер</string>
+  <string name="new_call_log_secondary_blocked">Заблокированные</string>
+  <string name="new_call_log_secondary_spam">Спам</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 вызов. Последний пропущенный – от абонента ^2.</item>
+    <item quantity="few">^1 вызова. Последний пропущенный – от абонента ^2.</item>
+    <item quantity="many">^1 вызовов. Последний пропущенный – от абонента ^2.</item>
+    <item quantity="other">^1 вызова. Последний пропущенный – от абонента ^2.</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 вызов. Последний принятый – от абонента ^2.</item>
+    <item quantity="few">^1 вызова. Последний принятый – от абонента ^2.</item>
+    <item quantity="many">^1 вызовов. Последний принятый – от абонента ^2.</item>
+    <item quantity="other">^1 вызова. Последний принятый – от абонента ^2.</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 вызов. Последний исходящий – абоненту ^2.</item>
+    <item quantity="few">^1 вызова. Последний исходящий – абоненту ^2.</item>
+    <item quantity="many">^1 вызовов. Последний исходящий – абоненту ^2.</item>
+    <item quantity="other">^1 вызова. Последний исходящий – абоненту ^2.</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 вызов. Последний заблокированный – от абонента ^2.</item>
+    <item quantity="few">^1 вызова. Последний заблокированный – от абонента ^2.</item>
+    <item quantity="many">^1 вызовов. Последний заблокированный – от абонента ^2.</item>
+    <item quantity="other">^1 вызова. Последний заблокированный – от абонента ^2.</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1,
+    номер ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

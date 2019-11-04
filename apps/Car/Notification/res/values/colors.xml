@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2019 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <color name="group_notification_background_color">@*android:color/car_grey_900</color>
+    <color name="action_button_background_color">#1EFFFFFF</color>
+    <color name="emergency_background_color">#B41B1A</color>
+    <color name="call_accept_button">#208746</color>
+    <color name="call_decline_button">#D33B30</color>
+    <color name="primary_text_color">@*android:color/car_body1</color>
+    <color name="secondary_text_color">@*android:color/car_body3</color>
+    <color name="notification_accent_color">@*android:color/car_body1</color>
+
+    <!-- The color of the clear all button for notifications -->
+    <color name="clear_all_button_background_color">@*android:color/car_grey_900</color>
+
+    <!-- The color of the ripples on the untinted notifications -->
+    <color name="notification_ripple_untinted_color">@color/ripple_material_light</color>
+
+    <color name="notification_list_divider_color">@*android:color/car_list_divider</color>
+    <color name="icon_tint">@*android:color/car_tint</color>
+</resources>

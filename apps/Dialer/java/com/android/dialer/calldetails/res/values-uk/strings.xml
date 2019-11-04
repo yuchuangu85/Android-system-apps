@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Деталі виклику</string>
+  <string name="delete">Видалити</string>
+  <string name="call_details_copy_number">Копіювати номер</string>
+  <string name="call_details_edit_number">Редагувати номер перед дзвінком</string>
+  <string name="call_details_report_call_id">Повідомити про неправильний номер</string>
+  <string name="sent_a_photo">Надіслано фотографію</string>
+  <string name="received_a_photo">Отримано фотографію</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Повідомити про неправильний номер</string>
+  <string name="report_caller_id_failed">Не вдалося повідомити про неправильний номер</string>
+  <string name="report_caller_id_toast">Ви повідомили про неправильний номер</string>
+  <string name="assisted_dialing_country_code_entry">Допомога з набором: використано код країни +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Використано допомогу з набором</string>
+  <string name="rtt_transcript_not_available">Транскрипція доступна лише для викликів із повідомленнями</string>
+  <string name="rtt_transcript_link">Переглянути транскрипцію</string>
+</resources>

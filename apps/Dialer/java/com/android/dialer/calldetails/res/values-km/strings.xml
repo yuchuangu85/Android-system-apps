@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">ព័ត៌មាន​លម្អិត​អំពី​ការ​ហៅ</string>
+  <string name="delete">លុប</string>
+  <string name="call_details_copy_number">ថតចម្លងលេខទូរសព្ទ</string>
+  <string name="call_details_edit_number">កែ​លេខ​ មុន​ពេល​ហៅទូរសព្ទ</string>
+  <string name="call_details_report_call_id">រាយការណ៍លេខមិនត្រឹមត្រូវ</string>
+  <string name="sent_a_photo">បានផ្ញើរូបថត</string>
+  <string name="received_a_photo">បាន​ទទួល​រូបថត</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">រាយការណ៍​លេខ​មិន​ត្រឹមត្រូវ</string>
+  <string name="report_caller_id_failed">មិន​អាច​រាយការណ៍​លេខ​បាន​ទេ</string>
+  <string name="report_caller_id_toast">បាន​រាយការណ៍​លេខ</string>
+  <string name="assisted_dialing_country_code_entry">ការចុច​ហៅ​ដែល​មាន​ជំនួយ៖ កូដ​ប្រទេស​ដែល​បាន​ប្រើ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">ការចុច​ហៅ​​ដែល​មាន​ជំនួយ​ត្រូវបាន​ប្រើ</string>
+  <string name="rtt_transcript_not_available">ប្រតិចារឹក​​មាន​តែ​នៅពេល​ហៅ​ទូរសព្ទ​ជាមួយ​ការផ្ញើ​សារ​ប៉ុណ្ណោះ</string>
+  <string name="rtt_transcript_link">មើល​ប្រតិចារឹក</string>
+</resources>

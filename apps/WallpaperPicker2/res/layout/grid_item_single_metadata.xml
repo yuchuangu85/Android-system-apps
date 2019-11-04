@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/metadata"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/single_metadata_pane_bottom_offset"
+    android:layout_marginEnd="@dimen/single_metadata_pane_horizontal_offset"
+    android:layout_marginLeft="@dimen/single_metadata_pane_horizontal_offset"
+    android:layout_marginRight="@dimen/single_metadata_pane_horizontal_offset"
+    android:layout_marginStart="@dimen/single_metadata_pane_horizontal_offset"
+    android:layout_marginTop="@dimen/single_metadata_pane_vertical_offset">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/single_metadata_card_layout_height"
+        app:cardCornerRadius="?android:dialogCornerRadius"
+        app:cardElevation="@dimen/single_metadata_card_elevation"
+        app:cardMaxElevation="@dimen/single_metadata_card_elevation"
+        app:cardPreventCornerOverlap="false"
+        app:cardUseCompatPadding="true"
+        app:contentPadding="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+                <com.android.wallpaper.widget.WallpaperThumbnailView
+                    android:id="@+id/wallpaper_image"
+                    android:layout_width="@dimen/single_metadata_pane_thumb_width"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:contentDescription="@string/currently_set_wallpaper_thumbnail"
+                    android:focusable="true"
+                    android:foreground="?attr/selectableItemBackground" />
+                <ImageButton
+                    style="?attr/borderlessButtonStyle"
+                    android:id="@+id/wallpaper_explore_button_notext"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/single_metadata_explore_button_margin"
+                    android:layout_gravity="top|end"
+                    android:background="@drawable/button_over_thumbnail_background"
+                    android:clickable="true"
+                    android:contentDescription="@string/explore"
+                    android:focusable="true"
+                    android:padding="@dimen/single_metadata_explore_section_button_padding"
+                    android:src="@drawable/ic_explore_24px"
+                    android:visibility="gone" />
+            </FrameLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="@dimen/single_metadata_pane_attributions_margin_right"
+                android:layout_marginStart="@dimen/single_metadata_pane_attributions_margin_left"
+                android:focusable="true">
+
+                <TextView
+                    android:id="@+id/wallpaper_presentation_mode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="@dimen/single_metadata_pane_wallpaper_label_margin_top"
+                    android:textColor="@color/currently_set_presentation_mode_text_color"
+                    android:textSize="@dimen/abc_text_size_subhead_material"
+                    android:textAppearance="@style/HeaderTextAppearance"
+                    android:textStyle="bold"
+                    android:textAlignment="viewStart"
+                    android:ellipsize="end"
+                    android:text="@string/wallpaper_destination_both"/>
+                <TextView
+                    android:id="@+id/wallpaper_presentation_mode_subtitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/wallpaper_presentation_mode"
+                    android:textColor="@color/currently_set_presentation_mode_text_color"
+                    android:textAlignment="viewStart"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Subtitle"
+                    android:textStyle="italic" />
+                <ImageButton
+                    style="?attr/borderlessButtonStyle"
+                    android:id="@+id/skip_wallpaper_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginEnd="0dp"
+                    android:layout_marginStart="@dimen/single_metadata_skip_button_margin"
+                    android:layout_marginVertical="@dimen/single_metadata_skip_button_margin"
+                    android:background="@android:color/transparent"
+                    android:clickable="true"
+                    android:contentDescription="@string/refresh_daily_wallpaper_content_description"
+                    android:focusable="true"
+                    android:padding="@dimen/single_metadata_explore_section_button_padding"
+                    android:src="@drawable/ic_refresh_24px"
+                    android:tint="@color/currently_set_presentation_mode_text_color"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/wallpaper_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_above="@+id/wallpaper_subtitle"
+                    android:layout_marginTop="@dimen/single_metadata_pane_wallpaper_title_margin_top"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:textAlignment="viewStart"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Widget.TextView" />
+
+                <TextView
+                    android:id="@+id/wallpaper_subtitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_above="@+id/wallpaper_subtitle2"
+                    android:layout_marginTop="@dimen/single_metadata_pane_wallpaper_subtitle_margin_top"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textAlignment="viewStart"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textColor="@color/currently_set_subtitle_text_color"
+                    android:textSize="@dimen/single_metadata_pane_wallpaper_subtitle_text_size" />
+
+                <TextView
+                    android:id="@+id/wallpaper_subtitle2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="@dimen/single_metadata_pane_wallpaper_subtitle_margin_top"
+                    android:layout_marginBottom="@dimen/single_metadata_pane_wallpaper_subtitle_margin_bottom"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textAlignment="viewStart"
+                    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                    android:textColor="@color/currently_set_subtitle_text_color"
+                    android:textSize="@dimen/single_metadata_pane_wallpaper_subtitle_text_size" />
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</FrameLayout>

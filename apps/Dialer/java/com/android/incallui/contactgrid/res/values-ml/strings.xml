@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s മുഖേന വിളിക്കുന്നു</string>
+  <string name="incall_calling_on_same_carrier_template">സമാന %s കാരിയറിൽ നിന്ന് കോൾ ചെയ്യുന്നു</string>
+  <string name="incall_calling_on_recent_choice_template">സമീപകാലത്ത് തിരഞ്ഞെടുത്ത %s-ൽ കോൾ ചെയ്യുന്നു</string>
+  <string name="incall_connecting">വിളിക്കുന്നു...</string>
+  <string name="incall_connecting_assited_dialed">+%1$s ഉപയോഗിച്ച് വിളിക്കുന്നു (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) ഉപയോഗിക്കുന്നു…</string>
+  <string name="incall_transferring">കൈമാറുന്നു…</string>
+  <string name="incall_video_call_requesting">കാരിയർ വീഡിയോ കോൾ ചെയ്യുന്നു...</string>
+  <string name="incall_wifi_video_call_requesting">വൈഫൈ കാരിയർ വീഡിയോ കോൾ ചെയ്യുന്നു...</string>
+  <string name="incall_video_call_upgrade_request">കാരിയർ വീഡിയോയിലേക്ക് മാറുന്നു...</string>
+  <string name="incall_video_call_request_failed">കണക്റ്റുചെയ്യാനായില്ല</string>
+  <string name="incall_video_call_request_rejected">കോള്‍ നിരസിച്ചു</string>
+  <string name="incall_video_call_request_timed_out">കോളിന്റെ സമയം തീര്‍ന്നു</string>
+  <string name="incall_hanging_up">ഹാംഗ് അപ്പ് ചെയ്യുന്നു</string>
+  <string name="incall_call_ended">കോൾ അവസാനിച്ചു</string>
+  <string name="incall_remotely_held">ഹോള്‍ഡിലാണ്</string>
+  <string name="contact_grid_incoming_video_call">ഇയാളിൽ നിന്നുള്ള വീഡിയോ കോൾ</string>
+  <string name="contact_grid_incoming_wifi_video_call">ഇയാളിൽ നിന്നുള്ള വൈഫൈ കാരിയർ വീഡിയോ കോൾ</string>
+  <string name="contact_grid_incoming_voice_call">ഈ വ്യക്തിയിൽ നിന്നുള്ള കോൾ</string>
+  <string name="contact_grid_incoming_work_call">ഈ വ്യക്തിയിൽ നിന്നുള്ള ഔദ്യോഗിക കോൾ</string>
+  <string name="contact_grid_incoming_via_template">%s മുഖേനയുള്ള ഇൻകമിംഗ്</string>
+  <string name="contact_grid_incoming_suspected_spam">സംശയാസ്‌പദമായ സ്‌പാം കോളർ</string>
+  <string name="contact_grid_callback_number">ഈ ഫോണിന്‍റെ നമ്പർ: %1$s</string>
+</resources>

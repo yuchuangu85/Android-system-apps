@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Erabili sare hau bere horretan"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Ez erabili sare hau"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Hasi saioa sarean"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Hasi saioa %1$s sarean"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Erabili nahi duzun sareak segurtasun-arazoak ditu."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Adibidez, baliteke saioa hasteko orria adierazitako erakundearena ez izatea."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Jarraitu arakatzailearen bidez, halere"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Ziurtagiria ez da autoritate fidagarri batena."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Webgunearen izena ez dator bat ziurtagirian agertzen den izenarekin."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Ziurtagiria iraungi da."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Ziurtagiriak ez du balio oraindik."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Ziurtagiriaren datak ez du balio."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Ziurtagiriak ez du balio."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Errore ezezagun bat gertatu da ziurtagiriarekin."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Segurtasun-abisua"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Ikusi ziurtagiria"</string>
+    <string name="ok" msgid="6584612582120777209">"Ados"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Helbidea:"</string>
+    <string name="page_info" msgid="46593086046896385">"Orriari buruzko informazioa"</string>
+</resources>

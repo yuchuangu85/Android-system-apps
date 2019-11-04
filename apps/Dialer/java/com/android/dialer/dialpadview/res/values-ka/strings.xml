@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">უკან დაბრუნება</string>
+  <string name="description_dialpad_overflow">სხვა პარამეტრები</string>
+  <string name="description_delete_button">უკუშლა</string>
+  <string name="description_image_button_plus">პლუსის აკრეფა</string>
+  <string name="description_voicemail_button">ხმოვან ფოსტაში დარეკვა</string>
+  <string name="description_dial_button">აკრეფა</string>
+  <string name="dialog_voicemail_airplane_mode_message">ხმოვან ფოსტასთან დასაკავშირებლად, პირველ რიგში, გამორთეთ თვითმფრინავის რეჟიმი.</string>
+  <string name="dialog_voicemail_not_ready_message">ხმოვანი ფოსტის დასაყენებლად გადადით: მენიუ &gt; პარამეტრები.</string>
+  <string name="add_2sec_pause">ორწამიანი პაუზის დამატება</string>
+  <string name="add_wait">ლოდინის დამატება</string>
+  <string name="dialer_useDtmfDialpad">ტონალური კლავიატურის გამოყენება</string>
+  <string name="dialer_returnToInCallScreen">მიმდინარე ზარზე დაბრუნება</string>
+  <string name="dialer_addAnotherCall">ზარის დამატება</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">მიმდინარეობს ჩატვირთვა SIM ბარათიდან…</string>
+  <string name="simContacts_title">SIM ბარათის კონტაქტები</string>
+  <string name="menu_callNumber">დარეკვა %s-ზე</string>
+  <string name="dialpad_hint_emergency_calling_not_available">გადაუდებელი ზარები Wi‑Fi-ს მეშვეობით ვერ განხორციელდება</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">ამ ნომერზე დარეკვა შეუძლებელია</string>
+</resources>

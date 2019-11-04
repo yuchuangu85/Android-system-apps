@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Menelepon melalui %s</string>
+  <string name="incall_calling_on_same_carrier_template">Menelepon pada operator yang sama %s</string>
+  <string name="incall_calling_on_recent_choice_template">Menelepon pada provider pilihan terbaru %s</string>
+  <string name="incall_connecting">Menelepon…</string>
+  <string name="incall_connecting_assited_dialed">Menelepon nomor +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Menggunakan +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Mentransfer…</string>
+  <string name="incall_video_call_requesting">Video call operator…</string>
+  <string name="incall_wifi_video_call_requesting">Video call operator Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Beralih ke video operator…</string>
+  <string name="incall_video_call_request_failed">Tidak dapat tersambung</string>
+  <string name="incall_video_call_request_rejected">Panggilan telepon ditolak</string>
+  <string name="incall_video_call_request_timed_out">Batas waktu panggilan telepon habis</string>
+  <string name="incall_hanging_up">Menutup panggilan</string>
+  <string name="incall_call_ended">Panggilan telepon diakhiri</string>
+  <string name="incall_remotely_held">Ditangguhkan</string>
+  <string name="contact_grid_incoming_video_call">Video call operator dari</string>
+  <string name="contact_grid_incoming_wifi_video_call">Video call operator Wi-Fi dari</string>
+  <string name="contact_grid_incoming_voice_call">Telepon dari</string>
+  <string name="contact_grid_incoming_work_call">Panggilan telepon kerja dari</string>
+  <string name="contact_grid_incoming_via_template">Masuk melalui %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Diduga telepon spam</string>
+  <string name="contact_grid_callback_number">Nomor telepon: %1$s</string>
+</resources>

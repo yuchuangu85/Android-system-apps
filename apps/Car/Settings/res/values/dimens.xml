@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources>
+    <dimen name="icon_size">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="touch_target_size">@*android:dimen/car_touch_target_size</dimen>
+    <dimen name="divider_height">@*android:dimen/car_list_divider_height</dimen>
+    <dimen name="divider_inset_left">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="divider_inset_right">@*android:dimen/car_keyline_1</dimen>
+
+    <dimen name="button_min_width">@*android:dimen/car_button_min_width</dimen>
+    <dimen name="button_fading_edge_length">40dp</dimen>
+    <dimen name="button_ripple_radius">@*android:dimen/car_radius_1</dimen>
+
+    <!-- Action Bar -->
+    <dimen name="action_bar_height">@*android:dimen/car_app_bar_height</dimen>
+    <!-- Guideline begin margin for when not showing exit icon -->
+    <dimen name="action_bar_no_icon_start_margin">@*android:dimen/action_bar_button_margin</dimen>
+
+    <!-- Suggestions -->
+    <dimen name="suggestions_top_bottom_margin">@*android:dimen/car_padding_4</dimen>
+    <dimen name="suggestions_corner_radius">@*android:dimen/car_radius_3</dimen>
+    <!-- Padding between the top of the card and the text -->
+    <dimen name="suggestions_text_padding_top">@*android:dimen/car_padding_2</dimen>
+    <!-- Padding between the bottom of the text and the action bar -->
+    <dimen name="suggestions_text_padding_bottom">@*android:dimen/car_padding_2</dimen>
+    <!-- The margin between the main suggestion text and the subtext -->
+    <dimen name="suggestions_subtext_margin_top">@*android:dimen/car_padding_1</dimen>
+    <dimen name="suggestions_padding_start">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="suggestions_padding_end">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="suggestions_action_bar_height">@*android:dimen/car_card_action_bar_height</dimen>
+
+    <!-- Quick Settings -->
+    <dimen name="brightness_seekbar_margin_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="brightness_seekbar_height">@*android:dimen/car_single_line_list_item_height</dimen>
+    <dimen name="brightness_seekbar_track_height">6dp</dimen>
+    <dimen name="brightness_seekbar_track_corner">3dp</dimen>
+    <dimen name="brightness_knob_size">44dp</dimen>
+    <dimen name="tile_margin_start">@*android:dimen/car_padding_2</dimen>
+    <dimen name="tile_margin_end">@*android:dimen/car_padding_2</dimen>
+    <dimen name="tile_margin_bottom">@*android:dimen/car_padding_5</dimen>
+    <dimen name="tile_padding">10dp</dimen>
+    <dimen name="tile_icon_margin_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="circle_ripple_bg_radius">90dp</dimen>
+
+    <!-- Bluetooth -->
+    <dimen name="bluetooth_pin_dialog_margin_start">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="bluetooth_pin_dialog_margin_end">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="bluetooth_pin_dialog_section_height">
+        @*android:dimen/car_single_line_list_item_height
+    </dimen>
+    <dimen name="bluetooth_pin_dialog_text_margin_start">@*android:dimen/car_keyline_3</dimen>
+    <dimen name="bluetooth_pin_dialog_text_margin_end">@*android:dimen/car_keyline_3</dimen>
+    <dimen name="bluetooth_pin_dialog_subtext_margin_top">@*android:dimen/car_padding_1</dimen>
+
+    <!-- Edit Username -->
+    <dimen name="edit_username_padding_start">@*android:dimen/car_margin</dimen>
+    <dimen name="edit_username_padding_end">@*android:dimen/car_margin</dimen>
+    <dimen name="edit_username_text_padding_start">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="edit_username_text_padding_end">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="edit_username_text_padding_top">@*android:dimen/car_padding_3</dimen>
+
+    <!-- Security -->
+    <dimen name="choose_title_text_margin_bottom">@*android:dimen/car_padding_2</dimen>
+    <dimen name="choose_pin_title_text_margin_bottom">@*android:dimen/car_padding_5</dimen>
+    <dimen name="pin_password_entry_padding_horizontal">@*android:dimen/car_padding_2</dimen>
+    <dimen name="pin_pad_key_width">120dp</dimen>
+    <dimen name="pin_pad_key_height">80dp</dimen>
+    <dimen name="pin_pad_key_margin">12dp</dimen>
+    <dimen name="confirm_pattern_dimension">350dp</dimen>
+    <dimen name="confirm_lock_message_vertical_spacing">@*android:dimen/car_padding_2</dimen>
+
+    <!-- User Switcher -->
+    <dimen name="user_switcher_image_avatar_size">96dp</dimen>
+    <dimen name="user_switcher_vertical_spacing_between_users">@*android:dimen/car_padding_5
+    </dimen>
+    <dimen name="user_switcher_vertical_spacing_between_name_and_avatar">
+        @*android:dimen/car_padding_4
+    </dimen>
+    <dimen name="user_switcher_current_user_circle_width">126dp</dimen>
+    <dimen name="user_switcher_current_user_circle_stroke_width">7dp</dimen>
+
+    <!-- Preferences -->
+    <dimen name="preference_padding_top">@dimen/car_padding_2</dimen>
+    <dimen name="preference_padding_bottom">@dimen/car_padding_2</dimen>
+    <dimen name="two_action_preference_divider_width">1dp</dimen>
+    <dimen name="usage_indicator_preference_title_margin_top">@*android:dimen/car_padding_2</dimen>
+    <dimen name="usage_indicator_preference_title_margin_bottom">@*android:dimen/car_padding_2</dimen>
+    <dimen name="usage_indicator_preference_progressbar_height">32dp</dimen>
+    <dimen name="usage_indicator_preference_label_margin_top">@*android:dimen/car_padding_1</dimen>
+    <dimen name="usage_indicator_preference_label_margin_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="usage_indicator_preference_summary_margin_bottom">@*android:dimen/car_padding_2</dimen>
+    <dimen name="data_usage_summary_preference_padding_bottom">@*android:dimen/car_padding_2</dimen>
+    <dimen name="data_usage_summary_preference_button_margin_top">@*android:dimen/car_padding_2</dimen>
+    <dimen name="data_usage_summary_preference_button_height">@*android:dimen/car_button_height</dimen>
+    <dimen name="data_usage_summary_preference_button_min_width">@*android:dimen/car_button_min_width</dimen>
+    <dimen name="progress_bar_preference_progressbar_margin_top">@*android:dimen/car_padding_1</dimen>
+    <dimen name="progress_bar_preference_label_margin_top">@*android:dimen/car_padding_0</dimen>
+    <dimen name="progress_bar_preference_padding_top">@*android:dimen/car_padding_1</dimen>
+    <dimen name="progress_bar_preference_padding_bottom">@*android:dimen/car_padding_1</dimen>
+
+    <!-- Data usage -->
+    <dimen name="usage_number_text_size">36sp</dimen>
+    <dimen name="usage_pickers_margin_vertical">@*android:dimen/car_padding_2</dimen>
+    <dimen name="usage_pickers_text_margin_end">@*android:dimen/car_padding_5</dimen>
+    <dimen name="usage_bytes_picker_margin_horizontal">@*android:dimen/car_padding_5</dimen>
+    <dimen name="usage_bytes_picker_edit_text_min_width">360dp</dimen>
+
+    <!-- Alert Dialog -->
+    <dimen name="alert_dialog_margin_top">@*android:dimen/car_padding_4</dimen>
+    <dimen name="alert_dialog_margin_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="alert_dialog_title_margin_bottom">@*android:dimen/car_padding_4</dimen>
+    <dimen name="alert_dialog_title_margin_start">@*android:dimen/car_padding_3</dimen>
+    <dimen name="alert_dialog_title_margin_end">@*android:dimen/car_padding_3</dimen>
+    <dimen name="alert_dialog_edit_text_margin_start">@*android:dimen/car_padding_3</dimen>
+    <dimen name="alert_dialog_edit_text_margin_end">@*android:dimen/car_padding_3</dimen>
+    <dimen name="alert_dialog_password_checkbox_margin_end">@*android:dimen/car_padding_3</dimen>
+    <dimen name="alert_dialog_password_checkbox_margin_start">@*android:dimen/car_padding_3</dimen>
+    <dimen name="alert_dialog_password_checkbox_margin_top">@*android:dimen/car_padding_1</dimen>
+</resources>

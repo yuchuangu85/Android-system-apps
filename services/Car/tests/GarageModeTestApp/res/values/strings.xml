@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name" translatable="false">GarageMode Test App</string>
+
+  <string name="off_car_testing" translatable="false">Offcar Test</string>
+  <string name="in_car_testing" translatable="false">Incar Test</string>
+  <string name="quit_app" translatable="false">Quit App</string>
+
+  <string name="button_schedule_job" translatable="false">Schedule Job</string>
+  <string name="button_job_info" translatable="false">Job Info</string>
+  <string name="button_enter_garage_mode" translatable="false">Enter GarageMode</string>
+  <string name="button_exit_garage_mode" translatable="false">Exit GarageMode</string>
+
+  <string name="checkbox_require_persisted" translatable="false">Persisted?</string>
+  <string name="checkbox_require_idleness" translatable="false">Require idleness?</string>
+  <string name="checkbox_require_charging" translatable="false">Require charging?</string>
+
+  <string name="no_results" translatable="false">No Results</string>
+
+  <string name="section_header_garage_mode_config" translatable="false">GarageMode Settings</string>
+  <string name="section_header_job_configuration" translatable="false">Job Configuration</string>
+  <string name="section_header_jobs_list" translatable="false">Scheduled Jobs</string>
+  <string name="section_header_watchdog" translatable="false">Watchdog</string>
+
+  <string name="spinner_label_garage_mode_duration" translatable="false">GarageMode max duration:</string>
+  <string name="spinner_label_job_duration" translatable="false">Job duration:</string>
+  <string name="spinner_label_network_type" translatable="false">Network type:</string>
+
+  <string-array name="network_types_list" translatable="false">
+    <item>ANY</item>
+    <item>NONE</item>
+    <item>UNMETERED</item>
+  </string-array>
+
+  <string-array name="duration_list" translatable="false">
+    <item>1 second</item>
+    <item>5 seconds</item>
+    <item>10 seconds</item>
+    <item>30 seconds</item>
+    <item>1 minute</item>
+    <item>5 minutes</item>
+    <item>1 hour</item>
+  </string-array>
+
+  <string name="car_drawer_open" translatable="false">Open drawer</string>
+  <string name="car_drawer_close" translatable="false">Close drawer</string>
+</resources>

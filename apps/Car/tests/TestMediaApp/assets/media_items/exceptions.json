@@ -1,0 +1,22 @@
+{
+  "FLAGS": "browsable",
+
+  "METADATA": {
+    "MEDIA_ID": "exceptions",
+    "DISPLAY_TITLE": "Exceptions"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "exceptions play NPE",
+        "DISPLAY_TITLE": "Throw NPE on play",
+        "DURATION": 30000
+      },
+      "EVENTS": [
+        { "STATE": "PLAYING", "THROW_EXCEPTION": "java.lang.NullPointerException" }
+      ]
+    }
+  ]
+}

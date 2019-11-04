@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">ಅವರ ವೀಡಿಯೊ ಆಫ್ ಆಗಿದೆ</string>
+  <string name="videocall_remote_video_on">ಅವರ ವಿಡಿಯೋ ಆನ್ ಆಗಿದೆ</string>
+  <string name="videocall_remotely_held">ಕರೆ ಹೋಲ್ಡ್‌ ಮಾಡಿದೆ</string>
+  <string name="videocall_remotely_resumed">ಕರೆಯನ್ನು ಪುನರಾರಂಭಿಸಲಾಗಿದೆ</string>
+  <string name="videocall_charges_alert_dialog_description">ಮೊಬೈಲ್ ನೆಟ್‌ವರ್ಕ್‌ ಮೂಲಕ ಮಾಡಲಾದ ವೀಡಿಯೊ ಕರೆಗಳು ಡೇಟಾ ಮತ್ತು ಧ್ವನಿ ನಿಮಿಷಗಳೆರಡನ್ನೂ ಬಳಸುತ್ತವೆ. ಶುಲ್ಕಗಳು ಅನ್ವಯಿಸಬಹುದು.</string>
+  <string name="do_not_show_again">ಪುನಃ ತೋರಿಸಬೇಡಿ</string>
+</resources>

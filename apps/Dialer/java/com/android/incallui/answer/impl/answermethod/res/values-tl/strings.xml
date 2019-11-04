@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">I-swipe nang pataas upang sagutin</string>
+  <string name="call_incoming_swipe_to_reject">I-swipe nang pababa upang tanggihan</string>
+  <string name="a11y_incoming_call_swipe_to_answer">I-swipe nang pataas gamit ang dalawang daliri upang sagutin o nang pababa upang tanggihan ang tawag</string>
+  <string name="call_incoming_will_disconnect">Tatapusin ng pagsagot sa tawag na ito ang iyong video call</string>
+  <string name="a11y_call_incoming_decline_description">Tanggihan</string>
+  <string name="call_incoming_decline">Tanggihan</string>
+  <string name="a11y_call_incoming_answer_description">Sagutin</string>
+  <string name="call_incoming_answer">Sagutin</string>
+</resources>

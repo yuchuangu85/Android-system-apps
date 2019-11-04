@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Tempat berdekatan</string>
+  <string name="search_location_permission">Untuk mendapatkan maklumat hubungan bagi tempat berdekatan anda, benarkan akses ke lokasi anda.</string>
+  <string name="nearby_places_allow">Benarkan</string>
+  <string name="nearby_places_dismiss">Ketepikan</string>
+</resources>

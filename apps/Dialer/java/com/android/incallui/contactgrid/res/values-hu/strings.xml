@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Hívás a(z) %s szolgáltatón keresztül</string>
+  <string name="incall_calling_on_same_carrier_template">Hívás ugyanazon a szolgáltatón (%s) keresztül</string>
+  <string name="incall_calling_on_recent_choice_template">Hívás a legutóbb használt szolgáltatón (%s) keresztül</string>
+  <string name="incall_connecting">Hívás…</string>
+  <string name="incall_connecting_assited_dialed">Hívás a következővel: +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">A következő használata: +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Átirányítás…</string>
+  <string name="incall_video_call_requesting">Szolgáltatói videohívás…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi-alapú szolgáltatói videohívás…</string>
+  <string name="incall_video_call_upgrade_request">Váltás szolgáltatói videohívásra…</string>
+  <string name="incall_video_call_request_failed">Nem sikerült kapcsolódni</string>
+  <string name="incall_video_call_request_rejected">Hívás elutasítva</string>
+  <string name="incall_video_call_request_timed_out">A hívás túllépte az időkorlátot</string>
+  <string name="incall_hanging_up">Megszakítás</string>
+  <string name="incall_call_ended">A hívás befejeződött</string>
+  <string name="incall_remotely_held">Várakoztatva</string>
+  <string name="contact_grid_incoming_video_call">Szolgáltatói videohívás tőle</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi-alapú szolgáltatói videohívás tőle</string>
+  <string name="contact_grid_incoming_voice_call">Hívás a következőtől:</string>
+  <string name="contact_grid_incoming_work_call">Munkahelyi hívás a következőről:</string>
+  <string name="contact_grid_incoming_via_template">Bejövő hívás a következőn keresztül: %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Feltételezett spamhívó</string>
+  <string name="contact_grid_callback_number">A telefon száma: %1$s</string>
+</resources>

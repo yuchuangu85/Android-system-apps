@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Gaitu</string>
+  <string name="video_call_not_available_title">Une honetan, bideo-deiak ez daude erabilgarri</string>
+  <string name="video_call_not_available_message">Saiatu geroago berriro deitzen, edo aldatu ahots-deira.</string>
+  <string name="voice_call">Ahots-deia</string>
+</resources>

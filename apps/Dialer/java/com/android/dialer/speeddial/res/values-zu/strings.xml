@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Izintandokazi</string>
+  <string name="suggestions_header">Imvamisa</string>
+  <string name="speed_dial_add_button_text">Engeza</string>
+  <string name="speed_dial_remember_this_choice">Khumbula lokhu okukhethiwe</string>
+  <string name="speed_dial_disambig_dialog_title">Khetha zonke izinhlobo</string>
+  <string name="disambig_option_video_call">Ikholi yevidiyo</string>
+  <string name="disambig_option_voice_call">Shaya</string>
+  <string name="add_favorite_activity_title">engeza intandokazi</string>
+  <string name="contact_menu_voice_call">Ikholi yezwi</string>
+  <string name="contact_menu_video_call">Ikholi Yevidiyo</string>
+  <string name="contact_menu_message">Umlayezo</string>
+  <string name="contact_menu_remove">Susa</string>
+  <string name="contact_menu_contact_info">Ulwazi loxhumana naye</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Engeza intandokazi</string>
+  <string name="speed_dial_contacts_permission_description">Nika amandla ukudayela okusheshayo, vula imvume yoxhumana nabo.</string>
+  <string name="speed_dial_turn_on_contacts_permission">Vula</string>
+  <string name="speed_dial_no_contacts_description">Awukangezi noma yikuphi ukubhalisa okwamanje</string>
+  <string name="speed_dial_no_contacts_action_text">Engeza intandokazi</string>
+  <string name="speed_dial_remove_favorites">Susa kusukela kuzintandokazi</string>
+</resources>

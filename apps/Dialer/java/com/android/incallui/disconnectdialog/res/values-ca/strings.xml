@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Activa</string>
+  <string name="video_call_not_available_title">Les videotrucades no estan disponibles actualment</string>
+  <string name="video_call_not_available_message">Torna-ho a provar més tard o continua com a trucada de veu.</string>
+  <string name="voice_call">Fes una trucada de veu</string>
+</resources>

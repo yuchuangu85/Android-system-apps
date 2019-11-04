@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">警告を毎回表示する</string>
+  <string name="details">海外の電話番号宛に発信しようとしています。これには通話料が適用される場合があります。</string>
+</resources>

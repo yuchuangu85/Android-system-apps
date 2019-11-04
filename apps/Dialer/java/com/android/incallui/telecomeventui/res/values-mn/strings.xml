@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Тухай бүрт анхааруулга харуулах</string>
+  <string name="details">Та олон улсын дугаар руу залгаж байгаа тул олон улсын төлбөр тооцогдож болзошгүй.</string>
+</resources>

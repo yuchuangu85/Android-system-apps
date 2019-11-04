@@ -1,0 +1,64 @@
+{
+  "FLAGS": "browsable",
+  "PLAYABLE_HINT": "GRID",
+  "BROWSABLE_HINT": "LIST",
+
+  "METADATA": {
+    "MEDIA_ID": "mixed",
+    "DISPLAY_TITLE": "Only nodes"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "mixed normal 15s song",
+        "DISPLAY_TITLE": "A normal 15s song",
+        "DURATION": 15000
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "mixed normal 20s song",
+        "DISPLAY_TITLE": "A normal 20s song",
+        "DURATION": 20000
+      }
+    },
+    {
+      "FLAGS": "browsable",
+      "METADATA": {
+        "MEDIA_ID": "mixed simple_leaves",
+        "DISPLAY_TITLE": "Basic songs"
+      },
+      "INCLUDE":"media_items/simple_leaves.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "LIST",
+      "BROWSABLE_HINT": "LIST",
+      "METADATA": {
+        "MEDIA_ID": "mixed advanced",
+        "DISPLAY_TITLE": "Advanced"
+      },
+      "INCLUDE":"media_items/advanced.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "PLAYABLE_HINT": "LIST",
+      "BROWSABLE_HINT": "GRID",
+      "METADATA": {
+        "MEDIA_ID": "mixed rabbit hole",
+        "DISPLAY_TITLE": "Rabbit hole"
+      },
+      "INCLUDE":"media_items/only_nodes.json"
+    },
+    {
+      "FLAGS": "browsable",
+      "METADATA": {
+        "MEDIA_ID": "mixed empty mix",
+        "DISPLAY_TITLE": "Empty mix"
+      }
+    }
+  ]
+}

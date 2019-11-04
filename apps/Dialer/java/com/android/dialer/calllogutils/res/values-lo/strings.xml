@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">​ສາຍ​ໂທ​ເຂົ້າ</string>
+  <string name="type_incoming_pulled">ສາຍໂທເຂົ້າຖືກໂອນໄປອຸປະກອນອື່ນແລ້ວ</string>
+  <string name="type_outgoing">​ສາຍ​ໂທ​ອອກ</string>
+  <string name="type_outgoing_pulled">ສາຍໂທອອກຖືກໂອນໄປອຸປະກອນອື່ນແລ້ວ</string>
+  <string name="type_missed">​ສາຍບໍ່​ໄດ້​ຮັບ</string>
+  <string name="type_incoming_video">ສາຍໂທ​ວິດີໂອ​ເຂົ້າ</string>
+  <string name="type_incoming_video_pulled">ສາຍວິດີໂອໂທເຂົ້າຖືກໂອນໄປອຸປະກອນອື່ນແລ້ວ</string>
+  <string name="type_outgoing_video">ສາຍ​ໂທ​ອອກ​ດ້ວຍ​ວິດີໂອ</string>
+  <string name="type_outgoing_video_pulled">ສາຍວິດີໂອໂທອອກຖືກໂອນໄປອຸປະກອນອື່ນແລ້ວ</string>
+  <string name="type_missed_video">ສາຍ​ວິດີໂອ​ທີ່​ບໍ່​ໄດ້​ຮັບ</string>
+  <string name="type_voicemail">ຂໍ້ຄວາມສຽງ</string>
+  <string name="type_rejected">ສາຍ​ໂທ​ທີ່​ຖືກ​ປະ​ຕິ​ເສດ</string>
+  <string name="type_blocked">ສາຍ​ໂທ​ທີ່​ຖືກບ​ລັອກ</string>
+  <string name="call_details_minutes_abbreviation">ມ</string>
+  <string name="call_details_seconds_abbreviation">ວິ</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">ວິນາທີ</item>
+    <item quantity="other">ວິນາທີ</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">ນາ​ທີ</item>
+    <item quantity="other">ນາທີ</item>
+  </plurals>
+  <string name="type_answered_elsewhere">ຮັບສາຍໃນອຸປະກອນອື່ນແລ້ວ</string>
+  <string name="description_phone_account">ຢູ່​ ^1</string>
+  <string name="description_via_number">ຜ່ານ %1$s</string>
+  <string name="description_via_number_phone_account">ຢູ່ %1$s, ຜ່ານ %2$s</string>
+  <string name="voicemail_string">ຂໍ້ຄວາມສຽງ</string>
+  <string name="just_now">ຕອນນີ້</string>
+  <string name="new_call_log_carrier_video">ວິດີໂອຜູ້ໃຫ້ບໍລິການ</string>
+  <string name="new_call_log_duo_video">ວິດີໂອ Duo</string>
+  <string name="new_call_log_unknown">ບໍ່ຮູ້ຈັກ</string>
+  <string name="new_call_log_secondary_blocked">ບລັອກແລ້ວ</string>
+  <string name="new_call_log_secondary_spam">ສະແປມ</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 ສາຍບໍ່ໄດ້ຮັບຈາກ ^2</item>
+    <item quantity="other">^1 ສາຍ, ສາຍຫຼ້າສຸດແມ່ນສາຍບໍ່ໄດ້ຮັບຈາກ ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 ສາຍທີ່ຮັບຈາກ ^2</item>
+    <item quantity="other">^1 ສາຍ, ສາຍຫຼ້າສຸດແມ່ນສາຍທີ່ຮັບຈາກ ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 ສາຍໂທອອກຫາ ^2</item>
+    <item quantity="other">^1 ສາຍ, ສາຍຫຼ້າສຸດແມ່ນສາຍທີ່ໂທອອກຫາ ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 ສາຍທີ່ບລັອກຈາກ ^2</item>
+    <item quantity="other">^1 ສາຍ, ສາຍຫຼ້າສຸດແມ່ນສາຍທີ່ບລັອກຈາກ ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">ຢູ່ ^1,
+    ຜ່ານ ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

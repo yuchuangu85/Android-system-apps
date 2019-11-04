@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">預設音效 (%1$s)</string>
+  <string name="ringtone_silent">無</string>
+  <string name="ringtone_unknown">不明的鈴聲</string>
+  <string name="activity_not_available">這個裝置未安裝可執行該操作的應用程式</string>
+  <string name="outgoing_wps_warning">撥打 WPS 電話會中斷你正在進行的通話。</string>
+  <string name="dialog_continue">繼續</string>
+  <string name="camera_privacy_text">已啟用相機權限</string>
+</resources>

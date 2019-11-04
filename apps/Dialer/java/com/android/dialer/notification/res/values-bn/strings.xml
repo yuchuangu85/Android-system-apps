@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">ইনকামিং কল</string>
+  <string name="notification_channel_ongoing_call">সংযুক্ত কল</string>
+  <string name="notification_channel_missed_call">মিস করা কল</string>
+  <string name="notification_channel_voicemail">ভয়েসমেল</string>
+  <string name="notification_channel_misc">ডিফল্ট</string>
+</resources>

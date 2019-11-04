@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Besvar for at se billedet</string>
+  <string name="spam_message_text">Besvar for at se beskeden</string>
+</resources>

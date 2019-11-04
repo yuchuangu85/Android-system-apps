@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Ringer via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Der ringes via samme mobilselskab: %s</string>
+  <string name="incall_calling_on_recent_choice_template">Der ringes via det seneste valg: %s</string>
+  <string name="incall_connecting">Ringer…</string>
+  <string name="incall_connecting_assited_dialed">Ring +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Der bruges +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Overfører…</string>
+  <string name="incall_video_call_requesting">Videoopkald via mobilselskab…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi-videoopkald via mobilselskab…</string>
+  <string name="incall_video_call_upgrade_request">Der skiftes til videoopkald via mobilselskab…</string>
+  <string name="incall_video_call_request_failed">Der kunne ikke oprettes forbindelse</string>
+  <string name="incall_video_call_request_rejected">Opkaldet blev afvist</string>
+  <string name="incall_video_call_request_timed_out">Opkaldet fik timeout</string>
+  <string name="incall_hanging_up">Lægger på</string>
+  <string name="incall_call_ended">Opkaldet er afsluttet</string>
+  <string name="incall_remotely_held">I venteposition</string>
+  <string name="contact_grid_incoming_video_call">Videoopkald via mobilselskab fra</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi-videoopkald via mobilselskab fra</string>
+  <string name="contact_grid_incoming_voice_call">Opkald fra</string>
+  <string name="contact_grid_incoming_work_call">Arbejdsopkald fra</string>
+  <string name="contact_grid_incoming_via_template">Indgående opkald via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Formodet spammer</string>
+  <string name="contact_grid_callback_number">Telefonens nummer: %1$s</string>
+</resources>

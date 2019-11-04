@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">ಉತ್ತರಿಸಲು ಮೇಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+  <string name="call_incoming_swipe_to_reject">ತಿರಸ್ಕರಿಸಲು ಕೆಳಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+  <string name="a11y_incoming_call_swipe_to_answer">ಕರೆಗೆ ಉತ್ತರಿಸಲು ಎರಡು ಬೆರಳುಗಳಿಂದ ಮೇಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ ಅಥವಾ ತಿರಸ್ಕರಿಸಲು ಕೆಳಗೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+  <string name="call_incoming_will_disconnect">ಈ ಕರೆಗೆ ಉತ್ತರಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೀಡಿಯೊ ಕರೆಯು ಅಂತ್ಯಗೊಳ್ಳುತ್ತದೆ</string>
+  <string name="a11y_call_incoming_decline_description">ನಿರಾಕರಿಸಿ</string>
+  <string name="call_incoming_decline">ನಿರಾಕರಿಸಿ</string>
+  <string name="a11y_call_incoming_answer_description">ಉತ್ತರ</string>
+  <string name="call_incoming_answer">ಉತ್ತರ</string>
+</resources>

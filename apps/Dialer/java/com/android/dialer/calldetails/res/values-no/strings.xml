@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Samtaleinformasjon</string>
+  <string name="delete">Slett</string>
+  <string name="call_details_copy_number">Kopiér nummeret</string>
+  <string name="call_details_edit_number">Rediger nummeret før du ringer</string>
+  <string name="call_details_report_call_id">Rapportér feil nummer</string>
+  <string name="sent_a_photo">Et bilde ble sendt</string>
+  <string name="received_a_photo">Et bilde ble mottatt</string>
+  <string name="message_in_quotes">«%1$s»</string>
+  <string name="report_caller_id_dialog_title">Rapportér feil nummer</string>
+  <string name="report_caller_id_failed">Kunne ikke rapportere nummeret</string>
+  <string name="report_caller_id_toast">Nummeret er rapportert</string>
+  <string name="assisted_dialing_country_code_entry">Oppringningsassistanse: Brukte landkoden +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Oppringningsassistanse ble brukt</string>
+  <string name="rtt_transcript_not_available">Transkripsjoner er bare tilgjengelige for anrop med meldinger</string>
+  <string name="rtt_transcript_link">Se transkripsjonen</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">ဘလူးတုသ်</string>
+  <string name="audioroute_speaker">စပီကာ</string>
+  <string name="audioroute_phone">ဖုန်း</string>
+  <string name="audioroute_headset">ကြိုးတပ်မိုက်ခွက်ပါနားကြပ်</string>
+</resources>

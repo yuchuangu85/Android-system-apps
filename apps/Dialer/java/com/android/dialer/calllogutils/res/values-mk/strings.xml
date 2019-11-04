@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Дојдовен повик</string>
+  <string name="type_incoming_pulled">Дојдовниот повик е префрлен на друг уред</string>
+  <string name="type_outgoing">Појдовен повик</string>
+  <string name="type_outgoing_pulled">Појдовниот повик е префрлен на друг уред</string>
+  <string name="type_missed">Пропуштен повик</string>
+  <string name="type_incoming_video">Дојдовен видеоповик</string>
+  <string name="type_incoming_video_pulled">Дојдовниот видеоповик е префрлен на друг уред</string>
+  <string name="type_outgoing_video">Појдовен видеоповик</string>
+  <string name="type_outgoing_video_pulled">Појдовниот видеоповик е префрлен на друг уред</string>
+  <string name="type_missed_video">Пропуштен видеоповик</string>
+  <string name="type_voicemail">Говорна пошта</string>
+  <string name="type_rejected">Одбиен повик</string>
+  <string name="type_blocked">Блокиран повик</string>
+  <string name="call_details_minutes_abbreviation">мин.</string>
+  <string name="call_details_seconds_abbreviation">сек.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">секунди</item>
+    <item quantity="other">секунди</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">минути</item>
+    <item quantity="other">минути</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Повикот е одговорен на друг уред</string>
+  <string name="description_phone_account">на ^1</string>
+  <string name="description_via_number">на %1$s</string>
+  <string name="description_via_number_phone_account">на %1$s, на %2$s</string>
+  <string name="voicemail_string">Говорна пошта</string>
+  <string name="just_now">Пред малку</string>
+  <string name="new_call_log_carrier_video">Видеоповик преку оператор</string>
+  <string name="new_call_log_duo_video">Видеоповик на Duo</string>
+  <string name="new_call_log_unknown">Непознато</string>
+  <string name="new_call_log_secondary_blocked">Блокирано</string>
+  <string name="new_call_log_secondary_spam">Спам</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 повик. Последниот е пропуштен повик од ^2</item>
+    <item quantity="other">^1 повици. Последниот е пропуштен повик од ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 повик. Последниот е одговорен повик од ^2</item>
+    <item quantity="other">^1 повици. Последниот е одговорен повик од ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 повик. Последниот е појдовен повик до ^2</item>
+    <item quantity="other">^1 повици. Последниот е појдовен повик до ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 повик. Последниот е блокиран повик од ^2</item>
+    <item quantity="other">^1 повици. Последниот е блокиран повик од ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">на ^1,
+    на ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

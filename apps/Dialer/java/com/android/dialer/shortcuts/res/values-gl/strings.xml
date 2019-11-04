@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Novo cont.</string>
+  <string name="dialer_shortcut_add_contact_long">Novo contacto</string>
+  <string name="dialer_shortcut_disabled_message">O atallo non funciona. Arrástrao para eliminalo.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">O contacto xa non está dispoñible.</string>
+  <string name="dialer_shortcut_no_permissions">Non se pode chamar sen os permisos.</string>
+</resources>

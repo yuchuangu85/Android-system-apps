@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Videosu kapalı</string>
+  <string name="videocall_remote_video_on">Video açık</string>
+  <string name="videocall_remotely_held">Çağrı beklemede</string>
+  <string name="videocall_remotely_resumed">Çağrı sürdürüldü</string>
+  <string name="videocall_charges_alert_dialog_description">Mobil ağ üzerinden yapılan görüntülü görüşmeler için hem veri hem de konuşma dakikaları kullanılır. Ücret alınabilir.</string>
+  <string name="do_not_show_again">Bir daha gösterme</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Ավարտել զանգը</string>
+  <string name="incall_content_description_muted">Ձայնն անջատած է</string>
+  <string name="incall_content_description_unmuted">Ձայնը միացած է</string>
+  <string name="incall_content_description_swap_calls">Փոխանջատել զանգերը</string>
+  <string name="incall_content_description_swap_sim">Փոխել SIM քարտը</string>
+  <string name="incall_content_description_merge_calls">Միավորել զանգերը</string>
+  <string name="incall_content_description_earpiece">Հեռախոսի ականջակալ</string>
+  <string name="incall_content_description_speaker">Բարձրախոս</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Լարով ականջակալ</string>
+  <string name="incall_content_description_hold">Պահել զանգը</string>
+  <string name="incall_content_description_unhold">Վերսկսել զանգը</string>
+  <string name="incall_content_description_video_on">Տեսախցիկը միացած է</string>
+  <string name="incall_content_description_video_off">Տեսախցիկն անջատած է</string>
+  <string name="incall_content_description_swap_video">Փոխարկել խցիկը</string>
+  <string name="incall_label_speaker">Բարձրախոս</string>
+  <string name="incall_label_audio">Ձայն</string>
+</resources>

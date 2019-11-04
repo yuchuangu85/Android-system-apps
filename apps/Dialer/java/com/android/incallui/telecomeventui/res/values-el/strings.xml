@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Εμφάνιση προειδοποίησης κάθε φορά</string>
+  <string name="details">Καλείτε έναν διεθνή αριθμό και ενδέχεται να ισχύουν χρεώσεις.</string>
+</resources>

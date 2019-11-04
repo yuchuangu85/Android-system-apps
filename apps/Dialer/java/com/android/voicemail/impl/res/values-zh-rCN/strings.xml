@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="vvm_unsupported_message_format">不受支持的语音邮件类型，请拨打 %s 收听。</string>
+</resources>

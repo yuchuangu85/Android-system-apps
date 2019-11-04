@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Оди назад</string>
+  <string name="description_dialpad_overflow">Повеќе опции</string>
+  <string name="description_delete_button">избриши</string>
+  <string name="description_image_button_plus">бирај плус</string>
+  <string name="description_voicemail_button">повикајте ја говорната пошта</string>
+  <string name="description_dial_button">бирај</string>
+  <string name="dialog_voicemail_airplane_mode_message">За да се јавите во говорна пошта, исклучете го авионскиот режим.</string>
+  <string name="dialog_voicemail_not_ready_message">За поставување говорна пошта, одете во Мени &gt; Поставки.</string>
+  <string name="add_2sec_pause">Додај пауза од 2 сек.</string>
+  <string name="add_wait">Додај чекање</string>
+  <string name="dialer_useDtmfDialpad">Користете тастатура со звуци на допир</string>
+  <string name="dialer_returnToInCallScreen">Вратете се на повик во тек</string>
+  <string name="dialer_addAnotherCall">Додај повик</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Се вчитува од SIM-картичка…</string>
+  <string name="simContacts_title">Контакти од SIM-картичка</string>
+  <string name="menu_callNumber">Повикај %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Не може да се воспоставуваат итни повици преку Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Бројот не може да се повика</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Увімкнути</string>
+  <string name="video_call_not_available_title">Наразі не можна здійснювати відеодзвінки</string>
+  <string name="video_call_not_available_message">Спробуйте пізніше або перейдіть у режим голосового дзвінка.</string>
+  <string name="voice_call">Голосовий дзвінок</string>
+</resources>

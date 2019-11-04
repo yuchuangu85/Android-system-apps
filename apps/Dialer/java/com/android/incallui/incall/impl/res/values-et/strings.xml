@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videokõne</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Ootele</string>
+  <string name="incall_label_add_call">Lisa kõne</string>
+  <string name="incall_label_mute">Vaigista</string>
+  <string name="incall_label_end_call">Lõpeta kõne</string>
+  <string name="incall_label_dialpad">Klaviatuur</string>
+  <string name="incall_talkback_speaker_on">, on sees</string>
+  <string name="incall_talkback_speaker_off">, on väljas</string>
+  <string name="incall_label_merge">Ühenda</string>
+  <string name="incall_label_manage">Halda</string>
+  <string name="a11y_description_incall_label_manage_content">Helistajate haldamine</string>
+  <string name="incall_label_swap">Vaheta</string>
+  <string name="incall_label_swap_sim">Muuda SIM-k.</string>
+  <string name="incall_note_sent">Märge on saadetud</string>
+</resources>

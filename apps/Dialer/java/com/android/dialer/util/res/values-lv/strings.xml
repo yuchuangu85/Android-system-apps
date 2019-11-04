@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Noklusējuma signāls (%1$s)</string>
+  <string name="ringtone_silent">Nav</string>
+  <string name="ringtone_unknown">Nezināms zvana signāls</string>
+  <string name="activity_not_available">Šajā ierīcē nav nevienas šai darbībai piemērotas lietotnes.</string>
+  <string name="outgoing_wps_warning">Veicot WPS zvanu, tiks pārtraukts esošais zvans.</string>
+  <string name="dialog_continue">Turpināt</string>
+  <string name="camera_privacy_text">Kameras atļauja iespējota</string>
+</resources>

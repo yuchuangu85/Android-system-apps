@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Чалууну бүтүрүү</string>
+  <string name="incall_content_description_muted">Үнү өчүрүлдү</string>
+  <string name="incall_content_description_unmuted">Үнү күйгүзүлдү</string>
+  <string name="incall_content_description_swap_calls">Башка чалууга которулуу</string>
+  <string name="incall_content_description_swap_sim">SIM-картаны өзгөртүү</string>
+  <string name="incall_content_description_merge_calls">Чалууларды бириктирүү</string>
+  <string name="incall_content_description_earpiece">Гарнитура</string>
+  <string name="incall_content_description_speaker">Катуу сүйлөткүч</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Зымдуу гарнитура</string>
+  <string name="incall_content_description_hold">Чалууну кармап туруу</string>
+  <string name="incall_content_description_unhold">Чалууну улантуу</string>
+  <string name="incall_content_description_video_on">Видео күйүк</string>
+  <string name="incall_content_description_video_off">Видео өчүк</string>
+  <string name="incall_content_description_swap_video">Видеону иштетүү/өчүрүү</string>
+  <string name="incall_label_speaker">Катуу сүйлөткүч</string>
+  <string name="incall_label_audio">Добуш</string>
+</resources>

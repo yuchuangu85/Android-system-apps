@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2019 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+    <item msgid="3431380197378148950">"ଆମେରିକା"</item>
+    <item msgid="4791956477275129121">"ୟୁରୋପ"</item>
+    <item msgid="3812126832016254559">"ଆଫ୍ରିକା"</item>
+    <item msgid="2765816300353408280">"ଏସିଆ"</item>
+    <item msgid="6683489385344409742">"ଅଷ୍ଟ୍ରେଲିଆ"</item>
+    <item msgid="5194868215515664953">"ପେସିଫିକ୍‌"</item>
+    <item msgid="7044520255415007865">"ସମସ୍ତ"</item>
+  </string-array>
+    <!-- no translation found for screen_timeout_entries:0 (8596143519087753804) -->
+    <!-- no translation found for screen_timeout_entries:5 (5827960506924849753) -->
+    <!-- no translation found for dream_timeout_entries:1 (2517785806387977252) -->
+    <!-- no translation found for dream_timeout_entries:5 (2788593551142462622) -->
+    <!-- no translation found for dream_timeout_entries:6 (8012672183888404961) -->
+    <!-- no translation found for dream_timeout_entries:7 (8271452751594598661) -->
+    <!-- no translation found for lock_after_timeout_entries:2 (5558060663472279597) -->
+    <!-- no translation found for lock_after_timeout_entries:6 (4376575879222393045) -->
+    <!-- no translation found for lock_after_timeout_entries:7 (811192536981678974) -->
+    <!-- no translation found for entries_font_size:0 (2340391964816059553) -->
+    <!-- no translation found for entries_font_size:0 (6490061470416867723) -->
+    <!-- no translation found for entries_font_size:2 (1714184661981538355) -->
+    <!-- no translation found for entries_font_size:2 (1678068858001018666) -->
+    <!-- no translation found for wifi_status:1 (4157625910392775808) -->
+    <!-- no translation found for wifi_status:3 (5848277343965362748) -->
+    <!-- no translation found for wifi_status_with_ssid:1 (6816207058895999545) -->
+    <!-- no translation found for wifi_status_with_ssid:3 (7547609081339573756) -->
+    <!-- no translation found for wifi_status_with_ssid:4 (5145158315060185414) -->
+    <!-- no translation found for wifi_tether_security:0 (5586343370515598801) -->
+    <!-- no translation found for wifi_tether_security:1 (6136336549994615745) -->
+    <!-- no translation found for wifi_p2p_wps_setup:0 (5390235347963255303) -->
+  <string-array name="wifi_p2p_status">
+    <item msgid="8741947238021758201">"ସଂଯୋଗ ହୋଇଛି"</item>
+    <item msgid="983792611851499732">"ଆମନ୍ତ୍ରିତ"</item>
+    <item msgid="5438273405428201793">"ଅସଫଳ"</item>
+    <item msgid="4646663015449312554">"ଉପଲବ୍ଧ"</item>
+    <item msgid="3230556734162006146">"ପରିସୀମା ବାହାରେ"</item>
+  </string-array>
+    <!-- no translation found for bluetooth_visibility_timeout_entries:1 (2759776603549270587) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:2 (5318020123964299318) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:3 (6429260054182662738) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:4 (1644506614010085798) -->
+    <!-- no translation found for wifi_signal:0 (1709949377823900951) -->
+    <!-- no translation found for wifi_signal:1 (7882129634982603782) -->
+    <!-- no translation found for wifi_signal:4 (999948812884919584) -->
+  <string-array name="data_usage_data_range">
+    <item msgid="8986775481492954015">"ଗତ 30 ଦିନ"</item>
+    <item msgid="3211287705232736964">"ବ୍ୟବହାରର ଚକ୍ର ସେଟ୍‌ କରନ୍ତୁ…"</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item msgid="1266031014388516303">"ବ୍ୟବହାର ସମୟ"</item>
+    <item msgid="2784401352592276015">"ଶେଷ ଥର ବ୍ୟବହୃତ"</item>
+    <item msgid="249854287216326349">"ଆପ୍‌ର ନାମ"</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item msgid="5538816743897530343">"PEAP"</item>
+    <item msgid="336771389015263226">"TLS"</item>
+    <item msgid="2124951724092063376">"TTLS"</item>
+    <item msgid="7427377376024106344">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="8934819312374410084">"କିଛି ନୁହେଁ"</item>
+    <item msgid="8655686691660180616">"MSCHAPV2"</item>
+    <item msgid="1354245862267605928">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:0 (7122038588318037831) -->
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:2 (6333849991499980140) -->
+  <string-array name="wifi_phase2_entries">
+    <item msgid="5865367433072785952">"କିଛି ନୁହେଁ"</item>
+    <item msgid="7901133332272818442">"PAP"</item>
+    <item msgid="8549879045980332977">"MSCHAP"</item>
+    <item msgid="7330627471456865502">"MSCHAPV2"</item>
+    <item msgid="6255179395132581882">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_ip_settings:1 (4377002609760712163) -->
+  <string-array name="wifi_proxy_settings">
+    <item msgid="9032900195127165132">"କିଛି ନୁହେଁ"</item>
+    <item msgid="1464741437353223198">"ମାନୁଆଲ୍‌"</item>
+    <item msgid="5793600062487886090">"ପ୍ରକ୍ସୀ ଅଟୋ-କନ୍‌ପିଗରେସନ୍"</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item msgid="7099647881902405997">"କିଛି ନୁହେଁ"</item>
+    <item msgid="1950796738039490374">"PAP"</item>
+    <item msgid="8166687999538788787">"CHAP"</item>
+    <item msgid="1276004657191968988">"PAP କିମ୍ବା CHAP"</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item msgid="4179023087537182757">"IPv4"</item>
+    <item msgid="9148582221081416020">"IPv6"</item>
+    <item msgid="4094895508821270572">"IPv4/IPv6"</item>
+  </string-array>
+    <!-- no translation found for bearer_entries:0 (5231094118929435723) -->
+    <!-- no translation found for bearer_entries:1 (2740477081395679090) -->
+    <!-- no translation found for bearer_entries:9 (7246853278334311652) -->
+    <!-- no translation found for mvno_type_entries:0 (6984770764726663331) -->
+    <!-- no translation found for mvno_type_entries:2 (7556656048009090524) -->
+  <string-array name="app_install_location_entries">
+    <item msgid="6621866711026016227">"ଇଣ୍ଟର୍ନଲ୍‍ ଡିଭାଇସ୍‌ ଷ୍ଟୋରେଜ୍‌"</item>
+    <item msgid="3186681694079967527">"ଅପସାରଣୀୟ SD କାର୍ଡ"</item>
+    <item msgid="6902033473986647035">"ସିଷ୍ଟମକୁ ନିଷ୍ପତ୍ତି ନେବାକୁ ଦିଅନ୍ତୁ"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="1102693344156734891">"ଅବସ୍ଥାନ"</item>
+    <item msgid="6842381562497597649">"ବ୍ୟକ୍ତିଗତ"</item>
+    <item msgid="3966700236695683444">"ମେସେଜିଙ୍ଗ"</item>
+    <item msgid="8563996233342430477">"ମିଡିଆ"</item>
+    <item msgid="5323851085993963783">"ଡିଭାଇସ୍"</item>
+  </string-array>
+    <!-- no translation found for app_ops_summaries:46 (4933375960222609935) -->
+    <!-- no translation found for app_ops_labels:3 (7836406246005211990) -->
+    <!-- no translation found for app_ops_labels:4 (3951439024549922598) -->
+    <!-- no translation found for app_ops_labels:8 (3597797992398484655) -->
+    <!-- no translation found for app_ops_labels:20 (3037159047591081136) -->
+    <!-- no translation found for app_ops_labels:41 (2464189519136248621) -->
+    <!-- no translation found for app_ops_labels:48 (8291198322681891160) -->
+  <string-array name="long_press_timeout_selector_titles">
+    <item msgid="8950313530602254787">"କମ୍"</item>
+    <item msgid="4816511817309094890">"ମଧ୍ୟମ"</item>
+    <item msgid="8305084671259331134">"ଲମ୍ଵା"</item>
+  </string-array>
+    <!-- no translation found for captioning_typeface_selector_titles:4 (1487203730637617924) -->
+    <!-- no translation found for captioning_font_size_selector_titles:1 (5091603983404027034) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (176844712416932112) -->
+    <!-- no translation found for captioning_font_size_selector_titles:3 (2784236342175159295) -->
+    <!-- no translation found for captioning_edge_type_selector_titles:4 (8019330250538856521) -->
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="313003243371588365">"25%"</item>
+    <item msgid="4665048002584838262">"50%"</item>
+    <item msgid="1874668269931014581">"75%"</item>
+    <item msgid="6462911487571123954">"100%"</item>
+  </string-array>
+    <!-- no translation found for captioning_preset_selector_titles:2 (5891360837786277638) -->
+  <string-array name="vpn_types_long">
+    <item msgid="6566768880689730097">"PPTP VPN"</item>
+    <item msgid="1349760781118368659">"ପୂର୍ବରୁ ସେୟାର୍‌ ହୋଇଥିବା କୀଗୁଡ଼ିକ ସହ L2TP/IPSec VPN"</item>
+    <item msgid="6128519070545038358">"ସର୍ଟିଫିକେଟ୍‌ ସହ L2TP/IPSec VPN"</item>
+    <item msgid="312397853907741968">"ସେୟାର୍‌ କରାଯାଇଥିବା କୀ’ଗୁଡ଼ିକ ସହିତ IPSec VPN ଏବଂ Xauth ସତ୍ୟାପନ"</item>
+    <item msgid="3319427315593649917">"ସର୍ଟିଫିକେଟ୍‌ ଏବଂ Xauth ପ୍ରାମାଣିକୀକରଣ ସହ IPSec VPN"</item>
+    <item msgid="8258927774145391041">"ସର୍ଟିଫିକେଟ୍‌ ଓ ହାଇବ୍ରିଡ୍‌ ସତ୍ୟାପନ ସହ IPSec VPN"</item>
+  </string-array>
+    <!-- no translation found for vpn_proxy_settings:0 (2958623927055120839) -->
+    <!-- no translation found for vpn_states:4 (9135049670787351881) -->
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="1164265643455394443">"ପଚାରନ୍ତୁ"</item>
+    <item msgid="7718817231348607934">"ଆଦୌ ଅନୁମତି ଦିଅନାହିଁ"</item>
+    <item msgid="8184570120217958741">"ସର୍ବଦା ଅନୁମତି ଦିଅନ୍ତୁ"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (708247372474061274) -->
+    <!-- no translation found for ram_states:4 (1567326459340152525) -->
+    <!-- no translation found for proc_stats_memory_states:3 (8577246509202964244) -->
+  <string-array name="proc_stats_process_states">
+    <item msgid="7560955722349181440">"ନିରନ୍ତର"</item>
+    <item msgid="167418068739176448">"ଶ୍ରେଷ୍ଠ ଗତିବିଧି"</item>
+    <item msgid="4760813290195199773">"ଜରୁରୀ (ଫୋର୍‌ଗ୍ରାଉଣ୍ଡ)"</item>
+    <item msgid="2328684826817647595">"ଗୁରୁତ୍ଵପୁର୍ଣ୍ଣ (ପୃଷ୍ଠପଟ)"</item>
+    <item msgid="7746406490652867365">"ବ୍ୟାକଅପ୍‌"</item>
+    <item msgid="5597404364389196754">"ଭାରୀ"</item>
+    <item msgid="1290888779300174556">"ସେବା (ଚାଲୁଛି)"</item>
+    <item msgid="7241098542073939046">"ସେବା (ରିଷ୍ଟାର୍ଟ ହେଉଛି)"</item>
+    <item msgid="6610439017684111046">"ପ୍ରାପକ"</item>
+    <item msgid="7367606086319921117">"ହୋମ୍‌"</item>
+    <item msgid="3344660712396741826">"ଶେଷ ଗତିବିଧି"</item>
+    <item msgid="5006559348883303865">"କ୍ୟାଶ୍ ହୋଇଥିବା (କାର୍ଯ୍ୟକଳାପ)"</item>
+    <item msgid="8633480732468137525">"କ୍ୟାଶ୍ ହୋଇଥିବା (କାର୍ଯ୍ୟକଳାପ କ୍ଲାଏଣ୍ଟ)"</item>
+    <item msgid="6248998242443333892">"କ୍ୟାଶ୍ ହୋଇଥିବା (ଖାଲି)"</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item msgid="3151827842194201728">"ଟିଲ୍"</item>
+    <item msgid="3228505970082457852">"ନୀଳ"</item>
+    <item msgid="6590260735734795647">"ଇଣ୍ଡିଗୋ"</item>
+    <item msgid="3521763377357218577">"ବାଇଗଣୀ"</item>
+    <item msgid="5932337981182999919">"ଗୋଲାପୀ"</item>
+    <item msgid="5642914536624000094">"ନାଲି"</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item msgid="2860293514533486236">"30 ଦିନରୁ ଅଧିକ ପୁରୁଣା"</item>
+    <item msgid="8699273238891265610">"60 ଦିନରୁ ଅଧିକ ପୁରୁଣା"</item>
+    <item msgid="8346279419423837266">"90 ଦିନରୁ ବି ଅଧିକ ପୁରୁଣା"</item>
+  </string-array>
+    <!-- no translation found for swipe_direction_titles:0 (6583090603341402282) -->
+    <!-- no translation found for swipe_direction_titles:1 (4965730704403236310) -->
+  <string-array name="swipe_direction_values">
+    <item msgid="5298569105095026382">"୧"</item>
+    <item msgid="3118234477029486741">"୦"</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item msgid="4329206416008519163">"ସ୍ଵଚାଳିତ ଭାବେ ଚିହ୍ନଟ କରନ୍ତୁ"</item>
+    <item msgid="773943026484148895">"ମିଟର୍ ହୋଇଥିବା ରୂପେ ବିବେଚନା କରନ୍ତୁ"</item>
+    <item msgid="1008268820118852416">"ମିଟର୍ ହୋଇନଥିବା ରୂପେ ବିବେଚନା କରନ୍ତୁ"</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item msgid="6545683814310036454">"ରେଣ୍ଡମାଇଜ୍ ହୋଇଥିବା MAC ବ୍ୟବହାର କରନ୍ତୁ (ଡିଫଲ୍ଟ)"</item>
+    <item msgid="214234417308375326">"ଡିଭାଇସ୍‍ MAC ବ୍ୟବହାର କରନ୍ତୁ"</item>
+  </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item msgid="7426878022650940844">"ନାଁ"</item>
+    <item msgid="1930581185557754880">"ହଁ"</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item msgid="699295711155561081">"ଗାଢ଼"</item>
+    <item msgid="5079453644557603349">"ଫିକା"</item>
+  </string-array>
+  <string-array name="autofill_logging_level_entries">
+    <item msgid="6882729786516723474">"ଅଫ୍"</item>
+    <item msgid="4072198137051566919">"ଡିବଗ୍ କରନ୍ତୁ"</item>
+    <item msgid="2473005316958868509">"ଶବ୍ଦବହୁଳ"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="8444727359525554695">"କେବଳ ହୋମ୍ ନେଟ୍‌ୱର୍କ"</item>
+    <item msgid="1161026694891024702">"ସ୍ଵତଃଚାଳିତ"</item>
+  </string-array>
+    <!-- no translation found for preferred_network_mode_choices:11 (5713723042183940349) -->
+  <string-array name="cdma_subscription_choices">
+    <item msgid="7691437408632563841">"RUIM/SIM"</item>
+    <item msgid="6219184455685527822">"NV"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item msgid="5675987537637081766">"ଗ୍ଲୋବାଲ୍"</item>
+    <item msgid="7893851358184700811">"LTE / CDMA"</item>
+    <item msgid="1779116915491192719">"LTE / GSM / UMTS"</item>
+  </string-array>
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:0 (4760531919194480665) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:1 (7912365765185450743) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:2 (2104740586531949003) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:0 (852926015619722843) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:1 (3792510685855718883) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:2 (1377977453734193662) -->
+</resources>

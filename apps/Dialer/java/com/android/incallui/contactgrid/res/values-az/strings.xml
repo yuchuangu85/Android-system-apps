@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s vasitəsilə zəng edilir</string>
+  <string name="incall_calling_on_same_carrier_template">Eyni %s operatorunda zəng edilir</string>
+  <string name="incall_calling_on_recent_choice_template">Son seçilmiş %s operatorunda zəng edilir</string>
+  <string name="incall_connecting">Zəng edilir...</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) istifadə edərək zəng edin…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s)… istifadə edilir</string>
+  <string name="incall_transferring">Köçürülür...</string>
+  <string name="incall_video_call_requesting">Operator ilə video zəng...</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi operatoru ilə video zəng…</string>
+  <string name="incall_video_call_upgrade_request">Operatorla video zəngə keçirilir…</string>
+  <string name="incall_video_call_request_failed">Qoşulmaq olmur</string>
+  <string name="incall_video_call_request_rejected">Zəng rədd edildi</string>
+  <string name="incall_video_call_request_timed_out">Zəngin vaxtı bitdi</string>
+  <string name="incall_hanging_up">Dəstək asılır</string>
+  <string name="incall_call_ended">Zəng sona çatdı</string>
+  <string name="incall_remotely_held">Gözləmədə</string>
+  <string name="contact_grid_incoming_video_call">Operator ilə video zəng</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi operatoru ilə video zəng</string>
+  <string name="contact_grid_incoming_voice_call">Zəng edən</string>
+  <string name="contact_grid_incoming_work_call">İş zəngi edən</string>
+  <string name="contact_grid_incoming_via_template">%s vasitəsilə gələn</string>
+  <string name="contact_grid_incoming_suspected_spam">Şübhəli spam çağrıcısı</string>
+  <string name="contact_grid_callback_number">Bu telefonun nömrəsi: %1$s</string>
+</resources>

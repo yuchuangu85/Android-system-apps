@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">ਇਨਕਮਿੰਗ ਕਾਲਾਂ</string>
+  <string name="notification_channel_ongoing_call">ਆਊਟਗੋਇੰਗ ਕਾਲਾਂ</string>
+  <string name="notification_channel_missed_call">ਖੁੰਝੀਆਂ ਕਾਲਾਂ</string>
+  <string name="notification_channel_voicemail">ਵੌਇਸਮੇਲਾਂ</string>
+  <string name="notification_channel_misc">ਪੂਰਵ-ਨਿਰਧਾਰਤ</string>
+</resources>

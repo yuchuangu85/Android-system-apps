@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Sissetulev kõne</string>
+  <string name="type_incoming_pulled">Sissetulev kõne viidi üle teise seadmesse</string>
+  <string name="type_outgoing">Väljuv kõne</string>
+  <string name="type_outgoing_pulled">Väljuv kõne viidi üle teise seadmesse</string>
+  <string name="type_missed">Vastamata kõne</string>
+  <string name="type_incoming_video">Sissetulev videokõne</string>
+  <string name="type_incoming_video_pulled">Sissetulev videokõne viidi üle teise seadmesse</string>
+  <string name="type_outgoing_video">Väljuv videokõne</string>
+  <string name="type_outgoing_video_pulled">Väljuv videokõne viidi üle teise seadmesse</string>
+  <string name="type_missed_video">Vastamata videokõne</string>
+  <string name="type_voicemail">Kõnepost</string>
+  <string name="type_rejected">Keeldutud kõne</string>
+  <string name="type_blocked">Blokeeritud kõne</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one"> sekund</item>
+    <item quantity="other"> sekundit</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one"> minut</item>
+    <item quantity="other"> minutit</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Kõnele vastati teises seadmes</string>
+  <string name="description_phone_account">kontol ^1</string>
+  <string name="description_via_number">numbri %1$s kaudu</string>
+  <string name="description_via_number_phone_account">kontol %1$s, numbri %2$s kaudu</string>
+  <string name="voicemail_string">Kõnepost</string>
+  <string name="just_now">Äsja</string>
+  <string name="new_call_log_carrier_video">Operaatori video</string>
+  <string name="new_call_log_duo_video">Duo video</string>
+  <string name="new_call_log_unknown">Tundmatu</string>
+  <string name="new_call_log_secondary_blocked">Blokeeritud</string>
+  <string name="new_call_log_secondary_spam">Rämpskõned</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 vastamata kõne kasutajalt ^2</item>
+    <item quantity="other">^1 kõnet, viimane on vastamata kõne kasutajalt ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 vastatud kõne kasutajalt ^2</item>
+    <item quantity="other">^1 kõnet, viimane on vastatud kõne kasutajalt ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 väljuv kõne kasutajale ^2</item>
+    <item quantity="other">^1 kõnet, viimane on väljuv kõne kasutajale ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 blokeeritud kõne kasutajalt ^2</item>
+    <item quantity="other">^1 kõnet, viimane on blokeeritud kõne kasutajalt ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">kontol ^1,
+    numbri ^2 kaudu</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

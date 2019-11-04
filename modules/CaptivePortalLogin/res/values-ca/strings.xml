@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Fes servir aquesta xarxa tal com està."</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"No facis servir aquesta xarxa."</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Inicia la sessió a la xarxa"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Inicia la sessió a %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"La xarxa a què et vols connectar té problemes de seguretat."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Per exemple, la pàgina d\'inici de sessió podria no pertànyer a l\'organització que es mostra."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Continua igualment mitjançant el navegador"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Aquest certificat no és d\'una autoritat de confiança."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"El nom del lloc web no coincideix amb el que inclou el certificat."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Aquest certificat ha caducat."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Aquest certificat encara no és vàlid."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Aquest certificat té una data no vàlida."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Aquest certificat no és vàlid."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"S\'ha produït un error desconegut de certificat."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Advertiment de seguretat"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Mostra el certificat"</string>
+    <string name="ok" msgid="6584612582120777209">"D\'acord"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Adreça:"</string>
+    <string name="page_info" msgid="46593086046896385">"Informació de la pàgina"</string>
+</resources>

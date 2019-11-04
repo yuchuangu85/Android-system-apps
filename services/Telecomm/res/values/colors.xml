@@ -1,0 +1,35 @@
+<!--
+  ~ Copyright (C) 2014 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+
+<resources>
+    <!--follows the dialer theme color-->
+    <color name="theme_color">#2a56c6</color>
+    <color name="background_color">#fafafa</color>
+
+    <!--Use the one consistence with dialer-->
+    <color name="blocked_numbers_divider_color">#d8d8d8</color>
+    <color name="blocked_numbers_primary_text_color">#202124</color>
+    <color name="blocked_numbers_secondary_text_color">#5f6368</color>
+
+    <!--follows dialer color-->
+    <color name="notification_action_answer">#097138</color>
+    <color name="notification_action_decline">#A52714</color>
+
+    <color name="call_redirection_dialog_icon_tint_color">#4089F4</color>
+    <color name="call_redirection_dialog_text_color">#212121</color>
+    <color name="call_redirection_dialog_view_divider_color">#B8B8B8</color>
+
+</resources>

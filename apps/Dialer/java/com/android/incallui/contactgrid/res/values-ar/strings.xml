@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">الاتصال عبر %s</string>
+  <string name="incall_calling_on_same_carrier_template">الاتصال على مشغل شبكة الجوال نفسه %s</string>
+  <string name="incall_calling_on_recent_choice_template">الاتصال على الاختيار الأخير %s</string>
+  <string name="incall_connecting">جارٍ الاتصال…</string>
+  <string name="incall_connecting_assited_dialed">الاتصال باستخدام +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">باستخدام +%1$s (%2$s)…</string>
+  <string name="incall_transferring">جارٍ النقل...</string>
+  <string name="incall_video_call_requesting">مكالمة فيديو باستخدام مشغل شبكة الجوّال...</string>
+  <string name="incall_wifi_video_call_requesting">‏مكالمة فيديو باستخدام مشغل شبكة Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">جارٍ التبديل إلى مكالمة فيديو باستخدام مشغل شبكة الجوّال…</string>
+  <string name="incall_video_call_request_failed">تعذَّر الاتصال.</string>
+  <string name="incall_video_call_request_rejected">تم رفض الاتصال</string>
+  <string name="incall_video_call_request_timed_out">انتهت مهلة الاتصال</string>
+  <string name="incall_hanging_up">إنهاء المكالمة</string>
+  <string name="incall_call_ended">تم إنهاء الاتصال</string>
+  <string name="incall_remotely_held">معلقة</string>
+  <string name="contact_grid_incoming_video_call">مكالمة فيديو باستخدام مشغل شبكة الجوّال من</string>
+  <string name="contact_grid_incoming_wifi_video_call">‏مكالمة فيديو باستخدام مشغل شبكة Wi-Fi من</string>
+  <string name="contact_grid_incoming_voice_call">اتصال من</string>
+  <string name="contact_grid_incoming_work_call">مكالمة عمل من</string>
+  <string name="contact_grid_incoming_via_template">واردة عبر %s</string>
+  <string name="contact_grid_incoming_suspected_spam">اشتباه في متصل غير مرغوب فيه</string>
+  <string name="contact_grid_callback_number">رقم الهاتف هذا: %1$s</string>
+</resources>

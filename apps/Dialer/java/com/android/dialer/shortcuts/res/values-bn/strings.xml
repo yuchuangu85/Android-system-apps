@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">নতুন পরিচিতি</string>
+  <string name="dialer_shortcut_add_contact_long">নতুন পরিচিতি</string>
+  <string name="dialer_shortcut_disabled_message">শর্টকাটটি কাজ করছে না৷ সরানোর জন্য টেনে আনুন৷</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">পরিচিতি আর উপলব্ধ নেই৷</string>
+  <string name="dialer_shortcut_no_permissions">অনুমতি ছাড়া কল করা যাবে না৷</string>
+</resources>

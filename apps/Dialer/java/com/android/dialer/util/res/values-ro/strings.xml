@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Sunet prestabilit (%1$s)</string>
+  <string name="ringtone_silent">Niciunul</string>
+  <string name="ringtone_unknown">Ton de apel necunoscut</string>
+  <string name="activity_not_available">Pe dispozitiv nu există nicio aplicație pentru această acțiune</string>
+  <string name="outgoing_wps_warning">Dacă inițiați un apel WPS, apelul existent va fi deconectat.</string>
+  <string name="dialog_continue">Continuați</string>
+  <string name="camera_privacy_text">Permisiunea pentru cameră a fost activată.</string>
+</resources>

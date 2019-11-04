@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Volání přes poskytovatele %s</string>
+  <string name="incall_calling_on_same_carrier_template">Volání přes stejného operátora %s</string>
+  <string name="incall_calling_on_recent_choice_template">Volání přes nedávno vybraného operátora %s</string>
+  <string name="incall_connecting">Volání…</string>
+  <string name="incall_connecting_assited_dialed">Volání s předvolbou +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Byla použita předvolba +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Přepojování…</string>
+  <string name="incall_video_call_requesting">Videohovor prostřednictvím operátora…</string>
+  <string name="incall_wifi_video_call_requesting">Videohovor přes Wi-Fi prostřednictvím operátora…</string>
+  <string name="incall_video_call_upgrade_request">Přepínání na videohovor prostřednictvím operátora…</string>
+  <string name="incall_video_call_request_failed">Nelze se připojit</string>
+  <string name="incall_video_call_request_rejected">Hovor byl odmítnut</string>
+  <string name="incall_video_call_request_timed_out">Časový limit hovoru vypršel</string>
+  <string name="incall_hanging_up">Zavěšování</string>
+  <string name="incall_call_ended">Hovor byl ukončen</string>
+  <string name="incall_remotely_held">Podrženo</string>
+  <string name="contact_grid_incoming_video_call">Videohovor prostřednictvím operátora od</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videohovor přes Wi-Fi prostřednictvím operátora od</string>
+  <string name="contact_grid_incoming_voice_call">Příchozí hovor:</string>
+  <string name="contact_grid_incoming_work_call">Příchozí pracovní hovor:</string>
+  <string name="contact_grid_incoming_via_template">Příchozí hovor přes poskytovatele %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Podezření na spam</string>
+  <string name="contact_grid_callback_number">Číslo tohoto telefonu: %1$s</string>
+</resources>

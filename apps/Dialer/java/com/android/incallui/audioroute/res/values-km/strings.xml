@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">ប៊្លូធូស</string>
+  <string name="audioroute_speaker">ឧបករណ៍បំពងសម្លេង</string>
+  <string name="audioroute_phone">ទូរសព្ទ</string>
+  <string name="audioroute_headset">កាស​មាន​ខ្សែ</string>
+</resources>

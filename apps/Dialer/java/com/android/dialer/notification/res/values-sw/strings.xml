@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Simu zinazoingia</string>
+  <string name="notification_channel_ongoing_call">Simu zinazoendelea</string>
+  <string name="notification_channel_missed_call">Simu ambazo hukujibu</string>
+  <string name="notification_channel_voicemail">Ujumbe wa sauti</string>
+  <string name="notification_channel_misc">Chaguo msingi</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+** Copyright (C) 2018 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.android.car.notification">
+    <!-- Permission to show display overlay window for heads-up notifications -->
+    <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW" />
+    <!-- Permission to get the current user id to cancel a notification -->
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <!-- Permission to get the current user id to cancel all notifications -->
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <!-- Permission to get status if a user in on call -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE"/>
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!--Permission to talk to the Status bar service which proxies the calls to remove
+        notifications to the notification service -->
+    <uses-permission android:name="android.permission.STATUS_BAR_SERVICE" />
+    <!--Permission to start a voice interaction service-->
+    <uses-permission android:name="android.permission.ACCESS_VOICE_INTERACTION_SERVICE"/>
+
+    <application android:name=".NotificationApplication">
+        <activity
+            android:name=".CarNotificationCenterActivity"
+            android:theme="@style/Theme.DeviceDefault.NoActionBar.Notification"
+            android:launchMode="singleInstance"
+            android:noHistory="true"
+            android:exported="true"
+            android:stateNotNeeded="true">
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+        <service android:name=".CarNotificationListener"
+              android:label="@string/notification_service_label"
+              android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
+              android:directBootAware="true">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+    </application>
+</manifest>

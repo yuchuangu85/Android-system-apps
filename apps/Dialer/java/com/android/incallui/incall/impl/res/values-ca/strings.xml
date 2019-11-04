@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videotrucada</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Posa en espera</string>
+  <string name="incall_label_add_call">Afeg. trucada</string>
+  <string name="incall_label_mute">Silencia</string>
+  <string name="incall_label_end_call">Penja</string>
+  <string name="incall_label_dialpad">Teclat</string>
+  <string name="incall_talkback_speaker_on">, activat</string>
+  <string name="incall_talkback_speaker_off">, desactivat</string>
+  <string name="incall_label_merge">Combina</string>
+  <string name="incall_label_manage">Gestiona</string>
+  <string name="a11y_description_incall_label_manage_content">Gestiona les persones que truquen</string>
+  <string name="incall_label_swap">Canvia</string>
+  <string name="incall_label_swap_sim">Canvia de SIM</string>
+  <string name="incall_note_sent">La nota s\'ha enviat</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Напишите прилагођену поруку</string>
+  <string name="toolbar_close">Затворите</string>
+  <string name="all_contacts_empty">Још увек немате ниједан контакт</string>
+  <string name="all_contacts_empty_add_contact_action">Направи нови контакт</string>
+  <string name="permission_single_turn_on">Укључи</string>
+  <string name="permission_no_contacts">Да бисте видели контакте, укључите дозволу за Контакте.</string>
+  <string name="add_contact_not_available">Нема доступне апликације за контакте</string>
+</resources>

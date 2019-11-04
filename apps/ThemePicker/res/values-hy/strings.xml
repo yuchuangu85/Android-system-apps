@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"Ոճեր և պաստառներ"</string>
+    <string name="theme_title" msgid="2144932106319405101">"Ոճ"</string>
+    <string name="clock_title" msgid="2126046720254613991">"Ժամացույց"</string>
+    <string name="grid_title" msgid="2825094404523390773">"Ցանց"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"Պաստառ"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"Կիրառել"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"Հպեք՝ փոփոխելու համար"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"Պահպանել ընթացիկ պաստառը"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"Կիրառել"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"Էջ <xliff:g id="ID_1">%1$d</xliff:g>/<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"Առաջ"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"Հետ"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g> (այժմ կիրառվում է)"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>, այժմ կիրառվում և ցուցադրվում է"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>, այժմ ցուցադրվում է"</string>
+    <string name="theme_description" msgid="3697012391785254635">"Տառատեսակ՝ <xliff:g id="ID_1">%1$s</xliff:g>, պատկերակներ՝ <xliff:g id="ID_2">%2$s</xliff:g>, ձև՝ <xliff:g id="ID_3">%3$s</xliff:g>, գույն՝ <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"Կանխադրված"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"Տառատեսակ"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"Պատկերակ"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"Գույն"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"Ձև"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"Պաստառ"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ԱԲԳ • աբգ • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"Ավելացրեք ձեր նախընտրած տառատեսակները յուրաքանչյուր էկրանին"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"Ոճը կիրառվեց"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"Ժամացույցը կիրառվեց"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"Չհաջողվեց կիրառել ոճը"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"Առաջ"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"Հետ"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"Հատուկ <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"Հատուկ ոճ"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"Ջնջել"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"Ընտրեք տառատեսակ"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"Ընտրեք պատկերակներ"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"Ընտրեք գույնը"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"Ընտրեք ձև"</string>
+    <string name="name_component_title" msgid="532425087968663437">"Անվանեք ձեր թեման"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"Պատկերակներ <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"Ջնջե՞լ հատուկ ոճը"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"Ջնջել"</string>
+    <string name="cancel" msgid="4651030493668562067">"Չեղարկել"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"Սահմանեք ոճի պաստառը"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"Օգտագործե՞լ <xliff:g id="ID_1">%1$s</xliff:g> ոճը"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"Ձեր ընտրած բաղադրիչները համապատասխանում են <xliff:g id="ID_1">%1$s</xliff:g> ոճին: Ուզո՞ւմ եք օգտագործել <xliff:g id="ID_2">%1$s</xliff:g> ոճը:"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"Օգտագործել <xliff:g id="ID_1">%1$s</xliff:g> ոճը"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"Ոչ"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> ժամացույցի նախադիտում"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"Սխալ առաջացավ։"</string>
+</resources>

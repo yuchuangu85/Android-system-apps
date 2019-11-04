@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Liên hệ mới</string>
+  <string name="dialer_shortcut_add_contact_long">Liên hệ mới</string>
+  <string name="dialer_shortcut_disabled_message">Lối tắt không hoạt động. Kéo để xóa.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Liên hệ không còn khả dụng.</string>
+  <string name="dialer_shortcut_no_permissions">Không thể gọi mà không có quyền.</string>
+</resources>

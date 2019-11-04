@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Vietas blakus</string>
+  <string name="search_location_permission">Lai iegūtu kontaktinformāciju vietām, kas atrodas jums tuvumā, atļaujiet piekļuvi savai atrašanās vietai.</string>
+  <string name="nearby_places_allow">Atļaut</string>
+  <string name="nearby_places_dismiss">Noraidīt</string>
+</resources>

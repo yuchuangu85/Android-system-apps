@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">ទំនាក់ទំនង​ថ្មី</string>
+  <string name="dialer_shortcut_add_contact_long">ទំនាក់ទំនង​ថ្មី</string>
+  <string name="dialer_shortcut_disabled_message">ផ្លូវកាត់​មិន​ដំណើរការ។ ទាញ​ដើម្បី​ដក​ចេញ។</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">ទំនាក់ទំនង​មិន​មាន​ទៀត​ទេ។</string>
+  <string name="dialer_shortcut_no_permissions">មិន​អាច​ហៅ​ទូរសព្ទ​បាន​ដោយ​គ្មាន​ការ​អនុញ្ញាត​ទេ។</string>
+</resources>

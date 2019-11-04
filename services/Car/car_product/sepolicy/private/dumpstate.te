@@ -1,0 +1,3 @@
+set_prop(dumpstate, ctl_start_prop)
+set_prop(dumpstate, ctl_stop_prop)
+allow dumpstate dumpstate_socket:sock_file write;

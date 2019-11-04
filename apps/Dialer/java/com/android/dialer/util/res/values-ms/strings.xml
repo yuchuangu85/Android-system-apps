@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Bunyi lalai (%1$s)</string>
+  <string name="ringtone_silent">Tiada</string>
+  <string name="ringtone_unknown">Nada dering tidak diketahui</string>
+  <string name="activity_not_available">Tiada apl untuk tindakan itu pada peranti ini</string>
+  <string name="outgoing_wps_warning">Membuat panggilan WPS akan memutuskan panggilan anda yang sedia ada.</string>
+  <string name="dialog_continue">Teruskan</string>
+  <string name="camera_privacy_text">Kebenaran kamera didayakan</string>
+</resources>

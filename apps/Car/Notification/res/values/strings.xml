@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- The assistant action label to read aloud a message notification and optionally prompt user to respond [CHAR_LIMIT=20]-->
+    <string name="assist_action_play_label">Play</string>
+
+    <!-- The Action label displayed to mute a message notification [CHAR_LIMIT=20]-->
+    <string name="action_mute_short">Mute</string>
+
+    <!-- The Action label displayed to mute a message notification with more context [CHAR_LIMIT=35]-->
+    <string name="action_mute_long">Mute conversation</string>
+
+    <!-- The Action label displayed to unmute a message notification [CHAR_LIMIT=23]-->
+    <string name="action_unmute_short">Unmute</string>
+
+    <!-- The Action label displayed to unmute a message notification with more context [CHAR_LIMIT=35]-->
+    <string name="action_unmute_long">Unmute conversation</string>
+
+    <!-- The Action label displayed to reply with a canned response to a SMS message [CHAR_LIMIT=35]-->
+    <string name="action_canned_reply">\"I\'m driving right now.\"</string>
+
+    <!-- The canned reply SMS message, meant to be sent as a response to an incoming SMS. [CHAR_LIMIT=NONE] -->
+    <string name="canned_reply_message">I\'m driving right now.</string>
+
+    <!-- The toast that is shown when a canned reply message is sent successfully [CHAR_LIMIT=50]-->
+    <string name="toast_message_sent_success">Message sent successfully.</string>
+
+    <!-- The label for the NotificationListenerService [CHAR_LIMIT=NONE] -->
+    <string name="notification_service_label">Car Notification Listener Service</string>
+
+    <!-- The title displayed in notification center activity [CHAR_LIMIT=50] -->
+    <string name="notifications">Notification center</string>
+
+    <!-- The button text for clearing all notifications in notification center [CHAR_LIMIT=15] -->
+    <string name="clear_all">Clear all</string>
+
+    <!-- The string displayed at the end of a shortened text, e.g. "..." [CHAR_LIMIT=10] -->
+    <string name="ellipsized_string">&#8230;</string>
+
+    <!-- The separator for notification header text fields. -->
+    <string name="header_text_separator" translatable="false">&#160;&#8226;&#160;</string>
+
+    <!-- The label for the button that expands a grouped notification [CHAR_LIMIT=20] -->
+    <string name="show_more">Show more</string>
+
+    <!-- Notification header text displayed on top of the notification center shade [CHAR_LIMIT=25] -->
+    <string name="notification_header">Notifications</string>
+
+    <!-- Notification header text displayed on top of the notification center shade when there are no notification to display [CHAR_LIMIT=25] -->
+    <string name="empty_notification_header">No notifications</string>
+
+    <!-- The label for the button that collapses a grouped notification [CHAR_LIMIT=20] -->
+    <string name="show_less">Show less</string>
+
+    <!-- The label for the button that expands a grouped notification with an unread count [CHAR_LIMIT=25] -->
+    <string name="show_count_more">Show&#160;<xliff:g id="count">%d</xliff:g>&#160;more</string>
+
+    <!-- Text indicating the number of the unshown messages in a messaging style notification [CHAR_LIMIT=15] -->
+    <string name="message_unshown_count">&#160;+<xliff:g id="count">%d</xliff:g>&#160;more</string>
+
+    <!-- Text indicating the number of messages a user has received when driving [CHAR_LIMIT=20] -->
+    <plurals name="restricted_message_text">
+        <item quantity="one">1 new message</item>
+        <item quantity="other"><xliff:g id="count" example="3">%d</xliff:g> new messages</item>
+    </plurals>
+
+</resources>

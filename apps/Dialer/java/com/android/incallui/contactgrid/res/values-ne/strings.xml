@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s मार्फत कल गर्दै</string>
+  <string name="incall_calling_on_same_carrier_template">उ‍ही सेवा प्रदायक %s मा कल गर्दै</string>
+  <string name="incall_calling_on_recent_choice_template">हालैको रोजाइको %s मस कल गर्दै</string>
+  <string name="incall_connecting">कल गर्दै…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) प्रयोग गरी कल गर्दै…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) प्रयोग गर्दै…</string>
+  <string name="incall_transferring">स्थानान्तरण गर्दै…</string>
+  <string name="incall_video_call_requesting">सेवा प्रदायकमार्फत भिडियो कल गर्दै…</string>
+  <string name="incall_wifi_video_call_requesting">सेवा प्रदायकमार्फत Wi-Fi भिडियो कलमा स्तरवृद्धिका लागि अनुरोध गर्दै…</string>
+  <string name="incall_video_call_upgrade_request">सेवा प्रदायकमार्फतको भिडियो कलमा स्विच गर्दै…</string>
+  <string name="incall_video_call_request_failed">जडान गर्न असमर्थ</string>
+  <string name="incall_video_call_request_rejected">कल अस्वीकार गरियो</string>
+  <string name="incall_video_call_request_timed_out">कलको समय सकियो</string>
+  <string name="incall_hanging_up">फोन काट्दै</string>
+  <string name="incall_call_ended">कल समाप्त भयो</string>
+  <string name="incall_remotely_held">होल्डमा छ</string>
+  <string name="contact_grid_incoming_video_call">यहाँबाट आएको सेवा प्रदायकमार्फतको भिडियो कल</string>
+  <string name="contact_grid_incoming_wifi_video_call">यहाँबाट आएको सेवा प्रदायकमार्फतको Wi-Fi भिडियो कल</string>
+  <string name="contact_grid_incoming_voice_call">निम्नबाट कल आएको छ</string>
+  <string name="contact_grid_incoming_work_call">निम्नबाट कार्य सम्बन्धी कल आएको छ</string>
+  <string name="contact_grid_incoming_via_template">%s मार्फत गरिएको आगमन कल</string>
+  <string name="contact_grid_incoming_suspected_spam">शङ्कास्पद स्प्याम कल गर्ने व्यक्ति</string>
+  <string name="contact_grid_callback_number">यस फोनको नम्बर: %1$s</string>
+</resources>

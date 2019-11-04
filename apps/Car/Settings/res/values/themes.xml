@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2019 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources>
+    <style name="CarSettingTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="wifi_signal">@drawable/wifi_signal</item>
+        <item name="wifiSignalColor">?android:attr/textColorPrimary</item>
+        <item name="iconColor">?android:attr/textColorPrimary</item>
+        <item name="dividerColor">@*android:color/car_list_divider</item>
+        <item name="userSwitcherBackground">?android:attr/colorPrimary</item>
+        <item name="userSwitcherCurrentUserColor">?android:attr/colorAccent</item>
+        <item name="userSwitcherAddIconColor">@*android:color/car_tint</item>
+        <item name="userSwitcherAddIconBackgroundColor">?android:attr/colorPrimaryDark</item>
+        <item name="userSwitcherNameTextAppearance">?android:attr/textAppearanceLarge</item>
+        <item name="quickSettingsEnabledColor">?android:attr/colorControlActivated</item>
+        <item name="quickSettingsDisabledColor">?android:attr/colorControlNormal</item>
+        <item name="quickSettingsIconEnabledColor">?android:attr/colorPrimary</item>
+        <item name="quickSettingsIconDisabledColor">?android:attr/colorPrimaryDark</item>
+        <item name="suggestionsPrimaryColor">?android:attr/colorPrimaryDark</item>
+        <item name="suggestionsSecondaryColor">@android:color/black</item>
+        <item name="android:windowEnterAnimation">@anim/trans_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/trans_fade_out</item>
+        <item name="android:fragmentOpenEnterAnimation">@animator/trans_right_in</item>
+        <item name="android:fragmentOpenExitAnimation">@animator/trans_left_out</item>
+        <item name="android:fragmentCloseEnterAnimation">@animator/trans_left_in</item>
+        <item name="android:fragmentCloseExitAnimation">@animator/trans_right_out</item>
+    </style>
+
+    <style name="PreferenceTheme">
+        <item name="preferenceFragmentCompatStyle">@style/PreferenceFragment.Settings</item>
+        <item name="preferenceFragmentListStyle">@style/PreferenceFragmentList.Settings</item>
+        <item name="preferenceStyle">@style/Preference.Settings</item>
+        <item name="preferenceCategoryStyle">@style/Preference.Settings.Category</item>
+        <item name="checkBoxPreferenceStyle">@style/Preference.Settings.CheckBoxPreference</item>
+        <item name="dialogPreferenceStyle">@style/Preference.Settings.DialogPreference</item>
+        <item name="editTextPreferenceStyle">@style/Preference.Settings.DialogPreference.EditTextPreference</item>
+        <item name="seekBarPreferenceStyle">@style/Preference.Settings.SeekBarPreference</item>
+        <item name="switchPreferenceStyle">@style/Preference.Settings.SwitchPreference</item>
+    </style>
+
+    <style name="FallbackHome" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+    </style>
+
+    <style name="ActionDialogTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+    <!-- Themes for Setup Wizard -->
+
+    <style name="FallbackHome.SetupWizard"
+           parent="@android:style/Theme.DeviceDefault.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+    </style>
+</resources>

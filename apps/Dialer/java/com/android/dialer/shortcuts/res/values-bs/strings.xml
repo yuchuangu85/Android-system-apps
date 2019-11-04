@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Novi kontakt</string>
+  <string name="dialer_shortcut_add_contact_long">Novi kontakt</string>
+  <string name="dialer_shortcut_disabled_message">Prečica ne radi. Povucite da je uklonite.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakt više nije dostupan.</string>
+  <string name="dialer_shortcut_no_permissions">Ne može se zvati bez odobrenja.</string>
+</resources>

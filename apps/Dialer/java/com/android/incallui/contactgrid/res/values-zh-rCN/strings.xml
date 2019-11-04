@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">正在通过%s进行通话</string>
+  <string name="incall_calling_on_same_carrier_template">正在通过相同的运营商%s拨号</string>
+  <string name="incall_calling_on_recent_choice_template">正在通过最近选择的运营商%s拨号</string>
+  <string name="incall_connecting">正在呼叫…</string>
+  <string name="incall_connecting_assited_dialed">正在使用 +%1$s (%2$s) 拨打电话…</string>
+  <string name="incall_connecting_assited_dialed_component">正在使用 +%1$s (%2$s)…</string>
+  <string name="incall_transferring">正在转接…</string>
+  <string name="incall_video_call_requesting">正在进行运营商视频通话…</string>
+  <string name="incall_wifi_video_call_requesting">正在进行 WLAN 运营商视频通话…</string>
+  <string name="incall_video_call_upgrade_request">正在切换到运营商视频通话…</string>
+  <string name="incall_video_call_request_failed">无法连接</string>
+  <string name="incall_video_call_request_rejected">通话被拒绝</string>
+  <string name="incall_video_call_request_timed_out">通话超时</string>
+  <string name="incall_hanging_up">正在挂断</string>
+  <string name="incall_call_ended">通话结束</string>
+  <string name="incall_remotely_held">保持</string>
+  <string name="contact_grid_incoming_video_call">运营商视频通话来电：</string>
+  <string name="contact_grid_incoming_wifi_video_call">WLAN 运营商视频通话来电：</string>
+  <string name="contact_grid_incoming_voice_call">通话来自：</string>
+  <string name="contact_grid_incoming_work_call">工作通话来自：</string>
+  <string name="contact_grid_incoming_via_template">有人通过 %s 来电</string>
+  <string name="contact_grid_incoming_suspected_spam">疑似骚扰电话号码：</string>
+  <string name="contact_grid_callback_number">此手机的号码：%1$s</string>
+</resources>

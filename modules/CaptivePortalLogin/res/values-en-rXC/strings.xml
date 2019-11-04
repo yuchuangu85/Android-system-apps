@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‎‎‏‏‏‎‏‏‏‏‎‏‏‎‏‏‏‏‎‎‎‎‏‏‎‎‎‏‏‏‏‏‏‎‏‎‏‏‎‏‏‎‏‏‎‏‎‎‎‎‎‎‏‏‏‎‏‎‎CaptivePortalLogin‎‏‎‎‏‎"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‎‏‎‎‏‎‏‎‏‏‎‏‏‏‏‏‏‎‎‎‎‎‎‏‎‎‎‏‏‏‏‏‎‏‏‏‏‏‏‏‎‎‎‏‏‏‏‎‏‏‎‏‎‎‏‎‎‎‏‎Use this network as is‎‏‎‎‏‎"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‏‏‏‏‏‎‎‎‏‎‏‏‏‎‏‏‎‏‏‎‏‎‎‏‎‏‎‎‎‏‎‏‏‎‏‏‏‏‏‎‏‏‎‎‎‎‎‏‏‎‎‏‏‏‎‏‏‎‎‎Do not use this network‎‏‎‎‏‎"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‏‏‎‎‎‎‎‏‎‎‏‏‏‎‏‏‏‏‏‏‏‏‏‎‎‎‎‎‏‎‏‏‏‎‏‏‏‏‎‎‏‎‏‏‏‎‏‏‏‎‎‏‏‎‎‎‏‏‎‎‎Sign in to network‎‏‎‎‏‎"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‎‎‏‏‏‎‎‏‏‏‎‏‎‏‏‏‎‎‏‏‏‎‏‎‎‏‎‎‎‏‏‎‎‎‏‏‎‎‎‏‏‎‏‎‎‏‏‎‎‎‎‏‎‎‏‎‎‏‎‎‎Sign in to %1$s‎‏‎‎‏‎"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‏‏‏‏‎‏‏‎‏‏‎‏‏‏‏‎‎‎‎‏‏‎‎‏‏‎‎‏‏‏‎‎‎‏‏‎‏‏‏‎‎‎‎‎‏‏‏‎‎‏‏‎‎‏‏‎‏‏‏‏‎‎The network you’re trying to join has security issues.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‏‏‏‎‏‏‏‏‏‎‎‎‎‏‏‏‎‎‏‎‏‎‎‎‏‎‏‎‏‏‎‏‏‎‎‏‎‎‏‏‎‎‏‎‏‎‎‎‏‏‏‏‎‏‎‏‏‎‏‎For example, the login page may not belong to the organization shown.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‎‎‎‎‎‏‏‎‎‏‎‏‏‏‎‎‎‎‏‏‎‎‏‏‏‏‎‏‎‎‎‎‎‏‏‏‏‏‎‏‏‎‎‎‎‎‏‎‎‏‎‎‏‎‏‏‏‎‏‎Continue anyway via browser‎‏‎‎‏‎"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‎‏‎‏‏‎‏‏‏‏‏‏‏‎‏‏‎‏‎‎‎‏‏‎‎‏‏‎‏‏‎‏‏‎‎‏‏‏‎‎‎‎‏‎‎‎‎This certificate isn\'t from a trusted authority.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‏‎‎‏‎‎‎‎‎‎‎‏‏‎‏‎‎‎‏‏‎‏‏‎‎‎‏‏‎‎‏‏‏‏‏‎‎‏‏‏‏‏‎‏‎‏‎‎‏‎‏‎‏‎‏‏‎‎‏‏‎The name of the site doesn\'t match the name on the certificate.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‏‏‏‎‎‏‎‎‎‏‎‏‏‏‎‏‎‏‎‎‏‏‏‏‏‏‏‏‏‏‎‏‎‎‎‎‎‏‏‎‎‏‎‎‎‏‏‏‏‏‏‏‎‎‏‎‎‏‎‎‎This certificate has expired.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‎‎‎‎‎‎‎‏‏‎‎‎‏‏‏‏‎‎‎‎‏‏‎‏‏‏‏‎‎‎‏‎‎‏‎‎‎‎‎‏‏‎‎‎‏‎‏‏‎‏‎‏‏‎‎‏‎‏‎‏‎‎This certificate isn\'t valid yet.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‏‎‎‎‎‏‎‎‏‏‎‎‏‏‏‎‏‎‏‎‏‎‎‏‏‎‏‎‎‎‎‏‎‏‏‏‎‎‎‏‎‏‏‏‏‎‏‎‎‏‎‏‏‏‏‏‎‎‏‏‏‎This certificate has an invalid date.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‎‎‏‎‏‏‏‏‎‏‎‎‏‏‎‏‎‏‎‎‏‎‎‏‎‎‎‎‎‏‏‏‏‎‏‏‎‏‏‎‏‏‏‏‏‎‎‎‏‎‏‎‎‎‏‎‏‏‎‏‎This certificate is invalid.‎‏‎‎‏‎"</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‎‏‎‎‎‎‎‎‏‏‏‏‏‎‏‏‏‎‎‎‎‎‎‎‎‎‎‏‎‎‎‎‏‎‎‏‏‎‎‏‏‏‏‏‎‏‏‏‎‎‎‏‏‏‎‎‎‏‏‎‎Unknown certificate error.‎‏‎‎‏‎"</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‏‎‏‏‎‏‏‏‎‎‏‏‏‎‎‏‎‎‎‎‏‎‏‏‎‏‏‏‏‎‎‏‏‎‎‏‎‏‎‏‏‏‏‏‏‎‏‏‏‎‏‎‏‏‏‏‎‎‏‎‏‎‎Security warning‎‏‎‎‏‎"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‎‏‏‏‏‏‏‎‏‏‎‎‏‎‏‎‏‏‏‏‎‏‎‏‏‎‎‎‏‏‏‏‏‎‎‎‏‏‎‎‎‏‎‎‎‎‎‏‎‎‎‏‎‎‏‏‏‎‎‎‏‎View certificate‎‏‎‎‏‎"</string>
+    <string name="ok" msgid="6584612582120777209">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‏‏‎‏‏‎‏‏‎‏‏‎‎‎‎‏‎‎‏‏‏‏‏‎‎‏‎‎‎‎‎‏‏‎‏‏‎‏‎‎‏‏‏‎‎‎‎‎‎‏‏‎‎‏‎‏‏‏‏‏‏‎‎‏‎OK‎‏‎‎‏‎"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‏‏‎‎‎‏‏‏‏‎‏‎‎‏‎‏‏‎‏‏‎‏‏‎‎‏‏‎‏‏‏‏‎‏‏‏‎‎‎‏‏‏‎‎‏‎‏‎‏‎‎‏‏‎‏‏‎‏‎‎‏‎‎Address:‎‏‎‎‏‎"</string>
+    <string name="page_info" msgid="46593086046896385">"‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‎‎‎‏‎‏‎‎‏‎‏‏‎‎‎‏‎‎‎‎‎‏‎‏‎‏‎‎‎‏‏‎‏‏‎‏‏‎‏‎‎‎‎‏‎‎‎‎‎‎‏‎‎‎‎‎‎‎‏‎Page info‎‏‎‎‏‎"</string>
+</resources>

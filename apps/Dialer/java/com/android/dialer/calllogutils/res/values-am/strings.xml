@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">ገቢ ጥሪ</string>
+  <string name="type_incoming_pulled">ገቢ ጥሪ ወደ ሌላ መሣሪያ ተዘዋውሯል።</string>
+  <string name="type_outgoing">ወጪ ጥሪ</string>
+  <string name="type_outgoing_pulled">ወጪ ጥሪ ወደ ሌላ መሣሪያ ተዘዋውሯል</string>
+  <string name="type_missed">መልስ ያልተሰጠው ጥሪ</string>
+  <string name="type_incoming_video">ገቢ የቪዲዮ ጥሪ</string>
+  <string name="type_incoming_video_pulled">ገቢ የቪዲዮ ጥሪ ወደ ሌላ መሣሪያ ተዘዋውሯል</string>
+  <string name="type_outgoing_video">ወጪ የቪዲዮ ጥሪ</string>
+  <string name="type_outgoing_video_pulled">ወጪ የቪዲዮ ጥሪ ወደ ሌላ መሣሪያ ተዘዋውሯል</string>
+  <string name="type_missed_video">ያመለጠ የቪዲዮ ጥሪ</string>
+  <string name="type_voicemail">የድምፅ መልዕክት</string>
+  <string name="type_rejected">ያልተነሳ ጥሪ</string>
+  <string name="type_blocked">የታገደ ጥሪ</string>
+  <string name="call_details_minutes_abbreviation">ደ</string>
+  <string name="call_details_seconds_abbreviation">ሰ</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">ሰከንዶች</item>
+    <item quantity="other">ሰከንዶች</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">ደቂቃዎች</item>
+    <item quantity="other">ደቂቃዎች</item>
+  </plurals>
+  <string name="type_answered_elsewhere">ጥሪው በሌላ መሣሪያ ላይ ተመልሷል</string>
+  <string name="description_phone_account">በ^1 ላይ</string>
+  <string name="description_via_number">በ %1$s በኩል</string>
+  <string name="description_via_number_phone_account">በ %1$s ላይ፣ በ %2$s በኩል</string>
+  <string name="voicemail_string">የድምፅ መልዕክት</string>
+  <string name="just_now">ልክ አሁን</string>
+  <string name="new_call_log_carrier_video">የአገልግሎት አቅራቢ ቪዲዮ</string>
+  <string name="new_call_log_duo_video">Duo ቪዲዮ</string>
+  <string name="new_call_log_unknown">ያልታወቀ</string>
+  <string name="new_call_log_secondary_blocked">የታገደ</string>
+  <string name="new_call_log_secondary_spam">አይፈለጌ መልዕክት</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 ጥሪዎች፣ የቅርብ ጊዜው ከ ^2 ያመለጠ ጥሪ ነው</item>
+    <item quantity="other">^1 ጥሪዎች፣ የቅርብ ጊዜ ከ^2 ያመለጠ ጥሪ ነው</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 ጥሪዎች፣ የቅርብ ጊዜው ከ ^2 የተመለሰ ጥሪ ነው</item>
+    <item quantity="other">^1 ጥሪዎች፣ የቅርብ ጊዜው ከ ^2 የተመለሰ ጥሪ ነው</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 ጥሪዎች፣ የቅርብ ጊዜው ወጪ ጥሪ ወደ ^2 ነው</item>
+    <item quantity="other">^1 ጥሪዎች፣ የቅርብ ጊዜው ወጪ ጥሪ ወደ ^2 ነው</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 ጥሪዎች፣ የቅርብ ጊዜው የታገደ ጥሪ ከ ^2 ነው</item>
+    <item quantity="other">^1 ጥሪዎች፣ የቅርብ ጊዜው የታገደ ጥሪ ከ ^2 ነው</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">በ ^1 ላይ፣ በ ^2 በኩል</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1፣ ^2።</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1፣ ^2፣ ^3።</string>
+</resources>

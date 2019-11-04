@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Chiamate tramite %s</string>
+  <string name="incall_calling_on_same_carrier_template">Chiamata tramite lo stesso operatore %s</string>
+  <string name="incall_calling_on_recent_choice_template">Chiamata tramite una scelta recente %s</string>
+  <string name="incall_connecting">Chiamata…</string>
+  <string name="incall_connecting_assited_dialed">Chiamata utilizzando +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Uso di +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Trasferimento…</string>
+  <string name="incall_video_call_requesting">Videochiamata dell\'operatore…</string>
+  <string name="incall_wifi_video_call_requesting">Videochiamata Wi-Fi dell\'operatore…</string>
+  <string name="incall_video_call_upgrade_request">Passaggio al video dell\'operatore…</string>
+  <string name="incall_video_call_request_failed">Impossibile collegarsi</string>
+  <string name="incall_video_call_request_rejected">Chiamata rifiutata</string>
+  <string name="incall_video_call_request_timed_out">Timeout della chiamata</string>
+  <string name="incall_hanging_up">In fase di chiusura</string>
+  <string name="incall_call_ended">Chiamata terminata</string>
+  <string name="incall_remotely_held">In attesa</string>
+  <string name="contact_grid_incoming_video_call">Videochiamata dell\'operatore da</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videochiamata Wi-Fi dell\'operatore da</string>
+  <string name="contact_grid_incoming_voice_call">Chiamata da</string>
+  <string name="contact_grid_incoming_work_call">Chiamata di lavoro da</string>
+  <string name="contact_grid_incoming_via_template">In arrivo tramite %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Presunto spammer</string>
+  <string name="contact_grid_callback_number">Il numero di questo telefono: %1$s</string>
+</resources>

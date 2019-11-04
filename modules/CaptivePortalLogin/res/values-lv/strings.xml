@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Izmantot tīklu ar pašreizējiem iestatījumiem"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Neizmantot šo tīklu"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Pierakstīties tīklā"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Pierakstieties produktā %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Tīklam, kuram mēģināt pievienoties, ir drošības problēmas."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Piemēram, pieteikšanās lapa, iespējams, nepieder norādītajai organizācijai."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Tik un tā turpināt, izmantojot pārlūkprogrammu"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Šo sertifikātu nav izsniegusi uzticama iestāde."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Vietnes nosaukums neatbilst nosaukumam sertifikātā."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Šī sertifikāta derīguma termiņš ir beidzies."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Šis sertifikāts vēl nav derīgs."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Šī sertifikāta datums nav derīgs."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Šis sertifikāts nav derīgs."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Nezināma sertifikāta kļūda."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Drošības brīdinājums"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Skatīt sertifikātu"</string>
+    <string name="ok" msgid="6584612582120777209">"Labi"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Adrese:"</string>
+    <string name="page_info" msgid="46593086046896385">"Lapas informācija"</string>
+</resources>

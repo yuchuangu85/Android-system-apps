@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"Stilovi i pozadinske slike"</string>
+    <string name="theme_title" msgid="2144932106319405101">"Stil"</string>
+    <string name="clock_title" msgid="2126046720254613991">"Sat"</string>
+    <string name="grid_title" msgid="2825094404523390773">"Mreža"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"Pozadinska slika"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"Primijeni"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"Dodirnite da izmijenite"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"Zadrži trenutnu pozadinsku sliku"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"Primijeni"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"Stranica <xliff:g id="ID_1">%1$d</xliff:g> od <xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"Naprijed"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"Nazad"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>, trenutno primijenjeno"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"Opcija <xliff:g id="ID_1">%1$s</xliff:g> se trenutno primjenjuje i pregleda"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"Opcija <xliff:g id="ID_1">%1$s</xliff:g> se trenutno pregleda"</string>
+    <string name="theme_description" msgid="3697012391785254635">"Font: <xliff:g id="ID_1">%1$s</xliff:g>, ikone: <xliff:g id="ID_2">%2$s</xliff:g>, oblik: <xliff:g id="ID_3">%3$s</xliff:g>, boja: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"Zadano"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"Font"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"Ikona"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"Boja"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"Oblik"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"Pozadinska slika"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"Dodajte omiljene fontove na svaki ekran"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"Stil je primijenjen"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"Sat je primijenjen"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"Došlo je do problema kod primjene stila"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"Naprijed"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"Nazad"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"Prilagođeno <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"Prilagođeni stil"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"Izbriši"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"Odaberite font"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"Odaberite ikone"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"Odaberite boju"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"Odaberite oblik"</string>
+    <string name="name_component_title" msgid="532425087968663437">"Dajte naziv svom stilu"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"Ikone <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"Izbrisati prilagođeni stil?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"Izbriši"</string>
+    <string name="cancel" msgid="4651030493668562067">"Otkaži"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"Postavite stil pozadinske slike"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"Umjesto toga koristiti stil <xliff:g id="ID_1">%1$s</xliff:g>?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"Komponente koje ste odabrali odgovaraju stilu <xliff:g id="ID_1">%1$s</xliff:g>. Želite li umjesto toga koristiti stil <xliff:g id="ID_2">%1$s</xliff:g>?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"Koristi stil <xliff:g id="ID_1">%1$s</xliff:g>"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"Ne, hvala"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"Pregled sata <xliff:g id="ID_1">%1$s</xliff:g>"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"Ups! Nešto nije uredu"</string>
+</resources>

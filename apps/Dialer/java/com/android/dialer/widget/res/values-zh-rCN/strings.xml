@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">自行撰写信息</string>
+  <string name="toolbar_close">关闭</string>
+  <string name="all_contacts_empty">您还没有任何联系人</string>
+  <string name="all_contacts_empty_add_contact_action">创建新联系人</string>
+  <string name="permission_single_turn_on">开启</string>
+  <string name="permission_no_contacts">要查看您的联系人，请开启“通讯录”权限。</string>
+  <string name="add_contact_not_available">没有可用的通讯录应用</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Shkruaj mesazh të person.</string>
+  <string name="toolbar_close">Mbyll</string>
+  <string name="all_contacts_empty">Nuk ke ende kontakte</string>
+  <string name="all_contacts_empty_add_contact_action">Krijo një kontakt të ri</string>
+  <string name="permission_single_turn_on">Aktivizo</string>
+  <string name="permission_no_contacts">Për të parë kontaktet, aktivizo lejen e Kontakteve.</string>
+  <string name="add_contact_not_available">Nuk ka asnjë aplikacion për kontaktet</string>
+</resources>

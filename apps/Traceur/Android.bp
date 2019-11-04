@@ -1,0 +1,30 @@
+android_app {
+    name: "Traceur",
+    platform_apis: true,
+    certificate: "platform",
+    required: ["notify_traceur.sh"],
+    optimize: {
+        proguard_flags_files: ["proguard.flags"],
+    },
+    static_libs: [
+        "androidx.leanback_leanback",
+        "androidx.leanback_leanback-preference",
+        "androidx.legacy_legacy-preference-v14",
+        "androidx.appcompat_appcompat",
+        "androidx.preference_preference",
+        "androidx.recyclerview_recyclerview",
+        "androidx.legacy_legacy-support-v4",
+    ],
+    resource_dirs: ["res"],
+    srcs: ["src/**/*.java"],
+    init_rc: ["traceur.rc"],
+    defaults: [
+        "SettingsLibDefaults",
+    ],
+}
+
+sh_binary {
+    name: "notify_traceur.sh",
+    src: "notify_traceur.sh",
+}
+

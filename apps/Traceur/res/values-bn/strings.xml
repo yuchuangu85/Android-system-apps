@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="system_tracing" msgid="4719188511746319848">"সিস্টেম ট্রেসিং"</string>
+    <string name="record_system_activity" msgid="4339462312915377825">"সিস্টেমের অ্যাক্টিভিটি রেকর্ড করুন এবং পারফম্যান্স উন্নত করার জন্য পরে তা বিশ্লেষণ করুন"</string>
+    <string name="record_trace" msgid="6416875085186661845">"রেকর্ড ট্রেস"</string>
+    <string name="trace_debuggable_applications" msgid="7957069895298887899">"ডিবাগযোগ্য অ্যাপ্লিকেশন ট্রেস করুন"</string>
+    <string name="categories" msgid="2280163673538611008">"বিভাগ"</string>
+    <string name="restore_default_categories" msgid="5090536794637169521">"ডিফল্ট বিভাগগুলিকে ফিরিয়ে আনুন"</string>
+    <string name="default_categories_restored" msgid="6861683793680564181">"ডিফল্ট বিভাগগুলিকে ফিরিয়ে আনা হয়েছে"</string>
+    <string name="default_categories" msgid="2117679794687799407">"ডিফল্ট"</string>
+    <plurals name="num_categories_selected" formatted="false" msgid="963928263524652497">
+      <item quantity="one">%dটি বেছে নেওয়া হয়েছে</item>
+      <item quantity="other">%dটি বেছে নেওয়া হয়েছে</item>
+    </plurals>
+    <string name="applications" msgid="521776761270770549">"অ্যাপ্লিকেশন"</string>
+    <string name="no_debuggable_apps" msgid="4386209254520471208">"কোনও ডিবাগযোগ্য অ্যাপ্লিকেশন উপলভ্য নেই"</string>
+    <string name="buffer_size" msgid="3944311026715111454">"সিপিইউ পিছু বাফার সাইজ"</string>
+    <string name="show_quick_settings_tile" msgid="4971147332635291585">"\'দ্রুত সেটিংস\' টাইল দেখুন"</string>
+    <string name="saving_trace" msgid="1468692734770800541">"ট্রেস সেভ করা হচ্ছে"</string>
+    <string name="trace_saved" msgid="5869970594780992309">"ট্রেস সেভ করা হয়েছে"</string>
+    <string name="tap_to_share" msgid="6766732404489536899">"আপনার ট্রেস শেয়ার করতে ট্যাপ করুন"</string>
+    <string name="stop_tracing" msgid="8916938308534164152">"ট্রেস করা বন্ধ করুন"</string>
+    <string name="tracing_categories_unavailable" msgid="5609076391417077752">"ট্রেসিং এর কিছু বিভাগ অনুপলভ্য:"</string>
+    <string name="trace_is_being_recorded" msgid="5947378146009337469">"ট্রেস রেকর্ড করা হচ্ছে"</string>
+    <string name="tap_to_stop_tracing" msgid="6533282719573871806">"ট্রেস করা বন্ধ করতে ট্যাপ করুন"</string>
+    <string name="clear_saved_traces" msgid="4809195654452260944">"সেভ করে রাখা ট্রেসগুলিকে সাফ করুন"</string>
+    <string name="clear_saved_traces_question" msgid="2184026613055303818">"সেভ করা ট্রেসগুলিকে মুছবেন?"</string>
+    <string name="all_traces_will_be_deleted" msgid="6646545462206955920">"সব ট্রেসকে /data/local/traces থেকে মুছে ফেলা হবে"</string>
+    <string name="clear" msgid="5484761795406948056">"মুছুন"</string>
+    <string name="system_traces_storage_title" msgid="8294090839883366871">"সিস্টেম ট্রেস"</string>
+    <string name="keywords" msgid="736547007949049535">"সিস্ট্রেস, ট্রেস, পারফরম্যান্স"</string>
+    <string name="share_trace" msgid="4528525067822044385">"ট্রেস শেয়ার করতে চান?"</string>
+    <string name="system_trace_sensitive_data" msgid="3069389866696009549">"সিস্টেম ট্রেসিং ফাইলে অতি গোপনীয় সিস্টেম এবং অ্যাপ ডেটা থাকতে পারে (যেমন অ্যাপের জন্য ডেটার ব্যবহার)। কেবলমাত্র আপনার বিশ্বস্ত লোকজন এবং অ্যাপের সঙ্গে সিস্টেম ট্রেস শেয়ার করুন।"</string>
+    <string name="share" msgid="8443979083706282338">"শেয়ার করুন"</string>
+    <string name="dont_show_again" msgid="6662492041164390600">"আর দেখাবেন না"</string>
+    <string name="use_perfetto_beta" msgid="2725630143916520160">"Perfetto (বিটা) ব্যবহার করুন"</string>
+    <string name="long_traces" msgid="5110949471775966329">"লম্বা ট্রেস"</string>
+    <string name="long_traces_summary" msgid="419034282946761469">"ডিভাইসের স্টোরেজে ক্রমাগত সেভ করা হয়েছে"</string>
+    <string name="max_long_trace_size" msgid="1943788179787181241">"সবচেয়ে বড় লম্বা ট্রেসের সাইজ"</string>
+    <string name="max_long_trace_duration" msgid="8009837944364246785">"সবচেয়ে বড় লম্বা ট্রেসের সময়সীমা"</string>
+    <string name="two_hundred_mb" msgid="4950018549725084512">"২০০ এমবি"</string>
+    <string name="one_gb" msgid="590396985168692037">"১ জিবি"</string>
+    <string name="five_gb" msgid="7883941043220621649">"৫ জিবি"</string>
+    <string name="ten_gb" msgid="4150452462544299276">"১০ জিবি"</string>
+    <string name="twenty_gb" msgid="5717308686812140465">"২০ জিবি"</string>
+    <string name="ten_minutes" msgid="7039181194343961324">"১০ মিনিট"</string>
+    <string name="thirty_minutes" msgid="2575810799813531395">"৩০ মিনিট"</string>
+    <string name="one_hour" msgid="5219232935307966891">"১ ঘণ্টা"</string>
+    <string name="eight_hours" msgid="3207620892104451552">"৮ ঘণ্টা"</string>
+    <string name="twelve_hours" msgid="4647143276394563496">"১২ ঘণ্টা"</string>
+    <string name="twentyfour_hours" msgid="2789663313550030791">"২৪ ঘন্টা"</string>
+    <string name="four_thousand_kb" msgid="5156346740862105703">"৪০৯৬ কেবি"</string>
+    <string name="eight_thousand_kb" msgid="8815334985638334081">"৮১৯২ কেবি"</string>
+    <string name="sixteen_thousand_kb" msgid="7342517169232459259">"১৬৩৮৪ কেবি"</string>
+    <string name="thirtytwo_thousand_kb" msgid="654328198799196150">"৩২৭৬৮ কেবি"</string>
+    <string name="sixtyfive_thousand_kb" msgid="8168144138598305306">"৬৫৫৩৬ কেবি"</string>
+</resources>

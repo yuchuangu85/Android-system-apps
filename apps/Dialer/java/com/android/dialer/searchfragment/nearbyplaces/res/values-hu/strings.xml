@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Közeli helyek</string>
+  <string name="search_location_permission">A közeli helyek kapcsolatfelvételi adatainak lekéréséhez engedélyezze a helyadatokhoz való hozzáférést.</string>
+  <string name="nearby_places_allow">Engedélyezés</string>
+  <string name="nearby_places_dismiss">Elvetés</string>
+</resources>

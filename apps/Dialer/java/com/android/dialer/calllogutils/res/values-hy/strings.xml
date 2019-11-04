@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Մուտքային զանգ</string>
+  <string name="type_incoming_pulled">Մուտքային զանգը փոխանցվեց մեկ այլ սարքի</string>
+  <string name="type_outgoing">Ելքային զանգ</string>
+  <string name="type_outgoing_pulled">Ելքային զանգը փոխանցվեց մեկ այլ սարքի</string>
+  <string name="type_missed">Բաց թողնված զանգ</string>
+  <string name="type_incoming_video">Մուտքային տեսազանգ</string>
+  <string name="type_incoming_video_pulled">Մուտքային տեսազանգը փոխանցվեց մեկ այլ սարքի</string>
+  <string name="type_outgoing_video">Ելքային տեսազանգ</string>
+  <string name="type_outgoing_video_pulled">Ելքային տեսազանգը փոխանցվեց մեկ այլ սարքի</string>
+  <string name="type_missed_video">Բաց թողնված տեսազանգ</string>
+  <string name="type_voicemail">Ձայնային փոստ</string>
+  <string name="type_rejected">Մերժված զանգ</string>
+  <string name="type_blocked">Արգելափակված զանգ</string>
+  <string name="call_details_minutes_abbreviation">ր</string>
+  <string name="call_details_seconds_abbreviation">վ</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">seconds</item>
+    <item quantity="other">վայրկյան</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minutes</item>
+    <item quantity="other">րոպե</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Զանգն ընդունվեց մեկ այլ սարքով</string>
+  <string name="description_phone_account">^1-ին</string>
+  <string name="description_via_number">%1$s համարից</string>
+  <string name="description_via_number_phone_account">%1$s-ին %2$s համարից</string>
+  <string name="voicemail_string">Ձայնային փոստ</string>
+  <string name="just_now">Հենց նոր</string>
+  <string name="new_call_log_carrier_video">Տեսազանգ բջջային ցանցով</string>
+  <string name="new_call_log_duo_video">Duo տեսազանգ</string>
+  <string name="new_call_log_unknown">Անհայտ</string>
+  <string name="new_call_log_secondary_blocked">Արգելափակված</string>
+  <string name="new_call_log_secondary_spam">Սպամ</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 բաց թողնված զանգ ^2-ից</item>
+    <item quantity="other">^1 զանգ, որոնցից վերջինը բաց թողնված զանգ է ^2-ից</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 ընդունված զանգ ^2-ից</item>
+    <item quantity="other">^1 զանգ, որոնցից վերջինը ընդունված զանգ է ^2-ից</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 ելքային զանգ ^2-ին</item>
+    <item quantity="other">^1 զանգ, որոնցից վերջինը ելքային զանգ է ^2-ին</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 արգելափակված զանգ ^2-ից</item>
+    <item quantity="other">^1 զանգ, որոնցից վերջինը արգելափակված զանգ է ^2-ից</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1, համարը՝ ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2:</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3:</string>
+</resources>

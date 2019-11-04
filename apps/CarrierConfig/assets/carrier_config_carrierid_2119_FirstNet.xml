@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="carrier_default_wfc_ims_roaming_enabled_bool" value="true"/>
+    <boolean name="carrier_supports_ss_over_ut_bool" value="true"/>
+    <boolean name="limited_sim_function_notification_for_dsds_bool" value="true"/>
+    <boolean name="show_4g_for_3g_data_icon_bool" value="true"/>
+</carrier_config>

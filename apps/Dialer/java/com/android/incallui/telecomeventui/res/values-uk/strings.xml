@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Показувати попередження щоразу</string>
+  <string name="details">Ви телефонуєте на міжнародний номер, тому за дзвінок може стягуватися плата.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Дуудлагын мэдээлэл</string>
+  <string name="delete">Устгах</string>
+  <string name="call_details_copy_number">Дугаар хуулах</string>
+  <string name="call_details_edit_number">Залгахын өмнө дугаар засах</string>
+  <string name="call_details_report_call_id">Тодорхой бус дугаарыг мэдээлэх</string>
+  <string name="sent_a_photo">Зураг илгээсэн</string>
+  <string name="received_a_photo">Зураг хүлээн авсан</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Буруу дугаарыг мэдээлэх</string>
+  <string name="report_caller_id_failed">Дугаарыг мэдээлж чадсангүй</string>
+  <string name="report_caller_id_toast">Дугаарыг мэдээлсэн</string>
+  <string name="assisted_dialing_country_code_entry">Дэмжлэгтэй залгах: Ашигласан улсын код +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Дэмжлэгтэй залгахыг ашигласан</string>
+  <string name="rtt_transcript_not_available">Зөвхөн зурвастай дуудлагын хувьд сийрүүлэг ашиглах боломжтой</string>
+  <string name="rtt_transcript_link">Сийрүүлгийг үзэх</string>
+</resources>

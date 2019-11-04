@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Заўсёды паказваць папярэджанне</string>
+  <string name="details">Вы выклікаеце міжнародны нумар. Можа спаганяцца плата.</string>
+</resources>

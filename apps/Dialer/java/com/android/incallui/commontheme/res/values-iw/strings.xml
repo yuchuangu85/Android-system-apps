@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">סיים שיחה</string>
+  <string name="incall_content_description_muted">מושתקת</string>
+  <string name="incall_content_description_unmuted">ההשתקה בוטלה</string>
+  <string name="incall_content_description_swap_calls">החלף שיחות</string>
+  <string name="incall_content_description_swap_sim">‏החלפת SIM</string>
+  <string name="incall_content_description_merge_calls">מזג שיחות</string>
+  <string name="incall_content_description_earpiece">אוזניית דיבורית</string>
+  <string name="incall_content_description_speaker">רמקול</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">אוזניות עם חוט</string>
+  <string name="incall_content_description_hold">העברת השיחה להמתנה</string>
+  <string name="incall_content_description_unhold">המשך השיחה</string>
+  <string name="incall_content_description_video_on">הווידאו מופעל</string>
+  <string name="incall_content_description_video_off">הווידאו מושבת</string>
+  <string name="incall_content_description_swap_video">החלף וידאו</string>
+  <string name="incall_label_speaker">רמקול</string>
+  <string name="incall_label_audio">קול</string>
+</resources>

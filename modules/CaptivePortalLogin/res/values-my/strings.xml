@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"ဒီကွန်ရက်ကို လက်ရှိအတိုင်း သုံးရန်"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"ဒီကွန်ရက်ကို မသုံးပါနှင့်"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန်"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$s သို့ လက်မှတ်ထိုးဝင်ပါ"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"သင်ချိတ်ဆက်ရန် ကြိုးစားနေသည့် ကွန်ရက်သည် လုံခြုံရေးပြဿနာ ရှိနေသည်။"</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"ဥပမာ၊ ဝင်ရောက်ရန် စာမျက်နှာသည် ပြသထားသည့် အဖွဲ့အစည်းနှင့် သက်ဆိုင်မှု မရှိနိုင်ပါ။"</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"ဘရောက်ဇာမှတစ်ဆင့် ဆက်လုပ်ရန်"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"ဤအသိအမှတ်ပြုလက်မှတ်သည် ယုံကြည်ရသော စစ်ဆေးရေးအဖွဲ့ထံမှ မဟုတ်ပါ။"</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"ဝဘ်ဆိုက်အမည်သည် အသိအမှတ်ပြုလက်မှတ်ရှိ အမည်နှင့် မကိုက်ညီပါ။"</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"ဤအသိအမှတ်ပြုလက်မှတ် သက်တမ်းကုန်နေပါပြီ။"</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"ဤအသိအမှတ်ပြုလက်မှတ်သည် မမှန်ကန်သေးပါ။"</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"ဤအသိအမှတ်ပြုလက်မှတ်ရှိ ရက်စွဲ မမှန်ကန်ပါ။"</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"ဤအသိအမှတ်ပြုလက်မှတ် မမှန်ကန်ပါ။"</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"အသိအမှတ်ပြုလက်မှတ်ဆိုင်ရာ အမျိုးအမည်မသိ အမှား။"</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"လုံခြုံရေး သတိပေးချက်"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"အသိအမှတ်ပြုလက်မှတ်ကို ကြည့်ရန်"</string>
+    <string name="ok" msgid="6584612582120777209">"OK"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"လိပ်စာ-"</string>
+    <string name="page_info" msgid="46593086046896385">"စာမျက်နှာ အချက်အလက်"</string>
+</resources>

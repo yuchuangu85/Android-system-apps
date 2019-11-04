@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Одговорете за да се открие фотографијата</string>
+  <string name="spam_message_text">Одговорете за да се открие пораката</string>
+</resources>

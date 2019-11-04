@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Privzeti zvok (%1$s)</string>
+  <string name="ringtone_silent">Brez</string>
+  <string name="ringtone_unknown">Neznan ton zvonjenja</string>
+  <string name="activity_not_available">V tej napravi ni aplikacije za to</string>
+  <string name="outgoing_wps_warning">Če začnete klic WPS, bo obstoječi klic prekinjen.</string>
+  <string name="dialog_continue">Nadaljuj</string>
+  <string name="camera_privacy_text">Dovoljenje za dostop do fotoaparata je omogočeno</string>
+</resources>

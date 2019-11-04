@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Standart ovoz (%1$s)</string>
+  <string name="ringtone_silent">Ishlatilmasin</string>
+  <string name="ringtone_unknown">Noma’lum rington</string>
+  <string name="activity_not_available">Qurilmada buni bajaradigan ilova yo‘q</string>
+  <string name="outgoing_wps_warning">WPS-chaqiruv boshlab yuborilsa, hozirgi qo‘ng‘iroq tugatiladi.</string>
+  <string name="dialog_continue">Davom ettirish</string>
+  <string name="camera_privacy_text">Kameraga kirishga ruxsat berildi</string>
+</resources>

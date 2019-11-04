@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Преминаване назад</string>
+  <string name="description_dialpad_overflow">Още опции</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">въвеждане на плюс</string>
+  <string name="description_voicemail_button">обаждане до гласовата поща</string>
+  <string name="description_dial_button">набиране</string>
+  <string name="dialog_voicemail_airplane_mode_message">За да чуете гласовата си поща, първо изключете самолетния режим.</string>
+  <string name="dialog_voicemail_not_ready_message">За да настроите гласовата поща, отворете „Меню“ &gt; „Настройки“.</string>
+  <string name="add_2sec_pause">Добавяне на пауза от 2 сек</string>
+  <string name="add_wait">Добавяне на изчакване</string>
+  <string name="dialer_useDtmfDialpad">Използване на тонална клавиатура</string>
+  <string name="dialer_returnToInCallScreen">Назад към текущото обаждане</string>
+  <string name="dialer_addAnotherCall">Добавяне на обаждане</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Зарежда се от SIM картата…</string>
+  <string name="simContacts_title">Контакти от SIM картата</string>
+  <string name="menu_callNumber">Обаждане на %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Не може да се извършват спешни обаждания през Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Не можете да се обадите на този номер</string>
+</resources>

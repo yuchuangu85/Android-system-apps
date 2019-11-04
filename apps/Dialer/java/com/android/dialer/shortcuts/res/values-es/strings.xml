@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Nuevo cont.</string>
+  <string name="dialer_shortcut_add_contact_long">Nuevo contacto</string>
+  <string name="dialer_shortcut_disabled_message">La combinación de teclas no funciona. Arrástrala para eliminarla.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Este contacto ya no está disponible.</string>
+  <string name="dialer_shortcut_no_permissions">No puedes llamar sin permisos.</string>
+</resources>

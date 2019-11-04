@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s හරහා අමතමින්</string>
+  <string name="incall_calling_on_same_carrier_template">එකම %s වාහකයෙහි අමතමින්</string>
+  <string name="incall_calling_on_recent_choice_template">මෑත %s තේරීමෙහි අමතමින්</string>
+  <string name="incall_connecting">අමතමින්…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) භාවිතයෙන් අමතමින්…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) භාවිත කරමින්…</string>
+  <string name="incall_transferring">මාරු කරමින්…</string>
+  <string name="incall_video_call_requesting">වාහක වීඩියෝ ඇමතීම…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi වාහක වීඩියෝ ඇමතීම…</string>
+  <string name="incall_video_call_upgrade_request">වාහක වීඩියෝවට මාරු වෙමින්…</string>
+  <string name="incall_video_call_request_failed">සම්බන්ධ වීමට නොහැකිය</string>
+  <string name="incall_video_call_request_rejected">ඇමතුම ප්‍රතික්ෂේප කෙරණි</string>
+  <string name="incall_video_call_request_timed_out">ඇමතුම් කාලය නිමා විය</string>
+  <string name="incall_hanging_up">විසන්ධි කරමින්</string>
+  <string name="incall_call_ended">ඇමතුම අවසන් විය</string>
+  <string name="incall_remotely_held">රඳවා ගත්</string>
+  <string name="contact_grid_incoming_video_call">වෙතින් වාහක වීඩියෝ ඇමතුම</string>
+  <string name="contact_grid_incoming_wifi_video_call">වෙතින් Wi-Fi වාහක වීඩියෝ ඇමතුම</string>
+  <string name="contact_grid_incoming_voice_call">වෙතින් ඇමතුම</string>
+  <string name="contact_grid_incoming_work_call">වෙතින් කාර්යාල ඇමතුම</string>
+  <string name="contact_grid_incoming_via_template">%s හරහා එන</string>
+  <string name="contact_grid_incoming_suspected_spam">සැකසහිත අයාචිත තැපැල් අමතන්නා</string>
+  <string name="contact_grid_callback_number">මෙම දුරකථනයෙහි අංකය වන්නේ: %1$s</string>
+</resources>

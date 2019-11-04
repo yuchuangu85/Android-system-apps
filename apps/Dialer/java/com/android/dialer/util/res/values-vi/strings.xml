@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Âm thanh mặc định (%1$s)</string>
+  <string name="ringtone_silent">Không có</string>
+  <string name="ringtone_unknown">Nhạc chuông không xác định</string>
+  <string name="activity_not_available">Không có ứng dụng nào cho thao tác đó trên thiết bị này</string>
+  <string name="outgoing_wps_warning">Việc thực hiện cuộc gọi WPS sẽ ngắt kết nối cuộc gọi hiện có của bạn.</string>
+  <string name="dialog_continue">Tiếp tục</string>
+  <string name="camera_privacy_text">Đã bật quyền sử dụng máy ảnh</string>
+</resources>

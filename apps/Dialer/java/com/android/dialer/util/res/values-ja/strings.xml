@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">デフォルトの通知音（%1$s）</string>
+  <string name="ringtone_silent">使用しない</string>
+  <string name="ringtone_unknown">不明な着信音</string>
+  <string name="activity_not_available">この操作を行うアプリが端末上にありません</string>
+  <string name="outgoing_wps_warning">WPS で通話を発信すると現在の通話が切断されます。</string>
+  <string name="dialog_continue">次へ</string>
+  <string name="camera_privacy_text">カメラへのアクセスを自動で許可しました</string>
+</resources>

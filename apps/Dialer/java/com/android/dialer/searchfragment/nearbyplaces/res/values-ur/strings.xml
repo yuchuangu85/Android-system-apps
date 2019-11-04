@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">قریبی مقامات</string>
+  <string name="search_location_permission">اپنے قریبی مقامات کے بارے میں رابطہ کی معلومات حاصل کرنے کیلئے، اپنے مقام تک رسائی کی اجازت دیں۔</string>
+  <string name="nearby_places_allow">اجازت دیں</string>
+  <string name="nearby_places_dismiss">برخاست کریں</string>
+</resources>

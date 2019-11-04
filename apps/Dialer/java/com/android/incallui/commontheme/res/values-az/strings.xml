@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Zəngi sonlandırın</string>
+  <string name="incall_content_description_muted">Səssiz</string>
+  <string name="incall_content_description_unmuted">Susma rejimindən çıxarıldı</string>
+  <string name="incall_content_description_swap_calls">Zəngləri dəyişdirin</string>
+  <string name="incall_content_description_swap_sim">SIM-i dəyişin</string>
+  <string name="incall_content_description_merge_calls">Zəngləri birləşdirin</string>
+  <string name="incall_content_description_earpiece">Dəstək qulaqlığı</string>
+  <string name="incall_content_description_speaker">Dinamik</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Simli qulaqlıq</string>
+  <string name="incall_content_description_hold">Zəngi gözlədin</string>
+  <string name="incall_content_description_unhold">Zəngə davam edin</string>
+  <string name="incall_content_description_video_on">Video aktivdir</string>
+  <string name="incall_content_description_video_off">Video deaktivdir</string>
+  <string name="incall_content_description_swap_video">Videonu dəyişdirin</string>
+  <string name="incall_label_speaker">Dinamik</string>
+  <string name="incall_label_audio">Səs</string>
+</resources>

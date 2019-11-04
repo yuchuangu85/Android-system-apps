@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Torna indietro</string>
+  <string name="description_dialpad_overflow">Altre opzioni</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">inserisci più</string>
+  <string name="description_voicemail_button">chiama segreteria</string>
+  <string name="description_dial_button">componi</string>
+  <string name="dialog_voicemail_airplane_mode_message">Per chiamare la segreteria, disattiva la modalità aereo.</string>
+  <string name="dialog_voicemail_not_ready_message">Per configurare la segreteria, seleziona Menu &gt; Impostazioni.</string>
+  <string name="add_2sec_pause">Aggiungi pausa 2 sec</string>
+  <string name="add_wait">Aggiungi attesa</string>
+  <string name="dialer_useDtmfDialpad">Utilizza il tastierino per la selezione a toni</string>
+  <string name="dialer_returnToInCallScreen">Torna alla chiamata in corso</string>
+  <string name="dialer_addAnotherCall">Aggiungi chiamata</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Caricamento da SIM...</string>
+  <string name="simContacts_title">Contatti della scheda SIM</string>
+  <string name="menu_callNumber">Chiama %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Impossibile fare chiamate di emergenza tramite Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Impossibile chiamare questo numero</string>
+</resources>

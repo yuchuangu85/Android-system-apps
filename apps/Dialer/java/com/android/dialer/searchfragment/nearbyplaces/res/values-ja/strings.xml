@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">周辺のスポット</string>
+  <string name="search_location_permission">付近の場所の連絡先情報を取得するには、位置情報へのアクセスを許可してください。</string>
+  <string name="nearby_places_allow">許可</string>
+  <string name="nearby_places_dismiss">閉じる</string>
+</resources>

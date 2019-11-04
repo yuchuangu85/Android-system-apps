@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Jauna kont.</string>
+  <string name="dialer_shortcut_add_contact_long">Jauna kontaktpersona</string>
+  <string name="dialer_shortcut_disabled_message">Saīsne nedarbojas. Velciet, lai to noņemtu.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontaktpersona vairs nav pieejama.</string>
+  <string name="dialer_shortcut_no_permissions">Nevar zvanīt bez atļaujām.</string>
+</resources>

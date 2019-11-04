@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/browse_card"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/browse_item_height"
+    android:orientation="horizontal"
+    android:clickable="true"
+    android:background="?android:attr/selectableItemBackground">
+
+    <FrameLayout
+        android:id="@+id/browse_station_background"
+        android:layout_marginStart="@dimen/browse_item_spacing"
+        android:layout_marginEnd="@dimen/browse_item_spacing"
+        android:layout_gravity="center_vertical"
+        android:layout_width="@dimen/browse_number_bg_width"
+        android:layout_height="@dimen/browse_number_bg_height"
+        android:background="@drawable/browse_channel_bg">
+        <TextView
+            android:id="@+id/browse_station_channel"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:drawablePadding="@dimen/browse_equalizer_padding"
+            android:maxLines="@integer/browse_item_channel_max_lines"
+            android:textColor="@color/browse_item_text_color"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/browse_item_metadata"
+        android:layout_width="@dimen/browse_item_metadata_width"
+        android:layout_height="wrap_content"
+        android:layout_weight="@integer/browse_item_metadata_weight"
+        android:layout_gravity="center_vertical"
+        android:layout_marginEnd="@dimen/browse_item_spacing"
+        android:textColor="@color/browse_item_text_color"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageButton
+        android:id="@+id/browse_button"
+        android:layout_marginEnd="@dimen/browse_item_spacing"
+        android:layout_gravity="center_vertical|right"
+        android:layout_width="@dimen/control_button_size"
+        android:layout_height="@dimen/control_button_size"
+        android:gravity="right"
+        android:src="@drawable/ic_star_filled"
+        style="@style/RadioButton" />
+
+</LinearLayout>

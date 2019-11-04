@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">ລາຍລະອຽດ​ການໂທ</string>
+  <string name="delete">​ລຶບ</string>
+  <string name="call_details_copy_number">ສຳເນົາເບີໂທ</string>
+  <string name="call_details_edit_number">ແກ້ໄຂເບີກ່ອນໂທ</string>
+  <string name="call_details_report_call_id">ລາຍງານເບີໂທທີ່ບໍ່ຖືກຕ້ອງ</string>
+  <string name="sent_a_photo">ສົ່ງຮູບພາບ</string>
+  <string name="received_a_photo">ໄດ້ຮັບຮູບພາບແລ້ວ</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">​ລາຍ​ງານ​ເບີ​ໂທບໍ່​ຖືກ​ຕ້ອງ</string>
+  <string name="report_caller_id_failed">ບໍ່ສາມາດລາຍງານເບີໂທໄດ້</string>
+  <string name="report_caller_id_toast">ລາຍງານເບີໂທແລ້ວ</string>
+  <string name="assisted_dialing_country_code_entry">ການໂທແບບຊ່ວຍເຫຼືອ: ໃຊ້ລະຫັດປະເທດ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">ໃຊ້ການການແບບຊ່ວຍເຫຼືອ</string>
+  <string name="rtt_transcript_not_available">ການຖອດຂໍ້ຄວາມສາມາດໃຊ້ໄດ້ກັບການໂທທີ່ມີຂໍ້ຄວາມເທົ່ານັ້ນ</string>
+  <string name="rtt_transcript_link">ເບິ່ງການຖອດຂໍ້ຄວາມ</string>
+</resources>

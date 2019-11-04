@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Imininingwane yekholi</string>
+  <string name="delete">Susa</string>
+  <string name="call_details_copy_number">Kopisha inombolo</string>
+  <string name="call_details_edit_number">Hlela inombolo ngaphambi kokushaya ucingo</string>
+  <string name="call_details_report_call_id">Bika inombolo engalungile</string>
+  <string name="sent_a_photo">Uthumele isithombe</string>
+  <string name="received_a_photo">Uthole isithombe</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Bika inombolo engalungile</string>
+  <string name="report_caller_id_failed">Ayikwazanga ukubika inombolo</string>
+  <string name="report_caller_id_toast">Inombolo ibikiwe</string>
+  <string name="assisted_dialing_country_code_entry">Ukudayela okusizwayo: Ikhodi yezwe esetshenzisiwe +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Ukudayela okusizwayo kusetshenzisiwe</string>
+  <string name="rtt_transcript_not_available">Umbhalo olotshiwe utholakala kuphela kumakholi anokulayeza</string>
+  <string name="rtt_transcript_link">Bona umbhalo olotshiwe</string>
+</resources>

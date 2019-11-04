@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.android.car.frameworkpackagestubs"
+          android:versionCode="1"
+          android:versionName="1.0.1">
+
+    <uses-sdk android:minSdkVersion="28"/>
+
+    <application android:label="@string/app_name"
+                 android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+
+        <!-- Dialer stubs -->
+        <activity android:name=".Stubs$DialerStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.DIAL" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="voicemail"/>
+            </intent-filter>
+        </activity>
+
+        <!-- Music / media stubs. -->
+        <activity android:name=".Stubs$MediaStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="file"/>
+                <data android:mimeType="audio/*"/>
+                <data android:mimeType="application/ogg"/>
+                <data android:mimeType="application/x-ogg"/>
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="http"/>
+                <data android:mimeType="audio/*"/>
+                <data android:mimeType="application/ogg"/>
+                <data android:mimeType="application/x-ogg"/>
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="content"/>
+                <data android:mimeType="audio/*"/>
+                <data android:mimeType="application/ogg"/>
+                <data android:mimeType="application/x-ogg"/>
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.PICK" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="vnd.android.cursor.dir/audio"/>
+            </intent-filter>
+        </activity>
+
+        <!-- Settings package stubs -->
+        <activity android:name=".Stubs$SettingsStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.app.action.ADD_DEVICE_ADMIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.ACCESSIBILITY_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.MANAGE_UNKNOWN_APP_SOURCES" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.PROCESS_WIFI_EASY_CONNECT_URI" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="DPP"/>
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.USER_DICTIONARY_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- CDD Core Application Intents Stubs -->
+        <!-- Desk Clock -->
+        <activity android:name=".Stubs$DeskClockStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.SET_ALARM" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.SET_TIMER" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.SHOW_ALARMS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.DISMISS_ALARM" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.SHOW_TIMERS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.SNOOZE_ALARM" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Calendar -->
+        <activity android:name=".Stubs$CalendarStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.EDIT" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="vnd.android.cursor.item/event" />
+            </intent-filter>
+        </activity>
+
+        <!-- Browser -->
+        <activity android:name=".Stubs$BrowserStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.intent.action.WEB_SEARCH" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Ignore Background Data Restriction Setting -->
+        <activity android:name=".Stubs$IgnoreBackgroundDataRestrictionsSettingsStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.IGNORE_BACKGROUND_DATA_RESTRICTIONS_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </activity>
+
+        <!-- Ignore Battery Optimization Setting -->
+        <activity android:name=".Stubs$IgnoreBatteryOptimizationSettingsStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.IGNORE_BATTERY_OPTIMIZATION_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- Request Ignore Battery Optimization Setting -->
+        <activity android:name=".Stubs$RequestIgnoreBatteryOptimizationsStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="package" />
+            </intent-filter>
+        </activity>
+
+        <!-- WebView Setting -->
+        <activity android:name=".Stubs$WebViewSettingsStub"
+                  android:label="@string/stub_name"
+                  android:excludeFromRecents="true">
+            <intent-filter android:priority="-1">
+                <action android:name="android.settings.WEBVIEW_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

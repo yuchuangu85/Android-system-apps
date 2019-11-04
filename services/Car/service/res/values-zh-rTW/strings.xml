@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="car_permission_label" msgid="741004755205554376">"存取車輛的資訊"</string>
+    <string name="car_permission_desc" msgid="162499818870052725">"存取車輛資訊。"</string>
+    <string name="car_permission_label_camera" msgid="3725702064841827180">"存取車輛的攝影機"</string>
+    <string name="car_permission_desc_camera" msgid="917024932164501426">"存取車輛攝影機。"</string>
+    <string name="car_permission_label_energy" msgid="7409144323527821558">"存取車輛的能源資訊"</string>
+    <string name="car_permission_desc_energy" msgid="3392963810053235407">"存取車輛的能源資訊。"</string>
+    <string name="car_permission_label_hvac" msgid="1499454192558727843">"存取車輛空調"</string>
+    <string name="car_permission_desc_hvac" msgid="3754229695589774195">"存取車輛空調。"</string>
+    <string name="car_permission_label_mileage" msgid="4661317074631150551">"存取車輛的行駛里程資訊"</string>
+    <string name="car_permission_desc_mileage" msgid="7179735693278681090">"存取車輛的行駛里程資訊。"</string>
+    <string name="car_permission_label_speed" msgid="1149027717860529745">"讀取車速"</string>
+    <string name="car_permission_desc_speed" msgid="2047965198165448241">"存取車速。"</string>
+    <string name="car_permission_label_vehicle_dynamics_state" msgid="313779267420048367">"存取車輛的動力系統模組狀態"</string>
+    <string name="car_permission_desc_vehicle_dynamics_state" msgid="8891506193446375660">"存取車輛的動力學狀態。"</string>
+    <string name="car_permission_label_vendor_extension" msgid="7141601811734127361">"存取車輛製造商通路"</string>
+    <string name="car_permission_desc_vendor_extension" msgid="2970718502334714035">"存取車商頻道，交流車輛專屬資訊。"</string>
+    <string name="car_permission_label_radio" msgid="6009465291685935112">"管理車輛的收音機"</string>
+    <string name="car_permission_desc_radio" msgid="3385999027478186964">"存取車輛收音機。"</string>
+    <string name="car_permission_label_projection" msgid="9107156380287576787">"將手機介面投放至車輛螢幕"</string>
+    <string name="car_permission_desc_projection" msgid="2352178999656292944">"允許應用程式將手機介面投放至車輛螢幕。"</string>
+    <string name="car_permission_label_access_projection_status" msgid="4231618890836627402">"存取投影狀態"</string>
+    <string name="car_permission_desc_access_projection_status" msgid="8497351979100616278">"允許應用程式取得其他投放至車輛螢幕的應用程式狀態。"</string>
+    <string name="car_permission_label_bind_projection_service" msgid="5362076216606651526">"繫結至投影服務"</string>
+    <string name="car_permission_desc_bind_projection_service" msgid="2282657787853408639">"允許應用程式繫結至投放服務的頂層介面 (一般應用程式並不需要)。"</string>
+    <string name="car_permission_label_audio_volume" msgid="310587969373137690">"控制車輛音量"</string>
+    <string name="car_permission_label_audio_settings" msgid="6524703796944023977">"管理車輛音訊設定"</string>
+    <string name="car_permission_label_mock_vehicle_hal" msgid="7198852512207405935">"模擬車輛 HAL"</string>
+    <string name="car_permission_label_receive_ducking" msgid="4884538660766756573">"接收應用程式音量降低通知"</string>
+    <string name="car_permission_desc_receive_ducking" msgid="776376388266656512">"當車內播放其他音訊而導致應用程式音量降低時，允許該應用程式收到相關通知。"</string>
+    <string name="car_permission_desc_mock_vehicle_hal" msgid="5235596491098649155">"模擬車輛 HAL 做為內部測試用途。"</string>
+    <string name="car_permission_desc_audio_volume" msgid="536626185654307889">"控制車輛音訊音量。"</string>
+    <string name="car_permission_desc_audio_settings" msgid="7192007170677915937">"控制車輛音訊設定。"</string>
+    <string name="car_permission_label_control_app_blocking" msgid="9112678596919993386">"應用程式封鎖"</string>
+    <string name="car_permission_desc_control_app_blocking" msgid="7539378161760696190">"開車期間控制應用程式封鎖。"</string>
+    <string name="car_permission_car_navigation_manager" msgid="5895461364007854077">"導航管理員"</string>
+    <string name="car_permission_desc_car_navigation_manager" msgid="6188751054665471537">"將導航資料回報至儀錶板"</string>
+    <string name="car_permission_car_display_in_cluster" msgid="4005987646292458684">"直接顯示在儀錶板"</string>
+    <string name="car_permission_desc_car_display_in_cluster" msgid="2668300546822672927">"允許應用程式宣告顯示在儀錶板的活動"</string>
+    <string name="car_permission_car_cluster_control" msgid="1382247204230165674">"儀錶板控制"</string>
+    <string name="car_permission_desc_car_cluster_control" msgid="9222776665281176031">"在儀錶板中啟動應用程式"</string>
+    <string name="car_permission_label_bind_instrument_cluster_rendering" msgid="8627480897198377418">"儀錶板轉譯"</string>
+    <string name="car_permission_desc_bind_instrument_cluster_rendering" msgid="5073596870485006783">"接收儀錶板資料"</string>
+    <string name="car_permission_label_car_ux_restrictions_configuration" msgid="6801393970411049725">"使用者體驗限制設定"</string>
+    <string name="car_permission_desc_car_ux_restrictions_configuration" msgid="5711926927484813777">"設定使用者體驗限制"</string>
+    <string name="car_permission_label_car_handle_usb_aoap_device" msgid="72783989504378036">"使用 AOAP 模式與 USB 裝置通訊"</string>
+    <string name="car_permission_desc_car_handle_usb_aoap_device" msgid="273505990971317034">"允許應用程式使用 AOAP 模式與裝置通訊"</string>
+    <string name="car_permission_label_bind_input_service" msgid="6698489034024273750">"車輛輸入服務"</string>
+    <string name="car_permission_desc_bind_input_service" msgid="1670323419931890170">"處理輸入事件"</string>
+    <string name="car_can_bus_failure" msgid="2334035748788283914">"控制器區域網路發生問題"</string>
+    <string name="car_can_bus_failure_desc" msgid="4125516222786484733">"控制器區域網路無回應。請將主機盒插頭拔下並插回，然後重新啟動車輛"</string>
+    <string name="activity_blocked_text" msgid="5342114426610711378">"為了你的安全，開車期間不得進行這個活動。\n如要繼續，請先停車。"</string>
+    <string name="exit_button_message" msgid="8554690915924055685">"如要使用安全應用程式功能重新啟動，請選取「離開」按鈕 <xliff:g id="EXIT_BUTTON">%s</xliff:g>。"</string>
+    <string name="exit_button" msgid="5829638404777671253">"返回"</string>
+    <string name="car_permission_label_diag_read" msgid="7248894224877702604">"讀取診斷資料"</string>
+    <string name="car_permission_desc_diag_read" msgid="1121426363040966178">"讀取車輛的診斷資料。"</string>
+    <string name="car_permission_label_diag_clear" msgid="4783070510879698157">"清除診斷資料"</string>
+    <string name="car_permission_desc_diag_clear" msgid="7453222114866042786">"清除車輛的診斷資料。"</string>
+    <string name="car_permission_label_vms_publisher" msgid="3049934078926106641">"VMS 發佈者"</string>
+    <string name="car_permission_desc_vms_publisher" msgid="5589489298597386828">"發佈 VMS 訊息"</string>
+    <string name="car_permission_label_vms_subscriber" msgid="5648841182059222299">"VMS 訂閱者"</string>
+    <string name="car_permission_desc_vms_subscriber" msgid="7551009457847673620">"訂閱 VMS 訊息"</string>
+    <string name="car_permission_label_bind_vms_client" msgid="4889732900973280313">"VMS 用戶端服務"</string>
+    <string name="car_permission_desc_bind_vms_client" msgid="4062835325264330564">"繫結至 VMS 用戶端"</string>
+    <string name="car_permission_label_storage_monitoring" msgid="2327639346522530549">"快閃記憶體儲存空間監控"</string>
+    <string name="car_permission_desc_storage_monitoring" msgid="2075712271139671318">"監控快閃記憶體用量"</string>
+    <string name="car_permission_label_driving_state" msgid="7754624599537393650">"監聽駕駛狀態"</string>
+    <string name="car_permission_desc_driving_state" msgid="2684025262811635737">"監聽駕駛狀態變更。"</string>
+    <string name="car_permission_label_car_engine_detailed" msgid="8911992719173587337">"存取車輛的引擎詳細資料"</string>
+    <string name="car_permission_desc_car_engine_detailed" msgid="1746863362811347700">"存取車輛的詳細引擎資訊。"</string>
+    <string name="car_permission_label_car_energy_ports" msgid="8548990315169219454">"存取車輛的油孔蓋和充電口"</string>
+    <string name="car_permission_desc_car_energy_ports" msgid="7771185999828794949">"存取車輛的油孔蓋和充電口。"</string>
+    <string name="car_permission_label_car_identification" msgid="5896712510164020478">"讀取車輛識別號碼"</string>
+    <string name="car_permission_desc_car_identification" msgid="4132040867171275059">"存取車輛識別號碼。"</string>
+    <string name="car_permission_label_control_car_doors" msgid="3032058819250195700">"控制車門"</string>
+    <string name="car_permission_desc_control_car_doors" msgid="6287353311980590092">"控制車門。"</string>
+    <string name="car_permission_label_control_car_windows" msgid="2452854429996653029">"控制車窗"</string>
+    <string name="car_permission_desc_control_car_windows" msgid="7693657991521595635">"控制車窗。"</string>
+    <string name="car_permission_label_control_car_mirrors" msgid="8470700538827409476">"控制車輛的後照鏡"</string>
+    <string name="car_permission_desc_control_car_mirrors" msgid="1224135684068855032">"控制車輛的後照鏡。"</string>
+    <string name="car_permission_label_control_car_seats" msgid="1826934820585497135">"控制車輛座椅"</string>
+    <string name="car_permission_desc_control_car_seats" msgid="2407536601226470563">"控制車輛座椅。"</string>
+    <string name="car_permission_label_car_info" msgid="4707513570676492315">"存取車輛的基本資訊"</string>
+    <string name="car_permission_desc_car_info" msgid="2118081474543537653">"存取車輛的基本資訊。"</string>
+    <string name="car_permission_label_car_exterior_lights" msgid="541304469604902110">"讀取車輛外部燈光狀態"</string>
+    <string name="car_permission_desc_car_exterior_lights" msgid="4038037584100849318">"存取車輛外部燈光狀態。"</string>
+    <string name="car_permission_label_control_car_exterior_lights" msgid="101357531386232141">"讀取車輛外部燈光"</string>
+    <string name="car_permission_desc_control_car_exterior_lights" msgid="6332252612685264180">"控制車輛外部燈光。"</string>
+    <string name="car_permission_label_car_interior_lights" msgid="8506302199784427680">"讀取車輛內部燈光"</string>
+    <string name="car_permission_desc_car_interior_lights" msgid="6204775354692372506">"存取車輛內部燈光狀態。"</string>
+    <string name="car_permission_label_control_car_interior_lights" msgid="6685386372012664281">"控制車輛內部燈光"</string>
+    <string name="car_permission_desc_control_car_interior_lights" msgid="797201814109701538">"控制車輛內部燈光。"</string>
+    <string name="car_permission_label_car_exterior_environment" msgid="3385924985991299436">"讀取車外溫度"</string>
+    <string name="car_permission_desc_car_exterior_environment" msgid="1716656004731603379">"存取車外溫度。"</string>
+    <string name="car_permission_label_car_tires" msgid="4379255261197836840">"存取車輛的輪胎資訊"</string>
+    <string name="car_permission_desc_car_tires" msgid="8134496466769810134">"存取車輪資訊。"</string>
+    <string name="car_permission_label_car_steering" msgid="7779530447441232479">"讀取車輛的轉向角資訊"</string>
+    <string name="car_permission_desc_car_steering" msgid="1357331844530708138">"存取車輛的轉向角資訊。"</string>
+    <string name="car_permission_label_read_car_display_units" msgid="7617008314862097183">"讀取車輛顯示裝置"</string>
+    <string name="car_permission_desc_read_car_display_units" msgid="6891898275208542385">"讀取顯示裝置。"</string>
+    <string name="car_permission_label_control_car_display_units" msgid="4975303668183173076">"控制車輛的顯示裝置"</string>
+    <string name="car_permission_desc_control_car_display_units" msgid="8744397195158556945">"控制顯示裝置。"</string>
+    <string name="car_permission_label_car_powertrain" msgid="4586122326622134886">"讀取車輛的動力系統模組資訊"</string>
+    <string name="car_permission_desc_car_powertrain" msgid="1116007372551797796">"存取車輛的動力系統模組資訊。"</string>
+    <string name="car_permission_label_car_power" msgid="8111448088314368268">"讀取車輛的電源狀態"</string>
+    <string name="car_permission_desc_car_power" msgid="9202079903668652864">"存取車輛的電源狀態。"</string>
+    <string name="car_permission_label_enroll_trust" msgid="3512907900486690218">"註冊信任的裝置"</string>
+    <string name="car_permission_desc_enroll_trust" msgid="4148649994602185130">"允許註冊信任的裝置"</string>
+    <string name="trust_device_default_name" msgid="4213625926070261253">"我的裝置"</string>
+</resources>

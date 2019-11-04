@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Месцы паблізу</string>
+  <string name="search_location_permission">Каб атрымліваць кантактныя звесткі для месцаў паблізу з вамі, дазвольце доступ да месцазнаходжання.</string>
+  <string name="nearby_places_allow">Дазволіць</string>
+  <string name="nearby_places_dismiss">Адхіліць</string>
+</resources>

@@ -1,0 +1,109 @@
+{
+  "FLAGS": "browsable",
+
+  "METADATA": {
+    "MEDIA_ID": "simple_leaves",
+    "DISPLAY_TITLE": "Simple leaves"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves normal 10s song",
+        "DISPLAY_TITLE": "A normal 10s song",
+        "DURATION": 10000
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves normal 1H song",
+        "DISPLAY_TITLE": "A normal 1H song",
+        "DURATION": 3600000
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves slow connection",
+        "DISPLAY_TITLE": "Connects and buffers for 4s each",
+        "DURATION": 30000
+      },
+      "EVENTS": [
+        { "STATE": "CONNECTING", "POST_DELAY_MS": 50 },
+        { "STATE": "BUFFERING", "POST_DELAY_MS": 4000 },
+        { "STATE": "PLAYING", "POST_DELAY_MS": 4000 }
+      ]
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves poor internet",
+        "DISPLAY_TITLE": "Poor internet quality at 2s",
+        "DURATION": 30000
+      },
+      "EVENTS": [
+        { "STATE": "PLAYING", "POST_DELAY_MS": 0 },
+        {
+          "STATE": "PLAYING",
+          "ERROR_CODE": "APP_ERROR",
+          "ERROR_MESSAGE": "Bad connection, sorry for the low quality",
+          "POST_DELAY_MS": 2000
+        }
+      ]
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves cache failure",
+        "DISPLAY_TITLE": "Caching failure at 2s",
+        "DURATION": 30000
+      },
+      "EVENTS": [
+        { "STATE": "PLAYING", "POST_DELAY_MS": 0 },
+        {
+          "STATE": "PAUSED",
+          "ERROR_CODE": "APP_ERROR",
+          "ERROR_MESSAGE": "End of cache reached. Please check your data connection.",
+          "POST_DELAY_MS": 2000
+        }
+      ]
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves error code",
+        "DISPLAY_TITLE": "Parental Control error code at 1s",
+        "DURATION": 10000
+      },
+      "EVENTS": [
+        { "STATE": "PLAYING", "POST_DELAY_MS": 0 },
+        {
+          "STATE": "ERROR",
+          "ERROR_CODE": "PARENTAL_CONTROL_RESTRICTED",
+          "POST_DELAY_MS": 1000
+        }
+      ]
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "simple_leaves premium required",
+        "DISPLAY_TITLE": "Paid account required at 1s",
+        "DURATION": 50000
+      },
+      "EVENTS": [
+        { "STATE": "PLAYING", "POST_DELAY_MS": 0 },
+        {
+          "STATE": "ERROR",
+          "ERROR_CODE": "PREMIUM_ACCOUNT_REQUIRED",
+          "ERROR_MESSAGE": "A premium account is needed to play this track completely...",
+          "ACTION_LABEL": "Upgrade now",
+          "INTENT": "PREFS",
+          "POST_DELAY_MS": 1000
+        }
+      ]
+    }
+  ]
+}

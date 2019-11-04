@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Званкі праз %s</string>
+  <string name="incall_calling_on_same_carrier_template">Выклік у сетцы таго ж самага аператара %s</string>
+  <string name="incall_calling_on_recent_choice_template">Выклік у сетку выбранага раней аператара %s</string>
+  <string name="incall_connecting">Выклік…</string>
+  <string name="incall_connecting_assited_dialed">Выклік з выкарыстаннем кода +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">З выкарыстаннем +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Ідзе перадача…</string>
+  <string name="incall_video_call_requesting">Відэавыклікі праз аператара…</string>
+  <string name="incall_wifi_video_call_requesting">Відэавыклік праз аператара Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Пераход на відэавыклік праз аператара…</string>
+  <string name="incall_video_call_request_failed">Немагчыма падключыцца</string>
+  <string name="incall_video_call_request_rejected">Выклік адхілены</string>
+  <string name="incall_video_call_request_timed_out">Час чакання выкліку скончыўся</string>
+  <string name="incall_hanging_up">Завяршэнне выкліку</string>
+  <string name="incall_call_ended">Выклік скончаны</string>
+  <string name="incall_remotely_held">На ўтрыманні</string>
+  <string name="contact_grid_incoming_video_call">Відэавыклік праз аператара ад</string>
+  <string name="contact_grid_incoming_wifi_video_call">Відэавыклік праз аператара Wi-Fi ад</string>
+  <string name="contact_grid_incoming_voice_call">Выклік ад</string>
+  <string name="contact_grid_incoming_work_call">Рабочы выклік ад</string>
+  <string name="contact_grid_incoming_via_template">Уваходны выклік праз %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Падазрэнне на спам</string>
+  <string name="contact_grid_callback_number">Нумар гэтага тэлефона: %1$s</string>
+</resources>

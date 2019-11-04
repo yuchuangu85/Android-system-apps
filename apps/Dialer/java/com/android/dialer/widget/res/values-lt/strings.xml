@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Parašykite tinkintą praneš.</string>
+  <string name="toolbar_close">Uždaryti</string>
+  <string name="all_contacts_empty">Dar neturite jokių kontaktų</string>
+  <string name="all_contacts_empty_add_contact_action">Sukurti naują kontaktą</string>
+  <string name="permission_single_turn_on">Įjungti</string>
+  <string name="permission_no_contacts">Jei norite peržiūrėti kontaktus, įjunkite Kontaktų leidimą.</string>
+  <string name="add_contact_not_available">Nepasiekiama jokia kontaktų programa</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6179574017413146651">"अ‍ॅक्टिव्हिटी स्टब"</string>
+    <string name="message_not_supported" msgid="133939962837892495">"कोणतेही अ‍ॅप ही क्रिया हाताळू शकत नाही"</string>
+    <string name="stub_name" msgid="3987164490218189006">"काहीही नाही"</string>
+</resources>

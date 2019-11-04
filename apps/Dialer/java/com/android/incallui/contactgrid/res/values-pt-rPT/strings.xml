@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">A telefonar através de %s…</string>
+  <string name="incall_calling_on_same_carrier_template">A ligar pelo mesmo operador %s</string>
+  <string name="incall_calling_on_recent_choice_template">A ligar pela escolha mais recente %s</string>
+  <string name="incall_connecting">A chamar…</string>
+  <string name="incall_connecting_assited_dialed">A ligar através de +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">A utilizar +%1$s (%2$s)…</string>
+  <string name="incall_transferring">A transferir…</string>
+  <string name="incall_video_call_requesting">Videochamada do operador…</string>
+  <string name="incall_wifi_video_call_requesting">Videochamada do operador por Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">A mudar para videochamada do operador…</string>
+  <string name="incall_video_call_request_failed">Não é possível estabelecer ligação</string>
+  <string name="incall_video_call_request_rejected">Chamada recusada</string>
+  <string name="incall_video_call_request_timed_out">A chamada expirou</string>
+  <string name="incall_hanging_up">A desligar…</string>
+  <string name="incall_call_ended">Chamada terminada</string>
+  <string name="incall_remotely_held">Em espera</string>
+  <string name="contact_grid_incoming_video_call">Videochamada do operador de</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videochamada do operador por Wi-Fi de</string>
+  <string name="contact_grid_incoming_voice_call">Chamada de</string>
+  <string name="contact_grid_incoming_work_call">Chamada de trabalho de</string>
+  <string name="contact_grid_incoming_via_template">Chamada recebida através de %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Autor suspeito de chamadas de spam</string>
+  <string name="contact_grid_callback_number">O número deste telemóvel: %1$s</string>
+</resources>

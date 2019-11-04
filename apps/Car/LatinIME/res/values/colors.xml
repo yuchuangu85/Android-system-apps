@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- IME -->
+    <color name="ime_foreground_symbols">#99f1f1f1</color>
+    <color name="ime_foreground_spacebar">@*android:color/car_keyboard_text_secondary_color</color>
+    <color name="ime_foreground_spacebar_pressed">@*android:color/car_keyboard_text_primary_color</color>
+    <color name="ime_background_letters">@*android:color/car_dark_blue_grey_700</color>
+    <color name="ime_background_pressed">#26ffffff</color>
+    <color name="ime_symbol_tint_accent">@*android:color/accent_device_default_light</color>
+    <color name="ime_symbol_tint">@color/ime_foreground_symbols</color>
+    <color name="transparent_black">#00000000</color>
+    <color name="ime_hwr_background">#e6172026</color>
+    <color name="ime_hwr_stroke">#ff1de9b6</color>
+    <color name="car_teal_200">#ff80cbc4</color>
+    <color name="car_teal_700">#ff00796b</color>
+</resources>

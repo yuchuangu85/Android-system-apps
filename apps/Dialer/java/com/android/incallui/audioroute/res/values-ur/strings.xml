@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">بلوٹوتھ</string>
+  <string name="audioroute_speaker">اسپیکر</string>
+  <string name="audioroute_phone">فون</string>
+  <string name="audioroute_headset">تار والا ہیڈسیٹ</string>
+</resources>

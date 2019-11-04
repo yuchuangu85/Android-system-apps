@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s ಮೂಲಕ ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+  <string name="incall_calling_on_same_carrier_template">%s ವಾಹಕದ ಮೂಲಕ ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+  <string name="incall_calling_on_recent_choice_template">ಇತ್ತೀಚಿನ ಆಯ್ಕೆಯ ಆಧಾರದ ಮೇಲೆ %s ನಿಂದ ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+  <string name="incall_connecting">ಕರೆ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) ಬಳಸಿಕೊಂಡು ಕರೆಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) ಅನ್ನು ಬಳಸಲಾಗುತ್ತಿದೆ…</string>
+  <string name="incall_transferring">ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ...</string>
+  <string name="incall_video_call_requesting">ವಾಹಕ ವೀಡಿಯೊ ಕರೆ ಮಾಡುವಿಕೆ…</string>
+  <string name="incall_wifi_video_call_requesting">ವೈ-ಫೈ ವಾಹಕ ವೀಡಿಯೊ ಕರೆ ಮಾಡುವಿಕೆ…</string>
+  <string name="incall_video_call_upgrade_request">ವಾಹಕ ವೀಡಿಯೊಗೆ ಬದಲಿಸಲಾಗುತ್ತಿದೆ…</string>
+  <string name="incall_video_call_request_failed">ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+  <string name="incall_video_call_request_rejected">ಕರೆ ನಿರಾಕರಿಸಲಾಗಿದೆ</string>
+  <string name="incall_video_call_request_timed_out">ಕರೆ ಅವಧಿ ಮೀರಿದೆ</string>
+  <string name="incall_hanging_up">ಹ್ಯಾಂಗ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+  <string name="incall_call_ended">ಕರೆ ಅಂತ್ಯಗೊಂಡಿದೆ</string>
+  <string name="incall_remotely_held">ಹೋಲ್ಡ್‌ ಮಾಡಲಾಗಿದೆ</string>
+  <string name="contact_grid_incoming_video_call">ಇವರಿಂದ ವಾಹಕ ವೀಡಿಯೊ ಕರೆ</string>
+  <string name="contact_grid_incoming_wifi_video_call">ಇವರಿಂದ ವೈ-ಫೈ ವಾಹಕ ವೀಡಿಯೊ ಕರೆ</string>
+  <string name="contact_grid_incoming_voice_call">ಇವರಿಂದ ಕರೆ</string>
+  <string name="contact_grid_incoming_work_call">ಇವರಿಂದ ಕೆಲಸದ ಕರೆ</string>
+  <string name="contact_grid_incoming_via_template">%s ಮೂಲಕ ಒಳಬರುತ್ತಿರುವ ಕರೆ</string>
+  <string name="contact_grid_incoming_suspected_spam">ಶಂಕಿತ ಸ್ಪ್ಯಾಮ್ ಕರೆದಾರರು</string>
+  <string name="contact_grid_callback_number">ಈ ಫೋನ್‌ನ ಸಂಖ್ಯೆ: %1$s</string>
+</resources>

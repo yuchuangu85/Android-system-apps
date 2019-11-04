@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Bluetooth</string>
+  <string name="audioroute_speaker">רמקול</string>
+  <string name="audioroute_phone">טלפון</string>
+  <string name="audioroute_headset">אוזניות עם חוט</string>
+</resources>

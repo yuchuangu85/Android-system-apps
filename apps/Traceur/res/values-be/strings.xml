@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="system_tracing" msgid="4719188511746319848">"Трасіроўка сістэмы"</string>
+    <string name="record_system_activity" msgid="4339462312915377825">"Адсочванне і аналіз працоўных працэсаў з мэтай павышэння прадукцыйнасці сістэмы"</string>
+    <string name="record_trace" msgid="6416875085186661845">"Запісаць трасіроўку"</string>
+    <string name="trace_debuggable_applications" msgid="7957069895298887899">"Трасіраваць праграмы з магчымасцю адладкi"</string>
+    <string name="categories" msgid="2280163673538611008">"Катэгорыі"</string>
+    <string name="restore_default_categories" msgid="5090536794637169521">"Аднавіць стандартныя катэгорыі"</string>
+    <string name="default_categories_restored" msgid="6861683793680564181">"Стандартныя катэгорыі адноўлены"</string>
+    <string name="default_categories" msgid="2117679794687799407">"Стандартна"</string>
+    <plurals name="num_categories_selected" formatted="false" msgid="963928263524652497">
+      <item quantity="one">Выбрана: %d</item>
+      <item quantity="few">Выбрана: %d</item>
+      <item quantity="many">Выбрана: %d</item>
+      <item quantity="other">Выбрана: %d</item>
+    </plurals>
+    <string name="applications" msgid="521776761270770549">"Праграмы"</string>
+    <string name="no_debuggable_apps" msgid="4386209254520471208">"Няма даступных праграм з магчымасцю адладкi"</string>
+    <string name="buffer_size" msgid="3944311026715111454">"Памер буфера ў ЦП"</string>
+    <string name="show_quick_settings_tile" msgid="4971147332635291585">"Паказваць плітку Хуткіх налад"</string>
+    <string name="saving_trace" msgid="1468692734770800541">"Трасіроўка захоўваецца"</string>
+    <string name="trace_saved" msgid="5869970594780992309">"Трасіроўка захавана"</string>
+    <string name="tap_to_share" msgid="6766732404489536899">"Націсніце, каб абагуліць трасіроўку"</string>
+    <string name="stop_tracing" msgid="8916938308534164152">"Спыніць трасіроўку"</string>
+    <string name="tracing_categories_unavailable" msgid="5609076391417077752">"Некаторыя катэгорыі трасіроўкі недаступныя:"</string>
+    <string name="trace_is_being_recorded" msgid="5947378146009337469">"Трасіроўка запісваецца"</string>
+    <string name="tap_to_stop_tracing" msgid="6533282719573871806">"Націсніце, каб спыніць трасіроўку"</string>
+    <string name="clear_saved_traces" msgid="4809195654452260944">"Выдаліць захаваныя трасіроўкі"</string>
+    <string name="clear_saved_traces_question" msgid="2184026613055303818">"Выдаліць захаваныя трасіроўкі?"</string>
+    <string name="all_traces_will_be_deleted" msgid="6646545462206955920">"Усе трасіроўкі будуць выдалены з /data/local/traces"</string>
+    <string name="clear" msgid="5484761795406948056">"Выдаліць"</string>
+    <string name="system_traces_storage_title" msgid="8294090839883366871">"Трасіроўка сістэмы"</string>
+    <string name="keywords" msgid="736547007949049535">"systrace, трасіроўка, прадукцыйнасць"</string>
+    <string name="share_trace" msgid="4528525067822044385">"Абагуліць трасіроўку?"</string>
+    <string name="system_trace_sensitive_data" msgid="3069389866696009549">"Файлы трасіроўкі сістэмы могуць утрымліваць канфідэнцыяльныя даныя пра сістэму і праграмы (напрыклад, пра выкарыстанне праграм). Абагульвайце іх толькі з тымі карыстальнікамі і праграмамі, якім давяраеце."</string>
+    <string name="share" msgid="8443979083706282338">"Абагуліць"</string>
+    <string name="dont_show_again" msgid="6662492041164390600">"Больш не паказваць"</string>
+    <string name="use_perfetto_beta" msgid="2725630143916520160">"Выкарыстоўваць Perfetto (бэта-версія)"</string>
+    <string name="long_traces" msgid="5110949471775966329">"Доўгія трасіроўкі"</string>
+    <string name="long_traces_summary" msgid="419034282946761469">"Пастаянна захоўваецца ў сховішчы прылады"</string>
+    <string name="max_long_trace_size" msgid="1943788179787181241">"Максімальны памер доўгай трасіроўкі"</string>
+    <string name="max_long_trace_duration" msgid="8009837944364246785">"Максімальная працягласць доўгай трасіроўкі"</string>
+    <string name="two_hundred_mb" msgid="4950018549725084512">"200 МБ"</string>
+    <string name="one_gb" msgid="590396985168692037">"1 ГБ"</string>
+    <string name="five_gb" msgid="7883941043220621649">"5 ГБ"</string>
+    <string name="ten_gb" msgid="4150452462544299276">"10 ГБ"</string>
+    <string name="twenty_gb" msgid="5717308686812140465">"20 ГБ"</string>
+    <string name="ten_minutes" msgid="7039181194343961324">"10 хвілін"</string>
+    <string name="thirty_minutes" msgid="2575810799813531395">"30 хвілін"</string>
+    <string name="one_hour" msgid="5219232935307966891">"1 гадзіна"</string>
+    <string name="eight_hours" msgid="3207620892104451552">"8 гадзін"</string>
+    <string name="twelve_hours" msgid="4647143276394563496">"12 гадзін"</string>
+    <string name="twentyfour_hours" msgid="2789663313550030791">"24 гадзіны"</string>
+    <string name="four_thousand_kb" msgid="5156346740862105703">"4096 КБ"</string>
+    <string name="eight_thousand_kb" msgid="8815334985638334081">"8192 КБ"</string>
+    <string name="sixteen_thousand_kb" msgid="7342517169232459259">"16384 КБ"</string>
+    <string name="thirtytwo_thousand_kb" msgid="654328198799196150">"32768 КБ"</string>
+    <string name="sixtyfive_thousand_kb" msgid="8168144138598305306">"65536 КБ"</string>
+</resources>

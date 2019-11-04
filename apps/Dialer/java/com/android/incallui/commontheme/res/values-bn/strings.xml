@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">কল কেটে দিন</string>
+  <string name="incall_content_description_muted">নিঃশব্দ করা হয়েছে</string>
+  <string name="incall_content_description_unmuted">সশব্দ করা হয়েছে</string>
+  <string name="incall_content_description_swap_calls">কল অদল বদল করুন</string>
+  <string name="incall_content_description_swap_sim">সিম পাল্টান</string>
+  <string name="incall_content_description_merge_calls">কলগুলি মার্জ করুন</string>
+  <string name="incall_content_description_earpiece">হ্যান্ডসেট ইয়ারপিস</string>
+  <string name="incall_content_description_speaker">স্পিকার</string>
+  <string name="incall_content_description_bluetooth">ব্লুটুথ</string>
+  <string name="incall_content_description_headset">তারযুক্ত হেডসেট</string>
+  <string name="incall_content_description_hold">কল হোল্ডে রাখুন</string>
+  <string name="incall_content_description_unhold">কল আবার শুরু করুন</string>
+  <string name="incall_content_description_video_on">ভিডিও চালু আছে</string>
+  <string name="incall_content_description_video_off">ভিডিও বন্ধ আছে</string>
+  <string name="incall_content_description_swap_video">ভিডিও অদল বদল করুন</string>
+  <string name="incall_label_speaker">স্পিকার</string>
+  <string name="incall_label_audio">শব্দ</string>
+</resources>

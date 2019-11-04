@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">通話詳細資料</string>
+  <string name="delete">刪除</string>
+  <string name="call_details_copy_number">複製號碼</string>
+  <string name="call_details_edit_number">撥打電話前編輯號碼</string>
+  <string name="call_details_report_call_id">回報號碼錯誤</string>
+  <string name="sent_a_photo">傳送了 1 張相片</string>
+  <string name="received_a_photo">收到了 1 張相片</string>
+  <string name="message_in_quotes">「%1$s」</string>
+  <string name="report_caller_id_dialog_title">回報不正確的號碼</string>
+  <string name="report_caller_id_failed">無法回報號碼</string>
+  <string name="report_caller_id_toast">已回報號碼</string>
+  <string name="assisted_dialing_country_code_entry">輔助撥號：已使用國家/地區代碼 +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">已使用輔助撥號</string>
+  <string name="rtt_transcript_not_available">只有支援訊息功能的通話才能轉錄留言</string>
+  <string name="rtt_transcript_link">查看轉錄內容</string>
+</resources>

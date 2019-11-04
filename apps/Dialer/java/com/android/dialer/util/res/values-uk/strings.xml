@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Звук за умовчанням (%1$s)</string>
+  <string name="ringtone_silent">Немає</string>
+  <string name="ringtone_unknown">Невідомий сигнал дзвінка</string>
+  <string name="activity_not_available">На цьому пристрої немає додатка, який може виконати цю дію</string>
+  <string name="outgoing_wps_warning">Якщо здійснити виклик WPS, буде роз’єднано поточний виклик.</string>
+  <string name="dialog_continue">Продовжити</string>
+  <string name="camera_privacy_text">Надано доступ до камери</string>
+</resources>

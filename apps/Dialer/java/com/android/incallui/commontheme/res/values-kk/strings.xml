@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Қоңырауды аяқтау</string>
+  <string name="incall_content_description_muted">Дыбысы өшірулі</string>
+  <string name="incall_content_description_unmuted">Дыбысы қосулы</string>
+  <string name="incall_content_description_swap_calls">Қоңырауларды ауыстыру</string>
+  <string name="incall_content_description_swap_sim">SIM картасын ауыстыру</string>
+  <string name="incall_content_description_merge_calls">Қоңырауларды біріктіру</string>
+  <string name="incall_content_description_earpiece">Телефон динамигі</string>
+  <string name="incall_content_description_speaker">Динамик</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Сымды гарнитура</string>
+  <string name="incall_content_description_hold">Күттіру</string>
+  <string name="incall_content_description_unhold">Қоңырауды жалғастыру</string>
+  <string name="incall_content_description_video_on">Бейне қосулы</string>
+  <string name="incall_content_description_video_off">Бейне өшірулі</string>
+  <string name="incall_content_description_swap_video">Бейнені ауыстыру</string>
+  <string name="incall_label_speaker">Динамик</string>
+  <string name="incall_label_audio">Дыбыс</string>
+</resources>

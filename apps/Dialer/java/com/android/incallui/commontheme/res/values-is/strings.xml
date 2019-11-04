@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Ljúka símtali</string>
+  <string name="incall_content_description_muted">Hljóð af</string>
+  <string name="incall_content_description_unmuted">Hljóð á</string>
+  <string name="incall_content_description_swap_calls">Skipta á milli símtala</string>
+  <string name="incall_content_description_swap_sim">Breyta SIM</string>
+  <string name="incall_content_description_merge_calls">Sameina símtöl</string>
+  <string name="incall_content_description_earpiece">Símahátalari</string>
+  <string name="incall_content_description_speaker">Hátalari</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Höfuðtól með snúru</string>
+  <string name="incall_content_description_hold">Setja símtal í bið</string>
+  <string name="incall_content_description_unhold">Halda símtali áfram</string>
+  <string name="incall_content_description_video_on">Kveikja á mynd</string>
+  <string name="incall_content_description_video_off">Slökkva á mynd</string>
+  <string name="incall_content_description_swap_video">Skipta um mynd</string>
+  <string name="incall_label_speaker">Hátalari</string>
+  <string name="incall_label_audio">Hljóð</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Swiep na bo om te antwoord</string>
+  <string name="call_incoming_swipe_to_reject">Swiep af om te weier</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Swiep op met twee vingers om te beantwoord of af om die oproep te weier</string>
+  <string name="call_incoming_will_disconnect">As jy hierdie oproep antwoord sal jou video-oproep eindig</string>
+  <string name="a11y_call_incoming_decline_description">Wys af</string>
+  <string name="call_incoming_decline">Wys af</string>
+  <string name="a11y_call_incoming_answer_description">Antwoord</string>
+  <string name="call_incoming_answer">Antwoord</string>
+</resources>

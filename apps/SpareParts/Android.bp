@@ -1,0 +1,5 @@
+android_app {
+    name: "SpareParts",
+    srcs: ["**/*.java"],
+    platform_apis: true,
+}

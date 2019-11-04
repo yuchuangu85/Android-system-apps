@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ነባሪ ድምጽ (%1$s)</string>
+  <string name="ringtone_silent">ምንም</string>
+  <string name="ringtone_unknown">ያልታወቀ የጥሪ ቅላጼ</string>
+  <string name="activity_not_available">ለዚያ የሚሆን መተግበሪያ በዚህ መሣሪያ ላይ የለም</string>
+  <string name="outgoing_wps_warning">የWPS ጥሪ ማድረግ አሁን ያለውን ጥሪዎን ያቋርጠዋል።</string>
+  <string name="dialog_continue">ቀጥል</string>
+  <string name="camera_privacy_text">የካሜራ ፈቃድ ነቅቷል</string>
+</resources>

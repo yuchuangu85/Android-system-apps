@@ -1,0 +1,10 @@
+This module is used to create a CarDeveloperOptions module which can be accessed via Car Settings
+for users who have enabled developer mode.
+
+The module contains a lot of duplicate/dead code from the phone settings project. This will be
+pruned over time to contain the minimal set of files necessary to access the developer options from
+car headunits.
+
+If the package name or module name changes, please make sure to update config.xml in the Car
+Settings project in order to make sure that developer options can still be accessed via Car
+Settings.

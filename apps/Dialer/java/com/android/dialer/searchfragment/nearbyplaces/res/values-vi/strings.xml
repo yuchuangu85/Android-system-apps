@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Địa điểm lân cận</string>
+  <string name="search_location_permission">Để nhận thông tin liên hệ cho những địa điểm gần bạn, hãy cho phép truy cập vào vị trí của bạn.</string>
+  <string name="nearby_places_allow">Cho phép</string>
+  <string name="nearby_places_dismiss">Bỏ qua</string>
+</resources>

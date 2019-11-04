@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">వెనుకకు నావిగేట్ చేస్తుంది</string>
+  <string name="description_dialpad_overflow">మరిన్ని ఎంపికలు</string>
+  <string name="description_delete_button">బ్యాక్‌స్పేస్</string>
+  <string name="description_image_button_plus">డయల్ ప్లస్</string>
+  <string name="description_voicemail_button">వాయిస్ మెయిల్‌కు కాల్ చేయి</string>
+  <string name="description_dial_button">డయల్ చేయండి</string>
+  <string name="dialog_voicemail_airplane_mode_message">వాయిస్ మెయిల్ కాల్ చేయడానికి, మొదట విమానం మోడ్‌ను ఆపివేయండి.</string>
+  <string name="dialog_voicemail_not_ready_message">వాయిస్ మెయిల్ సెటప్ చేయడానికి, మెను &gt; సెట్టింగ్‌లకు వెళ్లండి.</string>
+  <string name="add_2sec_pause">2-సెకన్ల పాజ్‌ను జోడించండి</string>
+  <string name="add_wait">నిరీక్షణ సమయాన్ని జోడించండి</string>
+  <string name="dialer_useDtmfDialpad">టచ్ టోన్ కీప్యాడ్‌ను ఉపయోగించండి</string>
+  <string name="dialer_returnToInCallScreen">ప్రస్తుతం నడుస్తున్న కాల్‌కు తిరిగి వెళ్లండి</string>
+  <string name="dialer_addAnotherCall">కాల్ జోడించండి</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">సిమ్ కార్డు నుండి లోడ్ చేస్తోంది…</string>
+  <string name="simContacts_title">SIM కార్డ్ పరిచయాలు</string>
+  <string name="menu_callNumber">%sకు కాల్ చేయండి</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Wi-Fiతో అత్యవసర కాల్‌లు చేయలేరు</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">ఈ నంబర్‌కు కాల్ చేయలేరు</string>
+</resources>

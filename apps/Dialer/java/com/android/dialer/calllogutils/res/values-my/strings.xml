@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">အဝင်ခေါ်ဆိုမှု</string>
+  <string name="type_incoming_pulled">အဝင်ခေါ်ဆိုမှုကို အခြားကိရိယာသို့ လွှဲပြောင်းလိုက်သည်</string>
+  <string name="type_outgoing">အထွက်ခေါ်ဆိုမှု</string>
+  <string name="type_outgoing_pulled">အထွက်ခေါ်ဆိုမှုကို အခြားကိရိယာသို့ လွှဲပြောင်းလိုက်သည်</string>
+  <string name="type_missed">လွတ်သွားသော ခေါ်ဆိုမှု</string>
+  <string name="type_incoming_video">အဝင်ဗီဒီယိုခေါ်ဆိုမှု</string>
+  <string name="type_incoming_video_pulled">အဝင်ဗီဒီယိုခေါ်ဆိုမှုကို အခြားကိရိယာသို့ လွှဲပြောင်းလိုက်သည်</string>
+  <string name="type_outgoing_video">အထွက်ဗီဒီယိုခေါ်ဆိုမှု</string>
+  <string name="type_outgoing_video_pulled">အထွက်ဗီဒီယိုခေါ်ဆိုမှုကို အခြားကိရိယာသို့ လွှဲလိုက်သည်</string>
+  <string name="type_missed_video">လွတ်သွားသော ဗီဒီယိုခေါ်ဆိုမှု</string>
+  <string name="type_voicemail">အသံမေးလ်</string>
+  <string name="type_rejected">ငြင်းပယ်ထားသော ခေါ်ဆိုမှု</string>
+  <string name="type_blocked">ခေါ်ဆိုမှုကို ပိတ်ဆို့ထားပါသည်</string>
+  <string name="call_details_minutes_abbreviation">မိနစ်</string>
+  <string name="call_details_seconds_abbreviation">စက္ကန့်</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">စက္ကန့်</item>
+    <item quantity="other">စက္ကန့်</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">မိနစ်</item>
+    <item quantity="other">မိနစ်</item>
+  </plurals>
+  <string name="type_answered_elsewhere">ခေါ်ဆိုမှုကို အခြားကိရိယာတွင် ဖြေကြားထားပါသည်</string>
+  <string name="description_phone_account">^1 တွင်</string>
+  <string name="description_via_number">%1$s မှတစ်ဆင့်</string>
+  <string name="description_via_number_phone_account">%1$s တွင်၊ %2$s မှတစ်ဆင့်</string>
+  <string name="voicemail_string">အသံမေးလ်</string>
+  <string name="just_now">ယခုလေးတင်</string>
+  <string name="new_call_log_carrier_video">ဖုန်းလိုင်း ဗီဒီယို</string>
+  <string name="new_call_log_duo_video">Duo ဗီဒီယို</string>
+  <string name="new_call_log_unknown">အမည်မသိ</string>
+  <string name="new_call_log_secondary_blocked">ပိတ်ထားသည်များ</string>
+  <string name="new_call_log_secondary_spam">စပမ်း</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2 ထံမှ လွတ်သွား ခေါ်ဆိုမှု ^1 ခု</item>
+    <item quantity="other">ခေါ်ဆိုမှု ^1 ခု၊ နောက်ဆုံးတစ်ခုသည် ^2 ထံမှ လွတ်သွားသောခေါ်ဆိုမှုဖြစ်သည်</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2 ၏ ခေါ်ဆိုမှုကို ဖြေကြားမှု ^1 ခု</item>
+    <item quantity="other">ခေါ်ဆိုမှု ^1 ခု၊ နောက်ဆုံးတစ်ခုသည် ^2 ၏ ခေါ်ဆိုချက်ကို ဖြေကြားထားခြင်း ဖြစ်သည်</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^2 သို့ အထွက်ခေါ်ဆိုမှု ^1 ခု</item>
+    <item quantity="other">ခေါ်ဆိုမှု ^1 ခု၊ နောက်ဆုံးတစ်ခုသည် ^2 သို့ အထွက်ခေါ်ဆိုမှုဖြစ်သည်</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2 ထံမှ ပိတ်ထားသော ခေါ်ဆိုမှု ^1 ခု</item>
+    <item quantity="other">ခေါ်ဆိုမှု ^1ခု၊ နောက်ဆုံးတစ်ခုသည် ^2 ထံမှ ပိတ်ထားသောခေါ်ဆိုမှု ဖြစ်သည်</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 တွင်၊ ^2 မှတစ်ဆင့်</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1၊ ^2။</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1၊ ^2၊ ^3။</string>
+</resources>

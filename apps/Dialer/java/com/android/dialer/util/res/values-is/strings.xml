@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Sjálfgefið hljóð (%1$s)</string>
+  <string name="ringtone_silent">Engin</string>
+  <string name="ringtone_unknown">Óþekktur hringitónn</string>
+  <string name="activity_not_available">Ekkert forrit fyrir þetta er í tækinu</string>
+  <string name="outgoing_wps_warning">Ef þú hringir WPS-símtal slitnar núverandi símtal.</string>
+  <string name="dialog_continue">Áfram</string>
+  <string name="camera_privacy_text">Myndavélarheimild virk</string>
+</resources>

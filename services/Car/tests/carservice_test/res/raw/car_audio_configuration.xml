@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carAudioConfiguration version="1">
+    <zones>
+        <zone name="primary zone" isPrimary="true">
+            <volumeGroups>
+                <group>
+                    <device address="bus0_media_out">
+                        <context context="music"/>
+                    </device>
+                    <device address="bus3_call_ring_out">
+                        <context context="call_ring"/>
+                    </device>
+                </group>
+                <group>
+                    <device address="bus1_navigation_out">
+                        <context context="navigation"/>
+                    </device>
+                </group>
+            </volumeGroups>
+            <displays>
+                <display port="1"/>
+                <display port="2"/>
+            </displays>
+        </zone>
+        <zone name="rear seat zone">
+            <volumeGroups>
+                <group>
+                    <device address="bus100_rear_seat">
+                        <context context="music"/>
+                        <context context="navigation"/>
+                        <context context="voice_command"/>
+                        <context context="call_ring"/>
+                        <context context="call"/>
+                        <context context="alarm"/>
+                        <context context="notification"/>
+                        <context context="system_sound"/>
+                    </device>
+                </group>
+            </volumeGroups>
+        </zone>
+    </zones>
+</carAudioConfiguration>

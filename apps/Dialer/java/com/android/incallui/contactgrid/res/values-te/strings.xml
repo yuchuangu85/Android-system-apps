@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s ద్వారా కాల్ చేస్తోంది</string>
+  <string name="incall_calling_on_same_carrier_template">అదే క్యారియర్ %sలో కాల్ చేస్తోంది</string>
+  <string name="incall_calling_on_recent_choice_template">ఇటీవలి ఎంపిక %sలో కాల్ చేస్తోంది</string>
+  <string name="incall_connecting">కాల్ చేస్తోంది…</string>
+  <string name="incall_connecting_assited_dialed">+%1$sని (%2$s) ఉపయోగించి కాల్ చేస్తోంది…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) ఉపయోగించి…</string>
+  <string name="incall_transferring">బదిలీ చేస్తోంది…</string>
+  <string name="incall_video_call_requesting">క్యారియర్ వీడియో కాలింగ్...</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi క్యారియర్ వీడియో కాలింగ్...</string>
+  <string name="incall_video_call_upgrade_request">క్యారియర్ వీడియోకి మారుతోంది...</string>
+  <string name="incall_video_call_request_failed">కనెక్ట్ చేయలేకపోయింది</string>
+  <string name="incall_video_call_request_rejected">కాల్ తిరస్కరించబడింది</string>
+  <string name="incall_video_call_request_timed_out">కాల్ సమయాభావం అయింది</string>
+  <string name="incall_hanging_up">కాల్ ముగిస్తోంది</string>
+  <string name="incall_call_ended">కాల్ ముగిసింది</string>
+  <string name="incall_remotely_held">హోల్డ్‌లో ఉంది</string>
+  <string name="contact_grid_incoming_video_call">వీరి నుండి క్యారియర్ వీడియో కాల్</string>
+  <string name="contact_grid_incoming_wifi_video_call">వీరి నుండి Wi-Fi క్యారియర్ వీడియో కాల్</string>
+  <string name="contact_grid_incoming_voice_call">వీరి నుండి కాల్:</string>
+  <string name="contact_grid_incoming_work_call">వీరి నుండి కార్యాలయ కాల్:</string>
+  <string name="contact_grid_incoming_via_template">%s ద్వారా ఇన్‌కమింగ్ కాల్</string>
+  <string name="contact_grid_incoming_suspected_spam">అనుమానాస్పద స్పామ్ కాలర్</string>
+  <string name="contact_grid_callback_number">ఈ ఫోన్ నంబర్: %1$s</string>
+</resources>

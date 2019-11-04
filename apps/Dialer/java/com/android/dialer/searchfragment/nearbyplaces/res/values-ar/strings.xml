@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">الأماكن المجاورة</string>
+  <string name="search_location_permission">للحصول على معلومات الاتصال بأماكن موجودة بالقرب منك، امنح صلاحية الوصول إلى موقعك.</string>
+  <string name="nearby_places_allow">سماح</string>
+  <string name="nearby_places_dismiss">رفض</string>
+</resources>

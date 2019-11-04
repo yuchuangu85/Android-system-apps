@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Yaxınlıqdakı yerlər</string>
+  <string name="search_location_permission">Yaxınlıqdakı yerlər haqqında kontakt məlumatı almaq üçün məkana giriş icazəsi verin.</string>
+  <string name="nearby_places_allow">İcazə verin</string>
+  <string name="nearby_places_dismiss">Rədd edin</string>
+</resources>

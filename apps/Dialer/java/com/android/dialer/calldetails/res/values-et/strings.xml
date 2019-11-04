@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Kõne üksikasjad</string>
+  <string name="delete">Kustuta</string>
+  <string name="call_details_copy_number">Kopeeri number</string>
+  <string name="call_details_edit_number">Muuda numbrit enne helistamist</string>
+  <string name="call_details_report_call_id">Valest numbrist teavitamine</string>
+  <string name="sent_a_photo">Saatis foto</string>
+  <string name="received_a_photo">Sai foto</string>
+  <string name="message_in_quotes">„%1$s”</string>
+  <string name="report_caller_id_dialog_title">Valest numbrist teavitamine</string>
+  <string name="report_caller_id_failed">Numbrist ei õnnestunud teavitada</string>
+  <string name="report_caller_id_toast">Numbrist teavitati</string>
+  <string name="assisted_dialing_country_code_entry">Abistatud helistamine: kasutati riigikoodi +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Kasutati abistatud helistamist</string>
+  <string name="rtt_transcript_not_available">Transkribeerimine on saadaval ainult sõnumsidega kõnede puhul</string>
+  <string name="rtt_transcript_link">Kuva transkriptsioon</string>
+</resources>

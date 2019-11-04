@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Uppáhald</string>
+  <string name="suggestions_header">Algengir</string>
+  <string name="speed_dial_add_button_text">Bæta við</string>
+  <string name="speed_dial_remember_this_choice">Muna þetta val</string>
+  <string name="speed_dial_disambig_dialog_title">Veldu gerð símtals</string>
+  <string name="disambig_option_video_call">Myndsímtal</string>
+  <string name="disambig_option_voice_call">Símtal</string>
+  <string name="add_favorite_activity_title">Setja í eftirlæti</string>
+  <string name="contact_menu_voice_call">Raddsímtal</string>
+  <string name="contact_menu_video_call">Myndsímtal</string>
+  <string name="contact_menu_message">Skilaboð</string>
+  <string name="contact_menu_remove">Fjarlægja</string>
+  <string name="contact_menu_contact_info">Samskiptauppl.</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Bæta við uppáhald</string>
+  <string name="speed_dial_contacts_permission_description">Kveiktu á tengiliðaheimildinni til að gera hraðval virkt.</string>
+  <string name="speed_dial_turn_on_contacts_permission">Kveikja</string>
+  <string name="speed_dial_no_contacts_description">Þú hefur ekki bætt neinum við uppáhald ennþá</string>
+  <string name="speed_dial_no_contacts_action_text">Bæta við uppáhald</string>
+  <string name="speed_dial_remove_favorites">Fjarlægja úr uppáhaldi</string>
+</resources>

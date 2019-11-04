@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <color name="black_24_alpha">#3D000000</color>
+    <color name="black_38_alpha">#61000000</color>
+    <color name="black_54_alpha">#8A000000</color>
+    <color name="black_67_alpha">#AB000000</color>
+    <color name="black_87_alpha">#DE000000</color>
+    <color name="translucent_black_lighter">#59000000</color>
+    <!-- Color for material black text @ 60% opacity. -->
+    <color name="translucent_black_60_alpha">#99000000</color>
+    <color name="translucent_black_90_alpha">#E6000000</color>
+    <color name="translucent_black">@color/translucent_black_60_alpha</color>
+
+    <color name="light_grey">#d8d8d8</color>
+    <color name="white_34_alpha">#57FFFFFF</color>
+    <color name="white_60_alpha">#99FFFFFF</color>
+    <color name="white_67_alpha">#ABFFFFFF</color>
+    <color name="white_70_alpha">#B3FFFFFF</color>
+    <color name="white_80_alpha">#CCFFFFFF</color>
+    <color name="white_88_alpha">#E0FFFFFF</color>
+
+    <!-- Dark scrollbar thumb color (26% of black) -->
+    <color name="scrollbar_thumb_color_dark">#43000000</color>
+
+    <color name="category_picker_background_color">@color/material_grey200</color>
+    <color name="category_title_scrim_color">@color/translucent_black</color>
+    <color name="category_title_scrim_color_no_thumbnail">@color/translucent_black</color>
+    <color name="category_title_text_color">@color/material_white_100</color>
+
+    <color name="currently_set_presentation_mode_text_color">@color/category_title_text_color</color>
+    <color name="currently_set_title_text_color">@color/material_white_text</color>
+    <color name="currently_set_subtitle_text_color">@color/white_70_alpha</color>
+    <color name="currently_set_divider_background_color">@color/material_white_divider</color>
+    <color name="currently_set_explore_button_color">@color/white_80_alpha</color>
+
+    <color name="currently_set_both_header_scrim">@color/translucent_black</color>
+    <color name="currently_set_both_refresh_button_color">@color/material_white_100</color>
+    <color name="currently_set_both_title_text_color">@color/material_white_text</color>
+    <color name="currently_set_both_presentation_mode_text_color">@color/material_white_text</color>
+    <color name="currently_set_both_attribution_title_text_color">@color/material_white_text</color>
+    <color name="currently_set_both_attribution_subtitle_text_color">@color/white_70_alpha</color>
+
+    <color name="select_wallpaper_header_text_color">@color/white_60_alpha</color>
+
+    <color name="rotation_tile_enabled_background_color">@color/accent_color</color>
+    <color name="rotation_tile_enabled_title_text_color">@color/material_white_100</color>
+    <color name="rotation_tile_enabled_subtitle_text_color">@color/white_88_alpha</color>
+    <color name="rotation_tile_enabled_refresh_icon_color">@color/white_88_alpha</color>
+    <color name="rotation_tile_not_enabled_background_color">@color/secondary_color</color>
+    <color name="rotation_tile_not_enabled_title_text_color">@color/material_white_100</color>
+    <color name="rotation_tile_not_enabled_subtitle_text_color">@color/white_88_alpha</color>
+    <color name="rotation_tile_not_enabled_refresh_icon_color">@color/white_88_alpha</color>
+
+    <color name="individual_tile_title_scrim_color">@color/translucent_black</color>
+    <color name="individual_tile_title_text_color">@color/material_white_100</color>
+
+    <color name="individual_picker_background_color">@color/translucent_black</color>
+
+    <color name="preview_pane_arrow_color">@color/material_white_100</color>
+
+    <color name="toolbar_icon_color">@color/material_white_text</color>
+</resources>

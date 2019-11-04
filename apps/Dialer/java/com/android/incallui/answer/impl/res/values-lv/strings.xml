@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Lai noraidītu, izmantojot ziņojumu, velciet no ikonas</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Lai atbildētu audiozvanā, velciet no ikonas</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Velciet augšup, lai atbildētu un aizturētu notiekošo zvanu</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Velciet augšup, lai atbildētu un beigtu aizturēto zvanu</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Velciet no ikonas, lai atbildētu un beigtu notiekošo zvanu</string>
+  <string name="call_incoming_message_custom">Rakstīt savu…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Rakstīt savu…</string>
+  <string name="call_incoming_custom_message_cancel">Atcelt</string>
+  <string name="call_incoming_custom_message_send">Sūtīt</string>
+  <string name="a11y_incoming_call_reject_with_sms">Noraidīt šo zvanu, izmantojot ziņojumu</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Atbildēt audiozvanā</string>
+  <string name="a11y_incoming_call_answer_and_release">Atbildiet un beidziet notiekošo zvanu</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Noraidīt, izmantojot ziņojumu</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Atbildēt audiozvanā</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Atbildiet un beidziet notiekošo zvanu</string>
+  <string name="call_incoming_video_is_off">Video ir izslēgts</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Ar diviem pirkstiem velciet augšup, lai atbildētu. Ar diviem pirkstiem velciet lejup, lai noraidītu.</string>
+  <string name="call_incoming_important">Svarīgs</string>
+</resources>

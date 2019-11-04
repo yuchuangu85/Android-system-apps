@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">アイコンをスワイプして着信を拒否し、メッセージを送信</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">アイコンをスワイプして音声通話として応答</string>
+  <string name="call_incoming_default_label_answer_and_release_second">上にスワイプして通話に応答し、進行中の通話を保留</string>
+  <string name="call_incoming_default_label_answer_and_release_third">上にスワイプして通話に応答し、保留中の通話を終了</string>
+  <string name="call_incoming_swipe_to_answer_and_release">アイコンをスワイプして通話に応答し、進行中の通話を終了</string>
+  <string name="call_incoming_message_custom">カスタム返信を作成…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">カスタム返信を作成…</string>
+  <string name="call_incoming_custom_message_cancel">キャンセル</string>
+  <string name="call_incoming_custom_message_send">送信</string>
+  <string name="a11y_incoming_call_reject_with_sms">この着信を拒否してメッセージを送信</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">音声通話として応答</string>
+  <string name="a11y_incoming_call_answer_and_release">通話に応答し、進行中の通話を終了</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">拒否してメッセージを送信</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">音声通話として応答</string>
+  <string name="a11y_description_incoming_call_answer_and_release">通話に応答し、進行中の通話を終了</string>
+  <string name="call_incoming_video_is_off">ビデオ: OFF</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">応答するには 2 本の指で上にスワイプ、拒否するには 2 本の指で下にスワイプします。</string>
+  <string name="call_incoming_important">重要</string>
+</resources>

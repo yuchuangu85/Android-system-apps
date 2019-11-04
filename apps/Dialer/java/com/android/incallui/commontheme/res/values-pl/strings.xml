@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Zakończ połączenie</string>
+  <string name="incall_content_description_muted">Wyciszono</string>
+  <string name="incall_content_description_unmuted">Wyłączono wyciszenie</string>
+  <string name="incall_content_description_swap_calls">Przełącz połączenie</string>
+  <string name="incall_content_description_swap_sim">Zmień kartę SIM</string>
+  <string name="incall_content_description_merge_calls">Scal połączenia</string>
+  <string name="incall_content_description_earpiece">Słuchawka telefonu</string>
+  <string name="incall_content_description_speaker">Głośnik</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Przewodowy zestaw słuchawkowy</string>
+  <string name="incall_content_description_hold">Wstrzymaj połączenie</string>
+  <string name="incall_content_description_unhold">Wznów połączenie</string>
+  <string name="incall_content_description_video_on">Wideo włączone</string>
+  <string name="incall_content_description_video_off">Wideo wyłączone</string>
+  <string name="incall_content_description_swap_video">Przełącz wideo</string>
+  <string name="incall_label_speaker">Głośnik</string>
+  <string name="incall_label_audio">Dźwięk</string>
+</resources>

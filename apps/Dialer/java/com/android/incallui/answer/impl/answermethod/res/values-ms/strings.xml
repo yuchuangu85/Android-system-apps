@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Leret ke atas untuk menjawab</string>
+  <string name="call_incoming_swipe_to_reject">Leret ke bawah untuk menolak</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Leret ke atas menggunakan dua jari untuk menjawab panggilan atau ke bawah untuk menolak panggilan</string>
+  <string name="call_incoming_will_disconnect">Panggilan video anda akan ditamatkan apabila anda menjawab panggilan ini</string>
+  <string name="a11y_call_incoming_decline_description">Tolak</string>
+  <string name="call_incoming_decline">Tolak</string>
+  <string name="a11y_call_incoming_answer_description">Jawab</string>
+  <string name="call_incoming_answer">Jawab</string>
+</resources>

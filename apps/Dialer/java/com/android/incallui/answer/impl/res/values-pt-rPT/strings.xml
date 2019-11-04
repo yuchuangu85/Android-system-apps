@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Deslize rapidamente a partir do ícone para recusar com uma mensagem</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Deslize rapidamente a partir do ícone para atender como uma chamada de voz</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Deslize rapidamente para cima para atender e colocar em espera uma chamada em curso</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Deslize rapidamente para cima para atender e terminar uma chamada em espera</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Deslizar rapidamente a partir do ícone para atender e terminar uma chamada em curso</string>
+  <string name="call_incoming_message_custom">Escreva a sua própria…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Escreva a sua própria…</string>
+  <string name="call_incoming_custom_message_cancel">Cancelar</string>
+  <string name="call_incoming_custom_message_send">Enviar</string>
+  <string name="a11y_incoming_call_reject_with_sms">Rejeitar esta chamada com uma mensagem</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Atender como chamada de voz</string>
+  <string name="a11y_incoming_call_answer_and_release">Atender e terminar uma chamada em curso</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Rejeitar com mensagem</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Atender como chamada de voz</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Atender e terminar uma chamada em curso</string>
+  <string name="call_incoming_video_is_off">O vídeo está desativado</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Deslize rapidamente com dois dedos para cima para responder. Deslize rapidamente com dois dedos para baixo para recusar.</string>
+  <string name="call_incoming_important">Importante</string>
+</resources>

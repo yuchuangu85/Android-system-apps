@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Детаљи позива</string>
+  <string name="delete">Избриши</string>
+  <string name="call_details_copy_number">Копирај број</string>
+  <string name="call_details_edit_number">Измените број пре позива</string>
+  <string name="call_details_report_call_id">Пријави нетачан број</string>
+  <string name="sent_a_photo">Слика је послата</string>
+  <string name="received_a_photo">Слика је примљена</string>
+  <string name="message_in_quotes">„%1$s“</string>
+  <string name="report_caller_id_dialog_title">Пријавите нетачан број</string>
+  <string name="report_caller_id_failed">Пријављивање броја није успело</string>
+  <string name="report_caller_id_toast">Број је пријављен</string>
+  <string name="assisted_dialing_country_code_entry">Потпомогнуто бирање: користили смо позивни број за земљу +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Користили сте потпомогнуто бирање</string>
+  <string name="rtt_transcript_not_available">Транскрипт је доступан само за позиве са разменом порука</string>
+  <string name="rtt_transcript_link">Прикажи транскрипт</string>
+</resources>

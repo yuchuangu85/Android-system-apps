@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Vídeo desativado</string>
+  <string name="videocall_remote_video_on">O vídeo está ligado</string>
+  <string name="videocall_remotely_held">Chamada em espera</string>
+  <string name="videocall_remotely_resumed">Chamada retomada</string>
+  <string name="videocall_charges_alert_dialog_description">As chamadas de vídeo efetuadas através da rede móvel usam dados e minutos de chamadas. Poderão ser aplicados custos.</string>
+  <string name="do_not_show_again">Não mostrar novamente</string>
+</resources>

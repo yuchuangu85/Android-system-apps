@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Omogući</string>
+  <string name="video_call_not_available_title">Video poziv trenutno nije dostupan</string>
+  <string name="video_call_not_available_message">Probajte ponovo da uputite poziv kasnije ili ga nastavite kao audio poziv.</string>
+  <string name="voice_call">Uputi audio poziv</string>
+</resources>

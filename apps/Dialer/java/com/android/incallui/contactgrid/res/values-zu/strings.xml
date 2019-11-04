@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Ishaya ucingo nge-%s</string>
+  <string name="incall_calling_on_same_carrier_template">Ishaya kunkampani yenethiwekhi efanayo ye-%s</string>
+  <string name="incall_calling_on_recent_choice_template">Ishaya ekukhethweni kwakamuva kwe-%s</string>
+  <string name="incall_connecting">Iyashaya...</string>
+  <string name="incall_connecting_assited_dialed">Ukushaya kusetshenziswa okuthi +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Isebenzisa okungu-+%1$s (%2$s)…</string>
+  <string name="incall_transferring">Iyadlulisela...</string>
+  <string name="incall_video_call_requesting">Ukushaya kwevidiyo kwenkampani yenethiwekhi...</string>
+  <string name="incall_wifi_video_call_requesting">Ukushaya kwevidiyo kwenkampani yenethiwekhi ye-Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Ishintshela kuvidiyo yenkampani yenethiwekhi…</string>
+  <string name="incall_video_call_request_failed">Ayikwazanga ukuxhumeka</string>
+  <string name="incall_video_call_request_rejected">Ucingo lunqatshiwe</string>
+  <string name="incall_video_call_request_timed_out">Ucingo luphelelwe yisikhathi</string>
+  <string name="incall_hanging_up">Iyavala</string>
+  <string name="incall_call_ended">Ikholi iqediwe</string>
+  <string name="incall_remotely_held">Ibambile</string>
+  <string name="contact_grid_incoming_video_call">Ikholi yevidiyo yenkampani yenethiwekhi kusukela</string>
+  <string name="contact_grid_incoming_wifi_video_call">Ukushaya kwevidiyo kwenkampani yenethiwekhi kwe-Wi-Fi kusukela</string>
+  <string name="contact_grid_incoming_voice_call">Ikholi esuka ku-</string>
+  <string name="contact_grid_incoming_work_call">Ikholi yomsebenzi kusukela ku-</string>
+  <string name="contact_grid_incoming_via_template">Ingena nge-%s</string>
+  <string name="contact_grid_incoming_suspected_spam">Ofonayo osolisayo wogaxekile</string>
+  <string name="contact_grid_callback_number">Le nombolo yefoni: %1$s</string>
+</resources>

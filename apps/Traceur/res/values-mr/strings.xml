@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="system_tracing" msgid="4719188511746319848">"सिस्टम माग काढत आहे"</string>
+    <string name="record_system_activity" msgid="4339462312915377825">"सिस्टम अॅक्टिव्हिटी रेकॉर्ड करा आणि कामगिरी सुधारण्यासाठी त्यांचे नंतर विश्लेषण करा"</string>
+    <string name="record_trace" msgid="6416875085186661845">"रेकॉर्डचा माग"</string>
+    <string name="trace_debuggable_applications" msgid="7957069895298887899">"डीबग करण्यायोग्य अॅप्लिकेशन ट्रेस करा"</string>
+    <string name="categories" msgid="2280163673538611008">"वर्गवार्‍या"</string>
+    <string name="restore_default_categories" msgid="5090536794637169521">"डिफॉल्ट वर्गवार्‍या रिस्‍‍‍‍‍टोअर करा"</string>
+    <string name="default_categories_restored" msgid="6861683793680564181">"डिफॉल्ट वर्गवार्‍या रिस्‍‍‍‍‍टोअर केल्या"</string>
+    <string name="default_categories" msgid="2117679794687799407">"डीफॉल्ट"</string>
+    <plurals name="num_categories_selected" formatted="false" msgid="963928263524652497">
+      <item quantity="other">%d निवडली</item>
+      <item quantity="one">%d निवडली</item>
+    </plurals>
+    <string name="applications" msgid="521776761270770549">"अॅप्लिकेशन"</string>
+    <string name="no_debuggable_apps" msgid="4386209254520471208">"डीबग करण्यायोग्य अॅप्लिकेशन उपलब्ध नाहीत"</string>
+    <string name="buffer_size" msgid="3944311026715111454">"प्रति सीपीयू बफर आकार"</string>
+    <string name="show_quick_settings_tile" msgid="4971147332635291585">"झटपट सेटिंग्ज टाइल दाखवा"</string>
+    <string name="saving_trace" msgid="1468692734770800541">"माग सेव्ह करत आहे"</string>
+    <string name="trace_saved" msgid="5869970594780992309">"माग सेव्ह केला"</string>
+    <string name="tap_to_share" msgid="6766732404489536899">"तुमचा माग शेअर करण्यासाठी टॅप करा"</string>
+    <string name="stop_tracing" msgid="8916938308534164152">"माग काढणे थांबवा"</string>
+    <string name="tracing_categories_unavailable" msgid="5609076391417077752">"माग काढण्याच्या काही वर्गवार्‍या अनुपलब्ध आहेत:"</string>
+    <string name="trace_is_being_recorded" msgid="5947378146009337469">"माग रेकॉर्ड केला जात आहे"</string>
+    <string name="tap_to_stop_tracing" msgid="6533282719573871806">"माग काढणे थांबवण्यासाठी टॅप करा"</string>
+    <string name="clear_saved_traces" msgid="4809195654452260944">"सेव्ह केलेले माग साफ करा"</string>
+    <string name="clear_saved_traces_question" msgid="2184026613055303818">"सेव्ह केलेले ट्रेस साफ करायचे का?"</string>
+    <string name="all_traces_will_be_deleted" msgid="6646545462206955920">"/data/local/traces मधून सर्व ट्रेस हटवले जातील"</string>
+    <string name="clear" msgid="5484761795406948056">"साफ करा"</string>
+    <string name="system_traces_storage_title" msgid="8294090839883366871">"सिस्टम माग"</string>
+    <string name="keywords" msgid="736547007949049535">"systrace, माग काढणे, कामगिरी"</string>
+    <string name="share_trace" msgid="4528525067822044385">"काढलेला माग शेअर करायचा का?"</string>
+    <string name="system_trace_sensitive_data" msgid="3069389866696009549">"सिस्टमचा माग काढणे फायलींमध्ये संवेदनशील सिस्टम आणि अ‍ॅप डेटा (जसे की अ‍ॅप वापर) यांचा समावेश असू शकतो. ज्या लोकांवर आणि अ‍ॅपवर तुमचा विश्वास आहे केवळ त्यांच्यासह हा सिस्टमचा माग शेअर करा."</string>
+    <string name="share" msgid="8443979083706282338">"शेअर करा"</string>
+    <string name="dont_show_again" msgid="6662492041164390600">"पुन्हा दाखवू नका"</string>
+    <string name="use_perfetto_beta" msgid="2725630143916520160">"परफेट्टो (बीटा) वापरा"</string>
+    <string name="long_traces" msgid="5110949471775966329">"मोठे ट्रेस"</string>
+    <string name="long_traces_summary" msgid="419034282946761469">"सातत्याने डिव्हाइस स्टोरेजवर सेव्ह केले जाते"</string>
+    <string name="max_long_trace_size" msgid="1943788179787181241">"मोठ्या ट्रेसचा कमाल आकार"</string>
+    <string name="max_long_trace_duration" msgid="8009837944364246785">"मोठ्या ट्रेसचा कमाल कालावधी"</string>
+    <string name="two_hundred_mb" msgid="4950018549725084512">"२०० MB"</string>
+    <string name="one_gb" msgid="590396985168692037">"एक GB"</string>
+    <string name="five_gb" msgid="7883941043220621649">"५ GB"</string>
+    <string name="ten_gb" msgid="4150452462544299276">"१० GB"</string>
+    <string name="twenty_gb" msgid="5717308686812140465">"२० GB"</string>
+    <string name="ten_minutes" msgid="7039181194343961324">"१० मिनिटे"</string>
+    <string name="thirty_minutes" msgid="2575810799813531395">"३० मिनिटे"</string>
+    <string name="one_hour" msgid="5219232935307966891">"एक तास"</string>
+    <string name="eight_hours" msgid="3207620892104451552">"आठ तास"</string>
+    <string name="twelve_hours" msgid="4647143276394563496">"१२ तास"</string>
+    <string name="twentyfour_hours" msgid="2789663313550030791">"२४ तास"</string>
+    <string name="four_thousand_kb" msgid="5156346740862105703">"४०९६ KB"</string>
+    <string name="eight_thousand_kb" msgid="8815334985638334081">"८१९२ KB"</string>
+    <string name="sixteen_thousand_kb" msgid="7342517169232459259">"१६३८४ KB"</string>
+    <string name="thirtytwo_thousand_kb" msgid="654328198799196150">"३२७६८ KB"</string>
+    <string name="sixtyfive_thousand_kb" msgid="8168144138598305306">"६५५३६ KB"</string>
+</resources>

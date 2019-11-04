@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ ~ Copyright (C) 2017 The Android Open Source Project
+ ~
+ ~ Licensed under the Apache License, Version 2.0 (the "License");
+ ~ you may not use this file except in compliance with the License.
+ ~ You may obtain a copy of the License at
+ ~
+ ~      http://www.apache.org/licenses/LICENSE-2.0
+ ~
+ ~ Unless required by applicable law or agreed to in writing, software
+ ~ distributed under the License is distributed on an "AS IS" BASIS,
+ ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ ~ See the License for the specific language governing permissions and
+ ~ limitations under the License
+ -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+  <TextView
+      android:id="@+id/disambig_dialog_title"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:gravity="center_vertical"
+      android:minHeight="56dp"
+      android:paddingStart="24dp"
+      android:paddingEnd="24dp"
+      android:elevation="1dp"
+      android:text="@string/speed_dial_disambig_dialog_title"
+      android:background="?android:attr/colorBackgroundFloating"
+      style="@style/Dialer.TextAppearance.Header2"/>
+
+  <com.android.dialer.widget.MaxHeightScrollView
+      android:id="@+id/disambig_scrollview"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:minHeight="168dp"
+      app:maxHeight="256dp">
+
+    <LinearLayout
+        android:id="@+id/communication_avenue_container"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+  </com.android.dialer.widget.MaxHeightScrollView>
+
+  <FrameLayout
+      android:id="@+id/remember_this_choice_container"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="bottom"
+      android:minHeight="64dp"
+      android:elevation="4dp"
+      android:background="?android:attr/colorBackgroundFloating">
+
+    <CheckBox
+        android:id="@+id/remember_this_choice_checkbox"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:textSize="14sp"
+        android:text="@string/speed_dial_remember_this_choice"
+        style="@style/DialerCheckboxStyle"/>
+  </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Calling via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Calling on same operator %s</string>
+  <string name="incall_calling_on_recent_choice_template">Calling on recent choice %s</string>
+  <string name="incall_connecting">Calling…</string>
+  <string name="incall_connecting_assited_dialed">Calling using +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Using +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Transferring…</string>
+  <string name="incall_video_call_requesting">Operator video calling…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi operator video calling…</string>
+  <string name="incall_video_call_upgrade_request">Switching to operator video…</string>
+  <string name="incall_video_call_request_failed">Unable to connect</string>
+  <string name="incall_video_call_request_rejected">Call declined</string>
+  <string name="incall_video_call_request_timed_out">Call timed out</string>
+  <string name="incall_hanging_up">Hanging up</string>
+  <string name="incall_call_ended">Call ended</string>
+  <string name="incall_remotely_held">On hold</string>
+  <string name="contact_grid_incoming_video_call">Operator video call from</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi operator video call from</string>
+  <string name="contact_grid_incoming_voice_call">Call from</string>
+  <string name="contact_grid_incoming_work_call">Work call from</string>
+  <string name="contact_grid_incoming_via_template">Incoming via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Suspected spam caller</string>
+  <string name="contact_grid_callback_number">This phone\'s number: %1$s</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Идите назад</string>
+  <string name="description_dialpad_overflow">Још опција</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">унесите плус</string>
+  <string name="description_voicemail_button">позовите говорну пошту</string>
+  <string name="description_dial_button">бирајте број</string>
+  <string name="dialog_voicemail_airplane_mode_message">Да бисте позвали говорну пошту, прво искључите режим рада у авиону.</string>
+  <string name="dialog_voicemail_not_ready_message">Да бисте подесили говорну пошту, идите у Мени &gt; Подешавања.</string>
+  <string name="add_2sec_pause">Додај паузу од 2 секунде</string>
+  <string name="add_wait">Додај чекање</string>
+  <string name="dialer_useDtmfDialpad">Користи тастатуру за тонско бирање</string>
+  <string name="dialer_returnToInCallScreen">Назад у позив који је у току</string>
+  <string name="dialer_addAnotherCall">Додај позив</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Учитава се са SIM картице…</string>
+  <string name="simContacts_title">Контакти на SIM картици</string>
+  <string name="menu_callNumber">Позови %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Не можете да упућујете хитне позиве преко Wi‑Fi-ја</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Није могуће позвати овај број</string>
+</resources>

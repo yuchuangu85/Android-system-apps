@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:viewportWidth="34"
+    android:viewportHeight="34"
+    android:width="@dimen/ic_radio_am_width"
+    android:height="@dimen/ic_radio_am_height">
+    <group
+        android:translateX="-5"
+        android:translateY="-5">
+        <group
+            android:translateX="5.5"
+            android:translateY="5.5">
+            <path
+                android:pathData="M29.333333 0L3.6666667 0C1.6316667 0 0 1.65 0 3.6666667L0 29.333333C0 31.35 1.6316667 33 3.6666667 33L29.333333 33C31.35 33 33 31.35 33 29.333333L33 3.6666667C33 1.65 31.35 0 29.333333 0Zm0 29.333333l-25.6666663 0 0 -25.6666663 25.6666663 0 0 25.6666663z"
+                android:fillColor="@color/radio_am_fill_color" />
+        </group>
+        <path
+            android:pathData="M21.84375 27l-3.101563 0 -0.804687 -2.351563 -4.3125 0L12.820313 27 9.796875 27 14.09375 15.367188l3.453125 0L21.84375 27Zm-4.632813 -4.484375l-1.429687 -4.171875 -1.429687 4.171875 2.859374 0z"
+            android:fillColor="@color/radio_am_fill_color" />
+        <path
+            android:pathData="M32.588013 27l-2.984375 0 0 -7.789063 -2.15625 5.054688 -2.070313 0 -2.15625 -5.054688 0 7.789063 -2.828125 0 0 -11.632812 3.484375 0 2.617188 5.835937 2.609375 -5.835937 3.484375 0 0 11.632812z"
+            android:fillColor="@color/radio_am_fill_color" />
+    </group>
+</vector>

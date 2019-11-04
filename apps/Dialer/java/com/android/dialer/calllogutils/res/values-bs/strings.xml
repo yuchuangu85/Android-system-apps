@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Dolazni poziv</string>
+  <string name="type_incoming_pulled">Dolazni poziv je prebačen na drugi uređaj</string>
+  <string name="type_outgoing">Odlazni poziv</string>
+  <string name="type_outgoing_pulled">Odlazni poziv je prebačen na drugi uređaj</string>
+  <string name="type_missed">Propušteni poziv</string>
+  <string name="type_incoming_video">Dolazni video poziv</string>
+  <string name="type_incoming_video_pulled">Dolazni video poziv je prebačen na drugi uređaj</string>
+  <string name="type_outgoing_video">Odlazni video poziv</string>
+  <string name="type_outgoing_video_pulled">Odlazni video poziv je prebačen na drugi uređaj</string>
+  <string name="type_missed_video">Propušteni video poziv</string>
+  <string name="type_voicemail">Govorna pošta</string>
+  <string name="type_rejected">Odbijeni poziv</string>
+  <string name="type_blocked">Blokirani poziv</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekunda</item>
+    <item quantity="few">sekunde</item>
+    <item quantity="other">sekundi</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minuta</item>
+    <item quantity="few">minute</item>
+    <item quantity="other">minuta</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Poziv je primljen na drugom uređaju</string>
+  <string name="description_phone_account">na ^1</string>
+  <string name="description_via_number">preko %1$s</string>
+  <string name="description_via_number_phone_account">na %1$s, preko %2$s</string>
+  <string name="voicemail_string">Govorna pošta</string>
+  <string name="just_now">Upravo</string>
+  <string name="new_call_log_carrier_video">Video poziv putem operatera</string>
+  <string name="new_call_log_duo_video">Duo video poziv</string>
+  <string name="new_call_log_unknown">Nepoznato</string>
+  <string name="new_call_log_secondary_blocked">Blokirano</string>
+  <string name="new_call_log_secondary_spam">Neželjena pošta</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 poziv. Posljednji poziv je propušteni poziv od osobe ^2</item>
+    <item quantity="few">^1 poziva. Posljednji poziv je propušteni poziv od osobe ^2</item>
+    <item quantity="other">^1 poziva. Posljednji poziv je propušteni poziv od osobe ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 poziv. Posljednji poziv je prihvaćeni poziv od osobe ^2</item>
+    <item quantity="few">^1 poziva. Posljednji poziv je prihvaćeni poziv od osobe ^2</item>
+    <item quantity="other">^1 poziva. Posljednji poziv je prihvaćeni poziv od osobe ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 poziv. Posljednji poziv je odlazni poziv upućen osobi ^2</item>
+    <item quantity="few">^1 poziva. Posljednji poziv je odlazni poziv upućen osobi ^2</item>
+    <item quantity="other">^1 poziva. Posljednji poziv je odlazni poziv upućen osobi ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 poziv. Posljednji poziv je blokirani poziv od osobe ^2</item>
+    <item quantity="few">^1 poziva. Posljednji poziv je blokirani poziv od osobe ^2</item>
+    <item quantity="other">^1 poziva. Posljednji poziv je blokirani poziv od osobe ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">na računu ^1,
+    putem broja ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">আশপাশের জায়গাগুলি</string>
+  <string name="search_location_permission">আশেপাশের স্থানগুলির যোগাযোগের তথ্য পেতে আপনার লোকেশনে অ্যাক্সেস দিন।</string>
+  <string name="nearby_places_allow">অ্যাক্সেস দিন</string>
+  <string name="nearby_places_dismiss">খারিজ করুন</string>
+</resources>

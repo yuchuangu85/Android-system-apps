@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Egyéni üzenet írása</string>
+  <string name="toolbar_close">Bezárás</string>
+  <string name="all_contacts_empty">Még nem rendelkezik egyetlen névjeggyel sem</string>
+  <string name="all_contacts_empty_add_contact_action">Új névjegy</string>
+  <string name="permission_single_turn_on">Bekapcsolás</string>
+  <string name="permission_no_contacts">A névjegyek megtekintéséhez kapcsolja be a Névjegyek engedélyt.</string>
+  <string name="add_contact_not_available">Nincs elérhető névjegykezelő alkalmazás</string>
+</resources>

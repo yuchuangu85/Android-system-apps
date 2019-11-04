@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">გაფრთხილების ჩვენება ყოველ ჯერზე</string>
+  <string name="details">თქვენ რეკავთ საერთაშორისო ნომერზე და შესაძლოა მოგიწიოთ საფასურის გადახდა.</string>
+</resources>

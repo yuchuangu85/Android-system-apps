@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Their video is off</string>
+  <string name="videocall_remote_video_on">Their video is on</string>
+  <string name="videocall_remotely_held">Call on hold</string>
+  <string name="videocall_remotely_resumed">Call resumed</string>
+  <string name="videocall_charges_alert_dialog_description">Video calls made over the mobile network use both data and voice minutes. Charges may apply.</string>
+  <string name="do_not_show_again">Do not show this again</string>
+</resources>

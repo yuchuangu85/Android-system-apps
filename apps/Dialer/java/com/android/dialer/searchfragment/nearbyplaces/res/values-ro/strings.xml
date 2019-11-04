@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Locații din apropiere</string>
+  <string name="search_location_permission">Pentru a primit informații legate de locuri din aproprierea dvs., permiteți accesul la locație.</string>
+  <string name="nearby_places_allow">Permiteți</string>
+  <string name="nearby_places_dismiss">Închideți</string>
+</resources>

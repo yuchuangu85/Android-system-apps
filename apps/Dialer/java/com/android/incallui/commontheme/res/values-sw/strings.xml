@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Kata simu</string>
+  <string name="incall_content_description_muted">Maikrofoni imezimwa</string>
+  <string name="incall_content_description_unmuted">Sauti imerejeshwa</string>
+  <string name="incall_content_description_swap_calls">Badilisha simu</string>
+  <string name="incall_content_description_swap_sim">Badilisha SIM</string>
+  <string name="incall_content_description_merge_calls">Unganisha simu</string>
+  <string name="incall_content_description_earpiece">Spika ya simu</string>
+  <string name="incall_content_description_speaker">Spika</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Vifaa vya sauti vyenye waya</string>
+  <string name="incall_content_description_hold">Sitisha simu</string>
+  <string name="incall_content_description_unhold">Endelea na simu</string>
+  <string name="incall_content_description_video_on">Washa video</string>
+  <string name="incall_content_description_video_off">Zima video</string>
+  <string name="incall_content_description_swap_video">Badilisha video</string>
+  <string name="incall_label_speaker">Spika</string>
+  <string name="incall_label_audio">Sauti</string>
+</resources>

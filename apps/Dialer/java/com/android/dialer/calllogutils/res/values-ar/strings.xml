@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">مكالمة واردة</string>
+  <string name="type_incoming_pulled">تم تحويل مكالمة واردة إلى جهاز آخر</string>
+  <string name="type_outgoing">مكالمة صادرة</string>
+  <string name="type_outgoing_pulled">تم تحويل مكالمة صادرة إلى جهاز آخر</string>
+  <string name="type_missed">مكالمة فائتة</string>
+  <string name="type_incoming_video">مكالمة فيديو واردة</string>
+  <string name="type_incoming_video_pulled">تم تحويل مكالمة فيديو واردة إلى جهاز آخر</string>
+  <string name="type_outgoing_video">مكالمة فيديو صادرة</string>
+  <string name="type_outgoing_video_pulled">تم تحويل مكالمة فيديو صادرة إلى جهاز آخر</string>
+  <string name="type_missed_video">مكالمة فيديو فائتة</string>
+  <string name="type_voicemail">البريد الصوتي</string>
+  <string name="type_rejected">مكالمة مرفوضة</string>
+  <string name="type_blocked">مكالمة محظورة</string>
+  <string name="call_details_minutes_abbreviation">د</string>
+  <string name="call_details_seconds_abbreviation">ث</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="zero">ثوان</item>
+    <item quantity="one">ثانية واحدة</item>
+    <item quantity="two">ثانيتان</item>
+    <item quantity="few">ثوان</item>
+    <item quantity="many">ثانية</item>
+    <item quantity="other">ثانية</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="zero">دقيقة</item>
+    <item quantity="one">دقيقة</item>
+    <item quantity="two">دقيقتان</item>
+    <item quantity="few">دقائق</item>
+    <item quantity="many">دقيقة</item>
+    <item quantity="other">دقيقة</item>
+  </plurals>
+  <string name="type_answered_elsewhere">تم الرد على المكالمة على جهاز آخر</string>
+  <string name="description_phone_account">من ^1</string>
+  <string name="description_via_number">من خلال %1$s</string>
+  <string name="description_via_number_phone_account">على %1$s من خلال %2$s</string>
+  <string name="voicemail_string">البريد الصوتي</string>
+  <string name="just_now">للتو</string>
+  <string name="new_call_log_carrier_video">فيديو عن طريق مشغل شبكة الجوال</string>
+  <string name="new_call_log_duo_video">‏فيديو Duo</string>
+  <string name="new_call_log_unknown">غير معروف</string>
+  <string name="new_call_log_secondary_blocked">محظورة</string>
+  <string name="new_call_log_secondary_spam">المحتوى غير المرغوب فيه</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="zero">^1 مكالمات، الأخيرة هي مكالمة فائتة من ^2</item>
+    <item quantity="one">^1 مكالمة فائتة من ^2</item>
+    <item quantity="two">مكالمتان ^1، الأخيرة هي مكالمة فائتة من ^2</item>
+    <item quantity="few">^1 مكالمات، الأخيرة هي مكالمة فائتة من ^2</item>
+    <item quantity="many">^1 مكالمة، الأخيرة هي مكالمة فائتة من ^2</item>
+    <item quantity="other">^1 مكالمة، الأخيرة هي مكالمة فائتة من ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="zero">^1 مكالمات، الأخيرة هي مكالمة تم الرد عليها من قِبل ^2</item>
+    <item quantity="one">^1 مكالمة تم الرد عليها من قِبل ^2</item>
+    <item quantity="two">مكالمتان ^1، الأخيرة هي مكالمة تم الرد عليها من قِبل ^2</item>
+    <item quantity="few">^1 مكالمات، الأخيرة هي مكالمة تم الرد عليها من قِبل ^2</item>
+    <item quantity="many">^1 مكالمة، الأخيرة هي مكالمة تم الرد عليها من قِبل ^2</item>
+    <item quantity="other">^1 مكالمة، الأخيرة هي مكالمة تم الرد عليها من قِبل ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="zero">^1 مكالمات، الأخيرة هي مكالمة صادرة إلى ^2</item>
+    <item quantity="one">^1 مكالمة صادرة إلى ^2</item>
+    <item quantity="two">مكالمتان ^1، الأخيرة هي مكالمة صادرة إلى ^2</item>
+    <item quantity="few">^1 مكالمات، الأخيرة هي مكالمة صادرة إلى ^2</item>
+    <item quantity="many">^1 مكالمة، الأخيرة هي مكالمة صادرة إلى ^2</item>
+    <item quantity="other">^1 مكالمة، الأخيرة هي مكالمة صادرة إلى ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="zero">^1 مكالمات، الأخيرة هي مكالمة محظورة من ^2</item>
+    <item quantity="one">^1 مكالمة محظورة من ^2</item>
+    <item quantity="two">مكالمتان ^1، الأخيرة هي مكالمة محظورة من ^2</item>
+    <item quantity="few">^1 مكالمات، الأخيرة هي مكالمة محظورة من ^2</item>
+    <item quantity="many">^1 مكالمة، الأخيرة هي مكالمة محظورة من ^2</item>
+    <item quantity="other">^1 مكالمة، الأخيرة هي مكالمة محظورة من ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">على ^1،
+    من خلال ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1، ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1، ^2، ^3.</string>
+</resources>

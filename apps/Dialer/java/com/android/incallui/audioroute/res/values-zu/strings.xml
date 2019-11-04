@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">I-Bluetooth</string>
+  <string name="audioroute_speaker">Isipikha</string>
+  <string name="audioroute_phone">Ifoni</string>
+  <string name="audioroute_headset">I-headset enezincingo</string>
+</resources>

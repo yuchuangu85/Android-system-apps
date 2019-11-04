@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">កន្លែងនៅក្បែរ</string>
+  <string name="search_location_permission">ដើម្បី​ទទួល​បាន​ព័ត៌មាន​ទំនាក់ទំនង​សម្រាប់​កន្លែង​ដែល​នៅ​ជិត​អ្នក សូម​អនុញ្ញាត​ការចូលប្រើប្រាស់​ទីតាំង​របស់​អ្នក។</string>
+  <string name="nearby_places_allow">អនុញ្ញាត</string>
+  <string name="nearby_places_dismiss">បដិសេធ</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Standardlyd (%1$s)</string>
+  <string name="ringtone_silent">Ingen</string>
+  <string name="ringtone_unknown">Ukendt ringetone</string>
+  <string name="activity_not_available">Der findes Ingen app til det på denne enhed</string>
+  <string name="outgoing_wps_warning">Hvis du foretager et WPS-opkald, afsluttes dit nuværende opkald.</string>
+  <string name="dialog_continue">Fortsæt</string>
+  <string name="camera_privacy_text">Kameratilladelse er aktiveret</string>
+</resources>

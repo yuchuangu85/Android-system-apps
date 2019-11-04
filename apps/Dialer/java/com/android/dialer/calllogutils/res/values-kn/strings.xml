@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">ಒಳಬರುವ ಕರೆ</string>
+  <string name="type_incoming_pulled">ಒಳಬರುವ ಕರೆಯನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ವರ್ಗಾಯಿಸಲಾಗಿದೆ</string>
+  <string name="type_outgoing">ಹೊರಹೋಗುವ ಕರೆ</string>
+  <string name="type_outgoing_pulled">ಹೊರಹೋಗುವ ಕರೆಯನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ವರ್ಗಾಯಿಸಲಾಗಿದೆ</string>
+  <string name="type_missed">ಮಿಸ್ಡ್‌ ಕಾಲ್‌</string>
+  <string name="type_incoming_video">ಒಳಬರುವ ವೀಡಿಯೊ ಕರೆ</string>
+  <string name="type_incoming_video_pulled">ಒಳಬರುವ ವೀಡಿಯೊ ಕರೆಯನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ವರ್ಗಾಯಿಸಲಾಗಿದೆ</string>
+  <string name="type_outgoing_video">ಹೊರಹೋಗುವ ವೀಡಿಯೊ ಕರೆ</string>
+  <string name="type_outgoing_video_pulled">ಹೊರಹೋಗುವ ವೀಡಿಯೊ ಕರೆಯನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ವರ್ಗಾಯಿಸಲಾಗಿದೆ</string>
+  <string name="type_missed_video">ಮಿಸ್ಡ್‌ ವೀಡಿಯೊ ಕಾಲ್‌</string>
+  <string name="type_voicemail">ಧ್ವನಿಮೇಲ್</string>
+  <string name="type_rejected">ನಿರಾಕರಿಸಿದ ಕರೆ</string>
+  <string name="type_blocked">ನಿರ್ಬಂಧಿಸಿದ ಕರೆ</string>
+  <string name="call_details_minutes_abbreviation">ನಿ</string>
+  <string name="call_details_seconds_abbreviation">ಸೆ</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">ಸೆಕೆಂಡ್‌ಗಳು</item>
+    <item quantity="other">ಸೆಕೆಂಡ್‌ಗಳು</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">ನಿಮಿಷಗಳು</item>
+    <item quantity="other">ನಿಮಿಷಗಳು</item>
+  </plurals>
+  <string name="type_answered_elsewhere">ಮತ್ತೊಂದು ಸಾಧನದಲ್ಲಿ ಕರೆಗೆ ಉತ್ತರಿಸಲಾಗಿದೆ</string>
+  <string name="description_phone_account">^1 ನಲ್ಲಿ</string>
+  <string name="description_via_number">%1$s ಮೂಲಕ</string>
+  <string name="description_via_number_phone_account">%1$s ರಲ್ಲಿ, %2$s ಮೂಲಕ</string>
+  <string name="voicemail_string">ಧ್ವನಿಮೇಲ್</string>
+  <string name="just_now">ಇದೀಗ</string>
+  <string name="new_call_log_carrier_video">ವಾಹಕ ವೀಡಿಯೊ</string>
+  <string name="new_call_log_duo_video">Duo ವೀಡಿಯೊ</string>
+  <string name="new_call_log_unknown">ಅಪರಿಚಿತ</string>
+  <string name="new_call_log_secondary_blocked">ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</string>
+  <string name="new_call_log_secondary_spam">ಸ್ಪ್ಯಾಮ್</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 ಕರೆಗಳು, ^2 ಅವರಿಂದ ಇತ್ತೀಚಿನ ಮಿಸ್ಡ್‌ ಕಾಲ್‌</item>
+    <item quantity="other">^1 ಕರೆಗಳು, ^2 ಅವರಿಂದ ಇತ್ತೀಚಿನ ಮಿಸ್ಡ್‌ ಕಾಲ್‌</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 ಕರೆಗಳು, ^2 ಅವರಿಂದ ಇತ್ತೀಚೆಗೆ ಉತ್ತರಿಸಲಾಗಿದೆ</item>
+    <item quantity="other">^1 ಕರೆಗಳು, ^2 ಅವರಿಂದ ಇತ್ತೀಚೆಗೆ ಉತ್ತರಿಸಲಾಗಿದೆ</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 ಕರೆಗಳು, ^2 ಅವರಿಗೆ ಇತ್ತೀಚೆಗೆ ಹೋರಹೋಗುವ ಕರೆಯಾಗಿವೆ</item>
+    <item quantity="other">^1 ಕರೆಗಳು, ^2 ಅವರಿಗೆ ಇತ್ತೀಚೆಗೆ ಹೋರಹೋಗುವ ಕರೆಯಾಗಿವೆ</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 ಕರೆಗಳು, ^2 ಅವರಿಂದ ಇತ್ತೀಚೆಗೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+    <item quantity="other">^1 ಕರೆಗಳು, ^2 ಅವರಿಂದ ಇತ್ತೀಚೆಗೆ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 ರಲ್ಲಿ, ^2 ಮೂಲಕ</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

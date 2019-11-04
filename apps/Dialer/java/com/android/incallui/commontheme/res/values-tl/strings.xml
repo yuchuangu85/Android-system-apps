@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Tapusin ang tawag</string>
+  <string name="incall_content_description_muted">Naka-mute</string>
+  <string name="incall_content_description_unmuted">Na-unmute</string>
+  <string name="incall_content_description_swap_calls">Pagpalitin ang mga tawag</string>
+  <string name="incall_content_description_swap_sim">Baguhin ang SIM</string>
+  <string name="incall_content_description_merge_calls">I-merge ang mga tawag</string>
+  <string name="incall_content_description_earpiece">Handset na earpiece</string>
+  <string name="incall_content_description_speaker">Speaker</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Wired na headset</string>
+  <string name="incall_content_description_hold">I-hold ang tawag</string>
+  <string name="incall_content_description_unhold">Ituloy ang tawag</string>
+  <string name="incall_content_description_video_on">Naka-on ang video</string>
+  <string name="incall_content_description_video_off">Naka-off ang video</string>
+  <string name="incall_content_description_swap_video">Pagpalitin ang video</string>
+  <string name="incall_label_speaker">Speaker</string>
+  <string name="incall_label_audio">Tunog</string>
+</resources>

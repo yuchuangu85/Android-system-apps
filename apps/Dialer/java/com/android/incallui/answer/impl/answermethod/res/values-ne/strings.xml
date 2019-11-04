@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">जवाफ दिन माथितिर स्वाइप गर्नुहोस्</string>
+  <string name="call_incoming_swipe_to_reject">अस्वीकार गर्न तलतिर स्वाइप गर्नुहोस्</string>
+  <string name="a11y_incoming_call_swipe_to_answer">कलको जवाफ फर्काउन माथितिर वा अस्वीकार गर्न तलतिर दुई औंलाले स्वाइप गर्नुहोस्</string>
+  <string name="call_incoming_will_disconnect">यो कलको जवाफ फर्काउनुले तपाईंको भिडियो कल समाप्त हुनेछ</string>
+  <string name="a11y_call_incoming_decline_description">अस्वीकार गर्नुहोस्</string>
+  <string name="call_incoming_decline">अस्वीकार गर्नुहोस्</string>
+  <string name="a11y_call_incoming_answer_description">जवाफ दिनुहोस्</string>
+  <string name="call_incoming_answer">जवाफ दिनुहोस्</string>
+</resources>

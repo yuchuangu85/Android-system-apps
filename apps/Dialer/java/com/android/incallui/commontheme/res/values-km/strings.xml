@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">បញ្ចប់​ការ​ហៅ</string>
+  <string name="incall_content_description_muted">បានបិទសំឡេង</string>
+  <string name="incall_content_description_unmuted">បានបើកសំឡេង</string>
+  <string name="incall_content_description_swap_calls">ប្ដូរ​ការ​ហៅ</string>
+  <string name="incall_content_description_swap_sim">ប្ដូរ SIM</string>
+  <string name="incall_content_description_merge_calls">បញ្ចូល​ការ​ហៅ​រួម​​គ្នា</string>
+  <string name="incall_content_description_earpiece">កាសស្ដាប់សំឡេង</string>
+  <string name="incall_content_description_speaker">ឧបករណ៍​បំពង​សំឡេង</string>
+  <string name="incall_content_description_bluetooth">ប៊្លូធូស</string>
+  <string name="incall_content_description_headset">កាស​មាន​ខ្សែ</string>
+  <string name="incall_content_description_hold">ដាក់​ការ​ហៅ​ឲ្យ​រង់ចាំ</string>
+  <string name="incall_content_description_unhold">បន្ត​ការហៅ</string>
+  <string name="incall_content_description_video_on">បើក​វីដេអូ​</string>
+  <string name="incall_content_description_video_off">បិទ​វីដេអូ</string>
+  <string name="incall_content_description_swap_video">ប្ដូរ​វីដេអូ</string>
+  <string name="incall_label_speaker">ឧបករណ៍​បំពង​សំឡេង</string>
+  <string name="incall_label_audio">សំឡេង</string>
+</resources>

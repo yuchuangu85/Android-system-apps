@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">تفاصيل المكالمة</string>
+  <string name="delete">حذف</string>
+  <string name="call_details_copy_number">نسخ الرقم</string>
+  <string name="call_details_edit_number">تعديل الرقم قبل الاتصال</string>
+  <string name="call_details_report_call_id">الإبلاغ عن رقم غير دقيق</string>
+  <string name="sent_a_photo">تم إرسال صورة</string>
+  <string name="received_a_photo">تم تلقي صورة</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">الإبلاغ عن رقم غير صحيح</string>
+  <string name="report_caller_id_failed">تعذر الإبلاغ عن الرقم</string>
+  <string name="report_caller_id_toast">تم الإبلاغ عن الرقم</string>
+  <string name="assisted_dialing_country_code_entry">الطلب المساعد: رمز البلد المستخدم +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">تم استخدام الطلب المساعد</string>
+  <string name="rtt_transcript_not_available">تتوفر خدمة تحويل الصوت إلى نص فقط في المكالمات التي تحتوي على رسائل</string>
+  <string name="rtt_transcript_link">مشاهدة النص</string>
+</resources>

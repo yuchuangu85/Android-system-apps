@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Wideo tej osoby wył.</string>
+  <string name="videocall_remote_video_on">Obraz wideo tej osoby jest włączony</string>
+  <string name="videocall_remotely_held">Rozmowa wstrzymana</string>
+  <string name="videocall_remotely_resumed">Połączenie wznowione</string>
+  <string name="videocall_charges_alert_dialog_description">Rozmowy wideo prowadzone przez sieć komórkową korzystają zarówno z transmisji danych, jak i limitu rozmów. Mogą być naliczane opłaty.</string>
+  <string name="do_not_show_again">Nie pokazuj ponownie</string>
+</resources>

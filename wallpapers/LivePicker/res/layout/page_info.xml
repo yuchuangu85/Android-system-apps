@@ -1,0 +1,99 @@
+<!-- Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/page_info"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/preview_attribution_pane_horizontal_padding">
+
+    <Space
+        android:id="@+id/preview_attribution_pane_title_spacer"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/preview_attribution_pane_inner_spacer_height"/>
+
+    <TextView
+        android:id="@+id/preview_attribution_pane_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/preview_attribution_pane_title_height"
+        android:ellipsize="end"
+        android:forceHasOverlappingRendering="false"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textAppearance="@*android:style/TextAppearance.DeviceDefault.SearchResult.Title"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/preview_attribution_pane_author"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/preview_attribution_pane_author_height"
+        android:layout_marginTop="@dimen/preview_attribution_pane_author_top_margin"
+        android:forceHasOverlappingRendering="false"
+        android:gravity="center"
+        android:textAppearance="@*android:style/TextAppearance.DeviceDefault.Subhead"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/preview_attribution_pane_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/preview_attribution_pane_description_height"
+        android:forceHasOverlappingRendering="false"
+        android:gravity="center_horizontal"
+        android:textAppearance="@*android:style/TextAppearance.DeviceDefault.Caption"
+        android:textColor="?android:attr/textColorPrimary"
+        android:visibility="gone"/>
+
+    <Space
+        android:id="@+id/preview_attribution_pane_spacer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/preview_attribution_pane_inner_spacer_height"
+        android:layout_weight="1"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/preview_attribution_pane_button_bottom_margin"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/preview_attribution_pane_explore_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/OutlinedButtonStyle"
+            android:text="@string/explore_further"
+            android:visibility="gone"/>
+
+        <Space
+            android:id="@+id/spacer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/preview_attribution_pane_set_wallpaper_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/ButtonStyle"
+            android:text="@string/set_live_wallpaper"/>
+
+    </LinearLayout>
+
+</LinearLayout>

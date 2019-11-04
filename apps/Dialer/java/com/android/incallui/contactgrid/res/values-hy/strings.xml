@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Զանգում է %s-ի միջոցով</string>
+  <string name="incall_calling_on_same_carrier_template">Զանգը կատարվում է միևնույն օպերատորի (%s) ցանցում</string>
+  <string name="incall_calling_on_recent_choice_template">Զանգը կատարվում է վերջին ընտրված օպերատորի (%s) ցանցում</string>
+  <string name="incall_connecting">Զանգ…</string>
+  <string name="incall_connecting_assited_dialed">Զանգ +%1$s կոդով (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Օգտագործվում է +%1$s (%2$s) ձևաչափը…</string>
+  <string name="incall_transferring">Փոխանցում…</string>
+  <string name="incall_video_call_requesting">Տեսազանգ բջջային ցանցով…</string>
+  <string name="incall_wifi_video_call_requesting">Տեսազանգ Wi-Fi-ով…</string>
+  <string name="incall_video_call_upgrade_request">Անցում տեսազանգի (բջջային ցանցով)…</string>
+  <string name="incall_video_call_request_failed">Չհաջողվեց միանալ</string>
+  <string name="incall_video_call_request_rejected">Զանգը մերժվեց</string>
+  <string name="incall_video_call_request_timed_out">Զանգի սպասման ժամանակը սպառվեց</string>
+  <string name="incall_hanging_up">Անջատում</string>
+  <string name="incall_call_ended">Զանգն ավարտվեց</string>
+  <string name="incall_remotely_held">Սպասում</string>
+  <string name="contact_grid_incoming_video_call">Տեսազանգ հետևյալ բաժանորդից (բջջային ցանցով)՝</string>
+  <string name="contact_grid_incoming_wifi_video_call">Տեսազանգ հետևյալ բաժանորդից (Wi-Fi-ով)՝</string>
+  <string name="contact_grid_incoming_voice_call">Զանգ հետևյալ բաժանորդից՝</string>
+  <string name="contact_grid_incoming_work_call">Գործնական զանգ հետևյալ բաժանորդից՝</string>
+  <string name="contact_grid_incoming_via_template">Մուտքային զանգ %s ցանցից</string>
+  <string name="contact_grid_incoming_suspected_spam">Հավանաբար սպամ է</string>
+  <string name="contact_grid_callback_number">Այս հեռախոսի համարը՝ %1$s</string>
+</resources>

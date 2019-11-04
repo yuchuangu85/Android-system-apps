@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+* Copyright (C) 2008 The Android Open Source Project
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*      http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+-->
+
+<resources>
+
+    <style name="LivePickerTheme" parent="@android:style/Theme.DeviceDefault.Settings"/>
+
+    <style name="Preview" parent="@style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDisablePreview">true</item>
+
+        <!-- Set status bar and navigation buttons to be translucent. -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/translucent_black</item>
+
+        <!-- Button corner -->
+        <item name="android:buttonCornerRadius">@*android:dimen/config_buttonCornerRadius</item>
+
+        <item name="colorAccent">@*android:color/accent_device_default</item>
+    </style>
+
+    <style name="TranslucentToolbarStyle" parent="@style/Widget.AppCompat.Toolbar">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="TabLayoutStyle" parent="@style/Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/LivePicker.TextAppearance.Tab.NoAllCaps</item>
+        <item name="tabIndicatorColor">?android:attr/textColorPrimary</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMaxWidth">0dp</item>
+    </style>
+
+    <style name="LivePicker.TextAppearance.Tab.NoAllCaps" parent="@android:style/TextAppearance.DeviceDefault.Widget.TabWidget">
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="@android:style/Theme.DeviceDefault.Light.Dialog.Alert"/>
+
+    <style name="ButtonStyle.Base" parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/btn_colored_background</item>
+        <item name="android:textAppearance">@android:style/TextAppearance.DeviceDefault.Widget.Button</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">@dimen/preview_attribution_pane_button_padding</item>
+        <item name="android:minHeight">@dimen/preview_attribution_pane_button_height</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="ButtonStyle" parent="@style/ButtonStyle.Base">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+
+    <style name="OutlinedButtonStyle" parent="@style/ButtonStyle">
+        <item name="android:background">@drawable/btn_transparent</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+
+    <style name="WallpaperSliceStyle" parent="@style/Widget.SliceView">
+        <item name="headerTitleSize">@*android:dimen/text_size_subhead_material</item>
+        <item name="headerSubtitleSize">@*android:dimen/text_size_subhead_material</item>
+        <item name="titleSize">@*android:dimen/text_size_subhead_material</item>
+        <item name="subtitleSize">@*android:dimen/text_size_caption_material</item>
+        <item name="gridTitleSize">@*android:dimen/text_size_subhead_material</item>
+        <item name="gridSubtitleSize">@*android:dimen/text_size_caption_material</item>
+    </style>
+</resources>

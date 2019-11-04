@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Ativar</string>
+  <string name="video_call_not_available_title">Neste momento, não é possível efetuar videochamadas</string>
+  <string name="video_call_not_available_message">Experimente efetuar a videochamada mais tarde ou continue a chamada como uma chamada de voz.</string>
+  <string name="voice_call">Chamada de voz</string>
+</resources>

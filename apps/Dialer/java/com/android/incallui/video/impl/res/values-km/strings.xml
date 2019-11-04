@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">វីដេអូ​របស់​ពួកគេ​ត្រូវ​បាន​បិទ</string>
+  <string name="videocall_remote_video_on">វីដេអូ​របស់​ពួកគេ​ត្រូវ​បាន​បើក</string>
+  <string name="videocall_remotely_held">ការ​ហៅ​កំពុង​រង់ចាំ</string>
+  <string name="videocall_remotely_resumed">បាន​បន្ត​ការ​ហៅ​ទូរសព្ទ</string>
+  <string name="videocall_charges_alert_dialog_description">ការហៅ​ជា​វីដេអូ​ដែល​ធ្វើឡើង​តាម​បណ្ដាញ​ទូរសព្ទ​ចល័ត ប្រើប្រាស់​ទិន្នន័យ និង​នាទី​នៃសំឡេង។ អាច​នឹង​មាន​ការគិត​ថ្លៃ។</string>
+  <string name="do_not_show_again">កុំ​បង្ហាញ​ទៀត</string>
+</resources>

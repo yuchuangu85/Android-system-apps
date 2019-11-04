@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">सक्षम पार्नुहोस्</string>
+  <string name="video_call_not_available_title">भिडियो कल हाल उपलब्ध छैन</string>
+  <string name="video_call_not_available_message">पछि फेरि कल गर्ने प्रयास गर्नुहोस् वा भ्वाइस कलका रूपमा कल जारी राख्नुहोस्।</string>
+  <string name="voice_call">भ्वाइस कल</string>
+</resources>

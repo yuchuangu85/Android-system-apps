@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">着信</string>
+  <string name="notification_channel_ongoing_call">通話中</string>
+  <string name="notification_channel_missed_call">不在着信</string>
+  <string name="notification_channel_voicemail">ボイスメール</string>
+  <string name="notification_channel_misc">デフォルト</string>
+</resources>

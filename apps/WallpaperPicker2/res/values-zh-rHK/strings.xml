@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"桌布"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"桌布類別"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"設定「桌布」"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"正在設定桌布…"</string>
+    <string name="try_again" msgid="8278874823700921234">"再試一次"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"無法設定桌布。"</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"無法載入桌布。圖片已損壞或無法使用。"</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"目前設定"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"每日桌布"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"主畫面及上鎖畫面"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"主畫面"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"上鎖畫面"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"主畫面及上鎖畫面"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"設定桌布"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"主畫面"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"上鎖畫面"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"主畫面和上鎖畫面"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"正在輪替顯示圖片桌布"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"如要在此顯示目前的桌布，「<xliff:g id="APP_NAME">%1$s</xliff:g>」需要存取您裝置的儲存空間。"</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"如要在此顯示目前的桌布，「桌布」需要存取您裝置的儲存空間。\n\n如要變更此設定，請前往「桌布」應用程式資訊的「權限」部分。"</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"允許存取"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"動態桌布服務可輪替顯示桌布"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"每日桌布"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"輕按即可啟用"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"系統會每日自動變更桌布。如要完成設定，請在下一個畫面輕按 [設定桌布]&lt;strong&gt;&lt;/strong&gt;。"</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"日後只透過 Wi-Fi 下載桌布"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"繼續"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"正在下載首張桌布…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"無法下載首張桌布。請檢查您的網絡設定，然後再試一次。"</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"系統將會每日自動變更桌布"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"設定"</string>
+    <string name="explore" msgid="7468719504199497281">"探索"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"下一張桌布"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"此裝置已停用桌布設定功能"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"您的裝置管理員已停用桌布設定功能"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"成功設定桌布"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"您需要連線至互聯網才能查看桌布。請連線並再試一次。"</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"目前已設定為主畫面桌布的縮圖"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"目前已設定為上鎖畫面桌布的縮圖"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"目前已設定為桌布的縮圖"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"桌布縮圖"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"探索主畫面桌布"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"探索上鎖畫面桌布"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"重新整理主畫面的每日桌布"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"重新整理每日桌布"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"正在重新整理每日桌布…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"無法重新整理每日桌布。請檢查您的網絡連線，然後再試一次。"</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"收合桌布資訊面板"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"展開桌布資訊面板"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"裝置上的桌布"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"在裝置上"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android 桌布"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"動態桌布"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"我的相片"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"我的相片"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"桌布"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"應用程式尚未安裝。"</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"置中"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"裁剪中間部分"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"延展"</string>
+    <string name="preview" msgid="1774602101743861071">"預覽"</string>
+</resources>

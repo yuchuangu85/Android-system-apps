@@ -1,0 +1,4 @@
+<resources>
+  <string name="private_num_verizon">Restricted</string>
+  <string name="private_num_non_verizon">Private number</string>
+</resources>

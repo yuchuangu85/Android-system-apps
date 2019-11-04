@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="phone_app_name" msgid="238824437273544459">"Telefon"</string>
+    <string name="no_hfp" msgid="7371139867234667691">"Për të përfunduar telefonatën, në fillim lidh telefonin me makinën nëpërmjet Bluetooth."</string>
+    <string name="bluetooth_unavailable" msgid="5258854283739591569">"Bluetooth nuk ofrohet."</string>
+    <string name="bluetooth_disabled" msgid="1275246762067907843">"Për të bërë ose për të marrë telefonata, aktivizo Bluetooth-in."</string>
+    <string name="bluetooth_unpaired" msgid="1600552386483652892">"Për të bërë ose për të marrë telefonata, çiftoje telefonin me makinën."</string>
+    <string name="connect_bluetooth_button_text" msgid="293188695227298042">"Lidhu me Bluetooth-in"</string>
+    <string name="emergency_button_text" msgid="3467659545392931727">"Urgjenca"</string>
+    <string name="emergency_call_description" msgid="6700161437750325693">"Telefonata e urgjencës"</string>
+    <string name="error_contact_deleted" msgid="6356539067659368396">"Ky kontakt mund të jetë fshirë."</string>
+    <string name="error_invalid_phone_number" msgid="5349049631580646136">"Nuk mund ta formosh këtë numër. Kontrolloje dhe provo përsëri."</string>
+    <string name="decline_call" msgid="2505987200485272226">"Refuzo"</string>
+    <string name="answer_call" msgid="3272474440561548115">"Përgjigju"</string>
+    <string name="call_back" msgid="5745638356098600872">"Telefono mbrapsht"</string>
+    <string name="audio_route_vehicle" msgid="6274519162997743620">"Bluetooth-i i automjetit"</string>
+    <string name="audio_route_phone_speaker" msgid="407520293892557697">"Altoparlanti"</string>
+    <string name="audio_route_handset" msgid="1100259514278439355">"Receptori"</string>
+    <string name="dial_a_number" msgid="7432322177412387160">"Formo një numër"</string>
+    <string name="favorites_title" msgid="4767723901530488145">"Të preferuarat"</string>
+    <string name="call_history_title" msgid="1495905524218923242">"Historiku i telefonatave"</string>
+    <string name="contacts_title" msgid="9201954388634537346">"Kontaktet"</string>
+    <string name="dialpad_title" msgid="3746259645005208554">"Blloku i formimit të numrit"</string>
+    <string name="call_log_header_today" msgid="2069013936632793214">"Sot"</string>
+    <string name="call_log_header_yesterday" msgid="4613686845163357847">"Dje"</string>
+    <string name="call_log_header_older" msgid="3971634717537073179">"Më të vjetra"</string>
+    <string name="add_favorite_button" msgid="7914955940249767808">"Shto një të preferuar"</string>
+    <string name="favorites_empty" msgid="6712416359691979975">"Nuk ke shtuar ende asnjë të preferuar"</string>
+    <string name="search_title" msgid="5412680850141871664">"Kërko për kontakte"</string>
+    <string name="search_hint" msgid="3099066132607042439">"Kërko për kontakte"</string>
+    <string name="type_multiple" msgid="3402949522797441236">"Disa"</string>
+    <string name="select_number_dialog_title" msgid="5770700626013782205">"Zgjidh një numër telefoni"</string>
+    <string name="select_number_dialog_just_once_button" msgid="1814381354393374660">"Vetëm një herë"</string>
+    <string name="select_number_dialog_always_button" msgid="6862338683635863764">"Gjithmonë"</string>
+    <string name="primary_number_description" msgid="7428950659304219592">"<xliff:g id="LABEL">%1$s</xliff:g>  - parazgjedhja"</string>
+    <string name="in_call_notification_channel_name" msgid="1978093630512401778">"Njoftimi i telefonatës hyrëse"</string>
+    <string name="notification_incoming_call" msgid="1722904631804432389">"Telefonatë hyrëse"</string>
+    <string name="missed_call_notification_channel_name" msgid="1135686963409691772">"Njoftimi i telefonatës së humbur"</string>
+    <string name="notification_missed_call" msgid="7127823385811396529">"Telefonatë e humbur"</string>
+    <string name="onhold_call_label" msgid="1937027519810985499">"Në pritje"</string>
+    <string name="setting_title" msgid="1296639422364732365">"Cilësimet"</string>
+    <string name="pref_start_page_title" msgid="1953465507368478503">"Ekrani i nisjes"</string>
+    <string name="sort_order_title" msgid="975104366728292702">"Renditja e kontakteve"</string>
+    <string name="give_name_first_title" msgid="9036752103567139094">"Emri"</string>
+    <string name="family_name_first_title" msgid="7721976826282427987">"Mbiemri"</string>
+</resources>

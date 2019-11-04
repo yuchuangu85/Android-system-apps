@@ -1,0 +1,24 @@
+# evs app
+type evs_app, domain, coredomain;
+hal_client_domain(evs_app, hal_evs)
+hal_client_domain(evs_app, hal_vehicle)
+hal_client_domain(evs_app, hal_configstore)
+hal_client_domain(evs_app, hal_graphics_allocator)
+
+# allow init to launch processes in this context
+type evs_app_exec, exec_type, file_type, system_file_type;
+init_daemon_domain(evs_app)
+
+# gets access to its own files on disk
+type evs_app_files, file_type, system_file_type;
+allow evs_app evs_app_files:file { getattr open read };
+allow evs_app evs_app_files:dir search;
+
+# Allow use of gralloc buffers and EGL
+allow evs_app gpu_device:chr_file rw_file_perms;
+allow evs_app ion_device:chr_file r_file_perms;
+allow evs_app system_file:dir r_dir_perms;
+
+# Allow use of binder and find surfaceflinger
+binder_use(evs_app);
+allow evs_app surfaceflinger_service:service_manager find;

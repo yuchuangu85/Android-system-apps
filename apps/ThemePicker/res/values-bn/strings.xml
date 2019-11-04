@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"স্টাইল ও ওয়ালপেপার"</string>
+    <string name="theme_title" msgid="2144932106319405101">"স্টাইল"</string>
+    <string name="clock_title" msgid="2126046720254613991">"ঘড়ি"</string>
+    <string name="grid_title" msgid="2825094404523390773">"গ্রিড"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"ওয়ালপেপার"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"প্রয়োগ করুন"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"এডিট করতে ট্যাপ করুন"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"এখন যে ওয়ালপেপার আছে সেটি রাখুন"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"প্রয়োগ করুন"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"<xliff:g id="ID_2">%2$d</xliff:g>টি পৃষ্ঠার মধ্যে <xliff:g id="ID_1">%1$d</xliff:g> নম্বর"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"পরবর্তী"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"আগের"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>, বর্তমানে প্রয়োগ করা হয়েছে"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"এখন <xliff:g id="ID_1">%1$s</xliff:g> থিম প্রয়োগ করে প্রিভিউ করা হচ্ছে"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"এখন <xliff:g id="ID_1">%1$s</xliff:g> থিম প্রিভিউ করছেন"</string>
+    <string name="theme_description" msgid="3697012391785254635">"ফন্ট: <xliff:g id="ID_1">%1$s</xliff:g>, আইকন: <xliff:g id="ID_2">%2$s</xliff:g>, আকার: <xliff:g id="ID_3">%3$s</xliff:g>, রঙ: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"ডিফল্ট"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"ফন্ট"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"আইকন"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"রঙ"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"মাপ"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"ওয়ালপেপার"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • ১২৩"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"প্রতিটি স্ক্রিনে আপনার পছন্দের ফন্ট যোগ করুন"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"স্টাইল প্রয়োগ করা হয়েছে"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"ঘড়ি প্রয়োগ করা হয়েছে"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"স্টাইল প্রয়োগ করার সময়ে সমস্যা হয়েছে"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"পরবর্তী"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"আগের"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"কাস্টম <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"কাস্টম স্টাইল"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"মুছে ফেলুন"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"ফন্ট বেছে নিন"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"আইকন বেছে নিন"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"রঙ বেছে নিন"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"আকার বেছে নিন"</string>
+    <string name="name_component_title" msgid="532425087968663437">"স্টাইলের নাম"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"আইকন <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"কাস্টম স্টাইল মুছবেন?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"মুছে ফেলুন"</string>
+    <string name="cancel" msgid="4651030493668562067">"বাতিল করুন"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"স্টাইল ওয়ালপেপার সেট করুন"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"পরিবর্তে <xliff:g id="ID_1">%1$s</xliff:g> ব্যবহার করবেন?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"আপনার বেছে নেওয়া কম্পোনেন্ট <xliff:g id="ID_1">%1$s</xliff:g> স্টাইলের সাথে মেলে। পরিবর্তে আপনি <xliff:g id="ID_2">%1$s</xliff:g> ব্যবহার করতে চান?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"<xliff:g id="ID_1">%1$s</xliff:g> ব্যবহার করুন"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"না, থাক"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> ঘড়ির প্রিভিউ"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"উপস! কিছু সমস্যা হয়েছে।"</string>
+</resources>

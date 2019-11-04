@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">الفيديو الخاص بهم قيد إيقاف التشغيل</string>
+  <string name="videocall_remote_video_on">الفيديو قيد التشغيل</string>
+  <string name="videocall_remotely_held">المكالمة معلقة</string>
+  <string name="videocall_remotely_resumed">تم استئناف المكالمة</string>
+  <string name="videocall_charges_alert_dialog_description">تستخدم مكالمات الفيديو، التي يتم إجراؤها على شبكة الجوال، البيانات ودقائق المكالمات الصوتية معًا. قد يتم فرض رسوم.</string>
+  <string name="do_not_show_again">عدم عرض ذلك مجددًا</string>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2018, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/row_separator"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="@dimen/appbar_first_row_height"/>
+
+    <FrameLayout
+        android:id="@+id/nav_icon_container"
+        android:layout_width="@dimen/appbar_view_nav_button_width"
+        android:layout_height="@dimen/appbar_first_row_height"
+        android:padding="@dimen/app_switch_widget_icon_padding"
+        android:background="@drawable/appbar_view_icon_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/row_separator"
+        app:layout_constraintStart_toStartOf="parent">
+        <ImageView
+            android:id="@+id/nav_icon"
+            android:layout_width="@dimen/appbar_view_icon_size"
+            android:layout_height="@dimen/appbar_view_icon_size"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:tint="@color/appbar_view_icon_tint"/>
+    </FrameLayout>
+
+    <com.android.car.apps.common.widget.CarTabLayout
+        android:id="@+id/tabs"
+        style="@style/AppBarTabStyle"/>
+
+    <com.android.car.media.widgets.SearchBar
+        android:id="@+id/search_bar_container"
+        android:layout_height="0dp"
+        android:layout_width="0dp"
+        android:layout_marginStart="@dimen/appbar_view_nav_button_width"
+        android:layout_marginEnd="@dimen/app_switch_widget_width"
+        android:visibility="gone"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/row_separator"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+    </com.android.car.media.widgets.SearchBar>
+
+    <ImageView
+        android:id="@+id/search"
+        android:layout_width="@dimen/appbar_view_icon_touch_target_size"
+        android:layout_height="@dimen/appbar_view_icon_touch_target_size"
+        android:layout_marginEnd="@dimen/appbar_view_control_buttons_spacing"
+        android:padding="@dimen/appbar_view_icon_padding"
+        android:tint="@color/appbar_view_icon_tint"
+        android:src="@drawable/ic_search"
+        android:background="@drawable/appbar_view_icon_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/row_separator"
+        app:layout_constraintEnd_toStartOf="@+id/settings"
+        app:layout_goneMarginEnd="@dimen/appbar_view_control_buttons_margin_end"/>
+
+    <com.android.car.apps.common.UxrButton
+        android:id="@+id/settings"
+        android:layout_width="@dimen/appbar_view_icon_touch_target_size"
+        android:layout_height="@dimen/appbar_view_icon_touch_target_size"
+        android:layout_marginEnd="@dimen/appbar_view_control_buttons_margin_end"
+        android:padding="@dimen/appbar_view_icon_padding"
+        android:drawableTint="@color/appbar_view_settings_tint"
+        android:drawableBottom="@drawable/ic_settings"
+        android:background="@drawable/appbar_view_icon_background"
+        app:carUxRestrictions="UX_RESTRICTIONS_NO_SETUP"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/row_separator"
+        app:layout_constraintEnd_toStartOf="@+id/app_switch_container"/>
+
+    <com.android.car.media.common.MediaAppSelectorWidget
+        android:id="@+id/app_switch_container"
+        android:layout_width="@dimen/app_switch_widget_width"
+        android:layout_height="@dimen/appbar_view_icon_touch_target_size"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="@drawable/appbar_view_icon_background"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/row_separator"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/AppBarTitleStyle"
+        app:layout_goneMarginStart="@dimen/appbar_view_title_margin_start"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/row_separator"
+        app:layout_constraintStart_toEndOf="@id/nav_icon_container"
+        app:layout_constraintEnd_toStartOf="@id/search"/>
+
+</merge>

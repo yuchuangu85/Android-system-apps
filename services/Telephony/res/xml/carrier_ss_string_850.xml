@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!-- This xml is the command's structure about supplementary service by ussd command for
+     carrier id 850.
+     <a href="https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/master/assets/carrier_list.textpb">here</a>
+     The introduction is same as carrier_ss_string.xml. @see carrier_ss_string_carrierId.xml
+-->
+
+<resources>
+    <!-- This is a parser format by Regular Expression.
+         "response_format"'s position follow below index.
+         ((\d{2,3})(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*))?)?)?)?)?)?)?#)
+         1 2       3  4       5  6       7  8       9  10      11 12     13  14      15 16
+    -->
+    <regular_parser>((\d{2,3})(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*)(\*([^*#]*))?)?)?)?)?)?)?#)</regular_parser>
+    <feature name="callforwarding">
+        <command name="query"><!--For example: *#120*1#-->
+            <service_code>120</service_code>
+            <action_code>*#</action_code>
+            <parameter number="1">
+                <entry position="1">1</entry>
+            </parameter>
+            <response_format number ="3"><!--For example: 120*1*7*number*time*1*0*0#-->
+                <entry position="6" key="status_code"/>
+                <entry position="8" key="number"/>
+                <entry position="10" key="time" />
+            </response_format>
+        </command>
+        <command name="activate"><!--For example: *120*1*number*time#-->
+            <service_code>120</service_code>
+            <action_code>*</action_code>
+            <parameter number="3">
+                <entry position="1">1</entry>
+                <entry position="2">tag_number</entry>
+                <entry position="3">tag_time</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 120*1*7*1#-->
+                <entry position="6" key="status_code"/>
+            </response_format>
+        </command>
+        <command name="deactivate"><!--For example: #120*1#-->
+            <service_code>120</service_code>
+            <action_code>#</action_code>
+            <parameter number="1">
+                <entry position="1">1</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 120*1*6*2#-->
+                <entry position="6" key="status_code"/>
+            </response_format>
+        </command>
+        <command_result number="3">
+            <entry key="status_code" definition="activate">7</entry>
+            <entry key="status_code" definition="deactivate">6</entry>
+            <entry key="status_code" definition="unregister">4</entry>
+        </command_result>
+    </feature>
+    <feature name="callerid">
+        <command name="activate"><!--For example: *148*2*password#-->
+            <service_code>148</service_code>
+            <action_code>*</action_code>
+            <parameter number="2">
+                <entry position="1">2</entry>
+                <entry position="2">tag_password</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 148*7#-->
+                <entry position="4" key="status_code"/>
+            </response_format>
+        </command>
+        <command name="deactivate"><!--For example: *148*1*password#-->
+            <service_code>148</service_code>
+            <action_code>*</action_code>
+            <parameter number="2">
+                <entry position="1">1</entry>
+                <entry position="2">tag_password</entry>
+            </parameter>
+            <response_format number="1"><!--For example: 148*7#-->
+                <entry position="4" key="status_code"/>
+            </response_format>
+        </command>
+        <command_result number="1">
+            <entry key="status_code" definition="ok">7</entry>
+        </command_result>
+    </feature>
+</resources>

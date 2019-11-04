@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">მიმდინარეობს დარეკვა %s-ის მეშვეობით</string>
+  <string name="incall_calling_on_same_carrier_template">მიმდინარეობს დარეკვა იმავე ოპერატორზე: %s</string>
+  <string name="incall_calling_on_recent_choice_template">მიმდინარეობს დარეკვა ბოლოს არჩეულზე: %s</string>
+  <string name="incall_connecting">დარეკვა…</string>
+  <string name="incall_connecting_assited_dialed">ირეკება +%1$s-ის (%2$s) გამოყენებით…</string>
+  <string name="incall_connecting_assited_dialed_component">იყენებთ: +%1$s (%2$s)…</string>
+  <string name="incall_transferring">გადაცემა…</string>
+  <string name="incall_video_call_requesting">ვიდეო დარეკვა ოპერატორით…</string>
+  <string name="incall_wifi_video_call_requesting">მიმდინარეობს ვიდეო დარეკვა Wi-Fi ოპერატორით…</string>
+  <string name="incall_video_call_upgrade_request">მიმდინარეობს ოპერატორით ვიდეო დარეკვაზე გადართვა…</string>
+  <string name="incall_video_call_request_failed">დაკავშირება შეუძლებელია</string>
+  <string name="incall_video_call_request_rejected">ზარი უარყოფილია</string>
+  <string name="incall_video_call_request_timed_out">ზარის დრო ამოიწურა</string>
+  <string name="incall_hanging_up">მიმდინარეობს გათიშვა</string>
+  <string name="incall_call_ended">ზარი დასრულდა</string>
+  <string name="incall_remotely_held">მოცდის რეჟიმში</string>
+  <string name="contact_grid_incoming_video_call">ვიდეოზარი ოპერატორით ნომრიდან</string>
+  <string name="contact_grid_incoming_wifi_video_call">ვიდეოზარი Wi-Fi ოპერატორით ნომრიდან</string>
+  <string name="contact_grid_incoming_voice_call">ზარი აბონენტისგან</string>
+  <string name="contact_grid_incoming_work_call">სამსახურებრივი ზარი აბონენტისგან</string>
+  <string name="contact_grid_incoming_via_template">შემომავალი, %s-იდან</string>
+  <string name="contact_grid_incoming_suspected_spam">სავარაუდოდ სპამერი აბონენტი</string>
+  <string name="contact_grid_callback_number">ამ ტელეფონის ნომერი: %1$s</string>
+</resources>

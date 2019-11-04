@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">مکان‌های اطراف</string>
+  <string name="search_location_permission">برای دریافت اطلاعات تماس مکان‌های اطرافتان، به برنامه اجازه دهید به مکانتان دسترسی داشته باشد.</string>
+  <string name="nearby_places_allow">اجازه دادن</string>
+  <string name="nearby_places_dismiss">نپذیرفتن</string>
+</resources>

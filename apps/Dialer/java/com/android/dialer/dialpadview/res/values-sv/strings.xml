@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Tillbaka</string>
+  <string name="description_dialpad_overflow">Fler alternativ</string>
+  <string name="description_delete_button">backsteg</string>
+  <string name="description_image_button_plus">ring plus</string>
+  <string name="description_voicemail_button">ring röstbrevlådan</string>
+  <string name="description_dial_button">ring</string>
+  <string name="dialog_voicemail_airplane_mode_message">Om du vill ringa röstbrevlådan måste du först inaktivera flygplansläget.</string>
+  <string name="dialog_voicemail_not_ready_message">Välj Meny &gt; Inställningar om du vill konfigurera röstbrevlådan.</string>
+  <string name="add_2sec_pause">Lägg till en paus på 2 sek.</string>
+  <string name="add_wait">Lägg till väntetid</string>
+  <string name="dialer_useDtmfDialpad">Använd tonvalstelefon</string>
+  <string name="dialer_returnToInCallScreen">Återvänd till pågående samtal</string>
+  <string name="dialer_addAnotherCall">Lägg till samtal</string>
+  <string name="imei">IMEI-kod</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Läser in från SIM-kort …</string>
+  <string name="simContacts_title">Kontakter från SIM-kort</string>
+  <string name="menu_callNumber">Ring %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Det går inte att ringa nödsamtal över Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Det går inte att ringa det här numret</string>
+</resources>

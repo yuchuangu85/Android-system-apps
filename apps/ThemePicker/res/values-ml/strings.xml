@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"സ്‌റ്റൈലുകളും വാൾപേപ്പറുകളും"</string>
+    <string name="theme_title" msgid="2144932106319405101">"സ്‌റ്റൈൽ"</string>
+    <string name="clock_title" msgid="2126046720254613991">"ക്ലോക്ക്"</string>
+    <string name="grid_title" msgid="2825094404523390773">"ഗ്രിഡ്"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"വാൾപേപ്പർ"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"പ്രയോഗിക്കുക"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"എഡിറ്റ് ചെയ്യാൻ ടാപ്പ് ചെയ്യുക"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"നിലവിലെ വാൾപേപ്പർ നിലനിർത്തുക"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"പ്രയോഗിക്കുക"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"ആകെ <xliff:g id="ID_2">%2$d</xliff:g> പേജുകളിൽ <xliff:g id="ID_1">%1$d</xliff:g>-ാമത്തെ പേജ്"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"അടുത്തത്"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"മുൻപത്തേത്"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>, നിലവിൽ ബാധകമാക്കിയത്"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>, നിലവിൽ ബാധകമാക്കി പ്രിവ്യൂ ചെയ്യുന്നു"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>, നിലവിൽ പ്രിവ്യൂ ചെയ്യുന്നു"</string>
+    <string name="theme_description" msgid="3697012391785254635">"ഫോണ്ട്: <xliff:g id="ID_1">%1$s</xliff:g>, ഐക്കണുകൾ: <xliff:g id="ID_2">%2$s</xliff:g>, രൂപം: <xliff:g id="ID_3">%3$s</xliff:g>, വർണ്ണം: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"ഡിഫോൾട്ട്"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"ഫോണ്ട്"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"ഐക്കൺ"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"വർണം"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"രൂപം"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"വാൾപേപ്പർ"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"എല്ലാ സ്‌ക്രീനിലേക്കും നിങ്ങളുടെ പ്രിയപ്പെട്ട ഫോണ്ടുകൾ ചേർക്കുക"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"സ്‌റ്റൈൽ പ്രയോഗിച്ചു"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"ക്ലോക്ക് പ്രയോഗിച്ചു"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"സ്‌റ്റൈൽ പ്രയോഗിക്കുന്നതിൽ ഒരു പ്രശ്‌നമുണ്ടായി"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"അടുത്തത്"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"മുമ്പത്തെ"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"ഇഷ്‌ടാനുസൃതം <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"ഇഷ്‌ടാനുസൃത സ്‌റ്റൈൽ"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"ഇല്ലാതാക്കുക"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"ഫോണ്ട് തിരഞ്ഞെടുക്കുക"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"ഐക്കണുകൾ തിരഞ്ഞെടുക്കുക"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"വര്‍ണം തിരഞ്ഞെടുക്കുക"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"രൂപം തിരഞ്ഞെടുക്കുക"</string>
+    <string name="name_component_title" msgid="532425087968663437">"നിങ്ങളുടെ സ്‌റ്റൈലിന് പേര് നൽകുക"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"ഐക്കണുകൾ <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"ഇഷ്‌ടാനുസൃത സ്‌റ്റൈൽ ഇല്ലാതാക്കണോ?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"ഇല്ലാതാക്കുക"</string>
+    <string name="cancel" msgid="4651030493668562067">"റദ്ദാക്കുക"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"സ്‌റ്റൈൽ വാൾപേപ്പർ സജ്ജീകരിക്കുക"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"പകരം <xliff:g id="ID_1">%1$s</xliff:g> ഉപയോഗിക്കണോ?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"നിങ്ങൾ തിരഞ്ഞെടുത്ത ഘടകങ്ങൾ <xliff:g id="ID_1">%1$s</xliff:g>-ന്റെ സ്‌റ്റൈലുമായി യോജിക്കുന്നു. പകരം <xliff:g id="ID_2">%1$s</xliff:g> ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് ആഗ്രഹമുണ്ടോ?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"<xliff:g id="ID_1">%1$s</xliff:g> ഉപയോഗിക്കുക"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"വേണ്ട"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> ക്ലോക്ക് പ്രിവ്യൂ"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"ക്ഷമിക്കണം! എന്തോ കുഴപ്പമുണ്ടായി."</string>
+</resources>

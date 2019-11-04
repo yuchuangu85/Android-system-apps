@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Naviguer vers l\'arrière</string>
+  <string name="description_dialpad_overflow">Plus d\'options</string>
+  <string name="description_delete_button">retour arrière</string>
+  <string name="description_image_button_plus">ajouter le signe Plus (+) au clavier</string>
+  <string name="description_voicemail_button">appeler la messagerie vocale</string>
+  <string name="description_dial_button">composer</string>
+  <string name="dialog_voicemail_airplane_mode_message">Veuillez désactiver le mode Avion avant d\'appeler la messagerie vocale.</string>
+  <string name="dialog_voicemail_not_ready_message">Pour configurer la messagerie vocale, accédez à Menu &gt; Paramètres.</string>
+  <string name="add_2sec_pause">Ajouter une pause de 2 s</string>
+  <string name="add_wait">Ajouter une attente</string>
+  <string name="dialer_useDtmfDialpad">Utiliser le clavier DTMF</string>
+  <string name="dialer_returnToInCallScreen">Reprendre l\'appel en cours</string>
+  <string name="dialer_addAnotherCall">Ajouter un appel</string>
+  <string name="imei">IIEM</string>
+  <string name="meid">IDEM</string>
+  <string name="simContacts_emptyLoading">Chargement à partir de la carte SIM en cours…</string>
+  <string name="simContacts_title">Contacts de la carte SIM</string>
+  <string name="menu_callNumber">Appeler le %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Impossible d\'effectuer des appels d\'urgence par Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Vous ne pouvez pas appeler ce numéro</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Strjúktu frá tákninu til að hafna með skilaboðum</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Strjúktu frá tákninu til að svara sem símtali</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Strjúktu upp til að svara og setja yfirstandandi símtal í bið</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Strjúktu upp til að svara og ljúka símtali í bið</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Strjúktu frá tákninu til að svara og ljúka yfirstandandi símtali</string>
+  <string name="call_incoming_message_custom">Skrifaðu þitt eigið…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Skrifaðu þitt eigið…</string>
+  <string name="call_incoming_custom_message_cancel">Hætta við</string>
+  <string name="call_incoming_custom_message_send">Senda</string>
+  <string name="a11y_incoming_call_reject_with_sms">Hafna símtalinu með skilaboðum</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Svara sem símtali</string>
+  <string name="a11y_incoming_call_answer_and_release">Svara og ljúka yfirstandandi símtali</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Hafna með skilaboðum</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Svara sem símtali</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Svara og ljúka yfirstandandi símtali</string>
+  <string name="call_incoming_video_is_off">Slökkt á myndavél</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Strjúktu upp með tveimur fingrum til að svara. Strjúktu niður með tveimur fingrum til að hafna.</string>
+  <string name="call_incoming_important">Mikilvægt</string>
+</resources>

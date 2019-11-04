@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">เขียนข้อความที่กำหนดเอง</string>
+  <string name="toolbar_close">ปิด</string>
+  <string name="all_contacts_empty">คุณยังไม่มีรายชื่อติดต่อ</string>
+  <string name="all_contacts_empty_add_contact_action">สร้างรายชื่อติดต่อใหม่</string>
+  <string name="permission_single_turn_on">เปิด</string>
+  <string name="permission_no_contacts">หากต้องการดูรายชื่อติดต่อ ให้เปิดสิทธิ์เข้าถึงรายชื่อติดต่อ</string>
+  <string name="add_contact_not_available">ไม่มีแอปรายชื่อติดต่อที่พร้อมใช้งาน</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Омилени</string>
+  <string name="suggestions_header">Чести</string>
+  <string name="speed_dial_add_button_text">Додајте</string>
+  <string name="speed_dial_remember_this_choice">Запомни го изборов</string>
+  <string name="speed_dial_disambig_dialog_title">Изберете тип повик</string>
+  <string name="disambig_option_video_call">Видеоповик</string>
+  <string name="disambig_option_voice_call">Повикај</string>
+  <string name="add_favorite_activity_title">Додавање во омилени</string>
+  <string name="contact_menu_voice_call">Гласовен повик</string>
+  <string name="contact_menu_video_call">Видеоповик</string>
+  <string name="contact_menu_message">Порака</string>
+  <string name="contact_menu_remove">Отстрани</string>
+  <string name="contact_menu_contact_info">Инф. за контакт</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Додај во омилени</string>
+  <string name="speed_dial_contacts_permission_description">За да овозможите брзо бирање, вклучете ја дозволата за контакти.</string>
+  <string name="speed_dial_turn_on_contacts_permission">Вклучи</string>
+  <string name="speed_dial_no_contacts_description">Сѐ уште немате додадено омилени</string>
+  <string name="speed_dial_no_contacts_action_text">Додај во омилени</string>
+  <string name="speed_dial_remove_favorites">Отстрани од омилени</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">新聯絡人</string>
+  <string name="dialer_shortcut_add_contact_long">新增聯絡人</string>
+  <string name="dialer_shortcut_disabled_message">捷徑無法使用，拖曳即可移除。</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">已沒有這位聯絡人的資料。</string>
+  <string name="dialer_shortcut_no_permissions">沒有權限，無法撥打電話。</string>
+</resources>

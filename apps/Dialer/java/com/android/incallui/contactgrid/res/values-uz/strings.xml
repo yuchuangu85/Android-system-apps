@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s orqali qo‘ng‘rioq qilinmoqda</string>
+  <string name="incall_calling_on_same_carrier_template">Shu aloqa operatori – %s orqali chaqiruv</string>
+  <string name="incall_calling_on_recent_choice_template">Yaqinda tanlangan aloqa operatori – %s orqali chaqiruv</string>
+  <string name="incall_connecting">Chaqiruv…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s kodi orqali chaqirilmoqda (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) kodi ishlatilmoqda…</string>
+  <string name="incall_transferring">O‘tkazilmoqda…</string>
+  <string name="incall_video_call_requesting">Video chaqiruv…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi orqali video chaqiruv…</string>
+  <string name="incall_video_call_upgrade_request">Video chaqiruvga o‘tkazilmoqda…</string>
+  <string name="incall_video_call_request_failed">Bog‘lanib bo‘lmadi</string>
+  <string name="incall_video_call_request_rejected">Qo‘ng‘iroq rad etildi</string>
+  <string name="incall_video_call_request_timed_out">Qo‘ng‘iroqning kutish vaqti tugadi</string>
+  <string name="incall_hanging_up">Chaqiruv tugatilmoqda</string>
+  <string name="incall_call_ended">Chaqiruv tugatildi</string>
+  <string name="incall_remotely_held">Kutish rejimida</string>
+  <string name="contact_grid_incoming_video_call">Video chaqiruv:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi orqali video chaqiruv:</string>
+  <string name="contact_grid_incoming_voice_call">Chaqiruv:</string>
+  <string name="contact_grid_incoming_work_call">Ish telefoniga kimdan qo‘ng‘iroq:</string>
+  <string name="contact_grid_incoming_via_template">Kiruvchi chaqiruv (operator: %s)</string>
+  <string name="contact_grid_incoming_suspected_spam">Shubhali abonent</string>
+  <string name="contact_grid_callback_number">Bu telefonning raqami: %1$s</string>
+</resources>

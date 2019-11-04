@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Voláte prostredníctvom poskytovateľa %s</string>
+  <string name="incall_calling_on_same_carrier_template">Volá sa cez rovnakého operátora %s</string>
+  <string name="incall_calling_on_recent_choice_template">Volá sa cez nedávno vybraného operátora %s</string>
+  <string name="incall_connecting">Prebieha hovor…</string>
+  <string name="incall_connecting_assited_dialed">Volá sa s predvoľbou +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Bola použitá predvoľba +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Prenáša sa…</string>
+  <string name="incall_video_call_requesting">Videohovory prostredníctvom operátora…</string>
+  <string name="incall_wifi_video_call_requesting">Videohovory cez Wi-Fi prostredníctvom operátora…</string>
+  <string name="incall_video_call_upgrade_request">Prepína sa na videohovor prostredníctvom operátora…</string>
+  <string name="incall_video_call_request_failed">Pripojenie nie je možné</string>
+  <string name="incall_video_call_request_rejected">Hovor bol odmietnutý</string>
+  <string name="incall_video_call_request_timed_out">Časový limit hovoru uplynul</string>
+  <string name="incall_hanging_up">Ukončuje sa hovor</string>
+  <string name="incall_call_ended">Hovor bol ukončený</string>
+  <string name="incall_remotely_held">Podržané</string>
+  <string name="contact_grid_incoming_video_call">Videohovor prostredníctvom operátora od</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videohovor cez Wi-Fi prostredníctvom operátora od</string>
+  <string name="contact_grid_incoming_voice_call">Hovor od:</string>
+  <string name="contact_grid_incoming_work_call">Pracovný hovor od:</string>
+  <string name="contact_grid_incoming_via_template">Prichádzajúci hovor prostredníctvom poskytovateľa %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Podozrenie na spam</string>
+  <string name="contact_grid_callback_number">Číslo tohto telefónu: %1$s</string>
+</resources>

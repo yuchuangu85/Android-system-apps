@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Skambinama naudojantis „%s“ paslaugomis</string>
+  <string name="incall_calling_on_same_carrier_template">Skambinama naud. to paties operatoriaus paslaugomis: „%s“</string>
+  <string name="incall_calling_on_recent_choice_template">Skambinama naud. dabar pasir. operatoriaus paslaugomis: „%s“</string>
+  <string name="incall_connecting">Skambinama…</string>
+  <string name="incall_connecting_assited_dialed">Skambinama naudojant +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Naudojamas kodas +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Perkeliama…</string>
+  <string name="incall_video_call_requesting">Operatoriaus vaizdo skambutis…</string>
+  <string name="incall_wifi_video_call_requesting">„Wi-Fi“ operatoriaus vaizdo skambutis…</string>
+  <string name="incall_video_call_upgrade_request">Perjungiama į operatoriaus vaizdo skambutį…</string>
+  <string name="incall_video_call_request_failed">Nepavyko prisijungti</string>
+  <string name="incall_video_call_request_rejected">Skambutis atmestas</string>
+  <string name="incall_video_call_request_timed_out">Baigėsi skirtasis skambučio laikas</string>
+  <string name="incall_hanging_up">Baigiamas pokalbis</string>
+  <string name="incall_call_ended">Skambutis baigtas</string>
+  <string name="incall_remotely_held">Sulaikytas</string>
+  <string name="contact_grid_incoming_video_call">Operatoriaus vaizdo skambutis nuo</string>
+  <string name="contact_grid_incoming_wifi_video_call">„Wi-Fi“ operatoriaus vaizdo skambutis nuo</string>
+  <string name="contact_grid_incoming_voice_call">Skambutis nuo</string>
+  <string name="contact_grid_incoming_work_call">Darbo skambutis nuo</string>
+  <string name="contact_grid_incoming_via_template">Gaunama per „%s“</string>
+  <string name="contact_grid_incoming_suspected_spam">Įtariamas skambintojas dėl šlamšto</string>
+  <string name="contact_grid_callback_number">Šio telefono numeris: %1$s</string>
+</resources>

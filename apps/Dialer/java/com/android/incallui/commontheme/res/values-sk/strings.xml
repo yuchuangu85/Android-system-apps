@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Ukončiť hovor</string>
+  <string name="incall_content_description_muted">Zvuk bol vypnutý</string>
+  <string name="incall_content_description_unmuted">Zvuk bol zapnutý</string>
+  <string name="incall_content_description_swap_calls">Zameniť hovory</string>
+  <string name="incall_content_description_swap_sim">Zmeniť SIM kartu</string>
+  <string name="incall_content_description_merge_calls">Zlúčiť hovory</string>
+  <string name="incall_content_description_earpiece">Slúchadlo</string>
+  <string name="incall_content_description_speaker">Reproduktor</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Náhlavná súprava s káblom</string>
+  <string name="incall_content_description_hold">Podržať hovor</string>
+  <string name="incall_content_description_unhold">Obnoviť hovor</string>
+  <string name="incall_content_description_video_on">Video je zapnuté</string>
+  <string name="incall_content_description_video_off">Video je vypnuté</string>
+  <string name="incall_content_description_swap_video">Zameniť video</string>
+  <string name="incall_label_speaker">Reproduktor</string>
+  <string name="incall_label_audio">Zvuk</string>
+</resources>

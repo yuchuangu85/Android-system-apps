@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Suara default (%1$s)</string>
+  <string name="ringtone_silent">Tidak ada</string>
+  <string name="ringtone_unknown">Nada dering tidak dikenal</string>
+  <string name="activity_not_available">Tidak ada aplikasi untuk tindakan tersebut di perangkat ini</string>
+  <string name="outgoing_wps_warning">Melakukan panggilan WPS akan mengakhiri panggilan yang ada.</string>
+  <string name="dialog_continue">Lanjutkan</string>
+  <string name="camera_privacy_text">Izin kamera diaktifkan</string>
+</resources>

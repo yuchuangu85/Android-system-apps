@@ -1,0 +1,92 @@
+{
+  "FLAGS": "browsable",
+
+  "METADATA": {
+    "MEDIA_ID": "art_nature_64",
+    "DISPLAY_TITLE": "Art nature 64"
+  },
+
+  "CHILDREN": [
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 bee",
+        "DISPLAY_TITLE": "Bee",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/bee.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 clouds",
+        "DISPLAY_TITLE": "Clouds",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/clouds.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 flower1",
+        "DISPLAY_TITLE": "Flower 1",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/flower1.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 flower2",
+        "DISPLAY_TITLE": "Flower 2",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/flower2.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 flower3",
+        "DISPLAY_TITLE": "Flower3 ",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/flower3.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 flowers",
+        "DISPLAY_TITLE": "Flowers",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/flowers.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 leaves",
+        "DISPLAY_TITLE": "Leaves",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/leaves.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 sage",
+        "DISPLAY_TITLE": "Sage",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/sage.jpg"
+      }
+    },
+    {
+      "FLAGS": "playable",
+      "METADATA": {
+        "MEDIA_ID": "art_nature_64 tree",
+        "DISPLAY_TITLE": "Tree",
+        "DURATION": 10000,
+        "ART_URI": "bitmaps/nature-64/tree.jpg"
+      }
+    }
+  ]
+}

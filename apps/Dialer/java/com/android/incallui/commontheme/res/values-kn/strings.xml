@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">ಕರೆ ಅಂತ್ಯಗೊಳಿಸಿ</string>
+  <string name="incall_content_description_muted">ಮ್ಯೂಟ್‌ ಮಾಡಲಾಗಿದೆ</string>
+  <string name="incall_content_description_unmuted">ಅನ್‌ಮ್ಯೂಟ್ ಮಾಡಲಾಗಿದೆ</string>
+  <string name="incall_content_description_swap_calls">ಕರೆಗಳನ್ನು ಬದಲಾಯಿಸಿ</string>
+  <string name="incall_content_description_swap_sim">ಸಿಮ್ ಬದಲಾಯಿಸಿ</string>
+  <string name="incall_content_description_merge_calls">ಕರೆಗಳನ್ನು ವಿಲೀನಗೊಳಿಸು</string>
+  <string name="incall_content_description_earpiece">ಹ್ಯಾಂಡ್‌ಸೆಟ್ ಇಯರ್‌ಪೀಸ್</string>
+  <string name="incall_content_description_speaker">ಸ್ಪೀಕರ್‌</string>
+  <string name="incall_content_description_bluetooth">ಬ್ಲೂಟೂತ್‌</string>
+  <string name="incall_content_description_headset">ವೈರ್ಡ್ ಹೆಡ್‌ಸೆಟ್‌</string>
+  <string name="incall_content_description_hold">ಕರೆಯನ್ನು ಹೋಲ್ಡ್‌‌ ಮಾಡು</string>
+  <string name="incall_content_description_unhold">ಕರೆಯನ್ನು ಮುಂದುವರಿಸು</string>
+  <string name="incall_content_description_video_on">ವೀಡಿಯೊ ಆನ್</string>
+  <string name="incall_content_description_video_off">ವೀಡಿಯೊ ಆಫ್</string>
+  <string name="incall_content_description_swap_video">ವೀಡಿಯೊ ಬದಲಾಯಿಸಿ</string>
+  <string name="incall_label_speaker">ಸ್ಪೀಕರ್‌</string>
+  <string name="incall_label_audio">ಶಬ್ದ</string>
+</resources>

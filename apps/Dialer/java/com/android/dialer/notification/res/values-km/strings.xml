@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">ការ​ហៅ​ចូល</string>
+  <string name="notification_channel_ongoing_call">ការ​ហៅ​បន្ត</string>
+  <string name="notification_channel_missed_call">ការ​ហៅ​ដែល​មិន​បាន​ទទួល</string>
+  <string name="notification_channel_voicemail">សារ​ជា​សំឡេង</string>
+  <string name="notification_channel_misc">លំ​នាំ​ដើម</string>
+</resources>

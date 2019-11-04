@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Mbylle telefonatën</string>
+  <string name="incall_content_description_muted">Zëri i çaktivizuar</string>
+  <string name="incall_content_description_unmuted">Heqja e zërit u anulua</string>
+  <string name="incall_content_description_swap_calls">Shkëmbe telefonata</string>
+  <string name="incall_content_description_swap_sim">Ndrysho kartën SIM</string>
+  <string name="incall_content_description_merge_calls">Shkri telefonatat</string>
+  <string name="incall_content_description_earpiece">Kufje</string>
+  <string name="incall_content_description_speaker">Altoparlant</string>
+  <string name="incall_content_description_bluetooth">Bluetooth-i</string>
+  <string name="incall_content_description_headset">Kufje me tel</string>
+  <string name="incall_content_description_hold">Vendos në pritje telefonatën</string>
+  <string name="incall_content_description_unhold">Rifillo telefonatën</string>
+  <string name="incall_content_description_video_on">Videoja aktive</string>
+  <string name="incall_content_description_video_off">Videoja joaktive</string>
+  <string name="incall_content_description_swap_video">Shkëmbe video</string>
+  <string name="incall_label_speaker">Altoparlanti</string>
+  <string name="incall_label_audio">Tingulli</string>
+</resources>

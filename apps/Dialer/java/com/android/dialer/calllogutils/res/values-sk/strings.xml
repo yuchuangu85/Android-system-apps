@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Prichádzajúci hovor</string>
+  <string name="type_incoming_pulled">Prichádzajúci hovor bol presmerovaný na iné zariadenie</string>
+  <string name="type_outgoing">Odchádzajúci hovor</string>
+  <string name="type_outgoing_pulled">Odchádzajúci hovor bol presmerovaný na iné zariadenie</string>
+  <string name="type_missed">Zmeškaný hovor</string>
+  <string name="type_incoming_video">Prichádzajúci videohovor</string>
+  <string name="type_incoming_video_pulled">Prichádzajúci videohovor bol presmerovaný na iné zariadenie</string>
+  <string name="type_outgoing_video">Odchádzajúci videohovor</string>
+  <string name="type_outgoing_video_pulled">Odchádzajúci videohovor bol presmerovaný na iné zariadenie</string>
+  <string name="type_missed_video">Zmeškaný videohovor</string>
+  <string name="type_voicemail">Hlasová schránka</string>
+  <string name="type_rejected">Odmietnutý hovor</string>
+  <string name="type_blocked">Blokovaný hovor</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekunda</item>
+    <item quantity="few">sekundy</item>
+    <item quantity="many">sekundy</item>
+    <item quantity="other">sekúnd</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minúta</item>
+    <item quantity="few">minúty</item>
+    <item quantity="many">minúty</item>
+    <item quantity="other">minút</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Hovor bol prijatý v inom zariadení</string>
+  <string name="description_phone_account">v účte ^1</string>
+  <string name="description_via_number">prostredníctvom čísla %1$s</string>
+  <string name="description_via_number_phone_account">v účte %1$s, prostredníctvom čísla %2$s</string>
+  <string name="voicemail_string">Hlasová schránka</string>
+  <string name="just_now">Teraz</string>
+  <string name="new_call_log_carrier_video">Video operátora</string>
+  <string name="new_call_log_duo_video">Video služby Duo</string>
+  <string name="new_call_log_unknown">Neznáme</string>
+  <string name="new_call_log_secondary_blocked">Blokované</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 zmeškaný hovor od kontaktu ^2</item>
+    <item quantity="few">^1 hovory, posledný je zmeškaný hovor od kontaktu ^2</item>
+    <item quantity="many">^1 calls, the latest is a missed call from ^2</item>
+    <item quantity="other">^1 hovorov, posledný je zmeškaný hovor od kontaktu ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 prijatý hovor od kontaktu ^2</item>
+    <item quantity="few">^1 hovory, posledný je prijatý hovor od kontaktu ^2</item>
+    <item quantity="many">^1 calls, the latest is an answered call from ^2</item>
+    <item quantity="other">^1 hovorov, posledný je prijatý hovor od kontaktu ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 odchádzajúci hovor s kontaktom ^2</item>
+    <item quantity="few">^1 hovory, posledný je odchádzajúci hovor s kontaktom ^2</item>
+    <item quantity="many">^1 calls, the latest is an outgoing call to ^2</item>
+    <item quantity="other">^1 hovorov, posledný je odchádzajúci hovor s kontaktom ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 blokovaný hovor od kontaktu ^2</item>
+    <item quantity="few">^1 hovory, posledný je blokovaný hovor od kontaktu ^2</item>
+    <item quantity="many">^1 calls, the latest is a blocked call from ^2</item>
+    <item quantity="other">^1 hovorov, posledný je blokovaný hovor od kontaktu ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">v účte ^1,
+    prostredníctvom čísla ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

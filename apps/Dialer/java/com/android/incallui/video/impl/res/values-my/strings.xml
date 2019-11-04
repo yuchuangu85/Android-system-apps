@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">သူတို့ဗီဒီယို ပိတ်ထားသည်</string>
+  <string name="videocall_remote_video_on">၎င်းတို့၏ဗီဒီယိုကို ဖွင့်ထားပါသည်</string>
+  <string name="videocall_remotely_held">ခေါ်ဆိုမှု ခဏရပ်ထားသည်</string>
+  <string name="videocall_remotely_resumed">ခေါ်ဆိုမှုပြန်စသည်</string>
+  <string name="videocall_charges_alert_dialog_description">မိုဘိုင်းကွန်ရက်မှတစ်ဆင့် ပြုလုပ်သော ဗီဒီယိုခေါ်ဆိုမှုများသည် ဒေတာနှင့် ဖုန်းပြောခွင့်မိနစ် နှစ်မျိုးစလုံးကို အသုံးပြုပါသည်။ ကုန်ကျစရိတ်များ ကျသင့်နိုင်ပါသည်။</string>
+  <string name="do_not_show_again">ထပ်မပြပါနှင့်</string>
+</resources>

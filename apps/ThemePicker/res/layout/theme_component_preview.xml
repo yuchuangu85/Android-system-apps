@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/theme_preview_card_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clipToPadding="false"
+    android:maxHeight="@dimen/preview_theme_max_height"
+    android:minHeight="@dimen/preview_theme_min_height"
+    android:paddingHorizontal="@dimen/preview_card_padding"
+    android:paddingTop="@dimen/preview_card_top_padding">
+
+        <ViewStub
+            android:id="@+id/theme_preview_top_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout="@layout/theme_preview_topbar"
+            app:layout_constraintBottom_toTopOf="@+id/theme_preview_card_header"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_chainStyle="spread_inside"/>
+
+        <TextView
+            android:id="@+id/theme_preview_card_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:drawablePadding="@dimen/theme_preview_header_drawable_padding"
+            android:textAppearance="@style/CardTitleTextAppearance"
+            app:layout_constraintBottom_toTopOf="@id/theme_preview_card_body_container"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/theme_preview_top_bar"
+            app:layout_goneMarginTop="@dimen/card_header_top_margin"
+            app:layout_constraintVertical_chainStyle="spread_inside"
+            tools:text="Default"/>
+
+        <FrameLayout
+            android:id="@+id/theme_preview_card_body_container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginHorizontal="8dp"
+            android:layout_marginTop="@dimen/preview_theme_content_margin"
+            app:layout_constraintBottom_toTopOf="@+id/guideline"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHeight_max="@dimen/preview_theme_content_max_height"
+            app:layout_constraintHeight_min="@dimen/preview_theme_content_min_height"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/theme_preview_card_header"/>
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guideline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toTopOf="@+id/edit_label"
+            app:layout_constraintGuide_end="@dimen/preview_theme_content_bottom"
+            app:layout_constraintTop_toBottomOf="@+id/theme_preview_card_body_container"/>
+
+        <TextView
+            android:id="@+id/edit_label"
+            style="@style/EditLabelStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minHeight="@dimen/min_taptarget_height"
+            android:drawableStart="@drawable/ic_tune"
+            android:drawablePadding="8dp"
+            android:gravity="center"
+            android:text="@string/edit_custom_theme_lbl"
+            android:visibility="invisible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/guideline"
+            app:layout_constraintVertical_bias="0.5"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

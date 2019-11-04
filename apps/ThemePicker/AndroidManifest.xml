@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.android.wallpaper">
+
+    <uses-sdk android:targetSdkVersion="29" android:minSdkVersion="28"/>
+
+    <uses-permission android:name="android.permission.CHANGE_OVERLAY_PACKAGES"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER_COMPONENT" />
+
+    <application
+        tools:replace="android:icon,android:name"
+        android:extractNativeLibs="false"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_home"
+        android:label="@string/app_name"
+        android:requiredForAllUsers="true"
+        android:restoreAnyVersion="true"
+        android:supportsRtl="true"
+        android:name="com.android.customization.picker.CustomizationPickerApplication"
+        android:theme="@style/CustomizationTheme">
+        <activity
+            android:name="com.android.customization.picker.CustomizationPickerActivity"
+            android:label="@string/app_name"
+            android:resizeableActivity="true"
+            android:theme="@style/CustomizationTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.SET_WALLPAPER"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.android.customization.picker.theme.CustomThemeActivity"
+                  android:resizeableActivity="true"
+                  android:theme="@style/CustomizationTheme.NoActionBar"/>
+    </application>
+
+</manifest>

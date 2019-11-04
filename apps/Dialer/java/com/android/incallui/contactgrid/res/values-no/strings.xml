@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Ringer via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Ringer via samme mobiloperatør: %s</string>
+  <string name="incall_calling_on_recent_choice_template">Ringer via nylig valgt: %s</string>
+  <string name="incall_connecting">Ringer …</string>
+  <string name="incall_connecting_assited_dialed">Ringer med +%1$s (%2$s) …</string>
+  <string name="incall_connecting_assited_dialed_component">Bruker +%1$s (%2$s) …</string>
+  <string name="incall_transferring">Overfører …</string>
+  <string name="incall_video_call_requesting">Videoanrop via mobiloperatør …</string>
+  <string name="incall_wifi_video_call_requesting">Videoanrop via Wi-Fi …</string>
+  <string name="incall_video_call_upgrade_request">Bytter til videoanrop via mobiloperatør …</string>
+  <string name="incall_video_call_request_failed">Kan ikke koble til</string>
+  <string name="incall_video_call_request_rejected">Anropet ble avvist</string>
+  <string name="incall_video_call_request_timed_out">Anropet ble tidsavbrutt</string>
+  <string name="incall_hanging_up">Legger på</string>
+  <string name="incall_call_ended">Samtalen er avsluttet</string>
+  <string name="incall_remotely_held">På vent</string>
+  <string name="contact_grid_incoming_video_call">Videoanrop via mobiloperatør fra</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videoanrop via Wi-Fi fra</string>
+  <string name="contact_grid_incoming_voice_call">Anrop fra</string>
+  <string name="contact_grid_incoming_work_call">Jobbrelatert anrop fra</string>
+  <string name="contact_grid_incoming_via_template">Innkommende via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Sannsynligvis et useriøst anrop</string>
+  <string name="contact_grid_callback_number">Nummeret til denne telefonen: %1$s</string>
+</resources>

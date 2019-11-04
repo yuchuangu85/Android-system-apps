@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">በመልዕክት ላለመቀበል ከአዶ ያንሸራቱ</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">እንደ ኦዲዮ ጥሪ ለመመለስ ከአዶ ያንሸራቱ</string>
+  <string name="call_incoming_default_label_answer_and_release_second">በመካሄድ ላይ ያለ ጥሪ ለመመለስ እና ለመያዝ ወደ ላይ ያንሸራትቱ</string>
+  <string name="call_incoming_default_label_answer_and_release_third">በይቆይ ላይ ያለ ጥሪ ለመመለስ እና ለመጨረስ ወደ ላይ ያንሸራትቱ</string>
+  <string name="call_incoming_swipe_to_answer_and_release">ለመመለስ እና በመካሄድ ላይ ያለ ጥሪን ለመጨረስ ከአዶ ያንሸራትቱ</string>
+  <string name="call_incoming_message_custom">የእራስዎን ይጻፉ…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">የእራስዎን ይጻፉ…</string>
+  <string name="call_incoming_custom_message_cancel">ይቅር</string>
+  <string name="call_incoming_custom_message_send">ላክ</string>
+  <string name="a11y_incoming_call_reject_with_sms">መልዕክት በመላክ ይህን ጥሪ አይቀበሉ</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">እንደ ኦዲዮ ጥሪ ይመልሱ</string>
+  <string name="a11y_incoming_call_answer_and_release">ይመልሱ እና በመካሄድ ላይ ያለ ጥሪን ይጨርሱ</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">መልዕክት በመላክ አይቀበሉ</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">እንደ ኦዲዮ ጥሪ ይመልሱ</string>
+  <string name="a11y_description_incoming_call_answer_and_release">ይመልሱ እና በመካሄድ ላይ ያለ ጥሪን ይጨርሱ</string>
+  <string name="call_incoming_video_is_off">ቪዲዮ ጠፍቷል</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">ለመመለስ በሁለት ጣት ወደ ላይ ያንሸራቱ። ላለመቀበል በሁለት ጣት ወደ ታች ያንሸራቱ።</string>
+  <string name="call_incoming_important">አስፈላጊ</string>
+</resources>

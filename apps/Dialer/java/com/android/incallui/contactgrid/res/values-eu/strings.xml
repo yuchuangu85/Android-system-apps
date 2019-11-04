@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s bidez deitzen</string>
+  <string name="incall_calling_on_same_carrier_template">Operadore berberarekin (%s) deitzen</string>
+  <string name="incall_calling_on_recent_choice_template">Duela gutxi aukeratutako operadorearekin (%s) deitzen</string>
+  <string name="incall_connecting">Deitzen…</string>
+  <string name="incall_connecting_assited_dialed">Deitzeko, erabili +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) erabiltzen…</string>
+  <string name="incall_transferring">Transferitzen…</string>
+  <string name="incall_video_call_requesting">Operadorearen bideo-deia egiten…</string>
+  <string name="incall_wifi_video_call_requesting">Operadorearen bideo-deia egiten Wi-Fi konexioa erabilita…</string>
+  <string name="incall_video_call_upgrade_request">Operadorearen bideo-deia modura aldatzen…</string>
+  <string name="incall_video_call_request_failed">Ezin da konektatu</string>
+  <string name="incall_video_call_request_rejected">Deia baztertu da</string>
+  <string name="incall_video_call_request_timed_out">Denbora-muga gainditu du deiak</string>
+  <string name="incall_hanging_up">Deia amaitzen</string>
+  <string name="incall_call_ended">Amaitu da deia</string>
+  <string name="incall_remotely_held">Zain</string>
+  <string name="contact_grid_incoming_video_call">Operadorearen bideo-deia:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Operadorearen Wi-Fi bidezko bideo-deia:</string>
+  <string name="contact_grid_incoming_voice_call">Deia:</string>
+  <string name="contact_grid_incoming_work_call">Laneko deia:</string>
+  <string name="contact_grid_incoming_via_template">%s bidez jasotzen</string>
+  <string name="contact_grid_incoming_suspected_spam">Ustezko spam-deitzailea</string>
+  <string name="contact_grid_callback_number">Telefono-zenbaki hau: %1$s</string>
+</resources>

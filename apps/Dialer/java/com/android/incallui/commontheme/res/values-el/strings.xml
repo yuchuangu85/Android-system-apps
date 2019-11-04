@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Τερματισμός</string>
+  <string name="incall_content_description_muted">Σε σίγαση</string>
+  <string name="incall_content_description_unmuted">Κατάργηση σίγασης</string>
+  <string name="incall_content_description_swap_calls">Εναλλαγή κλήσεων</string>
+  <string name="incall_content_description_swap_sim">Αλλαγή SIM</string>
+  <string name="incall_content_description_merge_calls">Συγχώνευση κλήσεων</string>
+  <string name="incall_content_description_earpiece">Ακουστικό</string>
+  <string name="incall_content_description_speaker">Ηχείο</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Ενσύρματα ακουστικά</string>
+  <string name="incall_content_description_hold">Αναμονή κλήσης</string>
+  <string name="incall_content_description_unhold">Συνέχιση κλήσης</string>
+  <string name="incall_content_description_video_on">Εικόνα βίντεο ενεργοποιημένη</string>
+  <string name="incall_content_description_video_off">Εικόνα βίντεο απενεργοποιημένη</string>
+  <string name="incall_content_description_swap_video">Εναλλαγή βίντεο</string>
+  <string name="incall_label_speaker">Ηχείο</string>
+  <string name="incall_label_audio">Ήχος</string>
+</resources>

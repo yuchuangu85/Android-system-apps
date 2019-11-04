@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Vis advarsel hver gang</string>
+  <string name="details">Du ringer et utenlandsnummer – kostnader kan påløpe.</string>
+</resources>

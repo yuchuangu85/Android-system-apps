@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Места во близина</string>
+  <string name="search_location_permission">За да добиете информации за контакт за места во близина, дозволете пристап до вашата локација.</string>
+  <string name="nearby_places_allow">Дозволи</string>
+  <string name="nearby_places_dismiss">Отфрли</string>
+</resources>

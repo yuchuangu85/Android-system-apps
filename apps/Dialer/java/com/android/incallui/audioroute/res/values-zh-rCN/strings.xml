@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">蓝牙</string>
+  <string name="audioroute_speaker">免提</string>
+  <string name="audioroute_phone">听筒</string>
+  <string name="audioroute_headset">有线耳机</string>
+</resources>

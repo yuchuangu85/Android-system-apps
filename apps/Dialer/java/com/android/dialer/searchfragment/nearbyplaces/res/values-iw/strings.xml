@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">מקומות קרובים</string>
+  <string name="search_location_permission">יש לאשר לאפליקציה גישה למיקום שלך כדי לקבל את הפרטים ליצירת קשר של מקומות בסביבה.</string>
+  <string name="nearby_places_allow">אני רוצה לאשר</string>
+  <string name="nearby_places_dismiss">סגירה</string>
+</resources>

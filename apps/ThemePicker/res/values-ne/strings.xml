@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"शैली तथा वालपेपरहरू"</string>
+    <string name="theme_title" msgid="2144932106319405101">"शैली"</string>
+    <string name="clock_title" msgid="2126046720254613991">"घडी"</string>
+    <string name="grid_title" msgid="2825094404523390773">"ग्रिड"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"वालपेपर"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"लागू गर्नुहोस्"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"सम्पादन गर्न ट्याप गर्नुहोस्"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"हालको वालपेपर राख्नुहोस्"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"लागू गर्नुहोस्"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"<xliff:g id="ID_1">%1$d</xliff:g> मध्ये <xliff:g id="ID_2">%2$d</xliff:g> पृष्ठ"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"अर्को"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"अघिल्लो"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g>, हालसालै लागू गरिएको"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>, हालसालै लागू तथा पूर्वावलोकन गरिएको"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>, हालसालै पूर्वलोकन गरिएको"</string>
+    <string name="theme_description" msgid="3697012391785254635">"फन्ट: <xliff:g id="ID_1">%1$s</xliff:g>, आइकनहरू: <xliff:g id="ID_2">%2$s</xliff:g>, आकार: <xliff:g id="ID_3">%3$s</xliff:g>, रङ: <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"पूर्वनिर्धारित"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"फन्ट"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"आइकन"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"रङ"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"आकार"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"वालपेपर"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • १२३"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"प्रत्येक स्क्रिनमा आफूलाई मन पर्ने फन्टहरू थप्नुहोस्"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"शैली लागू गरियो"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"घडी लागू गरियो"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"उक्त शैली लागू गर्ने क्रममा कुनै समस्या भयो"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"अर्को"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"अघिल्लो"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"आफू अनुकूल <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"आफू अनुकूल शैली"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"मेट्नुहोस्"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"फन्ट छनौट गर्नुहोस्"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"आइकनहरू छनौट गर्नुहोस्"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"रङ छनौट गर्नुहोस्"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"आकार छनौट गर्नुहोस्"</string>
+    <string name="name_component_title" msgid="532425087968663437">"आफ्नो शैलीको नाम राख्नुहोस्"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"आइकनहरू <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"आफू अनुकूल शैली मेट्ने हो?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"मेट्नुहोस्"</string>
+    <string name="cancel" msgid="4651030493668562067">"रद्द गर्नुहोस्"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"शैलीयुक्त वालपेपर सेट गर्नुहोस्"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"बरु <xliff:g id="ID_1">%1$s</xliff:g> प्रयोग गर्ने हो?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"तपाईंले छनौट गर्नुभएका कम्पोनेन्टहरू <xliff:g id="ID_1">%1$s</xliff:g> को शैलीसँग मिल्छन्। तपाईं बरु <xliff:g id="ID_2">%1$s</xliff:g> प्रयोग गर्न चाहनुहुन्छ?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"<xliff:g id="ID_1">%1$s</xliff:g> प्रयोग गर्नु…"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"पर्दैन, धन्यवाद"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> घडीको पूर्वावलोकन"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"हत्तेरिका! केही चिज गडबड भयो।"</string>
+</resources>

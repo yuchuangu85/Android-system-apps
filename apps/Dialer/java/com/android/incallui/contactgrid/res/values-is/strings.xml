@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Hringt í gegnum %s</string>
+  <string name="incall_calling_on_same_carrier_template">Hringir með sama símafyrirtæki, %s</string>
+  <string name="incall_calling_on_recent_choice_template">Hringir með nýlegu vali, %s</string>
+  <string name="incall_connecting">Hringir…</string>
+  <string name="incall_connecting_assited_dialed">Hringir með +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Notar +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Flytur…</string>
+  <string name="incall_video_call_requesting">Myndsímtal um símkerfi…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi myndsímtal…</string>
+  <string name="incall_video_call_upgrade_request">Skiptir yfir í myndsímtal um símkerfi…</string>
+  <string name="incall_video_call_request_failed">Tenging tókst ekki</string>
+  <string name="incall_video_call_request_rejected">Símtali hafnað</string>
+  <string name="incall_video_call_request_timed_out">Símtalstími rann út</string>
+  <string name="incall_hanging_up">Leggur á</string>
+  <string name="incall_call_ended">Lagt á</string>
+  <string name="incall_remotely_held">Í bið</string>
+  <string name="contact_grid_incoming_video_call">Myndsímtal um símkerfi frá</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi myndsímtal frá</string>
+  <string name="contact_grid_incoming_voice_call">Símtal berst frá</string>
+  <string name="contact_grid_incoming_work_call">Vinnusímtal berst frá</string>
+  <string name="contact_grid_incoming_via_template">Berst í gegnum %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Mögulegt ruslnúmer</string>
+  <string name="contact_grid_callback_number">Símanúmer þessa síma: %1$s</string>
+</resources>

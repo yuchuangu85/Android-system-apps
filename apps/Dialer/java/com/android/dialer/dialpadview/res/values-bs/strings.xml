@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Vrati se nazad</string>
+  <string name="description_dialpad_overflow">Više opcija</string>
+  <string name="description_delete_button">tipka za brisanje</string>
+  <string name="description_image_button_plus">dodavanje znaka plus</string>
+  <string name="description_voicemail_button">pozivanje govorne pošte</string>
+  <string name="description_dial_button">biranje</string>
+  <string name="dialog_voicemail_airplane_mode_message">Da pozovete govornu poštu, isključite Način rada u avionu.</string>
+  <string name="dialog_voicemail_not_ready_message">Da postavite govornu poštu, idite na Meni &gt; Postavke.</string>
+  <string name="add_2sec_pause">Dodajte pauzu od 2 sekunde</string>
+  <string name="add_wait">Dodajte čekanje</string>
+  <string name="dialer_useDtmfDialpad">Korištenje tastature za tonsko biranje</string>
+  <string name="dialer_returnToInCallScreen">Povratak na poziv</string>
+  <string name="dialer_addAnotherCall">Dodajte poziv</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Učitavanje sa SIM kartice…</string>
+  <string name="simContacts_title">Kontakti sa SIM kartice</string>
+  <string name="menu_callNumber">Pozivanje broja %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Nije moguće uspostaviti hitne pozive putem WiFi-ja</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Nije moguće pozvati ovaj broj</string>
+</resources>

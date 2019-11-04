@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Nowy kontakt</string>
+  <string name="dialer_shortcut_add_contact_long">Nowy kontakt</string>
+  <string name="dialer_shortcut_disabled_message">Skrót nie działa. Przeciągnij, aby usunąć.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakt niedostępny.</string>
+  <string name="dialer_shortcut_no_permissions">Nie możesz zadzwonić, jeśli nie masz odpowiednich uprawnień.</string>
+</resources>

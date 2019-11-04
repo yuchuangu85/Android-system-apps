@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Responde para revelar la foto</string>
+  <string name="spam_message_text">Responde para revelar el mensaje</string>
+</resources>

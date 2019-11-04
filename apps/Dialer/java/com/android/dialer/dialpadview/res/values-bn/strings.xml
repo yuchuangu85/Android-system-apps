@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">পিছনে যান</string>
+  <string name="description_dialpad_overflow">আরও বিকল্প</string>
+  <string name="description_delete_button">ব্যাক-স্পেস</string>
+  <string name="description_image_button_plus">ডায়াল প্লাস</string>
+  <string name="description_voicemail_button">ভয়েসমেলে কল করুন</string>
+  <string name="description_dial_button">ডায়াল করুন</string>
+  <string name="dialog_voicemail_airplane_mode_message">ভয়েসমেলে কল করতে, সবার আগে বিমানমোড বন্ধ করুন৷</string>
+  <string name="dialog_voicemail_not_ready_message">ভয়েসমেল সেট-আপ করতে, মেনু &gt; সেটিংসে যান৷</string>
+  <string name="add_2sec_pause">২-সেকেন্ড বিরতি যোগ করুন</string>
+  <string name="add_wait">অপেক্ষা যোগ করুন</string>
+  <string name="dialer_useDtmfDialpad">টাচ-টোন কীপ্যাড ব্যবহার করুন</string>
+  <string name="dialer_returnToInCallScreen">আগের কলে ফিরে যান</string>
+  <string name="dialer_addAnotherCall">কল যোগ করুন</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">সিম কার্ড থেকে লোড করা হচ্ছে…</string>
+  <string name="simContacts_title">সিম কার্ডের পরিচিতিগুলি</string>
+  <string name="menu_callNumber">%s নম্বরে কল করুন</string>
+  <string name="dialpad_hint_emergency_calling_not_available">ওয়াই-ফাইয়ের মাধ্যমে জরুরি কল করা যাবে না</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">এই নম্বরে কল করা যাবে না</string>
+</resources>

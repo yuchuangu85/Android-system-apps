@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Cevaplamak için hızlıca yukarı kaydırın</string>
+  <string name="call_incoming_swipe_to_reject">Reddetmek için hızlıca aşağı kaydırın</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Çağrıyı cevaplamak için iki parmağınızla yukarı doğru, reddetmek içinse aşağı doğru hızlıca kaydırın</string>
+  <string name="call_incoming_will_disconnect">Bu çağrıyı cevapladığınızda görüntülü görüşmeniz sonlandırılacak</string>
+  <string name="a11y_call_incoming_decline_description">Reddedin</string>
+  <string name="call_incoming_decline">Reddet</string>
+  <string name="a11y_call_incoming_answer_description">Cevaplayın</string>
+  <string name="call_incoming_answer">Cevapla</string>
+</resources>

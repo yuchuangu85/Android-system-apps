@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Video mrk dimatikan</string>
+  <string name="videocall_remote_video_on">Video mereka dihidupkan</string>
+  <string name="videocall_remotely_held">Panggilan ditunda</string>
+  <string name="videocall_remotely_resumed">Pgln disambung smla</string>
+  <string name="videocall_charges_alert_dialog_description">Panggilan video yang dibuat melalui rangkaian mudah alih menggunakan minit data dan juga suara. Caj boleh dikenakan.</string>
+  <string name="do_not_show_again">Jangan tunjukkan lagi</string>
+</resources>

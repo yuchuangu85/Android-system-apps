@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Ividiyo yabo ivaliwe</string>
+  <string name="videocall_remote_video_on">Ividiyo yabo ivuliwe</string>
+  <string name="videocall_remotely_held">Ikholi imisiwe</string>
+  <string name="videocall_remotely_resumed">Ikholi iqaliswe kabusha</string>
+  <string name="videocall_charges_alert_dialog_description">Amakholi evidiyo enziwe ngenethiwekhi yeselula asebenzisa kokubili idatha namaminithi ezwi. Kungasebenza izindleko.</string>
+  <string name="do_not_show_again">Ungabonisi futhi</string>
+</resources>

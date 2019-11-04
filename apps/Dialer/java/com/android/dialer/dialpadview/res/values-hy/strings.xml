@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Հետ գնալ</string>
+  <string name="description_dialpad_overflow">Այլ ընտրանքներ</string>
+  <string name="description_delete_button">հետշարժ</string>
+  <string name="description_image_button_plus">հավաքել պլյուս</string>
+  <string name="description_voicemail_button">զանգել ձայնային փոստին</string>
+  <string name="description_dial_button">համարհավաքել</string>
+  <string name="dialog_voicemail_airplane_mode_message">Ձայնային փոստին զանգելու համար նախ անջատեք Ինքնաթիռի ռեժիմը:</string>
+  <string name="dialog_voicemail_not_ready_message">Ձայնային փոստը կարգավորելու համար անցեք Ընտրացնակ &gt; Կարգավորումներ:</string>
+  <string name="add_2sec_pause">Ավելացնել 2 վայրկյան դադար</string>
+  <string name="add_wait">Ավելացնել սպասելաժամանակ</string>
+  <string name="dialer_useDtmfDialpad">Բացել տոնային թվաշարը</string>
+  <string name="dialer_returnToInCallScreen">Վերադառնալ ընթացիկ զանգին</string>
+  <string name="dialer_addAnotherCall">Ավելացնել զանգ</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Բեռնվում է SIM քարտից…</string>
+  <string name="simContacts_title">SIM քարտի կոնտակտներ</string>
+  <string name="menu_callNumber">Զանգել %s համարին</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Շտապ կանչերը հասանելի չեն Wi‑Fi-ի միջոցով</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Հնարավոր չէ զանգել այս համարին</string>
+</resources>

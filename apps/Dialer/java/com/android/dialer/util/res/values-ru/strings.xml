@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">По умолчанию (%1$s)</string>
+  <string name="ringtone_silent">Не использовать</string>
+  <string name="ringtone_unknown">Мелодия не найдена</string>
+  <string name="activity_not_available">На устройстве нет подходящего приложения</string>
+  <string name="outgoing_wps_warning">Если вы начнете WPS-вызов, текущий вызов будет прекращен.</string>
+  <string name="dialog_continue">Продолжить</string>
+  <string name="camera_privacy_text">Доступ к камере разрешен</string>
+</resources>

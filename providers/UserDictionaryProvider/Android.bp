@@ -1,0 +1,11 @@
+android_app {
+    name: "UserDictionaryProvider",
+    srcs: ["**/*.java"],
+    libs: ["ext"],
+    platform_apis: true,
+    certificate: "shared",
+    privileged: true,
+    optimize: {
+        proguard_flags_files: ["proguard.flags"],
+    },
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">Nummer kiezen</string>
+  <string name="call_disambig_title">Nummer kiezen</string>
+  <string name="make_primary">Deze keuze onthouden</string>
+</resources>

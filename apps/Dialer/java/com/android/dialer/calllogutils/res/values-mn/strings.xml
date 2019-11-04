@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Орж ирсэн дуудлага</string>
+  <string name="type_incoming_pulled">Орж ирсэн дуудлагыг өөр төхөөрөмж рүү шилжүүлсэн</string>
+  <string name="type_outgoing">Залгасан дуудлага</string>
+  <string name="type_outgoing_pulled">Залгасан дуудлагыг өөр төхөөрөмж рүү шилжүүлсэн</string>
+  <string name="type_missed">Аваагүй дуудлага</string>
+  <string name="type_incoming_video">Орж ирсэн видео дуудлага</string>
+  <string name="type_incoming_video_pulled">Орж ирсэн видео дуудлагыг өөр төхөөрөмж рүү шилжүүлсэн</string>
+  <string name="type_outgoing_video">Залгасан видео дуудлага</string>
+  <string name="type_outgoing_video_pulled">Залгасан видео дуудлагыг өөр төхөөрөмж рүү шилжүүлсэн</string>
+  <string name="type_missed_video">Аваагүй видео дуудлага</string>
+  <string name="type_voicemail">Дуут шуудан</string>
+  <string name="type_rejected">Татгалзсан дуудлага</string>
+  <string name="type_blocked">Хориглосон дуудлага</string>
+  <string name="call_details_minutes_abbreviation">м</string>
+  <string name="call_details_seconds_abbreviation">с</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">секунд</item>
+    <item quantity="other">секунд</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">минут</item>
+    <item quantity="other">минут</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Дуудлагад өөр төхөөрөмж дээрээс хариулсан</string>
+  <string name="description_phone_account">^1 дээр</string>
+  <string name="description_via_number">%1$s-р</string>
+  <string name="description_via_number_phone_account">%1$s дээр, %2$s-р</string>
+  <string name="voicemail_string">Дуут шуудан</string>
+  <string name="just_now">Дөнгөж сая</string>
+  <string name="new_call_log_carrier_video">Үүрэн холбооны компанийн видео</string>
+  <string name="new_call_log_duo_video">Duo видео</string>
+  <string name="new_call_log_unknown">Тодорхойгүй</string>
+  <string name="new_call_log_secondary_blocked">Хориглосон</string>
+  <string name="new_call_log_secondary_spam">Спам</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2-с ирсэн аваагүй ^1 дуудлага</item>
+    <item quantity="other">^1 дуудлага, хамгийн сүүлийнх нь ^2-с ирсэн аваагүй дуудлага</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2-с ирсэн авсан ^1 дуудлага</item>
+    <item quantity="other">^1 дуудлага, хамгийн сүүлийнх нь ^2-с ирсэн авсан дуудлага</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^2 руу залгасан ^1 дуудлага</item>
+    <item quantity="other">^1 дуудлага, хамгийн сүүлийнх нь ^2 руу залгасан дуудлага</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2-с ирсэн блоклосон ^1 дуудлага</item>
+    <item quantity="other">^1 дуудлага, хамгийн сүүлийнх нь ^2-с ирсэн блоклосон дуудлага</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 дээр ^2-р</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

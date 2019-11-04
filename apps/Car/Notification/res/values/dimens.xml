@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+    <dimen name="notification_app_bar_height">@*android:dimen/car_app_bar_height</dimen>
+    <dimen name="notification_scroll_margin">@*android:dimen/car_margin</dimen>
+    <dimen name="notification_list_divider_height">@*android:dimen/car_list_divider_height</dimen>
+    <dimen name="notification_headsup_card_margin_horizontal">165dp</dimen>
+    <dimen name="notification_card_margin_horizontal">270dp</dimen>
+    <dimen name="car_notification_card_inner_top_margin">0dp</dimen>
+
+    <!-- Header View -->
+    <dimen name="notification_card_header_height">@*android:dimen/car_card_action_bar_height</dimen>
+    <dimen name="notification_card_footer_height">@*android:dimen/car_card_action_bar_height</dimen>
+
+    <!-- Card View -->
+    <dimen name="card_start_margin">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="card_end_margin">@*android:dimen/car_keyline_1</dimen>
+    <dimen name="card_min_top_padding">@*android:dimen/car_padding_3</dimen>
+    <dimen name="card_min_bottom_padding">@*android:dimen/car_padding_3</dimen>
+    <dimen name="card_header_margin_bottom">@*android:dimen/car_padding_0</dimen>
+    <dimen name="card_body_margin_bottom">@*android:dimen/car_padding_0</dimen>
+    <dimen name="text_padding">@*android:dimen/car_padding_0</dimen>
+    <dimen name="unshown_count_start_margin">@*android:dimen/car_padding_1</dimen>
+    <dimen name="unread_message_count_margin">@*android:dimen/car_padding_3</dimen>
+    <dimen name="headsup_notification_top_margin">@*android:dimen/car_padding_1</dimen>
+    <dimen name="headsup_notification_big_icon_margin">@*android:dimen/car_padding_3</dimen>
+    <dimen name="in_group_timestamp_start_margin">@*android:dimen/car_padding_2</dimen>
+    <dimen name="item_spacing">@*android:dimen/car_padding_2</dimen>
+    <dimen name="header_small_icon_padding">@*android:dimen/car_padding_3</dimen>
+    <dimen name="body_bottom_padding">@*android:dimen/car_padding_3</dimen>
+    <dimen name="body_big_icon_margin">@*android:dimen/car_padding_4</dimen>
+    <dimen name="notification_card_radius">@*android:dimen/car_radius_2</dimen>
+
+    <!-- Text Size -->
+    <dimen name="time_stamp_text_size_in_group">@*android:dimen/car_body3_size</dimen>
+
+    <!-- Action View -->
+    <dimen name="action_button_radius">28dp</dimen>
+    <dimen name="action_button_min_width">@*android:dimen/car_button_min_width</dimen>
+    <dimen name="action_button_height">@*android:dimen/car_button_height</dimen>
+    <dimen name="action_button_padding">@*android:dimen/car_padding_2</dimen>
+    <dimen name="action_button_spacing">@*android:dimen/car_padding_2</dimen>
+
+    <!-- Icons -->
+    <dimen name="notification_primary_icon_size">@*android:dimen/car_primary_icon_size</dimen>
+    <dimen name="notification_secondary_icon_size">@*android:dimen/car_secondary_icon_size</dimen>
+    <dimen name="notification_touch_target_size">@*android:dimen/car_touch_target_size</dimen>
+    <dimen name="notification_heads_up_icon_size">@*android:dimen/car_touch_target_size</dimen>
+    <dimen name="media_action_icon_size">@*android:dimen/car_primary_icon_size</dimen>
+
+    <!-- HUN Scrim -->
+    <dimen name="headsup_scrim_height">464dp</dimen>
+
+    <!-- Swipe Animation -->
+    <item name="error_factor_multiplier" format="float" type="dimen">1.2</item>
+    <item name="fling_percentage_of_width_to_dismiss" format="float" type="dimen">0.05</item>
+    <item name="percentage_of_width_to_dismiss" format="float" type="dimen">0.40</item>
+    <item name="max_percentage_of_width_with_resistance" format="float" type="dimen">0.4</item>
+    <dimen name="touch_slop">20dp</dimen>
+
+    <!-- Clear all button -->
+    <dimen name="clear_all_button_margin">@*android:dimen/car_padding_3</dimen>
+    <dimen name="clear_all_button_padding">@*android:dimen/car_padding_2</dimen>
+    <dimen name="clear_all_button_height">@*android:dimen/car_button_height</dimen>
+    <dimen name="clear_all_button_radius">28dp</dimen>
+
+    <dimen name="notification_header_text_padding_start">@*android:dimen/car_padding_2</dimen>
+    <dimen name="notification_header_text_padding_end">@*android:dimen/car_padding_2</dimen>
+    <dimen name="notification_header_text_padding_top">@*android:dimen/car_padding_2</dimen>
+    <dimen name="notification_header_text_padding_bottom">@*android:dimen/car_padding_2</dimen>
+    <dimen name="notification_header_text_margin">@*android:dimen/car_padding_3</dimen>
+
+    <dimen name="no_notification_header_text_padding_top">@*android:dimen/car_padding_5</dimen>
+    <dimen name="no_notification_header_text_padding_bottom">@*android:dimen/car_padding_5</dimen>
+
+</resources>

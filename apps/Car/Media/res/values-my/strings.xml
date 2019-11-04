@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+  Copyright 2016, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="browser_loading" msgid="1639570085710372552">"အကြောင်းအရာကို ဖွင့်နေသည်…"</string>
+    <string name="nothing_to_play" msgid="3027311268791740588">"ဤနေရာတွင် မည်သည့်မီဒီယာမျှ မရှိပါ။"</string>
+    <string name="cannot_connect_to_app" msgid="4732888036680095414">"<xliff:g id="ID_1">%s</xliff:g> ကို ယခုအသုံးပြု၍မရပါ။"</string>
+    <string name="unknown_media_provider_name" msgid="4238216994694326667">"အမျိုးအမည်မသိ"</string>
+    <string name="unknown_error" msgid="6146463797752964372">"တစ်ခုခု မှားသွားသည်"</string>
+    <string name="media_browse_more" msgid="6330295386693311592">"နောက်ထပ်..."</string>
+    <string name="media_app_title" msgid="94717597743776797">"မီဒီယာ"</string>
+    <string name="search_hint" msgid="5401750426238148416">"အရာများစွာ ရှာပါ..."</string>
+    <string name="fragment_playback_title" msgid="5014481549024607614">"ယခု ဖွင့်နေသည်"</string>
+    <string name="default_error_message" msgid="6365377134388091079">"တစ်ခုခု မှားနေသည်။ နောက်မှ စမ်းကြည့်ပါ။"</string>
+    <string name="error_code_app_error" msgid="1726372057192704809">"၎င်းကို ယခု မပြုလုပ်နိုင်ပါ"</string>
+    <string name="error_code_not_supported" msgid="1435878548411799387">"ဤအက်ပ်က ၎င်းကို မပြုလုပ်နိုင်ပါ"</string>
+    <string name="error_code_authentication_expired" msgid="905154133202017052">"ဤအက်ပ်အသုံးပြုရန် လက်မှတ်ထိုးဝင်ပါ"</string>
+    <string name="error_code_premium_account_required" msgid="4736461331592855166">"ပရီမီယံ အသုံးပြုခွင့် လိုအပ်သည်"</string>
+    <string name="error_code_concurrent_stream_limit" msgid="1279573243715957403">"စက်ပစ္စည်းအများအပြားတွင် နားထောင်နေသည်"</string>
+    <string name="error_code_parental_control_restricted" msgid="5222841294702530806">"ထိုအကြောင်းအရာကို ပိတ်ထားသည်"</string>
+    <string name="error_code_not_available_in_region" msgid="4106605584926645567">"ထိုအကြောင်းအရာကို ဤနေရာတွင် မရရှိနိုင်ပါ"</string>
+    <string name="error_code_content_already_playing" msgid="8050972499898729459">"ထိုအကြောင်းအရာကို ဖွင့်နေပြီဖြစ်သည်"</string>
+    <string name="error_code_skip_limit_reached" msgid="8926507875025988831">"နောက်ထပ်သီချင်းပုဒ်များ ကျော်၍မရတော့ပါ"</string>
+    <string name="error_code_action_aborted" msgid="3889734248905737169">"အပြီးသတ်၍ မရပါ။ ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="error_code_end_of_queue" msgid="2842652212154074468">"အခြားစီထားသည်များ မရှိပါ"</string>
+</resources>

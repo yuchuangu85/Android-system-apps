@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"इस नेटवर्क का उपयोग जैसा है वैसा ही करें"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"इस नेटवर्क का उपयोग न करें"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"नेटवर्क में साइन इन करें"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$s में साइन इन करें"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"आप जिस नेटवर्क में शामिल होने का प्रयास कर रहे हैं उसमें सुरक्षा समस्‍याएं हैं."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"उदाहरण के लिए, हो सकता है कि लॉगिन पृष्‍ठ दिखाए गए संगठन से संबद्ध ना हो."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"ब्राउज़र के द्वारा फिर जारी रखें"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"यह प्रमाणपत्र किसी भरोसेमंद अधिकारी का नहीं है."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"साइट के नाम का मिलान प्रमाणपत्र में दिए नाम से नहीं हो रहा है."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"इस प्रमाणपत्र की समय-सीमा खत्म हो चुकी है."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"यह प्रमाणपत्र अभी तक मान्य नहीं है."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"इस प्रमाणपत्र की तारीख गलत है."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"यह प्रमाणपत्र अमान्य है."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"प्रमाणपत्र में अनजान गड़बड़ी."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"सुरक्षा चेतावनी"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"प्रमाणपत्र देखें"</string>
+    <string name="ok" msgid="6584612582120777209">"ठीक है"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"पता:"</string>
+    <string name="page_info" msgid="46593086046896385">"पेज की जानकारी"</string>
+</resources>

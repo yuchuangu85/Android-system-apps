@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Tempat terdekat</string>
+  <string name="search_location_permission">To  obtain  information  contact  for  a place  in  near  you,  please allow  access  to  the location  you.</string>
+  <string name="nearby_places_allow">Izinkan</string>
+  <string name="nearby_places_dismiss">Tolak</string>
+</resources>

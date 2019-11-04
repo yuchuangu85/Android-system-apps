@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Відэавыклік</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Утрымліваць</string>
+  <string name="incall_label_add_call">Дадаць выклік</string>
+  <string name="incall_label_mute">Адключыць мікрафон</string>
+  <string name="incall_label_end_call">Сконч. выкл.</string>
+  <string name="incall_label_dialpad">Клавіятура</string>
+  <string name="incall_talkback_speaker_on">, уключана</string>
+  <string name="incall_talkback_speaker_off">, выключана</string>
+  <string name="incall_label_merge">Аб\'яднаць</string>
+  <string name="incall_label_manage">Кіраваць</string>
+  <string name="a11y_description_incall_label_manage_content">Кіраваць выклікаючымі абанентамі</string>
+  <string name="incall_label_swap">Пераключыць</string>
+  <string name="incall_label_swap_sim">Змяніць SIM</string>
+  <string name="incall_note_sent">Нататка адпраўлена</string>
+</resources>

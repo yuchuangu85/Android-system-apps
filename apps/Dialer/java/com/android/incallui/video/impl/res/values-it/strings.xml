@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Il suo video non è attivo</string>
+  <string name="videocall_remote_video_on">Il loro video è attivo</string>
+  <string name="videocall_remotely_held">Chiamata in attesa</string>
+  <string name="videocall_remotely_resumed">Chiamata ripristinata</string>
+  <string name="videocall_charges_alert_dialog_description">Per le videochiamate effettuate attraverso la rete mobile vengono utilizzati sia il piano dati sia i minuti di conversazione. Potrebbero essere addebitati dei costi.</string>
+  <string name="do_not_show_again">Non mostrare più</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">A fotó felfedéséhez válaszoljon a kérdésre</string>
+  <string name="spam_message_text">Az üzenet felfedéséhez válaszoljon a kérdésre</string>
+</resources>

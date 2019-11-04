@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Uus kontakt</string>
+  <string name="dialer_shortcut_add_contact_long">Uus kontakt</string>
+  <string name="dialer_shortcut_disabled_message">Otsetee ei tööta. Lohistage eemaldamiseks.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakt pole enam saadaval.</string>
+  <string name="dialer_shortcut_no_permissions">Ilma lubadeta ei saa helistada.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Điều hướng trở lại</string>
+  <string name="description_dialpad_overflow">Tùy chọn khác</string>
+  <string name="description_delete_button">phím lùi</string>
+  <string name="description_image_button_plus">nút thêm dấu cộng vào bàn phím số</string>
+  <string name="description_voicemail_button">gọi thư thoại</string>
+  <string name="description_dial_button">quay số</string>
+  <string name="dialog_voicemail_airplane_mode_message">Để gọi thư thoại, trước tiên hãy tắt Chế độ trên máy bay.</string>
+  <string name="dialog_voicemail_not_ready_message">Để thiết lập thư thoại, hãy đi tới Menu &gt; Cài đặt.</string>
+  <string name="add_2sec_pause">Thêm tạm dừng 2 giây</string>
+  <string name="add_wait">Thêm chờ</string>
+  <string name="dialer_useDtmfDialpad">Sử dụng bàn phím số cảm ứng có âm</string>
+  <string name="dialer_returnToInCallScreen">Quay lại cuộc gọi đang thực hiện</string>
+  <string name="dialer_addAnotherCall">Thêm cuộc gọi</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Đang tải từ thẻ SIM…</string>
+  <string name="simContacts_title">Danh bạ trên thẻ SIM</string>
+  <string name="menu_callNumber">Gọi %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Không thể thực hiện cuộc gọi khẩn cấp qua Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Không thể gọi số này</string>
+</resources>

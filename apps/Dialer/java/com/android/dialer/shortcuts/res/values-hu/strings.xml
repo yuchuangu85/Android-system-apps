@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Új névjegy</string>
+  <string name="dialer_shortcut_add_contact_long">Új névjegy</string>
+  <string name="dialer_shortcut_disabled_message">A parancsikon nem működik. Húzással távolítsa el.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">A névjegy már nem érhető el.</string>
+  <string name="dialer_shortcut_no_permissions">Nem indíthat hívást engedély nélkül.</string>
+</resources>

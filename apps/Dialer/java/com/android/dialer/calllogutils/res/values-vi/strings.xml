@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Cuộc gọi đến</string>
+  <string name="type_incoming_pulled">Đã chuyển cuộc gọi đến tới thiết bị khác</string>
+  <string name="type_outgoing">Cuộc gọi đi</string>
+  <string name="type_outgoing_pulled">Đã chuyển cuộc gọi đi tới thiết bị khác</string>
+  <string name="type_missed">Cuộc gọi nhỡ</string>
+  <string name="type_incoming_video">Cuộc gọi điện video đến</string>
+  <string name="type_incoming_video_pulled">Đã chuyển cuộc gọi điện video đến tới thiết bị khác</string>
+  <string name="type_outgoing_video">Cuộc gọi điện video đi</string>
+  <string name="type_outgoing_video_pulled">Đã chuyển cuộc gọi điện video đi tới thiết bị khác</string>
+  <string name="type_missed_video">Cuộc gọi điện video bị nhỡ</string>
+  <string name="type_voicemail">Thư thoại</string>
+  <string name="type_rejected">Cuộc gọi bị từ chối</string>
+  <string name="type_blocked">Cuộc gọi bị chặn</string>
+  <string name="call_details_minutes_abbreviation">phút</string>
+  <string name="call_details_seconds_abbreviation">giây</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">giây</item>
+    <item quantity="other">giây</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">phút</item>
+    <item quantity="other">phút</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Đã trả lời cuộc gọi trên thiết bị khác</string>
+  <string name="description_phone_account">trên ^1</string>
+  <string name="description_via_number">qua %1$s</string>
+  <string name="description_via_number_phone_account">trên %1$s, qua %2$s</string>
+  <string name="voicemail_string">Thư thoại</string>
+  <string name="just_now">Vừa xong</string>
+  <string name="new_call_log_carrier_video">Cuộc gọi video của nhà mạng</string>
+  <string name="new_call_log_duo_video">Cuộc gọi video Duo</string>
+  <string name="new_call_log_unknown">Không xác định</string>
+  <string name="new_call_log_secondary_blocked">Bị chặn</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 cuộc gọi nhỡ từ ^2</item>
+    <item quantity="other">^1 cuộc gọi, cuộc gọi gần đây nhất là cuộc gọi nhỡ từ ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 cuộc gọi đã nhận từ ^2</item>
+    <item quantity="other">^1 cuộc gọi, cuộc gọi gần đây nhất là cuộc gọi đã nhận từ ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 cuộc gọi đi tới ^2</item>
+    <item quantity="other">^1 cuộc gọi, cuộc gọi gần đây nhất là cuộc gọi đi tới ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 cuộc gọi đã chặn từ ^2</item>
+    <item quantity="other">^1 cuộc gọi, cuộc gọi gần đây nhất là cuộc gọi đã chặn từ ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">trên ^1,
+    qua số ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

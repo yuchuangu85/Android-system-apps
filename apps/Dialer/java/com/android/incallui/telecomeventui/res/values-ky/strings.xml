@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Эскертүүнү ар дайым көрсөтүү</string>
+  <string name="details">Эл аралык чалуулар үчүн акы төлөп калышыңыз мүмкүн.</string>
+</resources>

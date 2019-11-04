@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Zawsze pokazuj ostrzeżenie</string>
+  <string name="details">Dzwonisz pod numer zagraniczny, przez co mogą zostać naliczone opłaty.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Boshqa xabar yozing</string>
+  <string name="toolbar_close">Yopish</string>
+  <string name="all_contacts_empty">Kontaktlar yo‘q</string>
+  <string name="all_contacts_empty_add_contact_action">Yangi kontakt qo‘shish</string>
+  <string name="permission_single_turn_on">Ruxsat berish</string>
+  <string name="permission_no_contacts">Kontaktlar ro‘yxatini ko‘rish uchun ilovaga Kontaktlarga kirishga ruxsat bering.</string>
+  <string name="add_contact_not_available">Kontaktlarni ochadigan ilova yo‘q</string>
+</resources>

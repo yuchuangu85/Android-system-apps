@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Opkaldsinfo</string>
+  <string name="delete">Slet</string>
+  <string name="call_details_copy_number">Kopiér nummer</string>
+  <string name="call_details_edit_number">Rediger nummer før opkald</string>
+  <string name="call_details_report_call_id">Rapportér et forkert nummer</string>
+  <string name="sent_a_photo">Der blev sendt et billede</string>
+  <string name="received_a_photo">Der blev modtaget et billede</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Rapportér forkert nummer</string>
+  <string name="report_caller_id_failed">Det forkerte nummer kunne ikke rapporteres</string>
+  <string name="report_caller_id_toast">Nummeret blev rapporteret</string>
+  <string name="assisted_dialing_country_code_entry">Assisteret opkald: Brugt landekode: +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Assisteret opkald blev brugt</string>
+  <string name="rtt_transcript_not_available">Transskription er kun tilgængelige for opkald med beskeder</string>
+  <string name="rtt_transcript_link">Se transskription</string>
+</resources>

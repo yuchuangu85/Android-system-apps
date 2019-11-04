@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Chamada recebida</string>
+  <string name="type_incoming_pulled">Chamada recebida transferida para outro dispositivo</string>
+  <string name="type_outgoing">Chamada efetuada</string>
+  <string name="type_outgoing_pulled">Chamada efetuada transferida para outro dispositivo</string>
+  <string name="type_missed">Chamada não atendida</string>
+  <string name="type_incoming_video">Videochamada recebida</string>
+  <string name="type_incoming_video_pulled">Videochamada recebida transferida para outro dispositivo</string>
+  <string name="type_outgoing_video">Videochamada efetuada</string>
+  <string name="type_outgoing_video_pulled">Videochamada efetuada transferida para outro dispositivo</string>
+  <string name="type_missed_video">Videochamada não atendida</string>
+  <string name="type_voicemail">Correio de voz</string>
+  <string name="type_rejected">Chamada recusada</string>
+  <string name="type_blocked">Chamada bloqueada</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">seg</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\', %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">segundo</item>
+    <item quantity="other">segundos</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minuto</item>
+    <item quantity="other">minutos</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Chamada atendida noutro dispositivo</string>
+  <string name="description_phone_account">em ^1</string>
+  <string name="description_via_number">através do número %1$s</string>
+  <string name="description_via_number_phone_account">em %1$s, através do número %2$s</string>
+  <string name="voicemail_string">Correio de voz</string>
+  <string name="just_now">Agora mesmo</string>
+  <string name="new_call_log_carrier_video">Vídeo do operador</string>
+  <string name="new_call_log_duo_video">Vídeo do Duo</string>
+  <string name="new_call_log_unknown">Desconhecido</string>
+  <string name="new_call_log_secondary_blocked">Bloqueado</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 chamada não atendida de ^2</item>
+    <item quantity="other">^1 chamadas, a mais recente é uma chamada não atendida de ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 chamada atendida de ^2</item>
+    <item quantity="other">^1 chamadas, a mais recente é uma chamada atendida de ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 chamada efetuada para ^2</item>
+    <item quantity="other">^1 chamadas, a mais recente é uma chamada efetuada para ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 chamada bloqueada de ^2</item>
+    <item quantity="other">^1 chamadas, a mais recente é uma chamada bloqueada de ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">em ^1,
+    através de ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

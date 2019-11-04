@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Hiển thị cảnh báo mọi lúc</string>
+  <string name="details">Bạn đang gọi số quốc tế và có thể bị tính phí.</string>
+</resources>

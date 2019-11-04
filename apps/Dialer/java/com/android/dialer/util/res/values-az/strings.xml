@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Defolt səs (%1$s)</string>
+  <string name="ringtone_silent">Yoxdur</string>
+  <string name="ringtone_unknown">Naməlum zəng melodiyası</string>
+  <string name="activity_not_available">Bu cihazda onun üçün heç bir proqram yoxdur</string>
+  <string name="outgoing_wps_warning">WPS zənginin edilməsi mövcud zənginizi sonlandıracaq.</string>
+  <string name="dialog_continue">Davam edin</string>
+  <string name="camera_privacy_text">Kamera icazəsi aktiv edildi</string>
+</resources>

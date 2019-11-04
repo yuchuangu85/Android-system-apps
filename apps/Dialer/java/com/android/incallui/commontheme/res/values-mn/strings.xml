@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Дуудлагыг таслах</string>
+  <string name="incall_content_description_muted">Дууг хаасан</string>
+  <string name="incall_content_description_unmuted">Дууг нээсэн</string>
+  <string name="incall_content_description_swap_calls">Дуудлага солих</string>
+  <string name="incall_content_description_swap_sim">SIM өөрчлөх</string>
+  <string name="incall_content_description_merge_calls">Дуудлагуудыг нэгтгэх</string>
+  <string name="incall_content_description_earpiece">Утасны чихэвч</string>
+  <string name="incall_content_description_speaker">Чанга яригч</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Утастай чихэвч</string>
+  <string name="incall_content_description_hold">Дуудлагыг хүлээлгэх</string>
+  <string name="incall_content_description_unhold">Дуудлагыг үргэлжлүүлэх</string>
+  <string name="incall_content_description_video_on">Видео идэвхтэй</string>
+  <string name="incall_content_description_video_off">Видео идэвхгүй</string>
+  <string name="incall_content_description_swap_video">Видеог солих</string>
+  <string name="incall_label_speaker">Чанга яригч</string>
+  <string name="incall_label_audio">Дуу</string>
+</resources>

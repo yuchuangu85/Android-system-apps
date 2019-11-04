@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">ວາງສາຍ</string>
+  <string name="incall_content_description_muted">ປິດສຽງແລ້ວ</string>
+  <string name="incall_content_description_unmuted">ເປີດສຽງແລ້ວ</string>
+  <string name="incall_content_description_swap_calls">ສະຫຼັບສາຍ</string>
+  <string name="incall_content_description_swap_sim">ປ່ຽນຊິມ</string>
+  <string name="incall_content_description_merge_calls">ຮວມສາຍ</string>
+  <string name="incall_content_description_earpiece">ຊຸດຫູຟັງ</string>
+  <string name="incall_content_description_speaker">ລຳໂພງ</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">ຊຸດຫູຟັງແບບມີສາຍ</string>
+  <string name="incall_content_description_hold">ພັກສາຍ</string>
+  <string name="incall_content_description_unhold">ສືບຕໍ່ສາຍ</string>
+  <string name="incall_content_description_video_on">ວິດີໂອເປີດ</string>
+  <string name="incall_content_description_video_off">ວິດີໂອປິດ</string>
+  <string name="incall_content_description_swap_video">ສະຫຼັບວິດີໂອ</string>
+  <string name="incall_label_speaker">ລຳໂພງ</string>
+  <string name="incall_label_audio">ສຽງ</string>
+</resources>

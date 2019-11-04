@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">上にスワイプして応答</string>
+  <string name="call_incoming_swipe_to_reject">下にスワイプして拒否</string>
+  <string name="a11y_incoming_call_swipe_to_answer">着信に応答するには上方向、着信を拒否するには下方向に 2 本の指でスワイプ</string>
+  <string name="call_incoming_will_disconnect">着信に応答するとビデオハングアウトは終了します</string>
+  <string name="a11y_call_incoming_decline_description">拒否</string>
+  <string name="call_incoming_decline">拒否</string>
+  <string name="a11y_call_incoming_answer_description">応答</string>
+  <string name="call_incoming_answer">応答</string>
+</resources>

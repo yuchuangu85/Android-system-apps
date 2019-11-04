@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Vedno prikaži opozorilo</string>
+  <string name="details">Kličete mednarodno številko, zato bo treba morda plačati stroške.</string>
+</resources>

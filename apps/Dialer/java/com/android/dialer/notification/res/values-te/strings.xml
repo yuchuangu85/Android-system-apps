@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">ఇన్‌కమింగ్ కాల్‌లు</string>
+  <string name="notification_channel_ongoing_call">కొనసాగుతున్న కాల్‌లు</string>
+  <string name="notification_channel_missed_call">సమాధానమివ్వని కాల్‌లు</string>
+  <string name="notification_channel_voicemail">వాయిస్ మెయిల్‌లు</string>
+  <string name="notification_channel_misc">డిఫాల్ట్</string>
+</resources>

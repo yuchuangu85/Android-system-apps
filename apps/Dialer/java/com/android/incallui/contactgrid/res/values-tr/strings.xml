@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s üzerinden çağrı yapılıyor</string>
+  <string name="incall_calling_on_same_carrier_template">Aynı operatör (%s) üzerinden aranıyor</string>
+  <string name="incall_calling_on_recent_choice_template">Son yapılan seçim (%s) üzerinden aranıyor</string>
+  <string name="incall_connecting">Çağrı yapılıyor…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) kullanılarak telefon ediliyor…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) kullanılıyor…</string>
+  <string name="incall_transferring">Aktarılıyor…</string>
+  <string name="incall_video_call_requesting">Operatör üzerinden görüntülü görüşme…</string>
+  <string name="incall_wifi_video_call_requesting">Operatör üzerinden kablosuz görüntülü görüşme…</string>
+  <string name="incall_video_call_upgrade_request">Operatör üzerinden görüntülü görüşmeye geçiliyor…</string>
+  <string name="incall_video_call_request_failed">Bağlantı kurulamadı</string>
+  <string name="incall_video_call_request_rejected">Çağrı reddedildi</string>
+  <string name="incall_video_call_request_timed_out">Çağrı zaman aşımına uğradı</string>
+  <string name="incall_hanging_up">Çağrı sonlandırılıyor</string>
+  <string name="incall_call_ended">Çağrı sonlandırıldı</string>
+  <string name="incall_remotely_held">Beklemede</string>
+  <string name="contact_grid_incoming_video_call">Operatör üzerinden görüntülü görüşme isteği:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Operatör üzerinden kablosuz görüntülü görüşme isteği:</string>
+  <string name="contact_grid_incoming_voice_call">Gelen çağrı:</string>
+  <string name="contact_grid_incoming_work_call">Gelen iş çağrısı:</string>
+  <string name="contact_grid_incoming_via_template">%s adlı sağlayıcı üzerinden gelen çağrı</string>
+  <string name="contact_grid_incoming_suspected_spam">Spam olduğundan şüphelenilen arayan</string>
+  <string name="contact_grid_callback_number">Bu telefonun numarası: %1$s</string>
+</resources>

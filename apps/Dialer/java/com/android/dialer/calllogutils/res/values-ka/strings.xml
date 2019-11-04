@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">შემომავალი ზარი</string>
+  <string name="type_incoming_pulled">შემომავალი ზარი სხვა მოწყობილობას გადაეცა</string>
+  <string name="type_outgoing">გამავალი ზარი</string>
+  <string name="type_outgoing_pulled">გამავალი ზარი სხვა მოწყობილობას გადაეცა</string>
+  <string name="type_missed">გამოტოვებული ზარი</string>
+  <string name="type_incoming_video">შემომავალი ვიდეოზარი</string>
+  <string name="type_incoming_video_pulled">შემომავალი ვიდეოზარი სხვა მოწყობილობას გადაეცა</string>
+  <string name="type_outgoing_video">გამავალი ვიდეოზარი</string>
+  <string name="type_outgoing_video_pulled">გამავალი ვიდეოზარი სხვა მოწყობილობას გადაეცა</string>
+  <string name="type_missed_video">გამოტოვებული ვიდეოზარი</string>
+  <string name="type_voicemail">ხმოვანი ფოსტა</string>
+  <string name="type_rejected">უარყოფილი ზარი</string>
+  <string name="type_blocked">დაბლოკილი ზარი</string>
+  <string name="call_details_minutes_abbreviation">წთ.</string>
+  <string name="call_details_seconds_abbreviation">წმ.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">წამი</item>
+    <item quantity="other">წამი</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">წუთი</item>
+    <item quantity="other">წუთი</item>
+  </plurals>
+  <string name="type_answered_elsewhere">ზარს პასუხი გაეცა სხვა მოწყობილობაზე</string>
+  <string name="description_phone_account">^1-ზე</string>
+  <string name="description_via_number">%1$s-ის მეშვეობით</string>
+  <string name="description_via_number_phone_account">%1$s-ზე, %2$s-ის მეშვეობით</string>
+  <string name="voicemail_string">ხმოვანი ფოსტა</string>
+  <string name="just_now">ახლახან</string>
+  <string name="new_call_log_carrier_video">ოპერატორის ვიდეო</string>
+  <string name="new_call_log_duo_video">Duo-ს ვიდეო</string>
+  <string name="new_call_log_unknown">უცნობი</string>
+  <string name="new_call_log_secondary_blocked">დაბლოკილი</string>
+  <string name="new_call_log_secondary_spam">სპამი</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 გამოტოვებული ზარი ^2-ისგან</item>
+    <item quantity="other">^1 ზარი, ბოლო არის გამოტოვებული ზარი ^2-ისგან</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 პასუხგაცემული ზარი ^2-ისგან</item>
+    <item quantity="other">^1 ზარი, ბოლო არის პასუხგაცემული ზარი ^2-ისგან</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 გამავალი ზარი ^2-თან</item>
+    <item quantity="other">^1 ზარი, ბოლო არის გამავალი ზარი ^2-თან</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 დაბლოკილი ზარი ^2-ისგან</item>
+    <item quantity="other">^1 ზარი, ბოლო არის დაბლოკილი ზარი ^2-ისგან</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1-ზე,
+   ^2-ით</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

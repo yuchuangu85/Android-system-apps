@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Video deaktiviert</string>
+  <string name="videocall_remote_video_on">Video ist aktiviert</string>
+  <string name="videocall_remotely_held">Anruf wird gehalten.</string>
+  <string name="videocall_remotely_resumed">Anruf fortgesetzt</string>
+  <string name="videocall_charges_alert_dialog_description">Für Videoanrufe über das Mobilfunknetz können Gebühren sowohl für die Nutzung von Datenvolumen als auch von Gesprächsminuten anfallen.</string>
+  <string name="do_not_show_again">Nicht noch einmal anzeigen</string>
+</resources>

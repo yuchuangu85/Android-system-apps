@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">ສ້າງລາຍຊື່ຜູ້ຕິດຕໍ່ໃໝ່</string>
+  <string name="dialer_shortcut_add_contact_long">ສ້າງລາຍຊື່ຜູ້ຕິດຕໍ່ໃໝ່</string>
+  <string name="dialer_shortcut_disabled_message">ທາງລັດບໍ່ເຮັດວຽກ. ໃຫ້ລາກເພື່ອລຶບອອກ.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">ບໍ່ໍ່ມີລາຍຊື່ຜູ້ຕິດຕໍ່ນີ້ແລ້ວ.</string>
+  <string name="dialer_shortcut_no_permissions">ບໍ່ສາມາດໂທໄດ້ໂດຍບໍ່ໄດ້ຮັບອະນຸຍາດ.</string>
+</resources>

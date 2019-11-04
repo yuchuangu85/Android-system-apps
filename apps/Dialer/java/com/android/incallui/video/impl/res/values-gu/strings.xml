@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">તેમનો વિડિઓ બંધ છે</string>
+  <string name="videocall_remote_video_on">તેમની વિડિઓ ચાલુ છે</string>
+  <string name="videocall_remotely_held">કૉલ હોલ્ડ પર છે</string>
+  <string name="videocall_remotely_resumed">કૉલ ફરી શરૂ કર્યો</string>
+  <string name="videocall_charges_alert_dialog_description">મોબાઇલ નેટવર્ક પરથી કરેલા વીડિઓ કૉલ ડેટા અને વૉઇસ મિનિટ એમ બન્નેનો ઉપયોગ કરે છે. શુલ્ક લાગુ થઈ શકે છે.</string>
+  <string name="do_not_show_again">ફરી બતાવશો નહીં</string>
+</resources>

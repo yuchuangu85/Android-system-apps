@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Navigați înapoi</string>
+  <string name="description_dialpad_overflow">Mai multe opțiuni</string>
+  <string name="description_delete_button">tasta backspace</string>
+  <string name="description_image_button_plus">plus pe tastatură</string>
+  <string name="description_voicemail_button">apelați mesageria vocală</string>
+  <string name="description_dial_button">apelați</string>
+  <string name="dialog_voicemail_airplane_mode_message">Pentru a apela mesageria vocală, mai întâi dezactivați modul Avion.</string>
+  <string name="dialog_voicemail_not_ready_message">Pentru a configura mesageria vocală, accesați Meniu &gt; Setări.</string>
+  <string name="add_2sec_pause">Adăugați o pauză de 2 secunde</string>
+  <string name="add_wait">Adăugați interval de așteptare</string>
+  <string name="dialer_useDtmfDialpad">Tastatura tactilă cu sunet</string>
+  <string name="dialer_returnToInCallScreen">Reveniți la apelul în curs</string>
+  <string name="dialer_addAnotherCall">Adăugați un apel</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Se încarcă de pe cardul SIM…</string>
+  <string name="simContacts_title">Agenda de pe cardul SIM</string>
+  <string name="menu_callNumber">Apelați %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Nu puteți efectua apeluri de urgență prin Wi-Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Nu puteți apela acest număr</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">کال ختم کریں</string>
+  <string name="incall_content_description_muted">‏خاموش کردہ</string>
+  <string name="incall_content_description_unmuted">آواز چالو ہو گئی</string>
+  <string name="incall_content_description_swap_calls">کالز کا تبادلہ کریں</string>
+  <string name="incall_content_description_swap_sim">‏SIM تبدیل کریں</string>
+  <string name="incall_content_description_merge_calls">کالیں ضم کریں</string>
+  <string name="incall_content_description_earpiece">ہینڈسیٹ ایئر پیس</string>
+  <string name="incall_content_description_speaker">اسپیکر</string>
+  <string name="incall_content_description_bluetooth">بلوٹوتھ</string>
+  <string name="incall_content_description_headset">تار والا ہیڈسیٹ</string>
+  <string name="incall_content_description_hold">کال کو ہولڈ کریں</string>
+  <string name="incall_content_description_unhold">کال کو دوبارہ شروع کریں</string>
+  <string name="incall_content_description_video_on">ویڈیو آن ہے</string>
+  <string name="incall_content_description_video_off">ویڈیو آف ہے</string>
+  <string name="incall_content_description_swap_video">ویڈیو کا تبادلہ کریں</string>
+  <string name="incall_label_speaker">اسپیکر</string>
+  <string name="incall_label_audio">آواز</string>
+</resources>

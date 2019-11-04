@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Đang gọi điện qua %s</string>
+  <string name="incall_calling_on_same_carrier_template">Đang gọi qua cùng một nhà mạng %s</string>
+  <string name="incall_calling_on_recent_choice_template">Đang gọi qua nhà mạng được chọn gần đây %s</string>
+  <string name="incall_connecting">Đang gọi…</string>
+  <string name="incall_connecting_assited_dialed">Đang gọi bằng +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Đang sử dụng +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Đang chuyển…</string>
+  <string name="incall_video_call_requesting">Đang gọi điện video qua mạng dữ liệu di động…</string>
+  <string name="incall_wifi_video_call_requesting">Đang gọi điện video qua Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Đang chuyển sang cuộc gọi video qua mạng dữ liệu di động…</string>
+  <string name="incall_video_call_request_failed">Không thể kết nối</string>
+  <string name="incall_video_call_request_rejected">Cuộc gọi bị từ chối</string>
+  <string name="incall_video_call_request_timed_out">Cuộc gọi đã hết giờ</string>
+  <string name="incall_hanging_up">Đang kết thúc cuộc gọi</string>
+  <string name="incall_call_ended">Cuộc gọi đã kết thúc</string>
+  <string name="incall_remotely_held">Đang chờ</string>
+  <string name="contact_grid_incoming_video_call">Cuộc gọi video qua mạng dữ liệu di động từ</string>
+  <string name="contact_grid_incoming_wifi_video_call">Cuộc gọi video qua Wi-Fi từ</string>
+  <string name="contact_grid_incoming_voice_call">Cuộc gọi từ</string>
+  <string name="contact_grid_incoming_work_call">Cuộc gọi về công việc từ</string>
+  <string name="contact_grid_incoming_via_template">Cuộc gọi đến qua %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Người gọi điện spam đáng ngờ</string>
+  <string name="contact_grid_callback_number">Số điện thoại này là: %1$s</string>
+</resources>

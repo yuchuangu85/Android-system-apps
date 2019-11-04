@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s द्वारे कॉल करत आहे</string>
+  <string name="incall_calling_on_same_carrier_template">समान %s वाहकावर कॉल करत आहोत</string>
+  <string name="incall_calling_on_recent_choice_template">अलीकडे निवडलेल्‍या %s वर कॉल करत आहोत</string>
+  <string name="incall_connecting">कॉल करत आहे...</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) वापरून कॉल करत आहे…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) वापरत आहे…</string>
+  <string name="incall_transferring">हस्तांतरित करत आहे...</string>
+  <string name="incall_video_call_requesting">वाहक व्हिडिओ कॉलिंग…</string>
+  <string name="incall_wifi_video_call_requesting">वाय-फाय वाहक व्हिडिओ कॉलिंग…</string>
+  <string name="incall_video_call_upgrade_request">वाहक व्हिडिओवर स्विच होत आहे…</string>
+  <string name="incall_video_call_request_failed">कनेक्ट करण्यात अक्षम</string>
+  <string name="incall_video_call_request_rejected">कॉल नाकारला</string>
+  <string name="incall_video_call_request_timed_out">कॉल कालबाह्य</string>
+  <string name="incall_hanging_up">हँग अप करणेे</string>
+  <string name="incall_call_ended">कॉल संपला</string>
+  <string name="incall_remotely_held">होल्ड वर</string>
+  <string name="contact_grid_incoming_video_call">या व्‍यक्‍तीकडून वाहक व्हिडिओ कॉल</string>
+  <string name="contact_grid_incoming_wifi_video_call">या व्‍यक्‍तीकडून वाय-फाय वाहक व्हिडिओ कॉल</string>
+  <string name="contact_grid_incoming_voice_call">यावरील कॉल</string>
+  <string name="contact_grid_incoming_work_call">कडून कार्य कॉल</string>
+  <string name="contact_grid_incoming_via_template">%s द्वारे येणारे</string>
+  <string name="contact_grid_incoming_suspected_spam">संशयित स्पॅम कॉलर</string>
+  <string name="contact_grid_callback_number">या फोनचा क्रमांक: %1$s</string>
+</resources>

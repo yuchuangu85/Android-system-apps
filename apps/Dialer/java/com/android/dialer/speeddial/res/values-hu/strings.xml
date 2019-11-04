@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Kedvencek</string>
+  <string name="suggestions_header">Gyakran használt névjegyek</string>
+  <string name="speed_dial_add_button_text">Hozzáadás</string>
+  <string name="speed_dial_remember_this_choice">Választás megjegyzése</string>
+  <string name="speed_dial_disambig_dialog_title">Hívás típusának kiválasztása</string>
+  <string name="disambig_option_video_call">Videohívás</string>
+  <string name="disambig_option_voice_call">Hívás</string>
+  <string name="add_favorite_activity_title">Felvétel a kedvencek közé</string>
+  <string name="contact_menu_voice_call">Hanghívás</string>
+  <string name="contact_menu_video_call">Videohívás</string>
+  <string name="contact_menu_message">Üzenet</string>
+  <string name="contact_menu_remove">Eltávolítás</string>
+  <string name="contact_menu_contact_info">Névjegyadatok</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Új kedvenc hozzáadása</string>
+  <string name="speed_dial_contacts_permission_description">A gyorshívás engedélyezéséhez kapcsolja be a Névjegyek engedélyt.</string>
+  <string name="speed_dial_turn_on_contacts_permission">Bekapcsolás</string>
+  <string name="speed_dial_no_contacts_description">Még nem adott hozzá kedvenceket.</string>
+  <string name="speed_dial_no_contacts_action_text">Új kedvenc hozzáadása</string>
+  <string name="speed_dial_remove_favorites">Eltávolítás a kedvencek közül</string>
+</resources>

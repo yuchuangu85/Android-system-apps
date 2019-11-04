@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Volver</string>
+  <string name="description_dialpad_overflow">Más opciones</string>
+  <string name="description_delete_button">retroceso</string>
+  <string name="description_image_button_plus">marcar el signo más</string>
+  <string name="description_voicemail_button">llamar al buzón de voz</string>
+  <string name="description_dial_button">marcar</string>
+  <string name="dialog_voicemail_airplane_mode_message">Para llamar al buzón de voz, debes desactivar el modo avión.</string>
+  <string name="dialog_voicemail_not_ready_message">Para configurar el buzón de voz, ve a Menú &gt; Ajustes.</string>
+  <string name="add_2sec_pause">Añadir pausa de 2 segundos</string>
+  <string name="add_wait">Añadir espera</string>
+  <string name="dialer_useDtmfDialpad">Usar teclado de marcación por tonos</string>
+  <string name="dialer_returnToInCallScreen">Volver a la llamada en curso</string>
+  <string name="dialer_addAnotherCall">Añadir llamada</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Cargando el número de teléfono de la tarjeta SIM…</string>
+  <string name="simContacts_title">Contactos de la tarjeta SIM</string>
+  <string name="menu_callNumber">Llamar al %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">No se pueden hacer llamadas de emergencia por Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">No se puede llamar a este número</string>
+</resources>

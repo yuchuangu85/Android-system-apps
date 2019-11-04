@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res-auto"
+    android:title="@string/settings_label">
+    <!-- TODO: Re-enable once more suggestion use cases are supported.
+    <com.android.car.settings.common.LogicalPreferenceGroup
+        android:key="@string/pk_suggestions"
+        settings:controller="com.android.car.settings.suggestions.SuggestionsPreferenceController"/>
+    -->
+    <Preference
+        android:fragment="com.android.car.settings.display.DisplaySettingsFragment"
+        android:icon="@drawable/ic_settings_display"
+        android:key="@string/pk_display_settings_entry"
+        android:title="@string/display_settings"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.sound.SoundSettingsFragment"
+        android:icon="@drawable/ic_settings_sound"
+        android:key="@string/pk_sound_settings_entry"
+        android:title="@string/sound_settings"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.units.UnitsSettingsFragment"
+        android:icon="@drawable/ic_settings_units"
+        android:key="@string/pk_units_settings_entry"
+        android:title="@string/units_settings"/>
+    <Preference
+        android:fragment="com.android.car.settings.network.NetworkAndInternetFragment"
+        android:icon="@drawable/ic_settings_wifi"
+        android:key="@string/pk_network_and_internet_entry"
+        android:title="@string/network_and_internet"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <com.android.car.settings.common.LogicalPreferenceGroup
+        android:key="@string/pk_wireless_extra_settings"
+        settings:controller="com.android.car.settings.common.ExtraSettingsPreferenceController">
+        <intent android:action="com.android.settings.action.EXTRA_SETTINGS">
+            <extra android:name="com.android.settings.category"
+                   android:value="com.android.settings.category.wireless"/>
+        </intent>
+    </com.android.car.settings.common.LogicalPreferenceGroup>
+    <Preference
+        android:fragment="com.android.car.settings.bluetooth.BluetoothSettingsFragment"
+        android:icon="@drawable/ic_settings_bluetooth"
+        android:key="@string/pk_bluetooth_settings_entry"
+        android:title="@string/bluetooth_settings_title"
+        settings:controller="com.android.car.settings.bluetooth.BluetoothEntryPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.location.LocationSettingsFragment"
+        android:icon="@drawable/ic_settings_location"
+        android:key="@string/pk_location_settings_entry"
+        android:title="@string/location_settings_title"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.applications.AppsAndNotificationsFragment"
+        android:icon="@drawable/ic_settings_applications"
+        android:key="@string/pk_apps_and_notifications_settings_entry"
+        android:title="@string/apps_and_notifications_settings"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.datetime.DatetimeSettingsFragment"
+        android:icon="@drawable/ic_settings_date_time"
+        android:key="@string/pk_date_time_settings_entry"
+        android:title="@string/date_and_time_settings_title"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <Preference
+        android:icon="@drawable/ic_user"
+        android:key="@string/pk_users_settings_entry"
+        android:title="@string/users_list_title"
+        settings:controller="com.android.car.settings.users.UsersEntryPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.accounts.AccountSettingsFragment"
+        android:icon="@drawable/ic_account"
+        android:key="@string/pk_accounts_settings_entry"
+        android:title="@string/accounts_settings_title"
+        settings:controller="com.android.car.settings.accounts.AccountsEntryPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.storage.StorageSettingsFragment"
+        android:icon="@drawable/ic_storage"
+        android:key="@string/pk_storage_settings_entry"
+        android:title="@string/storage_settings_title"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.security.SecuritySettingsFragment"
+        android:icon="@drawable/ic_lock"
+        android:key="@string/pk_security_settings_entry"
+        android:title="@string/security_settings_title"
+        settings:controller="com.android.car.settings.security.SecurityEntryPreferenceController"/>
+    <Preference
+        android:fragment="com.android.car.settings.system.SystemSettingsFragment"
+        android:icon="@drawable/ic_settings_about"
+        android:key="@string/pk_system_settings_entry"
+        android:title="@string/system_setting_title"
+        settings:controller="com.android.car.settings.common.DefaultRestrictionsPreferenceController"/>
+    <com.android.car.settings.common.LogicalPreferenceGroup
+        android:key="@string/pk_device_extra_settings"
+        settings:controller="com.android.car.settings.common.ExtraSettingsPreferenceController">
+        <intent android:action="com.android.settings.action.EXTRA_SETTINGS">
+            <extra android:name="com.android.settings.category"
+                   android:value="com.android.settings.category.ia.device"/>
+        </intent>
+    </com.android.car.settings.common.LogicalPreferenceGroup>
+    <com.android.car.settings.common.LogicalPreferenceGroup
+        android:key="@string/pk_personal_extra_settings"
+        settings:controller="com.android.car.settings.common.ExtraSettingsPreferenceController">
+        <intent android:action="com.android.settings.action.EXTRA_SETTINGS">
+            <extra android:name="com.android.settings.category"
+                   android:value="com.android.settings.category.personal"/>
+        </intent>
+    </com.android.car.settings.common.LogicalPreferenceGroup>
+</PreferenceScreen>

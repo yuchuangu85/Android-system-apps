@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Suono predefinito (%1$s)</string>
+  <string name="ringtone_silent">Nessuno</string>
+  <string name="ringtone_unknown">Suoneria sconosciuta</string>
+  <string name="activity_not_available">Sul dispositivo non sono presenti app per tale azione</string>
+  <string name="outgoing_wps_warning">Se effettui una chiamata WPS, la chiamata esistente verrà disconnessa.</string>
+  <string name="dialog_continue">Continua</string>
+  <string name="camera_privacy_text">Autorizzazioni della fotocamera attivate</string>
+</resources>

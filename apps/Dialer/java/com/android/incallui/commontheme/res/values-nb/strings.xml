@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Avslutt samtalen</string>
+  <string name="incall_content_description_muted">Lyden er kuttet</string>
+  <string name="incall_content_description_unmuted">Lyden er slått på</string>
+  <string name="incall_content_description_swap_calls">Bytt samtaler</string>
+  <string name="incall_content_description_swap_sim">Bytt SIM-kort</string>
+  <string name="incall_content_description_merge_calls">Slå sammen samtaler</string>
+  <string name="incall_content_description_earpiece">Telefonens høyttaler</string>
+  <string name="incall_content_description_speaker">Høyttaler</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Hodetelefon med kabel</string>
+  <string name="incall_content_description_hold">Sett samtalen på vent</string>
+  <string name="incall_content_description_unhold">Gjenoppta samtalen</string>
+  <string name="incall_content_description_video_on">Video på</string>
+  <string name="incall_content_description_video_off">Video av</string>
+  <string name="incall_content_description_swap_video">Bytt video</string>
+  <string name="incall_label_speaker">Høyttaler</string>
+  <string name="incall_label_audio">Lyd</string>
+</resources>

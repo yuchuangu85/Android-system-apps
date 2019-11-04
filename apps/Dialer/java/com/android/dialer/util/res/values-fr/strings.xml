@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Sonnerie par défaut (%1$s)</string>
+  <string name="ringtone_silent">Aucun</string>
+  <string name="ringtone_unknown">Sonnerie inconnue</string>
+  <string name="activity_not_available">Cette action ne peut être effectuée via aucune application sur cet appareil.</string>
+  <string name="outgoing_wps_warning">L\'émission d\'un appel WPS mettra fin à l\'appel en cours.</string>
+  <string name="dialog_continue">Continuer</string>
+  <string name="camera_privacy_text">Autorisation d\'accès à l\'appareil photo accordée</string>
+</resources>

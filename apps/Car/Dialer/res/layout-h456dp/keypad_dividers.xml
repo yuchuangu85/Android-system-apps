@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2019 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Add horizontal dividers -->
+    <View
+        android:background="@color/divider_color"
+        android:layout_height="@dimen/dialpad_line_divider_height"
+        android:layout_width="0dp"
+        app:layout_constraintTop_toBottomOf="@id/one"
+        app:layout_constraintBottom_toTopOf="@id/four"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <View
+        android:background="@color/divider_color"
+        android:layout_height="@dimen/dialpad_line_divider_height"
+        android:layout_width="0dp"
+        app:layout_constraintTop_toBottomOf="@id/four"
+        app:layout_constraintBottom_toTopOf="@id/seven"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <View
+        android:background="@color/divider_color"
+        android:layout_height="@dimen/dialpad_line_divider_height"
+        android:layout_width="0dp"
+        app:layout_constraintTop_toBottomOf="@id/seven"
+        app:layout_constraintBottom_toTopOf="@id/star"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <!-- Add vertical dividers-->
+    <View
+        android:background="@color/divider_color"
+        android:layout_height="0dp"
+        android:layout_width="@dimen/dialpad_line_divider_height"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/one"
+        app:layout_constraintEnd_toStartOf="@id/two"/>
+
+    <View
+        android:background="@color/divider_color"
+        android:layout_height="0dp"
+        android:layout_width="@dimen/dialpad_line_divider_height"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@id/two"
+        app:layout_constraintEnd_toStartOf="@id/three"/>
+
+</merge>

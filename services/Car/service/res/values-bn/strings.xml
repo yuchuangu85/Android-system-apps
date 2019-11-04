@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="car_permission_label" msgid="741004755205554376">"গাড়ির তথ্য অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc" msgid="162499818870052725">"আপনার গাড়ির তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_camera" msgid="3725702064841827180">"গাড়ির ক্যামেরা অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_camera" msgid="917024932164501426">"আপনার গাড়ির ক্যামেরা(গুলি) অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_energy" msgid="7409144323527821558">"আপনার গাড়ির এনার্জির তথ্য অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_energy" msgid="3392963810053235407">"আপনার গাড়ির এনার্জি তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_hvac" msgid="1499454192558727843">"গাড়ির HVAC অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_hvac" msgid="3754229695589774195">"আপনার গাড়ির HVAC অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_mileage" msgid="4661317074631150551">"গাড়ির মাইলেজ সংক্রান্ত তথ্য অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_mileage" msgid="7179735693278681090">"আপনার গাড়ির মাইলেজের তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_speed" msgid="1149027717860529745">"গাড়ির স্পিড দেখা"</string>
+    <string name="car_permission_desc_speed" msgid="2047965198165448241">"আপনার গাড়ির স্পিড অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_vehicle_dynamics_state" msgid="313779267420048367">"গাড়ির ডায়নামিক স্ট্যাটাস অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_vehicle_dynamics_state" msgid="8891506193446375660">"আপনার গাড়ির ডায়নামিক স্ট্যাটাস অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_vendor_extension" msgid="7141601811734127361">"গাড়ির ভেন্ডর চ্যানেল অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_vendor_extension" msgid="2970718502334714035">"গাড়ির নির্দিষ্ট তথ্য বিনিময় করতে আপনার গাড়ির ভেন্ডর চ্যানেল অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_radio" msgid="6009465291685935112">"গাড়ির রেডিও ম্যানেজ করা"</string>
+    <string name="car_permission_desc_radio" msgid="3385999027478186964">"আপনার গাড়ির রেডিও অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_projection" msgid="9107156380287576787">"ফোন ও গাড়ির ডিসপ্লের মধ্যে একটি ইন্টারফেস তৈরি করা"</string>
+    <string name="car_permission_desc_projection" msgid="2352178999656292944">"ফোন ও গাড়ির ডিসপ্লের মধ্যে ইন্টারফেস তৈরি করতে অ্যাপকে অনুমতি দিন।"</string>
+    <string name="car_permission_label_access_projection_status" msgid="4231618890836627402">"প্রোজেকশনের স্ট্যাটাস অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_access_projection_status" msgid="8497351979100616278">"গাড়ির ডিসপ্লেতে অন্যান্য অ্যাপের প্রোজেক্টিং স্ট্যাটাস দেখতে অ্যাপকে অনুমতি দিন।"</string>
+    <string name="car_permission_label_bind_projection_service" msgid="5362076216606651526">"প্রোজেকশন পরিষেবার সাথে যুক্ত হওয়া"</string>
+    <string name="car_permission_desc_bind_projection_service" msgid="2282657787853408639">"হোল্ডারকে একটি প্রোজেকশন পরিষেবার উচ্চ মানের ইন্টারফেসে যুক্ত হতে অনুমতি দেয়। সধারণ অ্যাপের ক্ষেত্রে কখনই প্রয়োজন হয় না।"</string>
+    <string name="car_permission_label_audio_volume" msgid="310587969373137690">"গাড়ির অডিও ভলিউম নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_label_audio_settings" msgid="6524703796944023977">"গাড়ির অডিও সেটিংস ম্যানেজ করা"</string>
+    <string name="car_permission_label_mock_vehicle_hal" msgid="7198852512207405935">"গাড়ির HAL অনুকরণ করা"</string>
+    <string name="car_permission_label_receive_ducking" msgid="4884538660766756573">"অডিও ডাকিং ইভেন্ট রিসিভ করে"</string>
+    <string name="car_permission_desc_receive_ducking" msgid="776376388266656512">"গাড়িতে অন্য অডিও ডিভাইস চালু থাকার সময়, অ্যাপের ভলিউম কম করলে এটিকে বিজ্ঞপ্তি দেওয়ার অনুমতি দিন।"</string>
+    <string name="car_permission_desc_mock_vehicle_hal" msgid="5235596491098649155">"অভ্যন্তরীণ পরীক্ষার জন্য আপনার গাড়ির HAL অনুকরণ করা।"</string>
+    <string name="car_permission_desc_audio_volume" msgid="536626185654307889">"আপনার গাড়ির ভলিউম নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_desc_audio_settings" msgid="7192007170677915937">"আপনার গাড়ির অডিও সেটিংস নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_control_app_blocking" msgid="9112678596919993386">"অ্যাপ্লিকেশন ব্লক করা"</string>
+    <string name="car_permission_desc_control_app_blocking" msgid="7539378161760696190">"ড্রাইভ করার সময় অ্যাপ্লিকেশন ব্লকিং নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_car_navigation_manager" msgid="5895461364007854077">"নেভিগেশন ম্যানেজার"</string>
+    <string name="car_permission_desc_car_navigation_manager" msgid="6188751054665471537">"ইনস্ট্রুমেন্ট ক্লাস্টারে নেভিগেশন ডেটা রিপোর্ট করা"</string>
+    <string name="car_permission_car_display_in_cluster" msgid="4005987646292458684">"ইনস্ট্রুমেন্ট ক্লাস্টারে সরাসরি রেন্ডার করা"</string>
+    <string name="car_permission_desc_car_display_in_cluster" msgid="2668300546822672927">"কোনও অ্যাপ্লিকেশনকে ইনস্ট্রুমেন্ট ক্লাস্টারে অ্যাক্টিভিটি দেখানোর অনুমতি দিন"</string>
+    <string name="car_permission_car_cluster_control" msgid="1382247204230165674">"ইনস্ট্রুমেন্ট ক্লাস্টার কন্ট্রোল"</string>
+    <string name="car_permission_desc_car_cluster_control" msgid="9222776665281176031">"ইনস্ট্রুমেন্ট ক্লাস্টারে অ্যাপ চালু করা"</string>
+    <string name="car_permission_label_bind_instrument_cluster_rendering" msgid="8627480897198377418">"ইনস্ট্রুমেন্ট ক্লাস্টার রেন্ডার করা"</string>
+    <string name="car_permission_desc_bind_instrument_cluster_rendering" msgid="5073596870485006783">"ইনস্ট্রুমেন্ট ক্লাস্টার ডেটা পান"</string>
+    <string name="car_permission_label_car_ux_restrictions_configuration" msgid="6801393970411049725">"UX বিধিনিষেধ কনফিগারেশন"</string>
+    <string name="car_permission_desc_car_ux_restrictions_configuration" msgid="5711926927484813777">"UX বিধিনিষেধ কনফিগার করা"</string>
+    <string name="car_permission_label_car_handle_usb_aoap_device" msgid="72783989504378036">"AOAP মোডে ইউএসবি ডিভাইসের সাথে কানেক্ট করুন"</string>
+    <string name="car_permission_desc_car_handle_usb_aoap_device" msgid="273505990971317034">"AOAP মোডে ডিভাইসের সাথে অ্যাপকে কানেক্ট করতে অনুমতি দিন"</string>
+    <string name="car_permission_label_bind_input_service" msgid="6698489034024273750">"গাড়ির ইনপুট সার্ভিস"</string>
+    <string name="car_permission_desc_bind_input_service" msgid="1670323419931890170">"ইনপুট ইভেন্ট হ্যান্ডেল করা"</string>
+    <string name="car_can_bus_failure" msgid="2334035748788283914">"CAN বাস কাজ করছে না"</string>
+    <string name="car_can_bus_failure_desc" msgid="4125516222786484733">"CAN বাস কাজ করছে না। হেডইউনিট বক্স খুলে নিয়ে আবার লাগান ও গাড়ি রিস্টার্ট করুন"</string>
+    <string name="activity_blocked_text" msgid="5342114426610711378">"আপনার সুরক্ষার জন্য, ড্রাইভ করার সময় এটি করা যাবে না।\nচালিয়ে যেতে, গাড়ি পার্ক করা পর্যন্ত অপেক্ষা করুন।"</string>
+    <string name="exit_button_message" msgid="8554690915924055685">"অ্যাপের সুরক্ষিত ফিচারগুলি নিয়ে আবার শুরু করতে, <xliff:g id="EXIT_BUTTON">%s</xliff:g> বেছে নিন।"</string>
+    <string name="exit_button" msgid="5829638404777671253">"আবার চালু করুন"</string>
+    <string name="car_permission_label_diag_read" msgid="7248894224877702604">"ডায়াগনস্টিক ডেটা দেখা"</string>
+    <string name="car_permission_desc_diag_read" msgid="1121426363040966178">"গাড়ির ডায়াগনস্টিক সংক্রান্ত ডেটা দেখা।"</string>
+    <string name="car_permission_label_diag_clear" msgid="4783070510879698157">"ডায়াগনস্টিকস ডেটা সরানো"</string>
+    <string name="car_permission_desc_diag_clear" msgid="7453222114866042786">"গাড়ি থেকে ডায়াগনস্টিক ডেটা মুছে ফেলা।"</string>
+    <string name="car_permission_label_vms_publisher" msgid="3049934078926106641">"VMS প্রকাশক"</string>
+    <string name="car_permission_desc_vms_publisher" msgid="5589489298597386828">"vms মেসেজ প্রকাশ করুন"</string>
+    <string name="car_permission_label_vms_subscriber" msgid="5648841182059222299">"VMS সাবস্ক্রাইবার"</string>
+    <string name="car_permission_desc_vms_subscriber" msgid="7551009457847673620">"VMS মেসেজে সাবস্ক্রাইব করুন"</string>
+    <string name="car_permission_label_bind_vms_client" msgid="4889732900973280313">"VMS ক্লায়েন্ট পরিষেবা"</string>
+    <string name="car_permission_desc_bind_vms_client" msgid="4062835325264330564">"VMS ক্লায়েন্টের সাথে যুক্ত হন"</string>
+    <string name="car_permission_label_storage_monitoring" msgid="2327639346522530549">"ফ্ল্যাশ স্টোরেজ মনিটর করা"</string>
+    <string name="car_permission_desc_storage_monitoring" msgid="2075712271139671318">"ফ্ল্যাশ স্টোরেজের ব্যবহার মনিটর করা"</string>
+    <string name="car_permission_label_driving_state" msgid="7754624599537393650">"ড্রাইভিংয়ের স্ট্যাটাস পরিবর্তন করার বিষয়ে শোনা"</string>
+    <string name="car_permission_desc_driving_state" msgid="2684025262811635737">"ড্রাইভিংয়ের স্ট্যাটাস পরিবর্তন করার বিষয়ে শোনা।"</string>
+    <string name="car_permission_label_car_engine_detailed" msgid="8911992719173587337">"গাড়ির ইঞ্জিনের বিবরণ অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_car_engine_detailed" msgid="1746863362811347700">"আপনার গাড়ির ইঞ্জিনের বিশদ তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_car_energy_ports" msgid="8548990315169219454">"গাড়ির জ্বালানীর চেম্বারের ঢাকনা ও চার্জ পোর্ট অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_car_energy_ports" msgid="7771185999828794949">"গাড়ির জ্বালানীর চেম্বারের ঢাকনা ও চার্জ পোর্ট অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_car_identification" msgid="5896712510164020478">"গাড়ির শনাক্তকরণ সংক্রান্ত তথ্য দেখা"</string>
+    <string name="car_permission_desc_car_identification" msgid="4132040867171275059">"গাড়ির শনাক্তকরণ সংক্রান্ত তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_control_car_doors" msgid="3032058819250195700">"গাড়ির দরজা নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_desc_control_car_doors" msgid="6287353311980590092">"গাড়ির দরজা নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_control_car_windows" msgid="2452854429996653029">"গাড়ির জানালা নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_desc_control_car_windows" msgid="7693657991521595635">"গাড়ির জানালা নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_control_car_mirrors" msgid="8470700538827409476">"গাড়ির আয়না নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_desc_control_car_mirrors" msgid="1224135684068855032">"গাড়ির আয়না নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_control_car_seats" msgid="1826934820585497135">"গাড়ির সিট নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_desc_control_car_seats" msgid="2407536601226470563">"গাড়ির সিট নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_car_info" msgid="4707513570676492315">"গাড়ির সাধারণ তথ্য অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_car_info" msgid="2118081474543537653">"গাড়ির সাধারণ তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_car_exterior_lights" msgid="541304469604902110">"গাড়ির এক্সটিরিয়র বা বাইরের দিকের লাইটের স্ট্যাটাস দেখা"</string>
+    <string name="car_permission_desc_car_exterior_lights" msgid="4038037584100849318">"গাড়ির এক্সটিরিয়র বা বাইরের দিকের লাইটের স্ট্যাটাস অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_control_car_exterior_lights" msgid="101357531386232141">"গাড়ির এক্সটিরিয়র বা বাইরের দিকের লাইট দেখা"</string>
+    <string name="car_permission_desc_control_car_exterior_lights" msgid="6332252612685264180">"গাড়ির এক্সটিরিয়র বা বাইরের দিকের লাইট নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_car_interior_lights" msgid="8506302199784427680">"গাড়ির ইন্টিরিয়র বা ভেতরের লাইট দেখা"</string>
+    <string name="car_permission_desc_car_interior_lights" msgid="6204775354692372506">"গাড়ির ইন্টিরিয়র বা ভেতরের লাইটের স্ট্যাটাস অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_control_car_interior_lights" msgid="6685386372012664281">"গাড়ির ইন্টিরিয়র বা ভেতরকার লাইট নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_desc_control_car_interior_lights" msgid="797201814109701538">"গাড়ির ইন্টিরিয়র বা ভেতরের লাইট নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_car_exterior_environment" msgid="3385924985991299436">"গাড়ির এক্সটিরিয়র বা বাইরে দিকের বডির তাপমাত্রা দেখা"</string>
+    <string name="car_permission_desc_car_exterior_environment" msgid="1716656004731603379">"গাড়ির এক্সটিরিয়র বা বাইরের দিকের বডির তাপমাত্রা অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_car_tires" msgid="4379255261197836840">"গাড়ির টায়ারের তথ্য অ্যাক্সেস করা"</string>
+    <string name="car_permission_desc_car_tires" msgid="8134496466769810134">"গাড়ির টায়ারের তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_car_steering" msgid="7779530447441232479">"গাড়ির স্টিয়ারিং অ্যাঙ্গেলের তথ্য দেখা"</string>
+    <string name="car_permission_desc_car_steering" msgid="1357331844530708138">"গাড়ির স্টিয়ারিং অ্যাঙ্গেলের তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_read_car_display_units" msgid="7617008314862097183">"গাড়ির ডিসপ্লে ইউনিট দেখা"</string>
+    <string name="car_permission_desc_read_car_display_units" msgid="6891898275208542385">"ডিসপ্লে ইউনিট দেখা।"</string>
+    <string name="car_permission_label_control_car_display_units" msgid="4975303668183173076">"গাড়ির ডিসপ্লে ইউনিট নিয়ন্ত্রণ করা"</string>
+    <string name="car_permission_desc_control_car_display_units" msgid="8744397195158556945">"ডিসপ্লে ইউনিট নিয়ন্ত্রণ করা।"</string>
+    <string name="car_permission_label_car_powertrain" msgid="4586122326622134886">"গাড়ির পাওয়ারট্রেনের তথ্য পড়া"</string>
+    <string name="car_permission_desc_car_powertrain" msgid="1116007372551797796">"গাড়ির পাওয়ারট্রেনের তথ্য অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_car_power" msgid="8111448088314368268">"গাড়ির পাওয়ারের স্ট্যাটাস দেখা"</string>
+    <string name="car_permission_desc_car_power" msgid="9202079903668652864">"গাড়ির পাওয়ারের স্ট্যাটাস অ্যাক্সেস করা।"</string>
+    <string name="car_permission_label_enroll_trust" msgid="3512907900486690218">"বিশ্বস্ত ডিভাইস নথিভুক্ত করুন"</string>
+    <string name="car_permission_desc_enroll_trust" msgid="4148649994602185130">"বিশ্বস্ত ডিভাইস নথিভুক্ত করার অনুমতি দিন"</string>
+    <string name="trust_device_default_name" msgid="4213625926070261253">"আমার ডিভাইস"</string>
+</resources>

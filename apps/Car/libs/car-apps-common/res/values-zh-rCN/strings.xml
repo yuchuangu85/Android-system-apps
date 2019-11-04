@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2018 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- no translation found for control_bar_expand_collapse_button (3420351169078117938) -->
+    <skip />
+    <string name="car_drawer_open" msgid="2676372472514742324">"打开抽屉式导航栏"</string>
+    <string name="car_drawer_close" msgid="5329374630462464855">"关闭抽屉式导航栏"</string>
+    <string name="restricted_while_driving" msgid="2278031053760704437">"驾车时无法使用此功能。"</string>
+    <string name="scroll_bar_page_down_button" msgid="8633547153186948066">"向下滚动"</string>
+    <string name="scroll_bar_page_up_button" msgid="8306413844913744345">"向上滚动"</string>
+</resources>

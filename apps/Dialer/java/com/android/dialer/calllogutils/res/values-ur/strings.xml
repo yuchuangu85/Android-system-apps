@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">آنے والی کال</string>
+  <string name="type_incoming_pulled">آنے والی کال ایک اور آلہ پر منتقل ہو گئی</string>
+  <string name="type_outgoing">باہر جانے والی کال</string>
+  <string name="type_outgoing_pulled">جانے والی کال ایک اور آلہ پر منتقل ہو گئی</string>
+  <string name="type_missed">چھوٹی ہوئی کال</string>
+  <string name="type_incoming_video">آنے والی ویڈیو کال</string>
+  <string name="type_incoming_video_pulled">آنے والی ویڈیو کال ایک اور آلہ پر منتقل ہو گئی</string>
+  <string name="type_outgoing_video">جانے والی ویڈیو کال</string>
+  <string name="type_outgoing_video_pulled">جانے والی ویڈیو کال ایک اور آلہ پر منتقل ہو گئی</string>
+  <string name="type_missed_video">چھوٹی ہوئی ویڈیو کال</string>
+  <string name="type_voicemail">صوتی میل</string>
+  <string name="type_rejected">مسترد شدہ کال</string>
+  <string name="type_blocked">مسدود شدہ کال</string>
+  <string name="call_details_minutes_abbreviation">منٹ</string>
+  <string name="call_details_seconds_abbreviation">سیکنڈ</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'‎</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'‎</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">سیکنڈ</item>
+    <item quantity="other">سیکنڈز</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">منٹ</item>
+    <item quantity="other">منٹس</item>
+  </plurals>
+  <string name="type_answered_elsewhere">کال کا جواب ایک اور آلہ پر دیا گیا</string>
+  <string name="description_phone_account">^1 پر</string>
+  <string name="description_via_number">بذریعہ %1$s</string>
+  <string name="description_via_number_phone_account">%1$s پر، بذریعہ %2$s</string>
+  <string name="voicemail_string">صوتی میل</string>
+  <string name="just_now">ابھی ابھی</string>
+  <string name="new_call_log_carrier_video">کیرئیر ویڈیو</string>
+  <string name="new_call_log_duo_video">‏Duo ویڈیو</string>
+  <string name="new_call_log_unknown">نامعلوم</string>
+  <string name="new_call_log_secondary_blocked">مسدود</string>
+  <string name="new_call_log_secondary_spam">اسپام</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2 کی جانب سے ^1 چھوٹی ہوئی کال</item>
+    <item quantity="other">^1 کالز، تازہ ترین ^2 کی جانب سے چھوٹی ہوئی کال ہے</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2 کی جانب سے ^1 جواب دی گئی کالز</item>
+    <item quantity="other">^1 کالز، تازہ ترین ^2 کی جانب سے جواب دی گئی کال ہے</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^2 کو باہر جانے والی ^1 کال</item>
+    <item quantity="other">^1 کالز، تازہ ترین ^2 کو باہر جانے والی کال ہے</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2 کی جانب سے ^1 مسدود کردہ کال</item>
+    <item quantity="other">^1 کالز، تازہ ترین ^2 کی جانب سے مسدود کردہ کال ہے</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 پر،
+    بذریعہ ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1، ^2۔</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1، ^2، ^3۔</string>
+</resources>

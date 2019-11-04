@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Ойролцоох газрууд</string>
+  <string name="search_location_permission">Өөрийн ойролцоох газруудын холбогдох хаягийг авахын тулд өөрийн байршилд хандах зөвшөөрөл өгнө үү.</string>
+  <string name="nearby_places_allow">Зөвшөөрөх</string>
+  <string name="nearby_places_dismiss">Хаах</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Trucades entrants</string>
+  <string name="notification_channel_ongoing_call">Trucades en curs</string>
+  <string name="notification_channel_missed_call">Trucades perdudes</string>
+  <string name="notification_channel_voicemail">Missatges de veu</string>
+  <string name="notification_channel_misc">Predeterminat</string>
+</resources>

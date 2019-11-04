@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingRight="2dp"
+    android:paddingBottom="@dimen/option_bottom_margin"
+    android:clipChildren="false"
+    android:clipToPadding="false"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/option_label"
+        android:layout_width="@dimen/option_tile_width"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/theme_option_label_margin"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:maxLines="1"
+        android:textAppearance="@style/OptionTitleTextAppearance"/>
+    <RelativeLayout
+        android:id="@+id/option_tile"
+        android:layout_width="@dimen/option_tile_width"
+        android:layout_height="@dimen/option_tile_width"
+        android:layout_gravity="center_horizontal"
+        android:paddingHorizontal="@dimen/option_tile_padding_horizontal"
+        android:paddingVertical="@dimen/option_tile_padding_vertical"
+        android:background="@drawable/option_border">
+        <ImageView
+            android:id="@+id/theme_option_icon"
+            android:layout_width="@dimen/theme_option_icon_sample_width"
+            android:layout_height="@dimen/theme_option_icon_sample_height"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="@dimen/theme_option_sample_padding"
+            android:tint="?android:colorForeground"/>
+        <ImageView
+            android:id="@+id/theme_option_shape"
+            android:layout_width="@dimen/theme_option_shape_sample_width"
+            android:layout_height="@dimen/theme_option_shape_sample_height"
+            android:layout_alignParentRight="true"
+            android:layout_alignBottom="@+id/theme_option_icon"
+            android:layout_marginHorizontal="@dimen/theme_option_sample_padding"/>
+        <TextView
+            android:id="@+id/theme_option_font"
+            android:layout_width="@dimen/theme_option_font_sample_width"
+            android:layout_height="@dimen/theme_option_font_sample_height"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textSize="@dimen/theme_option_font_text_size"
+            android:letterSpacing=".2"
+            android:text="@string/theme_font_example"/>
+    </RelativeLayout>
+</LinearLayout>

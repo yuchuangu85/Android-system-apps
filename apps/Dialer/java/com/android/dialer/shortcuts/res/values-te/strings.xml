@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">కొత్త పరిచయం</string>
+  <string name="dialer_shortcut_add_contact_long">కొత్త పరిచయం</string>
+  <string name="dialer_shortcut_disabled_message">సత్వరమార్గం పని చేయడం లేదు. తీసివేయడానికి లాగండి.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">పరిచయం ఇప్పుడు అందుబాటులో లేదు.</string>
+  <string name="dialer_shortcut_no_permissions">అనుమతులు లేకుండా కాల్ చేయలేరు.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Podrobnosti hovoru</string>
+  <string name="delete">Smazat</string>
+  <string name="call_details_copy_number">Kopírovat číslo</string>
+  <string name="call_details_edit_number">Před voláním upravit číslo</string>
+  <string name="call_details_report_call_id">Nahlásit nesprávné číslo</string>
+  <string name="sent_a_photo">Byla poslána fotka</string>
+  <string name="received_a_photo">Byla přijata fotka</string>
+  <string name="message_in_quotes">„%1$s“</string>
+  <string name="report_caller_id_dialog_title">Nahlásit nesprávné číslo</string>
+  <string name="report_caller_id_failed">Číslo se nepodařilo nahlásit</string>
+  <string name="report_caller_id_toast">Číslo bylo nahlášeno</string>
+  <string name="assisted_dialing_country_code_entry">Asistované vytáčení: Byla použita předvolba země +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Bylo použito asistované vytáčení</string>
+  <string name="rtt_transcript_not_available">Přepisy jsou k dispozici jen u hovorů s posíláním zpráv</string>
+  <string name="rtt_transcript_link">Zobrazit přepis</string>
+</resources>

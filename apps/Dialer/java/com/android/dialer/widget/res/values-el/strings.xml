@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Γράψτε ένα προσαρμ. μήνυμα</string>
+  <string name="toolbar_close">Κλείσιμο</string>
+  <string name="all_contacts_empty">Δεν έχετε επαφές ακόμη</string>
+  <string name="all_contacts_empty_add_contact_action">Δημιουργία νέας επαφής</string>
+  <string name="permission_single_turn_on">Ενεργοποίηση</string>
+  <string name="permission_no_contacts">Για να δείτε τις επαφές σας, ενεργοποιήστε την άδεια πρόσβασης στις Επαφές.</string>
+  <string name="add_contact_not_available">Δεν υπάρχει διαθέσιμη εφαρμογή επαφών</string>
+</resources>

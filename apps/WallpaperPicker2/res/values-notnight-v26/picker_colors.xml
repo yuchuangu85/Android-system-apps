@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <color name="textColorPrimary">@color/black_87_alpha</color>
+    <color name="textColorSecondary">@color/black_54_alpha</color>
+
+    <color name="category_picker_background_color">@color/material_white_100</color>
+    <color name="category_title_scrim_color">#E6FFFFFF</color>
+    <color name="category_title_scrim_color_no_thumbnail">@color/material_grey_100</color>
+    <color name="category_title_text_color">@color/textColorPrimary</color>
+
+    <color name="currently_set_presentation_mode_text_color">@color/category_title_text_color</color>
+    <color name="currently_set_title_text_color">@color/textColorPrimary</color>
+    <color name="currently_set_subtitle_text_color">@color/textColorSecondary</color>
+    <color name="currently_set_divider_background_color">@android:color/transparent</color>
+
+    <color name="currently_set_both_header_scrim">@color/white_80_alpha</color>
+    <color name="currently_set_both_refresh_button_color">@color/black_54_alpha</color>
+    <color name="currently_set_both_title_text_color">@color/textColorPrimary</color>
+    <color name="currently_set_both_presentation_mode_text_color">@color/textColorSecondary</color>
+    <color name="currently_set_both_attribution_title_text_color">@color/textColorPrimary</color>
+    <color name="currently_set_both_attribution_subtitle_text_color">@color/textColorSecondary
+    </color>
+
+    <color name="select_wallpaper_header_text_color">@color/textColorSecondary</color>
+
+    <color name="rotation_tile_enabled_background_color">@color/accent_color</color>
+    <color name="rotation_tile_enabled_title_text_color">@color/material_white_text</color>
+    <color name="rotation_tile_enabled_subtitle_text_color">@color/white_70_alpha</color>
+    <color name="rotation_tile_enabled_refresh_icon_color">@color/white_70_alpha</color>
+    <color name="rotation_tile_not_enabled_background_color">@color/secondary_color</color>
+    <color name="rotation_tile_not_enabled_title_text_color">@color/accent_color</color>
+    <color name="rotation_tile_not_enabled_subtitle_text_color">@color/black_54_alpha</color>
+    <color name="rotation_tile_not_enabled_refresh_icon_color">@color/black_54_alpha</color>
+
+    <color name="individual_tile_title_scrim_color">@color/white_80_alpha</color>
+    <color name="individual_tile_title_text_color">@color/textColorPrimary</color>
+
+    <color name="individual_picker_background_color">@color/material_white_100</color>
+
+    <color name="toolbar_icon_color">@color/text_color_dark</color>
+    <color name="toolbar_color">@color/material_white_100</color>
+</resources>

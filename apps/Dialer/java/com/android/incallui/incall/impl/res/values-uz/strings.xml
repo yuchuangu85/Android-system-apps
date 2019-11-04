@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Video qo‘n.</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Pauza</string>
+  <string name="incall_label_add_call">Chaqiruv</string>
+  <string name="incall_label_mute">Ovozsiz</string>
+  <string name="incall_label_end_call">Tugatish</string>
+  <string name="incall_label_dialpad">Klaviatura</string>
+  <string name="incall_talkback_speaker_on">, yoniq</string>
+  <string name="incall_talkback_speaker_off">, o‘chiq</string>
+  <string name="incall_label_merge">Birlashtirish</string>
+  <string name="incall_label_manage">Boshqarish</string>
+  <string name="a11y_description_incall_label_manage_content">Qo‘ng‘iroq qiluvchilarni boshqarish</string>
+  <string name="incall_label_swap">Almashish</string>
+  <string name="incall_label_swap_sim">SIMni o‘zg.</string>
+  <string name="incall_note_sent">Qayd yuborildi</string>
+</resources>

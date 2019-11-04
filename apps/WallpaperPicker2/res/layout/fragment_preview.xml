@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:fitsSystemWindows="false">
+
+  <ImageView
+    android:id="@+id/low_res_image"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="centerCrop"
+    android:background="@android:color/black"/>
+
+  <com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView
+      android:id="@+id/full_res_image"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent" />
+
+  <ImageView
+    android:id="@+id/loading_indicator"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:visibility="invisible"
+    android:fitsSystemWindows="false"/>
+
+  <FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+      <androidx.coordinatorlayout.widget.CoordinatorLayout
+          android:id="@+id/coordinator_layout"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_gravity="bottom">
+
+        <include
+            layout="@layout/preview_page_info"
+            android:id="@+id/bottom_sheet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:behavior_peekHeight="@dimen/preview_attribution_pane_collapsed_height"
+            app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior"/>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <androidx.appcompat.widget.Toolbar
+      android:id="@+id/toolbar"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_gravity="top"
+      style="@style/TranslucentToolbarStyle"/>
+
+  </FrameLayout>
+
+</FrameLayout>

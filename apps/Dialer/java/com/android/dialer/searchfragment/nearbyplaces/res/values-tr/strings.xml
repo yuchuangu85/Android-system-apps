@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Yakındaki yerler</string>
+  <string name="search_location_permission">Yakınınızdaki yerlerin iletişim bilgilerine ulaşmak için konumunuza erişime izin verin.</string>
+  <string name="nearby_places_allow">İzin ver</string>
+  <string name="nearby_places_dismiss">Kapat</string>
+</resources>

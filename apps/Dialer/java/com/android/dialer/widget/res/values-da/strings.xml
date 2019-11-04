@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Skriv en tilpasset besked</string>
+  <string name="toolbar_close">Luk</string>
+  <string name="all_contacts_empty">Du har endnu ikke nogen kontaktpersoner</string>
+  <string name="all_contacts_empty_add_contact_action">Opret ny kontaktperson</string>
+  <string name="permission_single_turn_on">Slå til</string>
+  <string name="permission_no_contacts">Slå tilladelsen Kontaktpersoner til for at se dine kontaktpersoner.</string>
+  <string name="add_contact_not_available">Der er ingen tilgængelig app til kontaktpersoner</string>
+</resources>

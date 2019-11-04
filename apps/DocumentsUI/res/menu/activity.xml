@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2013 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!-- showAsAction flag impacts the behavior of SearchView.
+     When set to collapseActionView, collapsing SearchView to icon is the
+     default behavior. It would fit UX, however after expanding SearchView is
+     shown on the left site of the toolbar (replacing title). Since no way to
+     prevent this behavior was found, the flag is set to always. SearchView is
+     always visible by default and it is being collapse manually by calling
+     setIconified() method
+-->
+    <item
+        android:id="@+id/option_menu_search"
+        android:title="@string/menu_search"
+        android:icon="@drawable/ic_menu_search"
+        android:imeOptions="actionSearch"
+        android:visible="false"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+<!-- This group is being hidden when searching is in full bar mode-->
+    <group android:id="@+id/group_hide_when_searching">
+        <item
+            android:id="@+id/option_menu_debug"
+            android:title="Debug"
+            android:icon="@drawable/ic_debug_menu"
+            android:visible="false"
+            app:showAsAction="always"/>
+        <item
+            android:id="@+id/option_menu_new_window"
+            android:title="@string/menu_new_window"
+            android:alphabeticShortcut="n"
+            android:visible="false"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/option_menu_create_dir"
+            android:title="@string/menu_create_dir"
+            android:alphabeticShortcut="e"
+            android:visible="false"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/option_menu_sort"
+            android:title="@string/menu_sort"
+            android:showAsAction="never"
+            android:visible="false" />
+        <item
+            android:id="@+id/option_menu_select_all"
+            android:title="@string/menu_select_all"
+            android:alphabeticShortcut="a"
+            android:visible="false"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/option_menu_advanced"
+            android:visible="false"
+            app:showAsAction="never"/>
+        <item
+            android:id="@+id/option_menu_settings"
+            android:title="@string/menu_settings"
+            android:visible="false"
+            app:showAsAction="never"/>
+       <item
+           android:id="@+id/option_menu_inspect"
+           android:title="@string/menu_inspect"
+           android:visible="false"
+           app:showAsAction="never"/>
+    </group>
+</menu>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Ikholi engenayo</string>
+  <string name="type_incoming_pulled">Ikholi engenayo idluliselwe kwenye idivayisi</string>
+  <string name="type_outgoing">Ikholi ephumayo</string>
+  <string name="type_outgoing_pulled">Ikholi ephumayo idluliselwe kwenye idivayisi</string>
+  <string name="type_missed">Ikholi ephuthiwe</string>
+  <string name="type_incoming_video">Ikholi yevidiyo engenayo</string>
+  <string name="type_incoming_video_pulled">Ikholi yevidiyo engenayo idluliselwe kwenye idivayisi</string>
+  <string name="type_outgoing_video">Ikholi yevidiyo ephumayo</string>
+  <string name="type_outgoing_video_pulled">Ikholi yevidiyo ephumayo idluliselwe kwenye idivayisi</string>
+  <string name="type_missed_video">Ikholi yevidiyo ephuthiwe</string>
+  <string name="type_voicemail">Ivoyisimeyili</string>
+  <string name="type_rejected">Ikholi enqatshelwe</string>
+  <string name="type_blocked">Ikholi evinjiwe</string>
+  <string name="call_details_minutes_abbreviation">m</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">amasekhondi</item>
+    <item quantity="other">amasekhondi</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">amaminithi</item>
+    <item quantity="other">amaminithi</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Ikholi iphendulwe kwenye idivayisi</string>
+  <string name="description_phone_account">ku-^1</string>
+  <string name="description_via_number">nge-%1$s</string>
+  <string name="description_via_number_phone_account">ku-%1$s, nge-%2$s</string>
+  <string name="voicemail_string">Ivoyisimeyili</string>
+  <string name="just_now">Khona manje</string>
+  <string name="new_call_log_carrier_video">Ividiyo yenkampani yenethiwekhi</string>
+  <string name="new_call_log_duo_video">Ividiyo ye-Duo</string>
+  <string name="new_call_log_unknown">Akwaziwa</string>
+  <string name="new_call_log_secondary_blocked">Ivinjiwe</string>
+  <string name="new_call_log_secondary_spam">Ugaxekile</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 amakholi, okwakamuva ikholi ekuphuthile kusukela ku-^2</item>
+    <item quantity="other">^1 amakholi, okwakamuva ikholi ekuphuthile kusukela ku-^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 amakholi, okwakamuva ikholi ephenduliwe kusukela ku-^2</item>
+    <item quantity="other">^1 amakholi, okwakamuva ikholi ephenduliwe kusukela ku-^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 amakholi, okwakamuva ikholi ephumayo eya ku-^2</item>
+    <item quantity="other">^1 amakholi, okwakamuva ikholi ephumayo eya ku-^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 amakholi, okwakamuva ikholi evinjelwe kusukela ku-^2</item>
+    <item quantity="other">^1 amakholi, okwakamuva ikholi evinjelwe kusukela ku-^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">ku-^1,
+    nge-^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

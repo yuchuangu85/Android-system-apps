@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">วางสาย</string>
+  <string name="incall_content_description_muted">ปิดเสียงแล้ว</string>
+  <string name="incall_content_description_unmuted">เปิดเสียงแล้ว</string>
+  <string name="incall_content_description_swap_calls">สลับสาย</string>
+  <string name="incall_content_description_swap_sim">เปลี่ยนซิม</string>
+  <string name="incall_content_description_merge_calls">รวมสาย</string>
+  <string name="incall_content_description_earpiece">ชุดหูฟังโทรศัพท์</string>
+  <string name="incall_content_description_speaker">ลำโพง</string>
+  <string name="incall_content_description_bluetooth">บลูทูธ</string>
+  <string name="incall_content_description_headset">ชุดหูฟังแบบมีสาย</string>
+  <string name="incall_content_description_hold">พักสาย</string>
+  <string name="incall_content_description_unhold">โทรต่อ</string>
+  <string name="incall_content_description_video_on">เปิดวิดีโอ</string>
+  <string name="incall_content_description_video_off">ปิดวิดีโอ</string>
+  <string name="incall_content_description_swap_video">สลับวิดีโอ</string>
+  <string name="incall_label_speaker">ลำโพง</string>
+  <string name="incall_label_audio">เสียง</string>
+</resources>

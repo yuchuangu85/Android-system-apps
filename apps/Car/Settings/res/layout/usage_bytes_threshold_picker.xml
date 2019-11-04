@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2019 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_top"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_begin="@dimen/usage_pickers_margin_vertical"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="@dimen/usage_bytes_picker_margin_horizontal"/>
+
+    <FrameLayout
+        android:id="@+id/bytes_threshold_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/usage_pickers_text_margin_end"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        app:layout_constraintBottom_toTopOf="@+id/guideline_bottom"
+        app:layout_constraintEnd_toStartOf="@+id/bytes_units"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        app:layout_constraintStart_toStartOf="@+id/guideline_start"
+        app:layout_constraintTop_toBottomOf="@+id/guideline_top">
+        <EditText
+            android:id="@+id/bytes_threshold"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:ems="@integer/data_usage_bytes_threshold_ems"
+            android:inputType="numberDecimal"
+            android:minWidth="@dimen/usage_bytes_picker_edit_text_min_width"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/up_arrow_container"
+        android:layout_width="@dimen/touch_target_size"
+        android:layout_height="@dimen/touch_target_size"
+        android:background="?android:attr/selectableItemBackground"
+        app:layout_constraintEnd_toEndOf="@+id/bytes_units"
+        app:layout_constraintStart_toStartOf="@+id/bytes_units"
+        app:layout_constraintTop_toBottomOf="@+id/guideline_top">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_keyboard_arrow_up"/>
+    </FrameLayout>
+
+    <NumberPicker
+        android:id="@+id/bytes_units"
+        android:layout_width="@dimen/touch_target_size"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toTopOf="@+id/down_arrow_container"
+        app:layout_constraintEnd_toEndOf="@+id/guideline_end"
+        app:layout_constraintStart_toEndOf="@+id/bytes_threshold_container"
+        app:layout_constraintTop_toBottomOf="@+id/up_arrow_container"/>
+
+    <FrameLayout
+        android:id="@+id/down_arrow_container"
+        android:layout_width="@dimen/touch_target_size"
+        android:layout_height="@dimen/touch_target_size"
+        android:background="?android:attr/selectableItemBackground"
+        app:layout_constraintBottom_toTopOf="@+id/guideline_bottom"
+        app:layout_constraintEnd_toEndOf="@+id/bytes_units"
+        app:layout_constraintStart_toStartOf="@+id/bytes_units">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_keyboard_arrow_down"/>
+    </FrameLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="@dimen/usage_bytes_picker_margin_horizontal"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_bottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_end="@dimen/usage_pickers_margin_vertical"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

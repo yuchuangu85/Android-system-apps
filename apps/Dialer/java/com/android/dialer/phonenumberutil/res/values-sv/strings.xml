@@ -1,0 +1,4 @@
+<resources>
+  <string name="private_num_verizon">Hemligt nummer</string>
+  <string name="private_num_non_verizon">Privat nummer</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Ienākošie zvani</string>
+  <string name="notification_channel_ongoing_call">Aktīvie zvani</string>
+  <string name="notification_channel_missed_call">Neatbildētie zvani</string>
+  <string name="notification_channel_voicemail">Balss pasta ziņojumi</string>
+  <string name="notification_channel_misc">Noklusējums</string>
+</resources>

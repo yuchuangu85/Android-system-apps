@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Videokamera je isk.</string>
+  <string name="videocall_remote_video_on">Videopoziv je uključen</string>
+  <string name="videocall_remotely_held">Poziv na čekanju</string>
+  <string name="videocall_remotely_resumed">Poziv je nastavljen</string>
+  <string name="videocall_charges_alert_dialog_description">Videopozivi putem mobilne mreže koriste podatkovni promet i glasovne minute. Moguća je naplata naknade.</string>
+  <string name="do_not_show_again">Ne prikazuj ponovo</string>
+</resources>

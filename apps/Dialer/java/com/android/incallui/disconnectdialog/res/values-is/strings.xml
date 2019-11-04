@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Kveikja</string>
+  <string name="video_call_not_available_title">Myndsímtal er ekki í boði sem stendur</string>
+  <string name="video_call_not_available_message">Prófaðu að hringja aftur seinna eða hringdu hefðbundið símtal í staðinn</string>
+  <string name="voice_call">Símtal</string>
+</resources>

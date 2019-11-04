@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Inkomende oproepen</string>
+  <string name="notification_channel_ongoing_call">Actieve oproepen</string>
+  <string name="notification_channel_missed_call">Gemiste oproepen</string>
+  <string name="notification_channel_voicemail">Voicemails</string>
+  <string name="notification_channel_misc">Standaard</string>
+</resources>

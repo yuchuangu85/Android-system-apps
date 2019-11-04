@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">आफू अनुकूल सन्देश लेख्‍ने</string>
+  <string name="toolbar_close">बन्द गर्नुहोस्</string>
+  <string name="all_contacts_empty">अहिलेसम्म तपाईंसँग कुनै सम्पर्कहरू छैनन्</string>
+  <string name="all_contacts_empty_add_contact_action">नयाँ सम्पर्क सिर्जना गर्नुहोस्</string>
+  <string name="permission_single_turn_on">सक्रिय गर्नुहोस्</string>
+  <string name="permission_no_contacts">आफ्ना सम्पर्कहरू हेर्न सम्पर्क सम्बन्धी अनुमतिलाई सक्रिय गर्नुहोस्।</string>
+  <string name="add_contact_not_available">सम्पर्क सम्बन्धी कुनै अनुप्रयोग उपलब्ध छैन</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Prijeđite prstom prema gore za odgovor</string>
+  <string name="call_incoming_swipe_to_reject">Prijeđite prstom prema dolje za odbijanje</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Prijeđite dvama prstima prema gore kako biste odgovorili na poziv ili prema dolje da biste odbacili poziv</string>
+  <string name="call_incoming_will_disconnect">Odgovorom na ovaj poziv prekinut ćete videopoziv</string>
+  <string name="a11y_call_incoming_decline_description">Odbij</string>
+  <string name="call_incoming_decline">Odbij</string>
+  <string name="a11y_call_incoming_answer_description">Odgovori</string>
+  <string name="call_incoming_answer">Odgovori</string>
+</resources>

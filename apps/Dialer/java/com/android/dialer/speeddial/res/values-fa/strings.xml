@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">موردعلاقه‌‌‌ها</string>
+  <string name="suggestions_header">مکرراً تماس‌گرفته</string>
+  <string name="speed_dial_add_button_text">افزودن</string>
+  <string name="speed_dial_remember_this_choice">این گزینه به خاطر سپرده شود</string>
+  <string name="speed_dial_disambig_dialog_title">انتخاب نوع تماس</string>
+  <string name="disambig_option_video_call">تماس ویدیویی</string>
+  <string name="disambig_option_voice_call">تماس</string>
+  <string name="add_favorite_activity_title">افزودن مورد دلخواه</string>
+  <string name="contact_menu_voice_call">تماس صوتی</string>
+  <string name="contact_menu_video_call">تماس ویدیویی</string>
+  <string name="contact_menu_message">پیام</string>
+  <string name="contact_menu_remove">برداشتن</string>
+  <string name="contact_menu_contact_info">اطلاعات مخاطب</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">افزودن مورد دلخواه</string>
+  <string name="speed_dial_contacts_permission_description">برای فعال کردن شماره‌گیری سریع، مجوز «مخاطبین» را روشن کنید.</string>
+  <string name="speed_dial_turn_on_contacts_permission">روشن کردن</string>
+  <string name="speed_dial_no_contacts_description">هنوز مورد دلخواهی اضافه نکرده‌اید</string>
+  <string name="speed_dial_no_contacts_action_text">افزودن مورد دلخواه</string>
+  <string name="speed_dial_remove_favorites">برداشتن از موارد دلخواه</string>
+</resources>

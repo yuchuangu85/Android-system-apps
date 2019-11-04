@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">사용</string>
+  <string name="video_call_not_available_title">현재 화상 통화를 사용할 수 없음</string>
+  <string name="video_call_not_available_message">나중에 다시 전화하거나, 계속하려면 음성 통화를 이용하세요.</string>
+  <string name="voice_call">음성 통화</string>
+</resources>

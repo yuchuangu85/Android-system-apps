@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Перайсці назад</string>
+  <string name="description_dialpad_overflow">Дадатковыя параметры</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">дадаць сімвал \"плюс\"</string>
+  <string name="description_voicemail_button">выклікаць галасавую пошту</string>
+  <string name="description_dial_button">набор</string>
+  <string name="dialog_voicemail_airplane_mode_message">Каб пазваніць на галасавую пошту, спачатку адключыце Рэжым палёту.</string>
+  <string name="dialog_voicemail_not_ready_message">Каб наладзіць галасавую пошту, перайдзіце ў раздзел \"Меню &gt; Налады\".</string>
+  <string name="add_2sec_pause">Дадаць 2-секундную паўзу</string>
+  <string name="add_wait">Дадаць чаканне</string>
+  <string name="dialer_useDtmfDialpad">Выкарыстаць танальную клавіятуру</string>
+  <string name="dialer_returnToInCallScreen">Вярнуцца да бягучага выкліку</string>
+  <string name="dialer_addAnotherCall">Дадаць выклік</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Загрузка з SIM-карты...</string>
+  <string name="simContacts_title">Кантакты SIM-карты</string>
+  <string name="menu_callNumber">Выклікаць %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Экстранныя выклікі ў сетцы Wi‑Fi недаступныя</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Немагчыма выклікаць гэты нумар</string>
+</resources>

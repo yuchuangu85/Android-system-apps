@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"वॉलपेपर"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"वॉलपेपर की श्रेणियां"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"वॉलपेपर सेट करें"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"वॉलपेपर सेट किया जा रहा है…"</string>
+    <string name="try_again" msgid="8278874823700921234">"फिर से कोशिश करें"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"वॉलपेपर सेट नहीं हो पा रहा है."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"वॉलपेपर लोड नहीं हो पा रहा है. इमेज उपलब्ध नहीं है या उसमें खराबी है."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"फ़िलहाल यह वॉलपेपर सेट किया गया है"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"रोज़ वॉलपेपर बदलने की सुविधा"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"होम स्क्रीन और लॉक स्क्रीन पर"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"होम स्क्रीन"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"लॉक स्‍क्रीन"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"होम स्क्रीन और लॉक स्क्रीन पर"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"वॉलपेपर सेट करें"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"होम स्क्रीन"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"लॉक स्‍क्रीन"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"होम स्क्रीन और लॉक स्क्रीन"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"तय समय के बाद बदलने वाला इमेज वॉलपेपर"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"यहां पर मौजूदा वॉलपेपर दिखाने के लिए, <xliff:g id="APP_NAME">%1$s</xliff:g> को आपके डिवाइस की मेमोरी का ऐक्सेस चाहिए."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"यहां पर मौजूदा वॉलपेपर दिखाने के लिए, वॉलपेपर को आपके डिवाइस की मेमोरी का ऐक्सेस चाहिए. \n\nवॉलपेपर ऐप्लिकेशन की जानकारी के मंज़ूरी वाले विकल्प पर जाकर आप यह सेटिंग बदल सकते हैं."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"ऐक्सेस दें"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"तय समय के बाद बदलने वाले वॉलपेपर के लिए लाइव वॉलपेपर सेवा"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"रोज़ वॉलपेपर बदलने की सुविधा"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"चालू करने के लिए टैप करें"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"वॉलपेपर रोज़ अपने आप बदल जाएगा. सेटअप पूरा करने के लिए अगली स्क्रीन पर मौजूद &lt;strong&gt;वॉलपेपर सेट करें&lt;/strong&gt; पर टैप करें."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"वाई-फ़ाई से कनेक्ट होने पर ही वॉलपेपर डाउनलोड हों"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"जारी रखें"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"पहला वॉलपेपर डाउनलोड हो रहा है…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"पहला वॉलपेपर डाउनलोड नहीं हो पा रहा है. कृपया अपनी नेटवर्क सेटिंग जाँचें और फिर से कोशिश करें."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"वॉलपेपर रोज़ अपने आप बदल जाएगा"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"सेटिंग"</string>
+    <string name="explore" msgid="7468719504199497281">"ज़्यादा जानें"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"अगला वॉलपेपर"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"इस डिवाइस पर वॉलपेपर सेट करने की सुविधा बंद है"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"डिवाइस के एडमिन ने वॉलपेपर सेट करने की सुविधा बंद की हुई है"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"वॉलपेपर सेट हो गया"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"वॉलपेपर देखने के लिए आपके पास इंटरनेट कनेक्शन होना चाहिए. कृपया कनेक्ट करके फिर से कोशिश करें."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"होम स्क्रीन पर सेट किए गए मौजूदा वॉलपेपर का थंबनेल"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"लॉक स्क्रीन पर सेट किए गए मौजूदा वॉलपेपर का थंबनेल"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"मौजूदा वॉलपेपर का थंबनेल"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"वॉलपेपर का थंबनेल"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"होम स्क्रीन पर सेट किए गए मौजूदा वॉलपेपर के बारे में ज़्यादा जानें"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"लॉक स्क्रीन पर सेट किए गए मौजूदा वॉलपेपर के बारे में ज़्यादा जानें"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"होम स्क्रीन का रोज़ बदलने वाला वॉलपेपर रीफ़्रेश करें"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"रोज़ बदलने वाला वॉलपेपर रीफ़्रेश करें"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"रोज़ बदलने वाला वॉलपेपर रीफ़्रेश हो रहा है…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"रोज़ बदलने वाला वॉलपेपर रीफ़्रेश नहीं हो पा रहा है. कृपया अपना इंटरनेट कनेक्शन जाँचें और फिर से कोशिश करें."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"वॉलपेपर सूचना पैनल को छोटा करें"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"वॉलपेपर सूचना पैनल को बड़ा करें"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"डिवाइस पर पहले से मौजूद वॉलपेपर"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"डिवाइस पर मौजूद वॉलपेपर"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android वॉलपेपर"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"लाइव वॉलपेपर"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"मेरी फ़ोटो"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"मेरी फ़ोटो"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"वॉलपेपर"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"ऐप्‍लिकेशन इंस्‍टॉल नहीं है."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"बीचों-बीच"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"बीच का हिस्सा रखें"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"स्क्रीन के हिसाब से खींचें"</string>
+    <string name="preview" msgid="1774602101743861071">"झलक"</string>
+</resources>

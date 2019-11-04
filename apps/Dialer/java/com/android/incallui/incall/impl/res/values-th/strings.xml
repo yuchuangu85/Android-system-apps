@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall"> Hangouts วิดีโอ</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">พักสาย</string>
+  <string name="incall_label_add_call">เพิ่มการโทร</string>
+  <string name="incall_label_mute">ปิดเสียง</string>
+  <string name="incall_label_end_call">วางสาย</string>
+  <string name="incall_label_dialpad">ปุ่มกด</string>
+  <string name="incall_talkback_speaker_on">เปิดอยู่</string>
+  <string name="incall_talkback_speaker_off">ปิดอยู่</string>
+  <string name="incall_label_merge">รวม</string>
+  <string name="incall_label_manage">จัดการ</string>
+  <string name="a11y_description_incall_label_manage_content">จัดการผู้โทร</string>
+  <string name="incall_label_swap">สลับ</string>
+  <string name="incall_label_swap_sim">เปลี่ยนซิม</string>
+  <string name="incall_note_sent">ส่งโน้ตแล้ว</string>
+</resources>

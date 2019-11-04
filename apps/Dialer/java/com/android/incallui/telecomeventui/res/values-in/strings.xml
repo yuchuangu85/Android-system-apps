@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Tampilkan peringatan setiap kali</string>
+  <string name="details">Anda menelepon nomor internasional dan mungkin dikenakan biaya.</string>
+</resources>

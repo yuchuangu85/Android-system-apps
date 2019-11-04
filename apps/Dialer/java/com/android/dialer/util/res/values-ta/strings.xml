@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">இயல்பு ஒலி (%1$s)</string>
+  <string name="ringtone_silent">ஏதுமில்லை</string>
+  <string name="ringtone_unknown">அறியப்படாத ரிங்டோன்</string>
+  <string name="activity_not_available">சாதனத்தில் இந்தச் செயலைச் செய்வதற்கான பயன்பாடு எதுவும் இல்லை</string>
+  <string name="outgoing_wps_warning">WPS அழைப்பை மேற்கொண்டால், தற்போது செயலில் உள்ள அழைப்புத் துண்டிக்கப்படும்.</string>
+  <string name="dialog_continue">தொடர்க</string>
+  <string name="camera_privacy_text">கேமராவிற்கான அனுமதி இயக்கப்பட்டது</string>
+</resources>

@@ -1,0 +1,24 @@
+# evs_mock mock hardware driver service
+type hal_evs_driver, domain, coredomain;
+hal_server_domain(hal_evs_driver, hal_evs)
+hal_client_domain(hal_evs_driver, hal_evs)
+
+# allow init to launch processes in this context
+type hal_evs_driver_exec, exec_type, file_type, system_file_type;
+init_daemon_domain(hal_evs_driver)
+binder_use(hal_evs_driver)
+
+# Allow use of USB devices, gralloc buffers, and surface flinger
+allow hal_evs_driver device:dir { open read };
+allow hal_evs_driver video_device:chr_file rw_file_perms;
+hal_client_domain(hal_evs_driver, hal_graphics_allocator);
+hal_client_domain(hal_evs_driver, hal_graphics_composer)
+hal_client_domain(hal_evs_driver, hal_configstore)
+
+allow hal_evs_driver gpu_device:chr_file rw_file_perms;
+binder_call(hal_evs_driver, surfaceflinger);
+allow hal_evs_driver surfaceflinger_service:service_manager find;
+allow hal_evs_driver ion_device:chr_file r_file_perms;
+
+# Allow the driver to access kobject uevents
+allow hal_evs_driver self:netlink_kobject_uevent_socket create_socket_perms_no_ioctl;

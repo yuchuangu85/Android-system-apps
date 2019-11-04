@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Waarschuwing elke keer weergeven</string>
+  <string name="details">Je belt een internationaal nummer. Er kunnen kosten in rekening worden gebracht.</string>
+</resources>

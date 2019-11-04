@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="@dimen/call_entry_padding">
+
+  <com.android.dialer.calllogutils.CallTypeIconsView
+      android:id="@+id/call_direction"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="@dimen/call_entry_padding"
+      app:useLargeIcons="true"/>
+
+  <TextView
+      android:id="@+id/call_type"
+      style="@style/Dialer.TextAppearance.Primary"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="@dimen/call_entry_text_left_margin"
+      android:layout_marginEnd="16dp"
+      android:layout_toStartOf="@+id/call_duration"
+      android:gravity="start"/>
+
+  <TextView
+      android:id="@+id/call_time"
+      style="@style/Dialer.TextAppearance.Secondary"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="@dimen/call_entry_bottom_padding"
+      android:layout_marginStart="@dimen/call_entry_text_left_margin"
+      android:layout_marginEnd="16dp"
+      android:layout_below="@+id/call_type"/>
+
+  <TextView
+      android:id="@+id/call_duration"
+      style="@style/Dialer.TextAppearance.Primary.Ellipsize"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginEnd="@dimen/call_entry_padding"
+      android:layout_alignParentEnd="true"/>
+
+  <include
+      android:id="@+id/ec_container"
+      layout="@layout/ec_data_container"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/ec_container_height"
+      android:layout_below="@+id/call_time"
+      android:visibility="gone"/>
+
+  <TextView
+      android:id="@+id/post_call_note"
+      style="@style/Dialer.TextAppearance.Secondary.Ellipsize"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/ec_container_height"
+      android:layout_below="@+id/ec_container"
+      android:paddingStart="@dimen/call_entry_text_left_margin"
+      android:background="?attr/selectableItemBackground"
+      android:gravity="center_vertical"
+      android:maxLines="2"
+      android:visibility="gone"/>
+  <TextView
+      android:id="@+id/rtt_transcript"
+      style="@style/Dialer.TextAppearance.Secondary.Ellipsize"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginBottom="@dimen/call_entry_bottom_padding"
+      android:layout_marginStart="@dimen/call_entry_text_left_margin"
+      android:layout_marginEnd="@dimen/call_entry_padding"
+      android:layout_below="@id/post_call_note"
+      android:maxLines="2"
+      android:visibility="gone"/>
+
+  <View
+      android:id="@+id/divider"
+      android:layout_width="match_parent"
+      android:layout_height="1dp"
+      android:layout_marginTop="@dimen/ec_divider_top_bottom_margin"
+      android:layout_marginBottom="@dimen/ec_divider_top_bottom_margin"
+      android:layout_marginStart="@dimen/call_entry_text_left_margin"
+      android:layout_below="@id/rtt_transcript"
+      android:background="@color/dialer_divider_line_color"
+      android:visibility="gone"/>
+</RelativeLayout>

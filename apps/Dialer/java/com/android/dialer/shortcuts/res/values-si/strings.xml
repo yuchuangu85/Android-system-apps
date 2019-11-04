@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">සම්බන්ධතාව</string>
+  <string name="dialer_shortcut_add_contact_long">නව සම්බන්ධතාව</string>
+  <string name="dialer_shortcut_disabled_message">කෙටිමග ක්‍රියා නොකරයි. ඉවත් කිරීමට අදින්න.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">සම්බන්ධතාව තවදුරටත් නොපවතී.</string>
+  <string name="dialer_shortcut_no_permissions">අවසර නොමැතිව ඇමතිය නොහැකිය.</string>
+</resources>

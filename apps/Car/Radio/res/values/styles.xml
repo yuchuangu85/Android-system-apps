@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<resources>
+    <!-- The default style for a radio button. -->
+    <style name="RadioButton">
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:padding">@dimen/radio_controls_button_padding</item>
+        <item name="android:scaleType">center</item>
+    </style>
+
+    <style name="DialpadKeyButtonStyle">
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/dialpad_button_size</item>
+        <item name="android:layout_height">@dimen/dialpad_button_size</item>
+        <item name="android:layout_marginBottom">@dimen/dialpad_space_vertical</item>
+        <item name="android:padding">@dimen/dialpad_button_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">?android:attr/selectableItemBackground</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textColor">@color/manual_tuner_digit_color</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+    </style>
+
+    <style name="RadioStatusMessage">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">@dimen/radio_activity_status_size</item>
+        <item name="android:layout_height">@dimen/radio_activity_status_size</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+    </style>
+
+    <style name="BandSelectorFlatButtonStyle">
+        <item name="android:textColor">@color/manual_tuner_button_text_color</item>
+        <item name="android:background">@drawable/radio_control_background</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceLarge</item>
+    </style>
+</resources>

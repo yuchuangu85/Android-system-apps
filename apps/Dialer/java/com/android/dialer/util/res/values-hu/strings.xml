@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Alapértelmezett hang (%1$s)</string>
+  <string name="ringtone_silent">Nincs</string>
+  <string name="ringtone_unknown">Ismeretlen csengőhang</string>
+  <string name="activity_not_available">Nincs megfelelő alkalmazás a művelethez ezen az eszközön</string>
+  <string name="outgoing_wps_warning">WPS-hívás indításával megszakítja a folyamatban lévő hívást.</string>
+  <string name="dialog_continue">Folytatás</string>
+  <string name="camera_privacy_text">Kameraengedély megadva</string>
+</resources>

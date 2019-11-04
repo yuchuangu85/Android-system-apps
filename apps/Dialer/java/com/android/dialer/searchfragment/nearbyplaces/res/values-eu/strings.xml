@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Inguruko tokiak</string>
+  <string name="search_location_permission">Inguruan dituzun tokien harremanetarako informazioa lortzeko, eman baimena zure kokapena atzitzeko.</string>
+  <string name="nearby_places_allow">Baimendu</string>
+  <string name="nearby_places_dismiss">Baztertu</string>
+</resources>

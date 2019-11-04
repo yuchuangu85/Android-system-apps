@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Muurpapiere"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Muurpapierkategorieë"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Stel muurpapier"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Stel tans muurpapier …"</string>
+    <string name="try_again" msgid="8278874823700921234">"Probeer weer"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Kan nie muurpapier stel nie."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Kan nie muurpapier laai nie. Die prent is óf korrup óf onbeskikbaar."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Tans gestel"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Daaglikse muurpapier"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Tuis- en sluitskerm"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Tuisskerm"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Sluitskerm"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Tuis- en sluitskerm"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Stel muurpapier"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Tuisskerm"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Sluitskerm"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Tuisskerm en sluitskerm"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Muurpapier met afwisselende prent"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"<xliff:g id="APP_NAME">%1$s</xliff:g> moet toegang tot jou toestel se berging hê om die huidige muurpapier hier te wys."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Muurpapiere moet toegang tot jou toestel se berging hê om die huidige muurpapier hier te wys.\n\nGaan na die Toestemmings-gedeelte van Muurpapiere se programinligting om hierdie instelling te verander."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Gee toegang"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Aktiewemuurpapier-diens vir afwisselende muurpapiere"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Daaglikse muurpapier"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Tik om aan te skakel"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Muurpapier sal elke dag outomaties verander. Tik op die volgende skerm op &lt;strong&gt;Stel muurpapier&lt;/strong&gt; om die opstelling te voltooi."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Laai muurpapiere in die toekoms net oor Wi-Fi af"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Gaan voort"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Laai tans eerste muurpapier af …"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Kan nie die eerste muurpapier aflaai nie. Gaan jou netwerkinstellings na en probeer weer."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Muurpapier sal elke dag outomaties verander"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Instellings"</string>
+    <string name="explore" msgid="7468719504199497281">"Verken"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Volgende muurpapier"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"Die stel van \'n muurpapier is gedeaktiveer op hierdie toestel"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Jou toesteladministrateur het die stel van \'n muurpapier gedeaktiveer"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Muurpapier is suksesvol gestel"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Jy moet \'n internetverbinding hê om muurpapiere te bekyk. Koppel en probeer weer."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Kleinkiekie van die muurpapier wat tans op die tuisskerm gestel is"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Kleinkiekie van die muurpapier wat tans op die sluitskerm gestel is"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Kleinkiekie van die muurpapier wat tans gestel is"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Muurpapierkleinkiekie"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Verken tuisskermmuurpapier"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Verken sluitskermmuurpapier"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Herlaai daaglikse tuisskermmuurpapier"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Herlaai daaglikse muurpapier"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Herlaai tans daaglikse muurpapier …"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Kon nie daaglikse muurpapier herlaai nie. Gaan jou netwerkverbinding na en probeer weer."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Vou muurpapierinligtingpaneel in"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Vou muurpapierinligtingpaneel uit"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Muurpapiere op toestel"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"Op toestel"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android-muurpapier"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Aktiewe muurpapiere"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"My foto\'s"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"My foto"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Muurpapier"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Program is nie geïnstalleer nie."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Middel"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Gesentreerde snoei"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Rek"</string>
+    <string name="preview" msgid="1774602101743861071">"Voorskou"</string>
+</resources>

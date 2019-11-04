@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Odgovorite za prikaz fotografije</string>
+  <string name="spam_message_text">Odgovorite za prikaz sporočila</string>
+</resources>

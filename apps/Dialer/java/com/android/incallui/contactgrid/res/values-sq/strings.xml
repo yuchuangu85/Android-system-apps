@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Telefonatë nëpërmjet %s</string>
+  <string name="incall_calling_on_same_carrier_template">Po telefonon me të njëjtin operator celular %s</string>
+  <string name="incall_calling_on_recent_choice_template">Po telefonon me zgjedhjen e fundit %s</string>
+  <string name="incall_connecting">Po telefonon…</string>
+  <string name="incall_connecting_assited_dialed">Po telefonon me +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Po përdor +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Po transferon...</string>
+  <string name="incall_video_call_requesting">Telefonatë me video e operatorit celular...</string>
+  <string name="incall_wifi_video_call_requesting">Telefonatë me video me Wi-Fi e operatorit celular…</string>
+  <string name="incall_video_call_upgrade_request">Po kalon te videoja e operatorit celular…</string>
+  <string name="incall_video_call_request_failed">Nuk mund të lidhet</string>
+  <string name="incall_video_call_request_rejected">Telefonata u refuzua</string>
+  <string name="incall_video_call_request_timed_out">Telefonatës i mbaroi koha</string>
+  <string name="incall_hanging_up">Po mbyllet</string>
+  <string name="incall_call_ended">Telefonata përfundoi</string>
+  <string name="incall_remotely_held">Në pritje</string>
+  <string name="contact_grid_incoming_video_call">Telefonatë me video e operatorit celular nga</string>
+  <string name="contact_grid_incoming_wifi_video_call">Telefonatë me video me Wi-Fi e operatorit celular nga</string>
+  <string name="contact_grid_incoming_voice_call">Telefonatë nga</string>
+  <string name="contact_grid_incoming_work_call">Telefonatë pune nga</string>
+  <string name="contact_grid_incoming_via_template">Telefonatë hyrëse nëpërmjet %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Telefonues i dyshuar si i padëshiruar</string>
+  <string name="contact_grid_callback_number">Numri i këtij telefoni: %1$s</string>
+</resources>

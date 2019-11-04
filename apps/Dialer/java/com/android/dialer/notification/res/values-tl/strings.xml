@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="notification_channel_incoming_call">Mga papasok na tawag</string>
+  <string name="notification_channel_ongoing_call">Mga kasalukuyang tawag</string>
+  <string name="notification_channel_missed_call">Mga hindi nasagot na tawag</string>
+  <string name="notification_channel_voicemail">Mga voicemail</string>
+  <string name="notification_channel_misc">Default</string>
+</resources>

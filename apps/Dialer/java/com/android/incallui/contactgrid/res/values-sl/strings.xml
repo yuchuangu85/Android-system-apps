@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Klicanje prek ponudnika %s</string>
+  <string name="incall_calling_on_same_carrier_template">Klicanje prek istega operaterja %s</string>
+  <string name="incall_calling_on_recent_choice_template">Klicanje glede na nedavno izbiro %s</string>
+  <string name="incall_connecting">Klicanje …</string>
+  <string name="incall_connecting_assited_dialed">Klicanje prek +%1$s (%2$s) …</string>
+  <string name="incall_connecting_assited_dialed_component">Uporabljeno +%1$s (%2$s) …</string>
+  <string name="incall_transferring">Prenašanje ...</string>
+  <string name="incall_video_call_requesting">Videoklicanje prek operaterja …</string>
+  <string name="incall_wifi_video_call_requesting">Videoklicanje prek Wi-Fi-ja operaterja …</string>
+  <string name="incall_video_call_upgrade_request">Preklapljanje na videoklic prek operaterja …</string>
+  <string name="incall_video_call_request_failed">Povezave ni mogoče vzpostaviti</string>
+  <string name="incall_video_call_request_rejected">Klic je bil zavrnjen</string>
+  <string name="incall_video_call_request_timed_out">Časovna omejitev klica je potekla</string>
+  <string name="incall_hanging_up">Prekinitev</string>
+  <string name="incall_call_ended">Klic je bil končan</string>
+  <string name="incall_remotely_held">Zadržano</string>
+  <string name="contact_grid_incoming_video_call">Videoklic prek operaterja osebe</string>
+  <string name="contact_grid_incoming_wifi_video_call">Videoklic prek Wi-Fi-ja operaterja osebe</string>
+  <string name="contact_grid_incoming_voice_call">Klic osebe</string>
+  <string name="contact_grid_incoming_work_call">Delovni klic osebe</string>
+  <string name="contact_grid_incoming_via_template">Dohodni klic prek storitve %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Neželeni klicatelj</string>
+  <string name="contact_grid_callback_number">Številka tega telefona: %1$s</string>
+</resources>

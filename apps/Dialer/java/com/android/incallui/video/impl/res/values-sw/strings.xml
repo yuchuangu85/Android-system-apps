@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Amezima video</string>
+  <string name="videocall_remote_video_on">Video take imewashwa</string>
+  <string name="videocall_remotely_held">Simu imesitishwa</string>
+  <string name="videocall_remotely_resumed">Simu sasa inaendelea</string>
+  <string name="videocall_charges_alert_dialog_description">Simu za video zinazopigwa kupitia mtandao wa simu hutumia data pamoja na vifurushi vya sauti. Huenda ukatozwa ada.</string>
+  <string name="do_not_show_again">Usionyeshe tena</string>
+</resources>

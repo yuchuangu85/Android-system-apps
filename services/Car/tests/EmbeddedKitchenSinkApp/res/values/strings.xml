@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_title" translatable="false">Kitchen Sink</string>
+
+    <!-- alert dialog -->
+    <!-- Notification ticker text (shown in the status bar) when a Bluetooth device wants to pair with us -->
+    <string name="bluetooth_notif_ticker" translatable="false">Bluetooth pairing request</string>
+    <!-- Bluetooth settings.  Context menu item for a device.  Action will first pair, and then connect to all profiles on the device. -->
+    <string name="bluetooth_device_context_pair_connect" translatable="false">Pair &amp; connect</string>
+    <!-- Used as setting title (for checkbox) on second screen after selecting Bluetooth settings -->
+    <string name="bluetooth" translatable="false">Bluetooth</string>
+    <!-- Message when bluetooth is informing the user of the pairing key. [CHAR LIMIT=NONE] -->
+    <string name="bluetooth_pairing_key_msg" translatable="false">Bluetooth pairing code</string>
+    <!-- Checkbox label for alphanumeric PIN entry (default is numeric PIN). [CHAR LIMIT=50] -->
+    <string name="bluetooth_enable_alphanumeric_pin" translatable="false">PIN contains letters or symbols</string>
+    <!-- Message when bluetooth dialog for passkey entry is showing. [CHAR LIMIT=NONE] -->
+    <string name="bluetooth_enter_passkey_msg" translatable="false">Type the pairing code then press Return or Enter</string>
+    <!-- Title for the dialog to enter PIN. [CHAR LIMIT=40] -->
+    <string name="bluetooth_pairing_request" translatable="false">Pair with <xliff:g id="device_name">%1$s</xliff:g>?</string>
+    <!-- Checkbox message in pairing dialogs.  [CHAR LIMIT=NONE] -->
+    <string name="bluetooth_pairing_shares_phonebook" translatable="false">Allow <xliff:g id="device_name">%1$s</xliff:g> to access your contacts and call history</string>
+    <!-- Pairing dialog text to remind user to enter the PIN on the other device. [CHAR LIMIT=NONE] -->
+    <string name="bluetooth_enter_pin_other_device" translatable="false">You may also need to type this PIN on the other device.</string>
+    <!-- Pairing dialog text to remind user to enter the passkey on the other device. [CHAR LIMIT=NONE] -->
+    <string name="bluetooth_enter_passkey_other_device" translatable="false">You may also need to type this passkey on the other device.</string>
+    <!-- Bluetooth PIN hint text (below the text entry box). [CHAR LIMIT=30] -->
+    <string name="bluetooth_pin_values_hint_16_digits" translatable="false">Must be 16 digits</string>
+    <!-- Bluetooth PIN hint text (below the text entry box). [CHAR LIMIT=30] -->
+    <string name="bluetooth_pin_values_hint" translatable="false">Usually 0000 or 1234</string>
+    <!-- Notification title when a Bluetooth device wants to pair with us -->
+    <string name="bluetooth_notif_title" translatable="false">Pairing request</string>
+    <!-- Notification message when a Bluetooth device wants to pair with us -->
+    <string name="bluetooth_notif_message" translatable="false">Tap to pair with <xliff:g id="device_name">%1$s</xliff:g>.</string>
+    <!-- Title for BT error dialogs. -->
+    <string name="bluetooth_error_title" translatable="false"></string>
+
+    <!-- hvac -->
+    <string name="hvac_acOff" translatable="false">AC OFF</string>
+    <string name="hvac_acOn" translatable="false">AC ON</string>
+    <string name="hvac_autoOff" translatable="false">Auto OFF</string>
+    <string name="hvac_autoOn" translatable="false">Auto ON</string>
+    <string name="hvac_autoRecircOff" translatable="false">Auto Recirc OFF</string>
+    <string name="hvac_autoRecircOn" translatable="false">Auto Recirc ON</string>
+    <string name="hvac_defrostFrontOff" translatable="false">Front Defrost OFF</string>
+    <string name="hvac_defrostFrontOn" translatable="false">Front Defrost ON</string>
+    <string name="hvac_defrostRearOff" translatable="false">Rear Defrost OFF</string>
+    <string name="hvac_defrostRearOn" translatable="false">Rear Defrost ON</string>
+    <string name="hvac_dualOff" translatable="false">Dual OFF</string>
+    <string name="hvac_dualOn" translatable="false">Dual ON</string>
+    <string name="hvac_maxAcOff" translatable="false">Max AC OFF</string>
+    <string name="hvac_maxAcOn" translatable="false">Max AC ON</string>
+    <string name="hvac_maxDefrostOff" translatable="false">Max DEF OFF</string>
+    <string name="hvac_maxDefrostOn" translatable="false">Max DEF ON</string>
+    <string name="hvac_outsideTempLabel" translatable="false">Outside Temp:</string>
+    <string name="hvac_positionFace" translatable="false">Face</string>
+    <string name="hvac_positionFloor" translatable="false">Floor</string>
+    <string name="hvac_positionFaceAndFloor" translatable="false">Face+Floor</string>
+    <string name="hvac_positionDefrost" translatable="false">Defrost</string>
+    <string name="hvac_positionDefrostAndFloor" translatable="false">Def+Floor</string>
+    <string name="hvac_powerOff" translatable="false">Power OFF</string>
+    <string name="hvac_powerOn" translatable="false">Power ON</string>
+    <string name="hvac_powerAndAcOn" translatable="false">Turn Power And AC ON</string>
+    <string name="hvac_fanSpeedDn" translatable="false">Fan Speed Down</string>
+    <string name="hvac_fanSpeedUp" translatable="false">Fan Speed Up</string>
+    <string name="hvac_recircOff" translatable="false">Recirc OFF</string>
+    <string name="hvac_recircOn" translatable="false">Recirc ON</string>
+    <string name="hvac_tempDisplayCelsius" translatable="false">Temp CELSIUS</string>
+    <string name="hvac_tempDisplayFahrenheit" translatable="false">Temp FAHRENHEIT</string>
+    <string name="hvac_aTempDn" translatable="false">All Temp Down</string>
+    <string name="hvac_aTempUp" translatable="false">All Temp Up</string>
+    <string name="hvac_dTempDn" translatable="false">Driver Temp Down</string>
+    <string name="hvac_dTempUp" translatable="false">Driver Temp Up</string>
+    <string name="hvac_pTempDn" translatable="false">Passenger Temp Down</string>
+    <string name="hvac_pTempUp" translatable="false">Passenger Temp Up</string>
+    <!-- camera -->
+    <string name="rvc_getCapabilities" translatable="false">Get Capabilities</string>
+    <string name="rvc_getRvcCrop" translatable="false">Get RVC Crop</string>
+    <string name="rvc_setRvcCrop" translatable="false">Set RVC Crop</string>
+    <string name="rvc_getRvcPos" translatable="false">Get RVC Pos</string>
+    <string name="rvc_setRvcPos" translatable="false">Set RVC Pos</string>
+    <string name="rvc_getCameraState" translatable="false">Get State</string>
+    <string name="rvc_setCameraState" translatable="false">Set State</string>
+    <string name="rvc_state" translatable="false">RVC State</string>
+    <!--  audio -->
+    <string name="empty" translatable="false"></string>
+    <string name="play" translatable="false">Play</string>
+    <string name="play_pcm_once" translatable="false">Play Once</string>
+    <string name="stop" translatable="false">Stop</string>
+    <string name="play_wav" translatable="false">Play WAV</string>
+    <string name="stop_wav" translatable="false">Stop WAV</string>
+    <string name="audio_focus" translatable="false">Audio Focus</string>
+    <string name="focus_gain" translatable="false">Gain</string>
+    <string name="focus_gain_transient" translatable="false">Gain (Transient)</string>
+    <string name="focus_gain_transient_duck" translatable="false">Gain (Transient, May Duck)</string>
+    <string name="focus_gain_transient_exclusive" translatable="false">Gain (Transient, Exclusive)</string>
+    <string name="focus_release" translatable="false">Release</string>
+    <string name="request" translatable="false">request</string>
+    <string name="release" translatable="false">release</string>
+    <string name="media_play" translatable="false">Media Play</string>
+    <string name="hw_audio_source_title" translatable="false">HwAudioSource</string>
+    <string name="hw_audio_source_not_found" translatable="false">Not found</string>
+    <string name="nav_play" translatable="false">Nav Play</string>
+    <string name="vr_play" translatable="false">VR Play</string>
+    <string name="system_play" translatable="false">System Play</string>
+    <string name="config_index" translatable="false">Config Index</string>
+    <string name="choose_config" translatable="false">Choose config</string>
+    <string name="audio_stress_title" translatable="false">Audio Stress Test</string>
+    <string name="nav_start" translatable="false">Nav Start</string>
+    <string name="nav_end" translatable="false">Nav End</string>
+    <string name="vr_start" translatable="false">VR Start</string>
+    <string name="vr_end" translatable="false">VR End</string>
+    <string name="radio_start" translatable="false">Radio Start</string>
+    <string name="radio_end" translatable="false">Radio End</string>
+    <string name="speaker_phone_on" translatable="false">Speaker Phone On</string>
+    <string name="speaker_phone_off" translatable="false">Speaker Phone Off</string>
+    <string name="microphone_on" translatable="false">Mic On</string>
+    <string name="microphone_off" translatable="false">Mic Off</string>
+    <string name="mock_audio_on" translatable="false">Audio Mocking On</string>
+    <string name="mock_audio_off" translatable="false">Audio Mocking Off</string>
+    <string name="select_zone" translatable="false">Select Zone</string>
+    <string name="select_display" translatable="false">Select Display</string>
+
+    <!-- keyboard test fragment -->
+    <string name="keyboard_test_title" translatable="false">Keyboard Test</string>
+    <string name="on_search" translatable="false">OnSearch:</string>
+    <string name="on_edit" translatable="false">onEdit:</string>
+    <string name="open_ime_button" translatable="false">Open IME</string>
+    <string name="close_ime_button" translatable="false">Close IME</string>
+    <string name="open_kb_button" translatable="false">Hide/Show Input</string>
+
+    <!-- instrument cluster -->
+    <string name="cluster_start" translatable="false">Request focus</string>
+    <string name="cluster_start_guidance" translatable="false">Start turn-by-turn</string>
+    <string name="cluster_stop" translatable="false">Abandon focus</string>
+    <string name="cluster_stop_guidance" translatable="false">Stop turn-by-turn</string>
+    <string name="cluster_nav_app_context_loss" translatable="false">Navigation app context lost!</string>
+    <string name="cluster_start_activity" translatable="false">Start Nav Activity</string>
+    <string name="cluster_start_activity_failed" translatable="false">Failed to start activity in cluster</string>
+    <string name="cluster_not_started" translatable="false">Missing navigation focus</string>
+
+    <!--  input test -->
+    <string name="volume_up" translatable="false">Volume +</string>
+    <string name="volume_down" translatable="false">Volume -</string>
+    <string name="volume_mute" translatable="false">Mute</string>
+    <string name="voice" translatable="false">Voice</string>
+    <string name="mock_vehicle_hal" translatable="false">Mock HAL</string>
+    <string name="mock_vehicle_hal_off" translatable="false">Mock HAL OFF</string>
+    <string name="mock_vehicle_hal_on" translatable="false">Mock HAL ON</string>
+    <string name="music" translatable="false">Music</string>
+    <string name="call_send" translatable="false">Call</string>
+    <string name="call_end" translatable="false">Call end</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="next_song" translatable="false">Next song</string>
+    <string name="prev_song" translatable="false">Prev song</string>
+    <string name="tune_right" translatable="false">Tune +</string>
+    <string name="tune_left" translatable="false">Tune -</string>
+    <string name="music_play" translatable="false">Play</string>
+    <string name="music_stop" translatable="false">Stop</string>
+    <string name="steering_wheel" translatable="false">Steering Wheel Buttons:</string>
+    <string name="sw_left" translatable="false">Left</string>
+    <string name="sw_right" translatable="false">Right</string>
+    <string name="sw_up" translatable="false">Up</string>
+    <string name="sw_down" translatable="false">Down</string>
+    <string name="sw_center" translatable="false">Center</string>
+    <string name="sw_back" translatable="false">Back</string>
+
+    <!-- power test -->
+    <string name="power_request_shutdown" translatable="false">Request Shutdown</string>
+    <string name="power_shutdown" translatable="false">Shutdown</string>
+    <string name="power_sleep" translatable="false">Sleep</string>
+
+    <!-- property test -->
+    <string name="property_clear" translatable="false">Clear Log</string>
+    <string name="property_get" translatable="false">Get</string>
+    <string name="property_register" translatable="false">Register</string>
+    <string name="property_set" translatable="false">Set</string>
+    <string name="property_unregister" translatable="false">Unregister</string>
+
+    <!-- radio test -->
+    <string name="radio_open" translatable="false">Open</string>
+    <string name="radio_close" translatable="false">Close</string>
+    <string name="radio_muted" translatable="false">Muted</string>
+    <string name="radio_unmuted" translatable="false">Unmuted</string>
+    <string name="radio_next" translatable="false">Next</string>
+    <string name="radio_prev" translatable="false">Previous</string>
+    <string name="radio_scan_cancel" translatable="false">Cancel scan</string>
+    <string name="radio_tune_to_station" translatable="false">Tune to Station</string>
+    <string name="radio_step_up" translatable="false">Step Up</string>
+    <string name="radio_step_down" translatable="false">Step Down</string>
+    <string name="radio_enter_station_hint" translatable="false">Enter Station Frequency (kHz)</string>
+    <string name="radio_get_program_info" translatable="false">getProgramInformation</string>
+    <string name="radio_am" translatable="false">AM</string>
+    <string name="radio_fm" translatable="false">FM</string>
+    <string name="radio_station_info" translatable="false">Station info: %1$s</string>
+    <string name="radio_channel_info" translatable="false">Channel info: %1$s kHz</string>
+    <string name="radio_song_info" translatable="false">Song info: %1$s</string>
+    <string name="radio_artist_info" translatable="false">Artist info: %1$s</string>
+    <string name="radio_na" translatable="false">N/A</string>
+
+    <!-- sensors test -->
+    <string name="location_title" translatable="false">Location/Orientation:</string>
+    <string name="sensor_title" translatable="false">Car Sensor Data:</string>
+    <string name="sensor_na" translatable="false">N/A</string>
+
+    <string name="sensor_environment" translatable="false">Environment[%1$s]: temperature=%2$s</string>
+    <string name="sensor_night" translatable="false">Night[%1$s]: isNight=%2$s</string>
+    <string name="sensor_gear" translatable="false">Gear[%1$s]: gear=%2$s</string>
+    <string name="sensor_parking_brake" translatable="false">Parking brake[%1$s]: isEngaged=%2$s</string>
+    <string name="sensor_odometer" translatable="false">Odometer[%1$s]: kms=%2$s</string>
+    <string name="sensor_rpm" translatable="false">RPM[%1$s]: rpm=%2$s</string>
+    <string name="sensor_speed" translatable="false">Speed[%1$s]: speed=%2$s</string>
+    <string name="sensor_ignition_status" translatable="false">Ignition status[%1$s]: status=%2$s</string>
+    <string name="sensor_wheel_ticks" translatable="false">Wheel Distance[%1$s]: reset=%2$s, FL=%3$s, FR=%4$s, RL=%5$s, RR=%6$s</string>
+    <string name="sensor_wheel_ticks_cfg" translatable="false">Wheel Distance Config: Wheels=%1$s, FL=%2$s, FR=%3$s, RL=%4$s, RR=%5$s</string>
+    <string name="sensor_abs_is_active" translatable="false">ABS[%1$s]: isActive=%2$s</string>
+    <string name="sensor_traction_control_is_active" translatable="false">Traction Control[%1$s]: isActive=%2$s</string>
+    <string name="sensor_fuel_level" translatable="false">Fuel Level[%1$s]: %2$s</string>
+    <string name="sensor_fuel_door_open" translatable="false">Fuel Door Open[%1$s]: %2$s</string>
+    <string name="sensor_engine_oil_level" translatable="false">Engine Oil Level[%1$s]: %2$s</string>
+    <string name="sensor_engine_is_on" translatable="false">Engine Is On[%1$s]: %2$s</string>
+    <string name="sensor_ev_battery_level" translatable="false">EV Battery Level[%1$s]: %2$s</string>
+    <string name="sensor_ev_charge_port_is_open" translatable="false">EV Charge Port Is Open[%1$s]: %2$s</string>
+    <string name="sensor_ev_charge_port_is_connected" translatable="false">EV Charge Port Is Connected[%1$s]: %2$s</string>
+    <string name="sensor_ev_charge_rate" translatable="false">EV Charge Rate[%1$s]: %2$s</string>
+    <string name="sensor_oil_level" translatable="false">Oil Level[%1$s]: %2$s</string>
+
+    <string name="volume_test" translatable="false">Volume Test</string>
+    <string name="volume_up_logical" translatable="false">Vol +</string>
+    <string name="volume_down_logical" translatable="false">Vol -</string>
+    <string name="refresh_volume" translatable="false">Refresh volumes</string>
+
+    <!-- Bluetooth Tests -->
+    <string name="sms_recipient_label" translatable="false">Recipient #</string>
+    <string name="sms_content_label" translatable="false">Message Body</string>
+    <string name="sms_connect" translatable="false">Connect</string>
+    <string name="sms_disconnect" translatable="false">Disconnect</string>
+    <string name="sms_send_message" translatable="false">Send</string>
+    <string name="sms_new_message_button" translatable="false">Send new message</string>
+    <string name="sms_notifications" translatable="false">Toggle Notifications</string>
+    <string name="sms_listing_button" translatable="false">List SMS</string>
+    <string name="sms_listing_label_folder" translatable="false">Folder</string>
+    <string name="sms_listing_label_count" translatable="false">Count</string>
+    <string name="sms_listing_label_offset" translatable="false">Offset</string>
+    <string name="sms_activity_label" translatable="false">Bt Sms Tester</string>
+    <string name="sms_enter_tel_num" translatable="false">Enter Tel Num to send msg to</string>
+    <string name="sms_reply_busy" translatable="false">Reply "I'm Busy"</string>
+    <string name="sms_reply_sent" translatable="false">Reply Sent</string>
+    <string name="sms_reply_delivered" translatable="false">Reply Delivered</string>
+    <string name="bluetooth_profile_connect" translatable="false">Profile connect</string>
+    <string name="bluetooth_profile_disconnect" translatable="false">Profile disconnect</string>
+    <string name="bluetooth_sco_connect" translatable="false">SCO connect</string>
+    <string name="bluetooth_sco_disconnect" translatable="false">SCO disconnect</string>
+    <string name="bluetooth_pick_device" translatable="false">Pick Device</string>
+    <string name="bluetooth_quiet_mode_enable" translatable="false">Quiet Mode</string>
+    <string name="bluetooth_hold_call" translatable="false">Hold call</string>
+    <string name="bluetooth_start_outgoing_call" translatable="false">Start call</string>
+    <string name="bluetooth_end_outgoing_call" translatable="false">End call</string>
+    <string name="bluetooth_outgoing_phone_number" translatable="false">Enter number</string>
+    <string name="bluetooth_voice_recognition_enable" translatable="false">Start Voice Recognition</string>
+    <string name="bluetooth_voice_recognition_disable" translatable="false">Stop Voice Recognition</string>
+    <string name="uploading_supported_feature" translatable="false">Uploading_Supported bit value</string>
+
+    <!--Car Service Settings-->
+    <string name="garage_title" translatable="false">Garage Mode</string>
+    <string name="garage_description" translatable="false">Customize your system maintenance</string>
+    <string name="regular_wake_up" translatable="false">Maintenance time</string>
+    <string name="garage_switch" translatable="false">Enable garage maintenance</string>
+    <string name="garage_enabled" translatable="false">Garage maintenance on</string>
+    <string name="garage_disabled" translatable="false">Garage maintenance off</string>
+    <string name="garage_limit" translatable="false">Maximum garage maintenance window</string>
+    <string name="car_settings" translatable="false">Car Settings</string>
+    <string-array name="garage_limit_keys" translatable="false">
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+    </string-array>
+    <string-array name="garage_limit_values"  translatable="false">
+        <item>"5"</item>
+        <item>"10"</item>
+        <item>"15"</item>
+    </string-array>
+    <string name="garage_time_limit_summary" translatable="false">%d minutes</string>
+
+    <string name="portrait_activity" translatable="false">Portrait Activity</string>
+    <string name="landscpae_activity" translatable="false">Landscape Activity</string>
+    <string name="finish" translatable="false">Finish</string>
+
+    <!-- USB Manager Settings -->
+    <string name="usb_title" translatable="false">USB Devices settings</string>
+    <string name="usb_description" translatable="false">Customize your USB Devices settings</string>
+    <string name="usb_available_devices" translatable="false">Connected devices</string>
+    <string name="usb_saved_devices" translatable="false">Saved devices</string>
+    <string name="usb_pref_delete_title" translatable="false">Remove handling app for USB device</string>
+    <string name="usb_pref_delete_message" translatable="false">Are you sure you wan to delete dafault handling app for %1$s?</string>
+    <string name="usb_pref_delete_yes" translatable="false">Yes</string>
+    <string name="usb_pref_delete_cancel" translatable="false">Cancel</string>
+    <string name="usb_resolving_handlers" translatable="false">Getting supported handlers</string>
+
+    <!-- Virtual Display -->
+    <string name="av_start_activity" translatable="false">Start Activity</string>
+    <string name="av_resize" translatable="false">Resize</string>
+
+    <string name="weblink_google" translatable="false">www.google.com</string>
+    <string name="weblink_nytimes" translatable="false">www.nytimes.com</string>
+    <string name="weblink_support_name" translatable="false">support.google.com</string>
+    <string name="weblink_support" translatable="false">https://support.google.com/chrome/answer/95414?hl=en&amp;ref_topic=7438008</string>
+
+    <!-- Users -->
+    <string name="users_apply_button" translatable="false">Apply</string>
+</resources>

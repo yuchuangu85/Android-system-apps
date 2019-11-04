@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">+ kontakt</string>
+  <string name="dialer_shortcut_add_contact_long">Kontakt qo‘shish</string>
+  <string name="dialer_shortcut_disabled_message">Yorliq ishlamayapti. Uni o‘chirib tashlash uchun torting.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakt mavjud emas.</string>
+  <string name="dialer_shortcut_no_permissions">Ruxsatnomasiz qo‘ng‘iroq qilib bo‘lmaydi.</string>
+</resources>

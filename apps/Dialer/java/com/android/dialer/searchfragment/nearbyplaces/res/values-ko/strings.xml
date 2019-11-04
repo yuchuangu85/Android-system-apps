@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">주변 장소</string>
+  <string name="search_location_permission">주변 장소의 연락처 정보를 보려면 내 위치 정보에 액세스할 수 있도록 허용하세요.</string>
+  <string name="nearby_places_allow">허용</string>
+  <string name="nearby_places_dismiss">닫기</string>
+</resources>

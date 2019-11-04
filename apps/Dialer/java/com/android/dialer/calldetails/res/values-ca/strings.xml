@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Detalls de trucada</string>
+  <string name="delete">Suprimeix</string>
+  <string name="call_details_copy_number">Copia el número</string>
+  <string name="call_details_edit_number">Edita el número abans de trucar</string>
+  <string name="call_details_report_call_id">Informa d\'un número incorrecte</string>
+  <string name="sent_a_photo">S\'ha enviat una foto</string>
+  <string name="received_a_photo">S\'ha rebut una foto</string>
+  <string name="message_in_quotes">%1$s</string>
+  <string name="report_caller_id_dialog_title">Informa d\'un número incorrecte</string>
+  <string name="report_caller_id_failed">No s\'ha pogut informar del número</string>
+  <string name="report_caller_id_toast">S\'ha informat del número</string>
+  <string name="assisted_dialing_country_code_entry">Marcatge assistit: s\'ha fet servir el codi de país +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">S\'ha fet servir el marcatge assistit</string>
+  <string name="rtt_transcript_not_available">La transcripció només està disponible per a les trucades amb missatges</string>
+  <string name="rtt_transcript_link">Mostra la transcripció</string>
+</resources>

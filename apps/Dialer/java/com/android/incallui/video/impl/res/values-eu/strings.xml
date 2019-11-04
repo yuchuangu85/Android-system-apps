@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Bideoa desaktibatuta</string>
+  <string name="videocall_remote_video_on">Aktibatuta du bideoa</string>
+  <string name="videocall_remotely_held">Zain dago deia</string>
+  <string name="videocall_remotely_resumed">Deiari berrekin zaio</string>
+  <string name="videocall_charges_alert_dialog_description">Sare mugikorraren bidez egindako deiek datu-konexioa eta hitz egiteko minutuak erabiltzen dituzte. Baliteke zerbait ordaindu behar izatea.</string>
+  <string name="do_not_show_again">Ez erakutsi berriro</string>
+</resources>

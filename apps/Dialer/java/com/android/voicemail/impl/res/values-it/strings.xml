@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="vvm_unsupported_message_format">Tipo di messaggio non supportato, chiama %s per ascoltare.</string>
+</resources>

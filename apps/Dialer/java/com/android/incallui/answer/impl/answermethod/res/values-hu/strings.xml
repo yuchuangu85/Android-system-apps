@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Csúsztassa felfelé az ujját a hívás fogadásához</string>
+  <string name="call_incoming_swipe_to_reject">Az elutasításhoz csúsztassa lefelé az ujját</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Csúsztassa két ujját felfelé a hívás fogadásához és lefelé az elutasításhoz</string>
+  <string name="call_incoming_will_disconnect">Ha válaszol erre a hívásra, azzal megszakítja az aktuális videohívást.</string>
+  <string name="a11y_call_incoming_decline_description">Elutasítás</string>
+  <string name="call_incoming_decline">Elutasítás</string>
+  <string name="a11y_call_incoming_answer_description">Hívás fogadása</string>
+  <string name="call_incoming_answer">Hívás fogadása</string>
+</resources>

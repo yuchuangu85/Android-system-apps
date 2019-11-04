@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Nuwe kontak</string>
+  <string name="dialer_shortcut_add_contact_long">Nuwe kontak</string>
+  <string name="dialer_shortcut_disabled_message">Kortpad werk nie. Sleep om te verwyder.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontak is nie meer beskikbaar nie.</string>
+  <string name="dialer_shortcut_no_permissions">Kan nie sonder toestemmings bel nie.</string>
+</resources>

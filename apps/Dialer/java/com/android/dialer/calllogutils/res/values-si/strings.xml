@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">එන ඇමතුම</string>
+  <string name="type_incoming_pulled">එන ඇමතුම තවත් උපාංගයකට මාරු කෙරිණි</string>
+  <string name="type_outgoing">යන ඇමතුම</string>
+  <string name="type_outgoing_pulled">යන ඇමතුම තවත් උපාංගයකට මාරු කෙරිණි</string>
+  <string name="type_missed">මඟ හැරුණු ඇමතුම</string>
+  <string name="type_incoming_video">එන වීඩියෝ ඇමතුම</string>
+  <string name="type_incoming_video_pulled">එන වීඩියෝ ඇමතුම තවත් උපාංගයකට මාරු කෙරිණි</string>
+  <string name="type_outgoing_video">යන වීඩියෝ ඇමතුම</string>
+  <string name="type_outgoing_video_pulled">යන වීඩියෝ ඇමතුම තවත් උපාංගයකට මාරු කෙරිණි</string>
+  <string name="type_missed_video">මගහැරුණු වීඩියෝ ඇමතුම</string>
+  <string name="type_voicemail">හඬ තැපෑල</string>
+  <string name="type_rejected">ප්‍රතික්ෂේප කළ ඇමතුම</string>
+  <string name="type_blocked">අවහිර කළ ඇමතුම</string>
+  <string name="call_details_minutes_abbreviation">මි</string>
+  <string name="call_details_seconds_abbreviation">ත</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">තත්පර</item>
+    <item quantity="other">තත්පර</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">මිනිත්තු</item>
+    <item quantity="other">මිනිත්තු</item>
+  </plurals>
+  <string name="type_answered_elsewhere">ඇමතුමට වෙනත් උපාංගයකදී පිළිතුරු දෙන ලදී</string>
+  <string name="description_phone_account">^1 මත</string>
+  <string name="description_via_number">%1$s හරහා</string>
+  <string name="description_via_number_phone_account">%1$s මත, %2$s හරහා</string>
+  <string name="voicemail_string">හඬ තැපෑල</string>
+  <string name="just_now">මේ දැන්</string>
+  <string name="new_call_log_carrier_video">වාහක වීඩියෝව</string>
+  <string name="new_call_log_duo_video">Duo වීඩියෝව</string>
+  <string name="new_call_log_unknown">නොදන්නා</string>
+  <string name="new_call_log_secondary_blocked">අවහිර කරන ලදි</string>
+  <string name="new_call_log_secondary_spam">අයාචිත</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙතින් මගහැරුණු ඇමතුමකි</item>
+    <item quantity="other">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙතින් මගහැරුණු ඇමතුමකි</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙතින් පිළිතුරු දුන් ඇමතුමකි</item>
+    <item quantity="other">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙතින් පිළිතුරු දුන් ඇමතුමකි</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙත යන ඇමතුමකි</item>
+    <item quantity="other">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙත යන ඇමතුමකි</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙතින් අවහිර කළ ඇමතුමකි</item>
+    <item quantity="other">ඇමතුම් ^1කි, නවතම එක වන්නේ ^2 වෙතින් අවහිර කළ ඇමතුමකි</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 මත, ^2 හරහා</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Vedkommendes video er slået fra</string>
+  <string name="videocall_remote_video_on">Vedkommendes video er slået til</string>
+  <string name="videocall_remotely_held">Parkeret opkald</string>
+  <string name="videocall_remotely_resumed">Opkaldet er genoptaget</string>
+  <string name="videocall_charges_alert_dialog_description">De videoopkald, der foretages på mobilnetværket, bruger minutter i både dit data- og taleabonnement. dit mobilselskab kan muligvis opkræve gebyrer.</string>
+  <string name="do_not_show_again">Vis ikke igen</string>
+</resources>

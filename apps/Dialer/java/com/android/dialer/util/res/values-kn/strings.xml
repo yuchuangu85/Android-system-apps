@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ಡಿಫಾಲ್ಟ್‌ ಧ್ವನಿ (%1$s)</string>
+  <string name="ringtone_silent">ಯಾವುದೂ ಇಲ್ಲ</string>
+  <string name="ringtone_unknown">ಅಪರಿಚಿತ ರಿಂಗ್‌ಟೋನ್</string>
+  <string name="activity_not_available">ಈ ಸಾಧನದಲ್ಲಿ ಅದಕ್ಕಾಗಿ ಯಾವುದೇ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಲ್ಲ</string>
+  <string name="outgoing_wps_warning">WPS ಕರೆ ಅನ್ನು ಮಾಡುವುದರಿಂದ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ನಿಮ್ಮ ಕರೆ ಕಡಿತಗೊಳ್ಳುತ್ತದೆ.</string>
+  <string name="dialog_continue">ಮುಂದುವರಿಸಿ</string>
+  <string name="camera_privacy_text">ಕ್ಯಾಮರಾ ಅನುಮತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+</resources>

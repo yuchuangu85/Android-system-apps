@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Обаждане чрез %s</string>
+  <string name="incall_calling_on_same_carrier_template">Обаждане със същия оператор %s</string>
+  <string name="incall_calling_on_recent_choice_template">Обаждане със скорошно избрания %s</string>
+  <string name="incall_connecting">Извършва се обаждане…</string>
+  <string name="incall_connecting_assited_dialed">Обаждане чрез използване на +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Посредством +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Прехвърля се…</string>
+  <string name="incall_video_call_requesting">Видеообаждания през оператора…</string>
+  <string name="incall_wifi_video_call_requesting">Видеообаждания през оператора през Wi-Fi…</string>
+  <string name="incall_video_call_upgrade_request">Превключва се към видеообаждане през оператора…</string>
+  <string name="incall_video_call_request_failed">Не може да се установи връзка</string>
+  <string name="incall_video_call_request_rejected">Обаждането бе отказано</string>
+  <string name="incall_video_call_request_timed_out">Времето за изчакване на обаждането изтече</string>
+  <string name="incall_hanging_up">Приключване на разговора</string>
+  <string name="incall_call_ended">Обаждането завърши</string>
+  <string name="incall_remotely_held">Задържано</string>
+  <string name="contact_grid_incoming_video_call">Видеообаждане през оператора от</string>
+  <string name="contact_grid_incoming_wifi_video_call">Видеообаждане през Wi-Fi през оператора от</string>
+  <string name="contact_grid_incoming_voice_call">Обаждане от</string>
+  <string name="contact_grid_incoming_work_call">Служебно обаждане от</string>
+  <string name="contact_grid_incoming_via_template">Входящо обаждане чрез %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Възможен спам</string>
+  <string name="contact_grid_callback_number">Номерът на този телефон: %1$s</string>
+</resources>

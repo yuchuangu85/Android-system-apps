@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.android.wallpaper">
+
+  <!-- Custom permission to enforce that only this app can notify the running live wallpaper that
+       the rotating wallpaper image data changed. -->
+  <permission
+      android:name="com.android.wallpaper.NOTIFY_ROTATING_WALLPAPER_CHANGED"
+      android:protectionLevel="signature"/>
+
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.SET_WALLPAPER" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission
+      android:name="com.android.wallpaper.NOTIFY_ROTATING_WALLPAPER_CHANGED" />
+
+  <application
+      tools:replace="android:name"
+      android:allowBackup="true"
+      android:icon="@mipmap/product_logo_wallpapers_launcher_color_48"
+      android:label="@string/app_name"
+      android:name="com.android.wallpaper.picker.WallpapersApplication"
+      android:requiredForAllUsers="true"
+      android:restoreAnyVersion="true"
+      android:supportsRtl="true"
+      android:extractNativeLibs="false">
+
+    <meta-data
+        android:name="com.android.wallpaper.asset.WallpaperGlideModule"
+        android:value="GlideModule" />
+
+    <activity android:name="com.android.wallpaper.picker.TopLevelPickerActivity"
+        android:label="@string/app_name"
+        android:theme="@style/WallpaperTheme"
+        android:resizeableActivity="true">
+      <intent-filter>
+        <action android:name="android.intent.action.SET_WALLPAPER"/>
+        <category android:name="android.intent.category.DEFAULT"/>
+      </intent-filter>
+    </activity>
+
+    <activity-alias
+        android:name="com.android.wallpaper.picker.CategoryPickerActivity"
+        android:targetActivity="com.android.wallpaper.picker.TopLevelPickerActivity"
+        android:label="@string/app_name">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity-alias>
+
+    <activity android:name="com.android.wallpaper.picker.individual.IndividualPickerActivity"
+        android:label="@string/app_name"
+        android:theme="@style/WallpaperTheme"
+        android:resizeableActivity="true"
+        android:parentActivityName="com.android.wallpaper.picker.TopLevelPickerActivity">
+    </activity>
+
+    <activity android:name="com.android.wallpaper.picker.PreviewActivity"
+        android:resizeableActivity="false"
+        android:theme="@style/WallpaperTheme.Preview">
+    </activity>
+
+    <activity android:name="com.android.wallpaper.picker.StandalonePreviewActivity"
+        android:resizeableActivity="false"
+        android:theme="@style/WallpaperTheme.Preview">
+      <intent-filter>
+        <action android:name="android.service.wallpaper.CROP_AND_SET_WALLPAPER" />
+        <category android:name="android.intent.category.DEFAULT" />
+        <data android:mimeType="image/*" />
+      </intent-filter>
+    </activity>
+
+    <activity android:name="com.android.wallpaper.picker.ViewOnlyPreviewActivity"
+        android:resizeableActivity="false"
+        android:theme="@style/WallpaperTheme.Preview">
+    </activity>
+
+    <service
+        android:name="com.android.wallpaper.module.NoBackupImageWallpaper"
+        android:enabled="@bool/enable_no_backup_image_wallpaper"
+        android:label="@string/no_backup_image_wallpaper_label"
+        android:permission="android.permission.BIND_WALLPAPER"
+        android:process=":live_wallpaper">
+      <intent-filter>
+        <action android:name="android.service.wallpaper.WallpaperService" />
+      </intent-filter>
+      <meta-data
+          android:name="android.service.wallpaper"
+          android:resource="@xml/no_backup_image_wallpaper" />
+    </service>
+  </application>
+
+</manifest>

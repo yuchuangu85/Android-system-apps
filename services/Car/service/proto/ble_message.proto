@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+package aae.blemessagestream;
+
+import "packages/services/Car/service/proto/operation_type.proto";
+
+option java_package = "com.android.car.BLEStreamProtos";
+option java_outer_classname = "BLEMessageProto";
+
+// A message across a BLE channel.
+message BLEMessage {
+  // The current version of the protocol.
+  int32 version = 1;
+
+  // The operation that this message represents.
+  OperationType operation = 2;
+
+  // A 1-based packet number. The first message will have a value of "1" rather
+  // than "0".
+  fixed32 packet_number = 3;
+
+  // The total number of packets in the message stream.
+  fixed32 total_packets = 4;
+
+  // Whether the payload field is encrypted.
+  bool is_payload_encrypted = 5;
+
+  // The bytes that represent the message content for this packet.
+  bytes payload = 6;
+}

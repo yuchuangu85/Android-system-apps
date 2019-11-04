@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Napišite sporočilo po meri</string>
+  <string name="toolbar_close">Zapri</string>
+  <string name="all_contacts_empty">Nimate še nobenega stika</string>
+  <string name="all_contacts_empty_add_contact_action">Ustvari nov stik</string>
+  <string name="permission_single_turn_on">Vklopi</string>
+  <string name="permission_no_contacts">Če si želite ogledati stike, vklopite dovoljenje za stike.</string>
+  <string name="add_contact_not_available">Na voljo ni nobene aplikacije za stike</string>
+</resources>

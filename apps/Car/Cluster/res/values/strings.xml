@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Fake Cluster Implementation</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <!-- Message to show when a navigation app hasn't been selected yet. [CHAR LIMIT=100] -->
+    <string name="select_nav_app" translatable="false">Select a navigation app on the main unit.</string>
+
+    <!-- Gears texts [CHAR LIMIT=1] -->
+    <string name="gear_parked" translatable="false">P</string>
+    <string name="gear_reverse" translatable="false">R</string>
+    <string name="gear_neutral" translatable="false">N</string>
+    <string name="gear_drive" translatable="false">D</string>
+
+    <!-- Information labels (shown next to driving directions) [CHAR LIMIT=30] -->
+    <string name="info_fuel_label" translatable="false">Fuel</string>
+    <string name="info_speed_label" translatable="false">Speed</string>
+    <string name="info_range_label" translatable="false">Range</string>
+    <string name="info_rpm_label" translatable="false">RPM</string>
+    <string name="info_value_empty" translatable="false">-</string>
+
+    <!-- Marker used to insert images inside rich-text strings. This string is never shown or spoken
+         to the user. Instead a image would be rendered in its place -->
+    <string name="span_image" translatable="false">[Image]</string>
+</resources>

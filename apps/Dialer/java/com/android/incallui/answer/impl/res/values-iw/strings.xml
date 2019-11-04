@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">החלק מהסמל כדי לדחות עם הודעה</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">החלק מהסמל כדי לענות כשיחת אודיו</string>
+  <string name="call_incoming_default_label_answer_and_release_second">החלק למעלה כדי לענות ולהעביר את השיחה הנוכחית להמתנה</string>
+  <string name="call_incoming_default_label_answer_and_release_third">החלק למעלה כדי לענות ולסיים את השיחה שבהמתנה</string>
+  <string name="call_incoming_swipe_to_answer_and_release">החלק מהסמל כדי לענות ולסיים שיחה</string>
+  <string name="call_incoming_message_custom">כתוב אחת משלך…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">כתוב אחת משלך…</string>
+  <string name="call_incoming_custom_message_cancel">ביטול</string>
+  <string name="call_incoming_custom_message_send">שלח</string>
+  <string name="a11y_incoming_call_reject_with_sms">דחה את השיחה הזו עם הודעה</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">ענה כשיחת אודיו</string>
+  <string name="a11y_incoming_call_answer_and_release">מענה וסיום שיחה</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">דחה עם הודעה</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">ענה כשיחת אודיו</string>
+  <string name="a11y_description_incoming_call_answer_and_release">מענה וסיום שיחה</string>
+  <string name="call_incoming_video_is_off">הווידאו מושבת</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">החלק עם שתי אצבעות למעלה כדי לענות או למטה כדי לדחות.</string>
+  <string name="call_incoming_important">חשוב</string>
+</resources>

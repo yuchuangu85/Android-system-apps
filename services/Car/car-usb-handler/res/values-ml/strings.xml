@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6963366455471441257">"USB കൈകാര്യം ചെയ്യുന്ന സംവിധാനം"</string>
+    <string name="usb_saved_devices" msgid="2829442070749964872">"സംരക്ഷിച്ച ഉപകരണങ്ങൾ"</string>
+    <string name="usb_pref_delete_title" msgid="3885061814853467483">"USB ഉപകരണത്തിനായി, കൈകാര്യം ചെയ്യുന്ന ആപ്പ് നീക്കം ചെയ്യുക"</string>
+    <string name="usb_pref_delete_message" msgid="5849493572520646218">"%1$s എന്നതിനുള്ള ഡിഫോൾട്ടായ കൈകാര്യം ചെയ്യുന്ന സംവിധാനം മായ്ക്കണമെന്ന് നിങ്ങൾക്കുറപ്പാണോ?"</string>
+    <string name="usb_pref_delete_yes" msgid="7803356145103146036">"അതെ"</string>
+    <string name="usb_pref_delete_cancel" msgid="5999791462730255929">"റദ്ദാക്കുക"</string>
+    <string name="usb_resolving_handlers" msgid="1943100136172948686">"പിന്തുണയുള്ള കൈകാര്യം ചെയ്യുന്ന സംവിധാനം ലഭ്യമാക്കുന്നു"</string>
+    <string name="usb_unknown_device" msgid="4211439272338937095">"അജ്ഞാത USB ഉപകരണം"</string>
+    <string name="usb_boot_service_notification" msgid="8519949189071048797">"USB ഉപകരണങ്ങൾ വിശകലനം ചെയ്യുന്നു"</string>
+  <string-array name="config_AoapIncompatibleDeviceIds">
+    <item msgid="4267974637522344258">"18d1:9302"</item>
+  </string-array>
+</resources>

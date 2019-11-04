@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Knalan baru</string>
+  <string name="dialer_shortcut_add_contact_long">Kenalan baharu</string>
+  <string name="dialer_shortcut_disabled_message">Pintasan tidak berfungsi. Seret untuk mengalih keluar.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kenalan tidak tersedia lagi.</string>
+  <string name="dialer_shortcut_no_permissions">Tidak boleh memanggil tanpa kebenaran.</string>
+</resources>

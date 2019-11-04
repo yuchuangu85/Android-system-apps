@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Проведіть пальцем угору, щоб відповісти</string>
+  <string name="call_incoming_swipe_to_reject">Проведіть пальцем униз, щоб відхилити</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Проведіть двома пальцями вгору, щоб відповісти, або вниз, щоб відхилити виклик</string>
+  <string name="call_incoming_will_disconnect">Якщо відповісти на цей виклик, буде завершено відеодзвінок</string>
+  <string name="a11y_call_incoming_decline_description">Відхилити</string>
+  <string name="call_incoming_decline">Відхилити</string>
+  <string name="a11y_call_incoming_answer_description">Відповісти</string>
+  <string name="call_incoming_answer">Відповісти</string>
+</resources>

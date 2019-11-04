@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<com.google.android.material.appbar.AppBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/app_bar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/colorBackground">
+
+    <com.google.android.material.appbar.CollapsingToolbarLayout
+        android:id="@+id/collapsing_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="3dp"
+        app:titleEnabled="false"
+        app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed">
+
+        <include layout="@layout/directory_header"/>
+
+        <View
+            android:id="@+id/toolbar_background_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/action_bar_space_height"
+            android:background="?android:attr/colorBackground"
+            app:layout_collapseMode="pin"/>
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?android:attr/actionBarSize"
+            android:layout_margin="@dimen/search_bar_margin"
+            android:background="?android:attr/colorBackground"
+            android:theme="?actionBarTheme"
+            android:popupTheme="?actionBarPopupTheme"
+            android:elevation="3dp"
+            app:titleTextAppearance="@style/ToolbarTitle"
+            app:layout_collapseMode="pin">
+
+            <TextView
+                android:id="@+id/searchbar_title"
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:gravity="center_vertical"
+                android:text="@string/search_bar_hint"
+                android:textAppearance="@style/SearchBarTitle"/>
+
+            <com.android.documentsui.DropdownBreadcrumb
+                android:id="@+id/dropdown_breadcrumb"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="4dp"
+                android:popupTheme="?actionBarPopupTheme"
+                android:background="@android:color/transparent"
+                android:overlapAnchor="true"/>
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+</com.google.android.material.appbar.AppBarLayout>

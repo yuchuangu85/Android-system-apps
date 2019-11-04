@@ -1,0 +1,34 @@
+<!--
+   Copyright (C) 2019 The Android Open Source Project
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+-->
+<resources>
+  <!-- overlayable_icons references all of the drawables in this package
+       that are being overlayed by resource overlays. If you remove/rename
+       any of these resources, you must also change the resource overlay icons.-->
+  <array name="overlayable_icons">
+    <item>@drawable/ic_add_24px</item>
+    <item>@drawable/ic_close_24px</item>
+    <item>@drawable/ic_colorize_24px</item>
+    <item>@drawable/ic_delete_24px</item>
+    <item>@drawable/ic_font</item>
+    <item>@drawable/ic_nav_clock</item>
+    <item>@drawable/ic_nav_grid</item>
+    <item>@drawable/ic_nav_theme</item>
+    <item>@drawable/ic_nav_wallpaper</item>
+    <item>@drawable/ic_shapes_24px</item>
+    <item>@drawable/ic_tune</item>
+    <item>@drawable/ic_wifi_24px</item>
+  </array>
+</resources>

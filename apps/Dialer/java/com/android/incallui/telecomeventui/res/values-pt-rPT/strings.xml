@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Mostrar sempre o aviso</string>
+  <string name="details">Está a ligar para um número internacional e poderão ser aplicadas taxas.</string>
+</resources>

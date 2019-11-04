@@ -1,0 +1,4 @@
+<resources>
+  <string name="private_num_verizon">Restricționat</string>
+  <string name="private_num_non_verizon">Număr privat</string>
+</resources>

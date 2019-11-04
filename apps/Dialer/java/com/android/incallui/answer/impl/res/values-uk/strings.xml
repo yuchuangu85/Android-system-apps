@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Проведіть пальцем убік від значка, щоб відхилити з повідомленням</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Проведіть пальцем убік від значка, щоб відповісти в режимі аудіодзвінка</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Проведіть пальцем угору, щоб відповісти, утримуючи поточний виклик</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Проведіть пальцем угору, щоб відповісти, завершивши утримуваний виклик</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Проведіть пальцем від значка, щоб відповісти на виклик, завершивши поточний</string>
+  <string name="call_incoming_message_custom">Напишіть власну відповідь…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Напишіть власну відповідь…</string>
+  <string name="call_incoming_custom_message_cancel">Скасувати</string>
+  <string name="call_incoming_custom_message_send">Надіслати</string>
+  <string name="a11y_incoming_call_reject_with_sms">Відхилити цей виклик, додавши повідомлення</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Відповісти в режимі аудіодзвінка</string>
+  <string name="a11y_incoming_call_answer_and_release">Відповісти на виклик, завершивши поточний</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Відхилити, додавши повідомлення</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Відповісти в режимі аудіодзвінка</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Відповісти на виклик, завершивши поточний</string>
+  <string name="call_incoming_video_is_off">Відео вимкнено</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Проведіть двома пальцями вгору, щоб відповісти, або вниз, щоб відхилити дзвінок.</string>
+  <string name="call_incoming_important">Важливо</string>
+</resources>

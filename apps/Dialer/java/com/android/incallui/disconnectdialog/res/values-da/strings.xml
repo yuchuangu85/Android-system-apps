@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Aktivér</string>
+  <string name="video_call_not_available_title">Det er ikke muligt at foretage videoopkald i øjeblikket</string>
+  <string name="video_call_not_available_message">Prøv at ringe igen senere, eller fortsæt med et taleopkald.</string>
+  <string name="voice_call">Foretag et taleopkald</string>
+</resources>

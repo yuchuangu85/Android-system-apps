@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <dimen name="bottom_navbar_height">56dp</dimen>
+    <dimen name="bottom_navbar_font_text_size">12sp</dimen>
+
+    <dimen name="tip_dot_size">8dp</dimen>
+    <dimen name="tip_dot_line_width">2dp</dimen>
+
+    <dimen name="check_size">20dp</dimen>
+    <dimen name="check_offset">-4dp</dimen>
+
+    <dimen name="preview_indicator_width">16dp</dimen>
+    <dimen name="preview_indicator_height">8dp</dimen>
+    <dimen name="indicator_container_height">48dp</dimen>
+    <dimen name="indicator_arrow_size">24dp</dimen>
+    <dimen name="indicator_arrow_touch_area_size">48dp</dimen>
+
+    <dimen name="indicator_arrow_container_margin_horizontal">4dp</dimen>
+    <dimen name="preview_page_gap">16dp</dimen>
+    <dimen name="preview_page_horizontal_margin">56dp</dimen>
+    <dimen name="preview_page_top_margin">16dp</dimen>
+    <dimen name="preview_page_bottom_margin">2dp</dimen>
+    <dimen name="component_preview_page_bottom_margin">16dp</dimen>
+
+    <!-- Dimensions for the customization option tiles -->
+    <dimen name="options_container_height">104dp</dimen>
+    <dimen name="options_container_width">0dp</dimen>
+    <dimen name="option_tile_width">72dp</dimen>
+    <dimen name="theme_option_icon_sample_height">18dp</dimen>
+    <dimen name="theme_option_icon_sample_width">18dp</dimen>
+    <dimen name="theme_option_shape_sample_height">16dp</dimen>
+    <dimen name="theme_option_shape_sample_width">16dp</dimen>
+    <dimen name="theme_option_font_sample_height">16dp</dimen>
+    <dimen name="theme_option_font_sample_width">52dp</dimen>
+    <dimen name="theme_option_sample_padding">5dp</dimen>
+    <!-- Note, using dp instead of sp as this is just the "+" symbol, not text -->
+    <dimen name="option_tile_padding_vertical">12dp</dimen>
+    <dimen name="option_tile_padding_horizontal">10dp</dimen>
+
+    <dimen name="option_bottom_margin">8dp</dimen>
+    <!-- Note, using dp instead of sp as this text is more like a "snapshot" of the font -->
+    <dimen name="theme_option_font_text_size">16dp</dimen>
+    <dimen name="theme_option_title_font_text_size">12sp</dimen>
+
+    <dimen name="option_tile_margin_horizontal">6dp</dimen>
+    <dimen name="theme_option_label_margin">4dp</dimen>
+
+    <dimen name="preview_card_padding">20dp</dimen>
+    <dimen name="preview_card_top_padding">@dimen/preview_card_padding</dimen>
+
+    <dimen name="card_title_text_size">16sp</dimen>
+    <dimen name="card_cover_title_text_size">24sp</dimen>
+    <dimen name="card_header_icon_size">32dp</dimen>
+    <dimen name="card_header_top_margin">0dp</dimen>
+    <dimen name="preview_pager_max_height">450dp</dimen>
+    <dimen name="preview_pager_min_height">350dp</dimen>
+    <dimen name="preview_theme_max_height">400dp</dimen>
+    <dimen name="preview_theme_min_height">180dp</dimen>
+    <dimen name="theme_preview_header_drawable_padding">8dp</dimen>
+    <dimen name="preview_theme_content_margin">18dp</dimen>
+    <dimen name="preview_theme_content_max_height">192dp</dimen>
+    <dimen name="preview_theme_content_min_height">120dp</dimen>
+    <dimen name="preview_theme_icon_size">30dp</dimen>
+    <dimen name="preview_theme_tile_size">16dp</dimen>
+    <dimen name="preview_theme_shape_size">36dp</dimen>
+    <dimen name="preview_theme_cover_topbar_clock_size">14sp</dimen>
+    <dimen name="preview_theme_cover_topbar_icon_size">16dp</dimen>
+    <dimen name="preview_theme_cover_content_extra_margin">16dp</dimen>
+    <dimen name="preview_theme_content_bottom">@dimen/min_taptarget_height</dimen>
+    <dimen name="preview_theme_cover_content_bottom">@dimen/preview_theme_content_bottom</dimen>
+
+    <dimen name="font_preview_body_width">200dp</dimen>
+    <dimen name="font_preview_divider_gap">24dp</dimen>
+
+    <dimen name="custom_theme_nav_height">56dp</dimen>
+
+    <!-- Note, using dp instead of sp as this is just the font thumbnail, not text -->
+    <dimen name="font_comonent_option_thumbnail_size">32dp</dimen>
+
+    <dimen name="component_icon_thumb_size">40dp</dimen>
+
+    <dimen name="component_color_chip_size">32dp</dimen>
+    <dimen name="component_color_chip_container_size">33dp</dimen>
+
+    <dimen name="component_shape_thumb_size">72dp</dimen>
+    <dimen name="option_border_width">2dp</dimen>
+    <dimen name="option_selected_border_width">3dp</dimen>
+    <dimen name="component_options_title_size">18sp</dimen>
+
+    <!-- For a corner radius of this size or larger, we'll preview a rounded qsb widget. -->
+    <dimen name="roundCornerThreshold">16dp</dimen>
+
+    <dimen name="min_taptarget_height">48dp</dimen>
+
+</resources>

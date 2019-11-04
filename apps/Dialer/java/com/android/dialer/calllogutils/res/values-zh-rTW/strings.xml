@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">來電</string>
+  <string name="type_incoming_pulled">來電已轉移到其他裝置</string>
+  <string name="type_outgoing">去電</string>
+  <string name="type_outgoing_pulled">去電已轉移到其他裝置</string>
+  <string name="type_missed">未接來電</string>
+  <string name="type_incoming_video">視訊來電</string>
+  <string name="type_incoming_video_pulled">視訊來電已轉移到其他裝置</string>
+  <string name="type_outgoing_video">視訊去電</string>
+  <string name="type_outgoing_video_pulled">視訊去電已轉移到其他裝置</string>
+  <string name="type_missed_video">未接視訊來電</string>
+  <string name="type_voicemail">語音留言</string>
+  <string name="type_rejected">拒接的來電</string>
+  <string name="type_blocked">封鎖的來電</string>
+  <string name="call_details_minutes_abbreviation">分鐘</string>
+  <string name="call_details_seconds_abbreviation">秒</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">秒</item>
+    <item quantity="other">秒</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">分鐘</item>
+    <item quantity="other">分鐘</item>
+  </plurals>
+  <string name="type_answered_elsewhere">已透過其他裝置接聽來電</string>
+  <string name="description_phone_account">透過 ^1</string>
+  <string name="description_via_number">透過 %1$s</string>
+  <string name="description_via_number_phone_account">%1$s，透過 %2$s</string>
+  <string name="voicemail_string">語音留言</string>
+  <string name="just_now">剛剛</string>
+  <string name="new_call_log_carrier_video">電信業者視訊通話</string>
+  <string name="new_call_log_duo_video">Duo 視訊通話</string>
+  <string name="new_call_log_unknown">不明</string>
+  <string name="new_call_log_secondary_blocked">已封鎖</string>
+  <string name="new_call_log_secondary_spam">騷擾/廣告電話</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 通來自^2的未接來電</item>
+    <item quantity="other">^1 通電話，最近一通是來自^2的未接來電</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 通來自^2的已接來電</item>
+    <item quantity="other">^1 通電話，最近一通是來自^2的已接來電</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 通撥出給^2的電話</item>
+    <item quantity="other">^1 通電話，最近一通是撥出給^2的電話</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 通來自^2的已封鎖來電</item>
+    <item quantity="other">^1 通電話，最近一通是來自^2的已封鎖來電</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">使用 ^1，透過 ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1，^2。</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1，^2，^3。</string>
+</resources>

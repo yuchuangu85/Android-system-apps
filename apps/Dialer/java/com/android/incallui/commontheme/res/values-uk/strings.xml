@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Завершити виклик</string>
+  <string name="incall_content_description_muted">Ігноруються</string>
+  <string name="incall_content_description_unmuted">Увімкнено звук</string>
+  <string name="incall_content_description_swap_calls">Поміняти виклики</string>
+  <string name="incall_content_description_swap_sim">Змінити SIM-карту</string>
+  <string name="incall_content_description_merge_calls">Об’єднати виклики</string>
+  <string name="incall_content_description_earpiece">Динамік гарнітури</string>
+  <string name="incall_content_description_speaker">Динамік</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Дротова гарнітура</string>
+  <string name="incall_content_description_hold">Утримувати виклик</string>
+  <string name="incall_content_description_unhold">Відновити виклик</string>
+  <string name="incall_content_description_video_on">Відео ввімкнено</string>
+  <string name="incall_content_description_video_off">Відео вимкнено</string>
+  <string name="incall_content_description_swap_video">Поміняти відео</string>
+  <string name="incall_label_speaker">Динамік</string>
+  <string name="incall_label_audio">Звук</string>
+</resources>

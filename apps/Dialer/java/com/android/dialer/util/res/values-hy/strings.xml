@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Լռելյայն ձայներանգը (%1$s)</string>
+  <string name="ringtone_silent">Ոչ մեկը</string>
+  <string name="ringtone_unknown">Անհայտ զանգերանգ</string>
+  <string name="activity_not_available">Սարքի վրա համապատասխան հավելված չկա</string>
+  <string name="outgoing_wps_warning">Եթե WPS-ի միջոցով զանգ կատարեք, ձեր ընթացիկ զանգը կընդհատվի:</string>
+  <string name="dialog_continue">Շարունակել</string>
+  <string name="camera_privacy_text">Տեսախցիկից օգտվելու թույլտվությունը տրամադրված է</string>
+</resources>

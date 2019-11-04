@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Varsayılan ses (%1$s)</string>
+  <string name="ringtone_silent">Yok</string>
+  <string name="ringtone_unknown">Bilinmeyen zil sesi</string>
+  <string name="activity_not_available">Bu cihazda bu işlem için uygun uygulama yok</string>
+  <string name="outgoing_wps_warning">WPS çağrısı yaparsanız, devam eden çağrı sonlandırılır.</string>
+  <string name="dialog_continue">Devam</string>
+  <string name="camera_privacy_text">Kamera izni etkinleştirildi</string>
+</resources>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  Copyright (C) 2017 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.android.car.settings"
+          coreApp="true"
+          android:sharedUserId="android.uid.system"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="24"/>
+
+    <uses-permission android:name="android.car.permission.CAR_ENROLL_TRUST"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BACKUP"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CLEAR_APP_USER_DATA"/>
+    <uses-permission android:name="android.permission.DELETE_CACHE_FILES"/>
+    <uses-permission android:name="android.permission.DUMP"/>
+    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE"/>
+    <uses-permission android:name="android.permission.INJECT_EVENTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <uses-permission android:name="android.permission.MASTER_CLEAR" />
+    <uses-permission android:name="android.permission.NETWORK_SETTINGS" />
+    <uses-permission android:name="android.permission.OVERRIDE_WIFI_CONFIG"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.SET_PREFERRED_APPLICATIONS"/>
+    <uses-permission android:name="android.permission.SET_TIME"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.START_FOREGROUND"/>
+    <uses-permission android:name="android.permission.STATUS_BAR_SERVICE"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+
+    <permission android:name="com.android.car.settings.SET_INITIAL_LOCK"
+        android:protectionLevel="signature|setup"/>
+
+    <application
+        android:icon="@drawable/ic_launcher_settings"
+        android:theme="@style/CarSettingTheme"
+        android:label="@string/settings_label"
+        android:requiredForAllUsers="true"
+        android:directBootAware="true"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".common.CarSettingActivity"
+            android:label="@string/settings_label"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="true">
+            <!-- Keep the order of intents same as .common.FragmentResolver -->
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.NIGHT_DISPLAY_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.DISPLAY_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.SOUND_SETTINGS" />
+                <action android:name="android.settings.panel.action.VOLUME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.panel.action.INTERNET_CONNECTIVITY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.net.wifi.PICK_WIFI_NETWORK" />
+                <action android:name="android.settings.WIFI_SETTINGS" />
+                <action android:name="android.settings.WIRELESS_SETTINGS" />
+                <action android:name="android.settings.panel.action.WIFI" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.WIFI_IP_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.DATA_USAGE_SETTINGS" />
+                <action android:name="android.settings.MOBILE_DATA_USAGE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.DATA_ROAMING_SETTINGS" />
+                <action android:name="android.settings.NETWORK_OPERATOR_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.BLUETOOTH_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.LOCATION_SCANNING_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.APPLICATION_SETTINGS" />
+                <action android:name="android.settings.MANAGE_APPLICATIONS_SETTINGS" />
+                <action android:name="android.settings.MANAGE_ALL_APPLICATIONS_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- The following intent actions are listed twice in order to support multiple ways to
+                 provide the package name. -->
+            <!-- This intent filter expects to receive the package name via the data field.
+                 i.e. adb shell am start -a android.settings.APPLICATION_DETAILS_SETTINGS \
+                      -d "package:<package name>" -->
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.APPLICATION_DETAILS_SETTINGS" />
+                <action android:name="android.settings.NOTIFICATION_SETTINGS" />
+                <action android:name="android.settings.CHANNEL_NOTIFICATION_SETTINGS" />
+                <action android:name="android.settings.APP_NOTIFICATION_SETTINGS" />
+                <data android:scheme="package" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- This intent filter expects to receive the package name via an extra string.
+                 i.e. adb shell am start -a android.settings.APPLICATION_DETAILS_SETTINGS
+                      -e "android.provider.extra.APP_PACKAGE" "<package name>" -->
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.APPLICATION_DETAILS_SETTINGS" />
+                <action android:name="android.settings.NOTIFICATION_SETTINGS" />
+                <action android:name="android.settings.CHANNEL_NOTIFICATION_SETTINGS" />
+                <action android:name="android.settings.APP_NOTIFICATION_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.action.MANAGE_WRITE_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.ACTION_NOTIFICATION_LISTENER_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.USAGE_ACCESS_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.DATE_SETTINGS" />
+                <action android:name="android.intent.action.QUICK_CLOCK" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.USER_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.ADD_ACCOUNT_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.SYNC_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.INTERNAL_STORAGE_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.LOCALE_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.REQUEST_SET_AUTOFILL_SERVICE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:scheme="package" />
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.INPUT_METHOD_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+
+            <intent-filter android:priority="100">
+                <action android:name="android.settings.DEVICE_INFO_SETTINGS" />
+                <action android:name="android.settings.DEVICE_NAME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <!-- Alias for launcher activity only, as this belongs to each profile. -->
+        <activity-alias android:name="Settings"
+                        android:label="@string/settings_label"
+                        android:launchMode="singleTask"
+                        android:targetActivity=".common.CarSettingActivity">
+            <intent-filter android:priority="1">
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity-alias>
+
+        <activity android:name=".bluetooth.BluetoothPairingDialog"
+                  android:excludeFromRecents="true"
+                  android:windowSoftInputMode="stateVisible|adjustResize"
+                  android:taskAffinity="car.settings.bluetooth"
+                  android:launchMode="singleTask"
+                  android:theme="@*android:style/Theme.DeviceDefault.Settings.Dialog.NoActionBar">
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <activity android:name=".bluetooth.BluetoothDevicePickerActivity"
+                  android:label="@string/bluetooth_device_picker"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:clearTaskOnLaunch="true">
+            <intent-filter>
+                <action android:name="android.bluetooth.devicepicker.action.LAUNCH" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".bluetooth.BluetoothRequestPermissionActivity"
+                  android:theme="@style/ActionDialogTheme"
+                  android:excludeFromRecents="true"
+                  android:clearTaskOnLaunch="true"
+                  android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="android.bluetooth.adapter.action.REQUEST_DISCOVERABLE" />
+                <action android:name="android.bluetooth.adapter.action.REQUEST_ENABLE" />
+                <action android:name="android.bluetooth.adapter.action.REQUEST_DISABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".accounts.AddAccountActivity"
+                  android:theme="@android:style/Theme.Translucent.NoTitleBar"
+                  android:configChanges="orientation|keyboardHidden|screenSize"/>
+
+        <activity android:name=".applications.managedomainurls.ManageDomainUrlsActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize"
+                  android:exported="true">
+            <intent-filter>
+                <action android:name="android.settings.MANAGE_DOMAIN_URLS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <activity android:name=".applications.assist.ManageAssistActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize"
+                  android:exported="true">
+            <intent-filter>
+                <action android:name="android.settings.VOICE_INPUT_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <activity android:name=".security.SettingsScreenLockActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.car.settings.SCREEN_LOCK_ACTIVITY" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <activity android:name=".security.CheckLockActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.app.action.CONFIRM_DEVICE_CREDENTIAL" />
+                <action android:name="android.app.action.CONFIRM_FRP_CREDENTIAL" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".security.AddTrustedDeviceActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize">
+        </activity>
+
+        <activity android:name=".system.ThirdPartyLicensesActivity"
+                  android:label="@string/settings_license_activity_title"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.settings.THIRD_PARTY_LICENSE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".system.RegulatoryInfoDisplayActivity"
+            android:label="@string/regulatory_labels"
+            android:enabled="@bool/config_show_regulatory_info">
+            <intent-filter>
+                <action android:name="android.settings.SHOW_REGULATORY_INFO" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".location.LocationSettingsActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize"
+                  android:exported="true">
+            <intent-filter>
+                <action android:name="android.settings.LOCATION_SOURCE_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <activity android:name=".datausage.DataWarningAndLimitActivity"
+                  android:configChanges="orientation|keyboardHidden|screenSize"
+                  android:windowSoftInputMode="adjustResize"
+                  android:exported="true">
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <activity
+            android:name=".wifi.WifiRequestToggleActivity"
+            android:theme="@style/ActionDialogTheme"
+            android:excludeFromRecents="true"
+            android:clearTaskOnLaunch="true"
+            android:launchMode="singleInstance">
+            <intent-filter>
+                <action android:name="android.net.wifi.action.REQUEST_ENABLE" />
+                <action android:name="android.net.wifi.action.REQUEST_DISABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- This logic is copied from phone.-->
+        <!-- Ensures there's lightweight fallback activity when no other MAIN/HOME activity is present.-->
+        <activity android:name=".FallbackHome"
+                  android:excludeFromRecents="true"
+                  android:label=""
+                  android:screenOrientation="nosensor"
+                  android:theme="@style/FallbackHome">
+            <intent-filter android:priority="-900">
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="distractionOptimized" android:value="true"/>
+        </activity>
+
+        <service android:name=".bluetooth.BluetoothPairingService" />
+
+        <service android:name=".setupservice.InitialLockSetupService"
+                 android:exported="true"
+                 android:permission="com.android.car.settings.SET_INITIAL_LOCK"/>
+
+        <receiver android:name=".bluetooth.BluetoothPairingRequest">
+            <intent-filter>
+                <action android:name="android.bluetooth.device.action.PAIRING_REQUEST" />
+            </intent-filter>
+        </receiver>
+
+        <!-- FileProvider to share a generated license html file.
+             Note that "com.android.settings.files" is set here as its authorities because a Uri
+             permission grant should be allowed to share a file with an external browser but it is
+             allowed only for Settings' authorities in ActivityManagerService.  -->
+        <provider android:name="androidx.core.content.FileProvider"
+                  android:authorities="com.android.settings.files"
+                  android:grantUriPermissions="true"
+                  android:exported="false">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS"
+                       android:resource="@xml/file_paths" />
+        </provider>
+
+    </application>
+</manifest>

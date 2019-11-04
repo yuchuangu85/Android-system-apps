@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Tagasi navigeerimine</string>
+  <string name="description_dialpad_overflow">Rohkem valikuid</string>
+  <string name="description_delete_button">tagasilüke</string>
+  <string name="description_image_button_plus">vali pluss-sümbol</string>
+  <string name="description_voicemail_button">helista kõneposti</string>
+  <string name="description_dial_button">helista</string>
+  <string name="dialog_voicemail_airplane_mode_message">Kõnepostisõnumite kuulamiseks lülitage esmalt välja lennukirežiim.</string>
+  <string name="dialog_voicemail_not_ready_message">Kõneposti seadistamiseks tehke valikud Menüü &gt; Seaded.</string>
+  <string name="add_2sec_pause">Lisa kahesekundiline paus</string>
+  <string name="add_wait">Lisa ootamine</string>
+  <string name="dialer_useDtmfDialpad">Kasuta puutetooniga klahvistikku</string>
+  <string name="dialer_returnToInCallScreen">Naase käimasolevale kõnele</string>
+  <string name="dialer_addAnotherCall">Lisa kõne</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Laadimine SIM-kaardilt …</string>
+  <string name="simContacts_title">SIM-kaardi kontaktid</string>
+  <string name="menu_callNumber">Helistamine numbrile %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">WiFi kaudu ei saa hädaabikõnesid teha</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Sellele numbrile ei saa helistada</string>
+</resources>

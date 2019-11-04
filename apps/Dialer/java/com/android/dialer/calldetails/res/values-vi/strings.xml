@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Chi tiết cuộc gọi</string>
+  <string name="delete">Xóa</string>
+  <string name="call_details_copy_number">Sao chép số</string>
+  <string name="call_details_edit_number">Chỉnh sửa số trước khi gọi</string>
+  <string name="call_details_report_call_id">Báo cáo số không chính xác</string>
+  <string name="sent_a_photo">Đã gửi một ảnh</string>
+  <string name="received_a_photo">Đã nhận một ảnh</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">Báo cáo số không chính xác</string>
+  <string name="report_caller_id_failed">Không thể báo cáo số</string>
+  <string name="report_caller_id_toast">Đã báo cáo số</string>
+  <string name="assisted_dialing_country_code_entry">Quay số có trợ giúp: Mã quốc gia đã sử dụng +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Quay số có trợ giúp đã được sử dụng</string>
+  <string name="rtt_transcript_not_available">Bản ghi chỉ có sẵn cho các cuộc gọi hỗ trợ tính năng nhắn tin</string>
+  <string name="rtt_transcript_link">Xem bản ghi</string>
+</resources>

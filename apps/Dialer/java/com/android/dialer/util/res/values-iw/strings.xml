@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">צליל ברירת מחדל (%1$s)</string>
+  <string name="ringtone_silent">ללא</string>
+  <string name="ringtone_unknown">רינגטון לא ידוע</string>
+  <string name="activity_not_available">אין אפליקציה עבור הפעולה הזו במכשיר הזה</string>
+  <string name="outgoing_wps_warning">התקשרות באמצעות השירות האלחוטי המועדף תנתק את השיחה הנוכחית.</string>
+  <string name="dialog_continue">המשך</string>
+  <string name="camera_privacy_text">הרשאת הגישה למצלמה הופעלה</string>
+</resources>

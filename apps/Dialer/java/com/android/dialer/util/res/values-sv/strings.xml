@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Standardsignal (%1$s)</string>
+  <string name="ringtone_silent">Ingen</string>
+  <string name="ringtone_unknown">Okänd ringsignal</string>
+  <string name="activity_not_available">Det finns ingen app för detta på enheten</string>
+  <string name="outgoing_wps_warning">Ringer du ett WPS-samtal kopplas det nuvarande samtalet bort.</string>
+  <string name="dialog_continue">Fortsätt</string>
+  <string name="camera_privacy_text">Kamerabehörighet har aktiverats</string>
+</resources>

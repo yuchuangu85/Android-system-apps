@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Appuyer sur l\'icône, puis balayer l\'écran pour refuser l\'appel en envoyant un message</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Appuyer sur l\'icône, puis balayer l\'écran pour répondre via un appel audio</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Balayer l\'écran vers le haut pour répondre et mettre en attente l\'appel en cours</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Balayer l\'écran vers le haut pour répondre et mettre fin à l\'appel en attente</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Appuyer sur l\'icône, puis balayer l\'écran pour répondre ou mettre fin à l\'appel en cours</string>
+  <string name="call_incoming_message_custom">Réponse personnalisée</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Réponse personnalisée</string>
+  <string name="call_incoming_custom_message_cancel">Annuler</string>
+  <string name="call_incoming_custom_message_send">Envoyer</string>
+  <string name="a11y_incoming_call_reject_with_sms">Refuser cet appel et envoyer un message à l\'appelant</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Répondre via un appel audio</string>
+  <string name="a11y_incoming_call_answer_and_release">Répondre ou mettre fin à l\'appel en cours</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Refuser avec envoi de message</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Répondre via un appel audio</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Répondre ou mettre fin à l\'appel en cours</string>
+  <string name="call_incoming_video_is_off">La vidéo est désactivée.</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Balayez l\'écran avec deux doigts vers le haut pour répondre, ou vers le bas pour refuser l\'appel.</string>
+  <string name="call_incoming_important">Importants</string>
+</resources>

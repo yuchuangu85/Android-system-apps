@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Завршете го повикот</string>
+  <string name="incall_content_description_muted">Звукот е исклучен</string>
+  <string name="incall_content_description_unmuted">Звукот е вклучен</string>
+  <string name="incall_content_description_swap_calls">Заменете повици</string>
+  <string name="incall_content_description_swap_sim">Променете SIM</string>
+  <string name="incall_content_description_merge_calls">Спојте повици</string>
+  <string name="incall_content_description_earpiece">Слушалка</string>
+  <string name="incall_content_description_speaker">Звучник</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Жичени слушалки</string>
+  <string name="incall_content_description_hold">Стави на чекање</string>
+  <string name="incall_content_description_unhold">Продолжи го повикот</string>
+  <string name="incall_content_description_video_on">Видеото е вклучено</string>
+  <string name="incall_content_description_video_off">Видеото е исклучено</string>
+  <string name="incall_content_description_swap_video">Заменете го видеото</string>
+  <string name="incall_label_speaker">Звучник</string>
+  <string name="incall_label_audio">Звук</string>
+</resources>

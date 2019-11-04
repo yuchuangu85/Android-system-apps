@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">જવાબ આપવા માટે ઉપર સ્વાઇપ કરો</string>
+  <string name="call_incoming_swipe_to_reject">નકારવા માટે નીચે સ્વાઇપ કરો</string>
+  <string name="a11y_incoming_call_swipe_to_answer">જવાબ આપવા માટે બે આંગળી વડે ઉપર અથવા કૉલ નકારવા માટે નીચે સ્વાઇપ કરો</string>
+  <string name="call_incoming_will_disconnect">આ કૉલનો જવાબ આપવાથી તમારો વિડિઓ કૉલ સમાપ્ત થઈ જશે</string>
+  <string name="a11y_call_incoming_decline_description">નકારો</string>
+  <string name="call_incoming_decline">નકારો</string>
+  <string name="a11y_call_incoming_answer_description">જવાબ આપો</string>
+  <string name="call_incoming_answer">જવાબ આપો</string>
+</resources>

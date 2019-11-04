@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s ਰਾਹੀਂ ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+  <string name="incall_calling_on_same_carrier_template">ਇੱਕੋ ਕੈਰੀਅਰ %s ਰਾਹੀਂ ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+  <string name="incall_calling_on_recent_choice_template">ਹਾਲ ਹੀ ਵਿੱਚ ਚੁਣੇ ਗਏ %s ਰਾਹੀਂ ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+  <string name="incall_connecting">ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s) ਲਗਾ ਕੇ ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) ਨੂੰ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ…</string>
+  <string name="incall_transferring">ਤਬਾਦਲਾ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
+  <string name="incall_video_call_requesting">ਕੈਰੀਅਰ ਵੀਡੀਓ ਕਾਲਿੰਗ…</string>
+  <string name="incall_wifi_video_call_requesting">ਵਾਈ-ਫਾਈ ਕੈਰੀਅਰ ਵੀਡੀਓ ਕਾਲਿੰਗ…</string>
+  <string name="incall_video_call_upgrade_request">ਕੈਰੀਅਰ ਵੀਡੀਓ ਕਾਲਿੰਗ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲੱਗੇ ਹਾਂ…</string>
+  <string name="incall_video_call_request_failed">ਕਨੈਕਟ ਕਰਨ ਦੇ ਅਯੋਗ</string>
+  <string name="incall_video_call_request_rejected">ਕਾਲ ਅਸਵੀਕਾਰ ਕੀਤੀ ਗਈ</string>
+  <string name="incall_video_call_request_timed_out">ਕਾਲ ਦਾ ਸਮਾਂ ਸਮਾਪਤ ਹੋਇਆ</string>
+  <string name="incall_hanging_up">ਸਮਾਪਤ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+  <string name="incall_call_ended">ਕਾਲ ਸਮਾਪਤ ਹੋਈ</string>
+  <string name="incall_remotely_held">ਰੋਕ ਕੇ ਰੱਖੀ ਗਈ</string>
+  <string name="contact_grid_incoming_video_call">ਇਸ ਵੱਲੋਂ ਕੈਰੀਅਰ ਵੀਡੀਓ ਕਾਲ</string>
+  <string name="contact_grid_incoming_wifi_video_call">ਇਸ ਵੱਲੋਂ ਵਾਈ-ਫਾਈ ਕੈਰੀਅਰ ਵੀਡੀਓ ਕਾਲ</string>
+  <string name="contact_grid_incoming_voice_call">ਇਸ ਤੋਂ ਕਾਲ</string>
+  <string name="contact_grid_incoming_work_call">ਇਸ ਤੋਂ ਕੰਮ ਸਬੰਧੀ ਕਾਲ</string>
+  <string name="contact_grid_incoming_via_template">%s ਰਾਹੀਂ ਇਨਕਮਿੰਗ</string>
+  <string name="contact_grid_incoming_suspected_spam">ਸ਼ੱਕੀ ਸਪੈਮ ਕਾਲਰ</string>
+  <string name="contact_grid_callback_number">ਇਸ ਫ਼ੋਨ ਦਾ ਨੰਬਰ: %1$s</string>
+</resources>

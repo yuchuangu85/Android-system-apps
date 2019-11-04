@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Má vypnuté video</string>
+  <string name="videocall_remote_video_on">Video tohto používateľa je zapnuté</string>
+  <string name="videocall_remotely_held">Hovor je podržaný</string>
+  <string name="videocall_remotely_resumed">Hovor bol obnovený</string>
+  <string name="videocall_charges_alert_dialog_description">Videohovory uskutočnené prostredníctvom mobilnej siete využívajú dáta aj minúty na hlasové volania. Môžu sa účtovať poplatky.</string>
+  <string name="do_not_show_again">Nabudúce nezobrazovať</string>
+</resources>

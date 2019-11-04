@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Bluetooth-a</string>
+  <string name="audioroute_speaker">Bozgorailua</string>
+  <string name="audioroute_phone">Telefonoa</string>
+  <string name="audioroute_headset">Kabledun entzungailua</string>
+</resources>

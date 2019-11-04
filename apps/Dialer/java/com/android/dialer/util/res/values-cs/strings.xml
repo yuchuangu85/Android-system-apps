@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Výchozí zvuk (%1$s)</string>
+  <string name="ringtone_silent">Žádný</string>
+  <string name="ringtone_unknown">Neznámý vyzváněcí tón</string>
+  <string name="activity_not_available">Pro tuto akci v zařízení nemáte žádnou aplikaci.</string>
+  <string name="outgoing_wps_warning">Zahájením hovoru WPS odpojíte probíhající hovor.</string>
+  <string name="dialog_continue">Pokračovat</string>
+  <string name="camera_privacy_text">Byl povolen přístup k fotoaparátu</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Vždy zobrazovať upozornenie</string>
+  <string name="details">Voláte na číslo v inej krajine. Môžu sa účtovať poplatky.</string>
+</resources>

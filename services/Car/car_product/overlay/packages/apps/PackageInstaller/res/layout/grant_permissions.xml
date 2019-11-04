@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- This layout mirrors grant_permissions.xml in PackageInstaller. The difference between the
+     two is text sizes and spacing. -->
+<com.android.packageinstaller.permission.ui.ManualLayoutFrame
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:clipChildren="false">
+
+    <LinearLayout
+        android:id="@+id/dialog_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/background_round_corners"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:id="@+id/desc_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/permission_description_top_margin"
+            android:layout_marginStart="@dimen/permission_description_start_margin"
+            android:layout_marginBottom="@dimen/permission_description_bottom_margin"
+            android:layout_marginEnd="@dimen/permission_description_end_margin">
+
+            <include
+                layout="@layout/permission_description" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/do_not_ask_checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/checkbox_start_margin"
+                android:layout_marginEnd="@dimen/checkbox_end_margin"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/checkbox_left_padding"
+                android:button="@drawable/ic_check_box"
+                android:textAppearance="@style/PermissionDialogCheckboxText"
+                android:text="@string/never_ask_again"
+                android:visibility="gone">
+            </CheckBox>
+
+            <com.android.packageinstaller.permission.ui.ButtonBarLayout
+                android:id="@+id/button_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/permission_dialog_button_margin_top"
+                android:layoutDirection="locale"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/permission_deny_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/grant_dialog_button_deny"
+                    style="?android:attr/buttonBarButtonStyle">
+                </Button>
+
+                <Button
+                    android:id="@+id/permission_allow_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/permission_dialog_allow_button_height"
+                    android:text="@string/grant_dialog_button_allow"
+                    style="?android:attr/buttonBarButtonStyle">
+                </Button>
+
+                <Space
+                    android:id="@*android:id/spacer"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:visibility="invisible">
+                </Space>
+
+                <TextView
+                    android:id="@+id/current_page_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingEnd="@dimen/permission_dialog_appearance_padding_end"
+                    android:maxLines="1"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:visibility="invisible">
+                </TextView>
+
+            </com.android.packageinstaller.permission.ui.ButtonBarLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.android.packageinstaller.permission.ui.ManualLayoutFrame>

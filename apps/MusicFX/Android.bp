@@ -1,0 +1,7 @@
+android_app {
+    name: "MusicFX",
+    srcs: ["src/**/*.java"],
+    libs: ["framework"],
+    platform_apis: true,
+    privileged: true,
+}

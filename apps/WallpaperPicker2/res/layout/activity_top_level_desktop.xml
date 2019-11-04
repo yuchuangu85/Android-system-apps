@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="false">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tab_layout"
+            style="@style/CategoryTabLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></com.google.android.material.tabs.TabLayout>
+
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/loading_indicator_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ProgressBar
+                android:id="@+id/loading_indicator"
+                android:layout_width="@dimen/tile_desktop_progress_bar_size"
+                android:layout_height="@dimen/tile_desktop_progress_bar_size"
+                android:layout_gravity="center"
+                android:indeterminate="true"
+                android:indeterminateTint="@color/accent_color" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/coordinator_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/bottom_sheet"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/current_wallpaper_bottom_sheet_layout_height"
+            android:layout_gravity="bottom"
+            android:background="@color/translucent_black_90_alpha"
+            android:minHeight="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_top"
+            android:orientation="vertical"
+            android:visibility="gone"
+            app:behavior_peekHeight="0dp"
+            app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+            <LinearLayout
+                android:id="@+id/bottom_sheet_contents"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <com.android.wallpaper.widget.WallpaperThumbnailView
+                    android:id="@+id/current_wallpaper_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/current_wallpaper_bottom_sheet_thumb_height"
+                    android:layout_margin="@dimen/current_wallpaper_bottom_sheet_thumb_margin"
+                    android:contentDescription="@string/currently_set_wallpaper_thumbnail" />
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="top"
+                        android:layout_marginEnd="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                        android:layout_marginRight="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/current_wallpaper_presentation_mode"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                            android:layout_marginStart="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                            android:layout_marginTop="@dimen/current_wallpaper_bottom_sheet_presentation_mode_margin_top"
+                            android:textColor="@color/accent_color"
+                            android:textSize="@dimen/current_wallpaper_bottom_sheet_presentation_mode_text_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/current_wallpaper_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                            android:layout_marginStart="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                            android:layout_marginTop="@dimen/current_wallpaper_bottom_sheet_title_margin_top"
+                            android:ellipsize="end"
+                            android:maxLines="2"
+                            android:textColor="@color/material_white_text"
+                            android:textSize="@dimen/current_wallpaper_bottom_sheet_title_text_size" />
+
+                        <TextView
+                            android:id="@+id/current_wallpaper_subtitle"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                            android:layout_marginStart="@dimen/current_wallpaper_bottom_sheet_margin_sides"
+                            android:layout_marginTop="@dimen/current_wallpaper_bottom_sheet_subtitle_margin_top"
+                            android:ellipsize="end"
+                            android:maxLines="2"
+                            android:textColor="@color/white_70_alpha"
+                            android:textSize="@dimen/current_wallpaper_bottom_sheet_subtitle_text_size" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal">
+
+                            <Button
+                                android:id="@+id/current_wallpaper_explore_button"
+                                style="?attr/borderlessButtonStyle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginEnd="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_end"
+                                android:layout_marginLeft="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_start"
+                                android:layout_marginRight="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_end"
+                                android:layout_marginStart="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_start"
+                                android:layout_marginTop="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_top"
+                                android:clickable="true"
+                                android:contentDescription="@string/explore"
+                                android:drawablePadding="@dimen/explore_button_drawable_padding"
+                                android:focusable="true"
+                                android:text="@string/explore"
+                                android:textColor="@color/accent_color"
+                                android:textSize="@dimen/current_wallpaper_bottom_sheet_explore_button_text_size"
+                                android:visibility="gone" />
+
+                            <Button
+                                android:id="@+id/current_wallpaper_skip_wallpaper_button"
+                                style="?attr/borderlessButtonStyle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/current_wallpaper_bottom_sheet_explore_button_margin_top"
+                                android:clickable="true"
+                                android:contentDescription="@string/next_wallpaper"
+                                android:drawablePadding="@dimen/explore_button_drawable_padding"
+                                android:focusable="true"
+                                android:text="@string/next_wallpaper"
+                                android:textColor="@color/accent_color"
+                                android:textSize="@dimen/current_wallpaper_bottom_sheet_explore_button_text_size"
+                                android:visibility="gone" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:id="@+id/desktop_wallpaper_position_options"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:visibility="gone">
+
+                            <Button
+                                android:id="@+id/wallpaper_position_option_center"
+                                style="?attr/borderlessButtonStyle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:drawablePadding="@dimen/current_wallpaper_bottom_sheet_wallpaper_position_drawable_padding"
+                                android:text="@string/center_wallpaper_position"
+                                android:textColor="@color/material_grey500" />
+
+                            <Button
+                                android:id="@+id/wallpaper_position_option_center_crop"
+                                style="?attr/borderlessButtonStyle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:drawablePadding="@dimen/current_wallpaper_bottom_sheet_wallpaper_position_drawable_padding"
+                                android:text="@string/center_crop_wallpaper_position"
+                                android:textColor="@color/material_grey500" />
+
+                            <Button
+                                android:id="@+id/wallpaper_position_option_stretched"
+                                style="?attr/borderlessButtonStyle"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:drawablePadding="@dimen/current_wallpaper_bottom_sheet_wallpaper_position_drawable_padding"
+                                android:text="@string/stretch_wallpaper_position"
+                                android:textColor="@color/material_grey500" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</FrameLayout>

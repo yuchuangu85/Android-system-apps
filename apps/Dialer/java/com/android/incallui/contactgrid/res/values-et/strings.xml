@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Kõne edastab %s</string>
+  <string name="incall_calling_on_same_carrier_template">Helistatakse sama operaatori %s võrgus</string>
+  <string name="incall_calling_on_recent_choice_template">Helistatakse hiljuti valitud operaatori %s võrgus</string>
+  <string name="incall_connecting">Helistamine …</string>
+  <string name="incall_connecting_assited_dialed">Helistamine koodiga +%1$s (%2$s) …</string>
+  <string name="incall_connecting_assited_dialed_component">Kasutatakse koodi +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Ülekandmine …</string>
+  <string name="incall_video_call_requesting">Operaatori videokõne …</string>
+  <string name="incall_wifi_video_call_requesting">WiFi-operaatori videokõne …</string>
+  <string name="incall_video_call_upgrade_request">Operaatori videole lülitumine …</string>
+  <string name="incall_video_call_request_failed">Ühendust ei õnnestu luua</string>
+  <string name="incall_video_call_request_rejected">Kõnest keelduti</string>
+  <string name="incall_video_call_request_timed_out">Kõne aegus</string>
+  <string name="incall_hanging_up">Lõpetamine</string>
+  <string name="incall_call_ended">Kõne lõpetati</string>
+  <string name="incall_remotely_held">Ootel</string>
+  <string name="contact_grid_incoming_video_call">Operaatori videokõne kasutajalt</string>
+  <string name="contact_grid_incoming_wifi_video_call">WiFi-operaatori videokõne kasutajalt</string>
+  <string name="contact_grid_incoming_voice_call">Kõne kontaktilt</string>
+  <string name="contact_grid_incoming_work_call">Töökõne kontaktilt</string>
+  <string name="contact_grid_incoming_via_template">Sissetulev kõne teenusepakkuja %s kaudu</string>
+  <string name="contact_grid_incoming_suspected_spam">Arvatav rämpskõnetegija</string>
+  <string name="contact_grid_callback_number">Selle telefoni number: %1$s</string>
+</resources>

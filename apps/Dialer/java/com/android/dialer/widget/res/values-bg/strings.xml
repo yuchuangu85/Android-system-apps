@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Напишете свое съобщение</string>
+  <string name="toolbar_close">Затваряне</string>
+  <string name="all_contacts_empty">Още нямате контакти</string>
+  <string name="all_contacts_empty_add_contact_action">Създаване на нов контакт</string>
+  <string name="permission_single_turn_on">Включване</string>
+  <string name="permission_no_contacts">За да видите контактите си, включете разрешението за Контакти.</string>
+  <string name="add_contact_not_available">Няма налично приложение за контакти</string>
+</resources>

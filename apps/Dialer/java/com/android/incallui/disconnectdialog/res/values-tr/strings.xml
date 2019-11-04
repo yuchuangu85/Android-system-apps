@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">Etkinleştir</string>
+  <string name="video_call_not_available_title">Görüntülü görüşme şu anda kullanılamıyor</string>
+  <string name="video_call_not_available_message">Görüntülü görüşme yapmayı daha sonra tekrar deneyin veya görüşmeye sesli arama olarak devam edin.</string>
+  <string name="voice_call">Sesli arama</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videoklic</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Zadrži</string>
+  <string name="incall_label_add_call">Dodaj klic</string>
+  <string name="incall_label_mute">Izklopi zvok</string>
+  <string name="incall_label_end_call">Končaj klic</string>
+  <string name="incall_label_dialpad">Tipkovnica</string>
+  <string name="incall_talkback_speaker_on">, vklopljen</string>
+  <string name="incall_talkback_speaker_off">, izklopljen</string>
+  <string name="incall_label_merge">Združi</string>
+  <string name="incall_label_manage">Upravljanje</string>
+  <string name="a11y_description_incall_label_manage_content">Upravljanje klicateljev</string>
+  <string name="incall_label_swap">Zamenjaj</string>
+  <string name="incall_label_swap_sim">Zamenjaj SIM</string>
+  <string name="incall_note_sent">Opomba je poslana</string>
+</resources>

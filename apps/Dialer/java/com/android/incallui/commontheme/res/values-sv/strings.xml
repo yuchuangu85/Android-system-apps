@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Avsluta samtal</string>
+  <string name="incall_content_description_muted">Ljud av</string>
+  <string name="incall_content_description_unmuted">Ljud på</string>
+  <string name="incall_content_description_swap_calls">Byt samtal</string>
+  <string name="incall_content_description_swap_sim">Ändra SIM</string>
+  <string name="incall_content_description_merge_calls">Koppla ihop samtal</string>
+  <string name="incall_content_description_earpiece">Telefonlur</string>
+  <string name="incall_content_description_speaker">Högtalare</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Trådanslutet headset</string>
+  <string name="incall_content_description_hold">Parkera samtal</string>
+  <string name="incall_content_description_unhold">Återuppta samtal</string>
+  <string name="incall_content_description_video_on">Video på</string>
+  <string name="incall_content_description_video_off">Video av</string>
+  <string name="incall_content_description_swap_video">Byt video</string>
+  <string name="incall_label_speaker">Högtalare</string>
+  <string name="incall_label_audio">Ljud</string>
+</resources>

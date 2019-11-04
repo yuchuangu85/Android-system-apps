@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Нов конт.</string>
+  <string name="dialer_shortcut_add_contact_long">Нов контакт</string>
+  <string name="dialer_shortcut_disabled_message">Прекият път не работи. Преместете го с плъзгане, за да го премахнете.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Контактът вече не е налице.</string>
+  <string name="dialer_shortcut_no_permissions">Не можете да се обадите без разрешения.</string>
+</resources>

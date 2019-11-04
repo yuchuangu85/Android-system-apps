@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources>
+    <!-- The fully qualified class name of the fragment to launch when the settings application starts. -->
+    <string name="config_settings_hierarchy_root_fragment" translatable="false">com.android.car.settings.quicksettings.QuickSettingFragment</string>
+    <!-- Whether system_update_settings should be shown or not. -->
+    <bool name="config_show_system_update_settings">true</bool>
+    <!-- Whether Wi-Fi Mac address should be shown or not. -->
+    <bool name="config_show_wifi_mac_address">true</bool>
+    <!-- Whether to show regulatory info or not. -->
+    <bool name="config_show_regulatory_info">true</bool>
+    <!-- Whether premium SMS should be shown or not. -->
+    <bool name="config_show_premium_sms">true</bool>
+    <!-- Whether exit button in settings' root action bar should be shown or not -->
+    <bool name="config_show_settings_root_exit_icon">true</bool>
+    <!-- Whether all preferences should always ignore UX Restrictions -->
+    <bool name="config_always_ignore_ux_restrictions">false</bool>
+    <!-- Array of Preference Keys that ignore UX Restrictions -->
+    <string-array name="config_ignore_ux_restrictions">
+        <item>@string/pk_display_settings_entry</item>
+        <item>@string/pk_sound_settings_entry</item>
+        <item>@string/pk_storage_settings_entry</item>
+        <item>@string/pk_network_and_internet_entry</item>
+        <item>@string/pk_wifi_settings_entry</item>
+        <item>@string/pk_bluetooth_settings_entry</item>
+    </string-array>
+
+    <!-- The component which listens for the enabling of developer options. -->
+    <string name="config_dev_options_module" translatable="false">com.android.car.developeroptions/.Settings$DevelopmentSettingsDashboardActivity</string>
+</resources>

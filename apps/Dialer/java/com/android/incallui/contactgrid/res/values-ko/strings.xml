@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s을(를) 통해 거는 전화</string>
+  <string name="incall_calling_on_same_carrier_template">같은 이동통신사(%s)를 통해 통화하기</string>
+  <string name="incall_calling_on_recent_choice_template">최근 이용했던 이동통신사(%s)를 통해 통화하기</string>
+  <string name="incall_connecting">전화 거는 중…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s(%2$s)번을 사용하여 통화 중…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) 사용 중…</string>
+  <string name="incall_transferring">전환 중…</string>
+  <string name="incall_video_call_requesting">이동통신사 화상 통화 요청 중…</string>
+  <string name="incall_wifi_video_call_requesting">Wi-Fi 이동통신사 화상 통화 요청 중…</string>
+  <string name="incall_video_call_upgrade_request">이동통신사 화상 통화로 전환하는 중…</string>
+  <string name="incall_video_call_request_failed">연결할 수 없습니다.</string>
+  <string name="incall_video_call_request_rejected">통화가 거부되었습니다.</string>
+  <string name="incall_video_call_request_timed_out">통화 시간이 초과되었습니다.</string>
+  <string name="incall_hanging_up">전화 끊는 중</string>
+  <string name="incall_call_ended">통화 종료됨</string>
+  <string name="incall_remotely_held">대기 중</string>
+  <string name="contact_grid_incoming_video_call">다음 사용자에게서 온 이동통신사 화상 통화:</string>
+  <string name="contact_grid_incoming_wifi_video_call">다음 사용자에게서 온 Wi-Fi 이동통신사 화상 통화:</string>
+  <string name="contact_grid_incoming_voice_call">통화 수신:</string>
+  <string name="contact_grid_incoming_work_call">업무 통화 수신:</string>
+  <string name="contact_grid_incoming_via_template">%s을(를) 통해 걸려온 전화</string>
+  <string name="contact_grid_incoming_suspected_spam">스팸으로 의심되는 발신자</string>
+  <string name="contact_grid_callback_number">이 기기의 휴대전화 번호: %1$s</string>
+</resources>

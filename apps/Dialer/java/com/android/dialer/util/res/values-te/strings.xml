@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">డిఫాల్ట్ ధ్వని (%1$s)</string>
+  <string name="ringtone_silent">ఏదీ వద్దు</string>
+  <string name="ringtone_unknown">తెలియని రింగ్‌టోన్</string>
+  <string name="activity_not_available">ఈ పరికరంలో దాని కోసం అనువర్తనం ఏదీ లేదు</string>
+  <string name="outgoing_wps_warning">WPS కాల్ చేయడం వలన మీరు ప్రస్తుతం మాట్లాడుతున్న కాల్ డిస్‌కనెక్ట్ అవుతుంది.</string>
+  <string name="dialog_continue">కొనసాగించు</string>
+  <string name="camera_privacy_text">కెమెరా అనుమతిని ప్రారంభించాము</string>
+</resources>

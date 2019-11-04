@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">结束通话</string>
+  <string name="incall_content_description_muted">已静音</string>
+  <string name="incall_content_description_unmuted">已取消静音</string>
+  <string name="incall_content_description_swap_calls">切换通话</string>
+  <string name="incall_content_description_swap_sim">更改 SIM 卡</string>
+  <string name="incall_content_description_merge_calls">合并通话</string>
+  <string name="incall_content_description_earpiece">手机听筒</string>
+  <string name="incall_content_description_speaker">免提</string>
+  <string name="incall_content_description_bluetooth">蓝牙</string>
+  <string name="incall_content_description_headset">有线耳机</string>
+  <string name="incall_content_description_hold">保持通话</string>
+  <string name="incall_content_description_unhold">恢复通话</string>
+  <string name="incall_content_description_video_on">视频已开启</string>
+  <string name="incall_content_description_video_off">视频已关闭</string>
+  <string name="incall_content_description_swap_video">切换视频</string>
+  <string name="incall_label_speaker">免提</string>
+  <string name="incall_label_audio">音频路径</string>
+</resources>

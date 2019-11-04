@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Luoghi nelle vicinanze</string>
+  <string name="search_location_permission">Per ricevere le informazioni di contatto dei luoghi nelle vicinanze, consenti l\'accesso alla tua posizione.</string>
+  <string name="nearby_places_allow">Consenti</string>
+  <string name="nearby_places_dismiss">Ignora</string>
+</resources>

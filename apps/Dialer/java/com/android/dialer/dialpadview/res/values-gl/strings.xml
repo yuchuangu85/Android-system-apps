@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Volver á vista anterior</string>
+  <string name="description_dialpad_overflow">Máis opcións</string>
+  <string name="description_delete_button">retroceso</string>
+  <string name="description_image_button_plus">marca o signo máis</string>
+  <string name="description_voicemail_button">chama ao correo de voz</string>
+  <string name="description_dial_button">marca</string>
+  <string name="dialog_voicemail_airplane_mode_message">Para chamar ao correo de voz, primeiro desactiva o modo avión.</string>
+  <string name="dialog_voicemail_not_ready_message">Para configurar o correo de voz, accede a Menú &gt; Configuración.</string>
+  <string name="add_2sec_pause">Engadir pausa de 2 segundos</string>
+  <string name="add_wait">Engadir espera</string>
+  <string name="dialer_useDtmfDialpad">Usar teclado de marcación por tons</string>
+  <string name="dialer_returnToInCallScreen">Volver á chamada en curso</string>
+  <string name="dialer_addAnotherCall">Engadir chamada</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Cargando número da tarxeta SIM…</string>
+  <string name="simContacts_title">Contactos da tarxeta SIM</string>
+  <string name="menu_callNumber">Chamar ao %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Non se poden realizar chamadas de urxencia por wifi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Non é posible chamar a este número</string>
+</resources>

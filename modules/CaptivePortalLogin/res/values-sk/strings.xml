@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"Použiť túto sieť tak, ako je"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"Túto sieť nepoužívať"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"Prihlásiť sa do siete"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"Prihláste sa do služby %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"Sieť, ku ktorej sa pokúšate pripojiť, má problémy so zabezpečením"</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"Napríklad prihlasovacia stránka nemusí patriť uvedenej organizácii."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"Pokračovať pomocou prehliadača"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"Tento certifikát nepochádza od dôveryhodnej autority."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"Názov stránky sa nezhoduje s názvom uvedeným v certifikáte."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"Platnosť certifikátu skončila."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"Tento certifikát zatiaľ nie je platný."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"Tento certifikát má neplatný dátum."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"Tento certifikát je neplatný."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"Neznáma chyba certifikátu."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"Bezpečnostné upozornenie"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"Zobraziť certifikát"</string>
+    <string name="ok" msgid="6584612582120777209">"OK"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"Adresa:"</string>
+    <string name="page_info" msgid="46593086046896385">"Informácie o stránke"</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Позивамо преко %s</string>
+  <string name="incall_calling_on_same_carrier_template">Позива се преко истог мобилног оператера: %s</string>
+  <string name="incall_calling_on_recent_choice_template">Позива се на основу недавног избора преко: %s</string>
+  <string name="incall_connecting">Позивамо…</string>
+  <string name="incall_connecting_assited_dialed">Позива се са +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Користи се +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Преносимо…</string>
+  <string name="incall_video_call_requesting">Упућује се видео позив преко оператера…</string>
+  <string name="incall_wifi_video_call_requesting">Пребацује се на Wi-Fi видео позив преко оператера…</string>
+  <string name="incall_video_call_upgrade_request">Пребацује се на видео позив преко оператера…</string>
+  <string name="incall_video_call_request_failed">Повезивање није успело</string>
+  <string name="incall_video_call_request_rejected">Позив је одбијен</string>
+  <string name="incall_video_call_request_timed_out">Временско ограничење позива је истекло</string>
+  <string name="incall_hanging_up">Прекидамо везу</string>
+  <string name="incall_call_ended">Позив је завршен</string>
+  <string name="incall_remotely_held">На чекању</string>
+  <string name="contact_grid_incoming_video_call">Видео позив преко оператера од:</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wi-Fi видео позив преко оператера од:</string>
+  <string name="contact_grid_incoming_voice_call">Позив од</string>
+  <string name="contact_grid_incoming_work_call">Пословни позив од</string>
+  <string name="contact_grid_incoming_via_template">Долазни позив преко %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Потенцијално непожељан позивалац</string>
+  <string name="contact_grid_callback_number">Број овог телефона: %1$s</string>
+</resources>

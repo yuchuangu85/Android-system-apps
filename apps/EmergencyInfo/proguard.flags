@@ -1,0 +1,10 @@
+# Retain all Preference classes, which the tests rely on.
+-keep class androidx.preference.Preference* {
+    *;
+}
+
+# Keep annotated classes or class members.
+-keep @androidx.annotation.Keep class *
+-keepclassmembers class * {
+    @androidx.annotation.Keep *;
+}

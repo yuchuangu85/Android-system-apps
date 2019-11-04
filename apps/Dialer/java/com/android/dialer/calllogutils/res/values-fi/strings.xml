@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Saapuva puhelu</string>
+  <string name="type_incoming_pulled">Saapuva puhelu siirrettiin toiselle laitteelle.</string>
+  <string name="type_outgoing">Lähtevä puhelu</string>
+  <string name="type_outgoing_pulled">Lähtevä puhelu siirrettiin toiselle laitteelle.</string>
+  <string name="type_missed">Vastaamaton puhelu</string>
+  <string name="type_incoming_video">Saapuva videopuhelu</string>
+  <string name="type_incoming_video_pulled">Saapuva videopuhelu siirrettiin toiselle laitteelle.</string>
+  <string name="type_outgoing_video">Lähtevä videopuhelu</string>
+  <string name="type_outgoing_video_pulled">Lähtevä videopuhelu siirrettiin toiselle laitteelle.</string>
+  <string name="type_missed_video">Vastaamaton videopuhelu</string>
+  <string name="type_voicemail">Vastaaja</string>
+  <string name="type_rejected">Hylätty puhelu</string>
+  <string name="type_blocked">Estetty puhelu</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekunti</item>
+    <item quantity="other">sekuntia</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minuutti</item>
+    <item quantity="other">minuuttia</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Puheluun vastattiin toisella laitteella.</string>
+  <string name="description_phone_account">^1</string>
+  <string name="description_via_number">numerosta %1$s</string>
+  <string name="description_via_number_phone_account">tililtä %1$s numerosta %2$s</string>
+  <string name="voicemail_string">Vastaaja</string>
+  <string name="just_now">Juuri äsken</string>
+  <string name="new_call_log_carrier_video">Videopuhelu (puhelinliittymä)</string>
+  <string name="new_call_log_duo_video">Duo-videopuhelu</string>
+  <string name="new_call_log_unknown">Tuntematon</string>
+  <string name="new_call_log_secondary_blocked">Estetyt</string>
+  <string name="new_call_log_secondary_spam">Häirikköpuhelut</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 vastaamaton puhelu, jonka soitti ^2</item>
+    <item quantity="other">^1 vastaamatonta puhelua, joista viimeisimmän soitti ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 vastattu puhelu, jonka soitti ^2</item>
+    <item quantity="other">^1 vastattua puhelua, joista viimeisimmän soitti ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 lähtevä puhelu, jonka vastaanottaja oli ^2</item>
+    <item quantity="other">^1 lähtevää puhelua, joista viimeisimmän vastaanottaja oli ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 estetty puhelu, jonka soitti ^2</item>
+    <item quantity="other">^1 estettyä puhelua, joista viimeisimmän soitti ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">tililtä ^1,
+numerosta ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

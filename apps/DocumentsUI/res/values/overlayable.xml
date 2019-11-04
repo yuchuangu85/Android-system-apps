@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- The collection of resources for theming the appearance of a device -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <overlayable name="DocumentsUICustomization">
+
+        <!-- START VENDOR CUSTOMIZATION -->
+        <policy type="product|system|vendor">
+            <!-- START THEME / STYLE -->
+            <item type="style" name="DocumentsTheme"/>
+            <!-- END THEME / STYLE -->
+
+            <!-- START COLOR -->
+            <item type="color" name="primary"/>
+            <!-- END COLOR -->
+
+            <!-- START DIMEN -->
+            <item type="dimen" name="grid_item_radius"/>
+            <item type="dimen" name="search_chip_radius"/>
+            <!-- END DIMEN -->
+
+            <!-- START DRAWABLE -->
+            <item type="drawable" name="ic_eject"/>
+            <item type="drawable" name="ic_root_download"/>
+            <item type="drawable" name="ic_sd_storage"/>
+            <item type="drawable" name="root_list_selector"/>
+            <!-- END DRAWABLE -->
+
+            <!-- START BOOLEAN CONFIG -->
+            <item type="bool" name="config_button_all_caps"/>
+            <item type="bool" name="config_default_show_device_root"/>
+            <item type="bool" name="feature_default_root_in_browse"/>
+            <item type="bool" name="handle_view_downloads_intent"/>
+            <item type="bool" name="is_launcher_enabled"/>
+            <item type="bool" name="show_search_bar"/>
+            <!-- END BOOLEAN CONFIG -->
+
+            <!-- START STRING CONFIG -->
+            <item type="string" name="config_fontFamily"/>
+            <item type="string" name="config_fontFamilyMedium"/>
+            <item type="string" name="default_root_uri"/>
+            <item type="string" name="preferred_root_package"/>
+            <item type="string" name="trusted_quick_viewer_package"/>
+            <!-- END STRING CONFIG -->
+
+        </policy>
+        <!-- END VENDOR CUSTOMIZATION -->
+
+    </overlayable>
+
+</resources>

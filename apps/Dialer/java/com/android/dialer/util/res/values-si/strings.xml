@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">සුපුරුදු ශබ්දය (%1$s)</string>
+  <string name="ringtone_silent">කිසිවක් නැත</string>
+  <string name="ringtone_unknown">නොදන්නා රින්ටෝනය</string>
+  <string name="activity_not_available">මෙම උපාංගයෙහි ඒ සඳහා යෙදුමක් නැත</string>
+  <string name="outgoing_wps_warning">WPS ඇමතුමක් කිරීමෙන් ඔබේ දැනට පවතින ඇමතුම විසන්ධි කරනු ඇත.</string>
+  <string name="dialog_continue">දිගටම කරගෙන යන්න</string>
+  <string name="camera_privacy_text">කැමරා අවසර සබල කර ඇත</string>
+</resources>

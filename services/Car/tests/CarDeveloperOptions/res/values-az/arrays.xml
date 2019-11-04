@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2019 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+    <item msgid="3431380197378148950">"Amerika"</item>
+    <item msgid="4791956477275129121">"Avropa"</item>
+    <item msgid="3812126832016254559">"Afrika"</item>
+    <item msgid="2765816300353408280">"Asiya"</item>
+    <item msgid="6683489385344409742">"Avstraliya"</item>
+    <item msgid="5194868215515664953">"Sakit Okean"</item>
+    <item msgid="7044520255415007865">"Bütün"</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item msgid="8596143519087753804">"15 saniyə"</item>
+    <item msgid="772029947136115322">"30 saniyə"</item>
+    <item msgid="8743663928349474087">"1 dəqiqə"</item>
+    <item msgid="1506508631223164814">"2 dəqiqə"</item>
+    <item msgid="8664703938127907662">"5 dəqiqə"</item>
+    <item msgid="5827960506924849753">"10 dəqiqə"</item>
+    <item msgid="6677424950124253938">"30 dəqiqə"</item>
+  </string-array>
+    <!-- no translation found for dream_timeout_entries:1 (2517785806387977252) -->
+    <!-- no translation found for dream_timeout_entries:5 (2788593551142462622) -->
+    <!-- no translation found for dream_timeout_entries:6 (8012672183888404961) -->
+    <!-- no translation found for lock_after_timeout_entries:2 (5558060663472279597) -->
+    <!-- no translation found for lock_after_timeout_entries:6 (4376575879222393045) -->
+    <!-- no translation found for lock_after_timeout_entries:7 (811192536981678974) -->
+  <string-array name="entries_font_size">
+    <item msgid="2340391964816059553">"Kiçik"</item>
+    <item msgid="591935967183159581">"Defolt"</item>
+    <item msgid="1714184661981538355">"Böyük"</item>
+    <item msgid="6195563047686707484">"Ən böyük"</item>
+  </string-array>
+    <!-- no translation found for wifi_status:1 (4157625910392775808) -->
+  <string-array name="wifi_status_with_ssid">
+    <item msgid="4853670665485437464"></item>
+    <item msgid="6816207058895999545">"Skan edilir..."</item>
+    <item msgid="8058143476674427024">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g> qoşulur…"</item>
+    <item msgid="7547609081339573756">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g> ilə doğrulanır"</item>
+    <item msgid="5145158315060185414">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g> şəbəkəsindən IP ünvan əldə edilir"</item>
+    <item msgid="3283243151651124831">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g> qoşuldu"</item>
+    <item msgid="6600156231416890902">"Dayandırılıb"</item>
+    <item msgid="4133290864821295785">"<xliff:g id="NETWORK_NAME">%1$s</xliff:g> şəbəkəsindən ayrılır..."</item>
+    <item msgid="3980154971187953257">"Əlaqə kəsildi"</item>
+    <item msgid="2847316776634969068">"Uğursuz"</item>
+    <item msgid="4390990424746035383">"Bloklanmış"</item>
+    <item msgid="3618248791367063949">"Zəif bağlantı müvəqqəti aradan qaldırılır"</item>
+  </string-array>
+    <!-- no translation found for wifi_tether_security:0 (5586343370515598801) -->
+    <!-- no translation found for wifi_tether_security:1 (6136336549994615745) -->
+  <string-array name="wifi_p2p_wps_setup">
+    <item msgid="5390235347963255303">"Düyməsinə basın"</item>
+    <item msgid="7401896200768713930">"Eynisəviyyəli cihazdan PIN"</item>
+    <item msgid="4526848028011846710">"Bu cihazdan PIN"</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item msgid="8741947238021758201">"Qoşuldu"</item>
+    <item msgid="983792611851499732">"Dəvət edilib"</item>
+    <item msgid="5438273405428201793">"Uğursuz"</item>
+    <item msgid="4646663015449312554">"Əlçatandır"</item>
+    <item msgid="3230556734162006146">"Diapazondan kənar"</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item msgid="8247986727324120082">"2 dəqiqə"</item>
+    <item msgid="2759776603549270587">"5 dəqiqə"</item>
+    <item msgid="167772676068860015">"1 saat"</item>
+    <item msgid="5985477119043628504">"Heç vaxt taym aut olmasın"</item>
+  </string-array>
+    <!-- no translation found for bluetooth_max_connected_audio_devices:2 (5318020123964299318) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:3 (6429260054182662738) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:4 (1644506614010085798) -->
+    <!-- no translation found for wifi_signal:0 (1709949377823900951) -->
+  <string-array name="data_usage_data_range">
+    <item msgid="8986775481492954015">"Son 30 gün"</item>
+    <item msgid="3211287705232736964">"İstifadə siklini əldə edin..."</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item msgid="1266031014388516303">"İstifadə müddəti"</item>
+    <item msgid="2784401352592276015">"Son istifadə vaxtı"</item>
+    <item msgid="249854287216326349">"Tətbiq adı"</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item msgid="5538816743897530343">"PEAP"</item>
+    <item msgid="336771389015263226">"TLS"</item>
+    <item msgid="2124951724092063376">"TTLS"</item>
+    <item msgid="7427377376024106344">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="8934819312374410084">"Heç biri"</item>
+    <item msgid="8655686691660180616">"MSCHAPV2"</item>
+    <item msgid="1354245862267605928">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:0 (7122038588318037831) -->
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:2 (6333849991499980140) -->
+  <string-array name="wifi_phase2_entries">
+    <item msgid="5865367433072785952">"Heç biri"</item>
+    <item msgid="7901133332272818442">"PAP"</item>
+    <item msgid="8549879045980332977">"MSCHAP"</item>
+    <item msgid="7330627471456865502">"MSCHAPV2"</item>
+    <item msgid="6255179395132581882">"GTC"</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item msgid="2717196390555072244">"DHCP"</item>
+    <item msgid="4377002609760712163">"Statik"</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item msgid="9032900195127165132">"Heç biri"</item>
+    <item msgid="1464741437353223198">"Dərslik"</item>
+    <item msgid="5793600062487886090">"Proksi Avto-Konfiq"</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item msgid="7099647881902405997">"Heç biri"</item>
+    <item msgid="1950796738039490374">"PAP"</item>
+    <item msgid="8166687999538788787">"CHAP"</item>
+    <item msgid="1276004657191968988">"PAP və ya CHAP"</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item msgid="4179023087537182757">"IPv4"</item>
+    <item msgid="9148582221081416020">"IPv6"</item>
+    <item msgid="4094895508821270572">"IPv4/IPv6"</item>
+  </string-array>
+    <!-- no translation found for bearer_entries:1 (2740477081395679090) -->
+    <!-- no translation found for mvno_type_entries:0 (6984770764726663331) -->
+    <!-- no translation found for mvno_type_entries:2 (7556656048009090524) -->
+  <string-array name="app_install_location_entries">
+    <item msgid="6621866711026016227">"Cihazın daxili yaddaşı"</item>
+    <item msgid="3186681694079967527">"Çıxarılabilən SD card"</item>
+    <item msgid="6902033473986647035">"Sistem qərar versin"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="1102693344156734891">"Yer"</item>
+    <item msgid="6842381562497597649">"Şəxsi"</item>
+    <item msgid="3966700236695683444">"Mesajlaşma"</item>
+    <item msgid="8563996233342430477">"Media"</item>
+    <item msgid="5323851085993963783">"Cihaz"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="2585253854462134715">"təxmini yerləşmə"</item>
+    <item msgid="1830619568689922920">"yaxşı yer"</item>
+    <item msgid="3317274469481923141">"GPS"</item>
+    <item msgid="8931785990160383356">"vibrasiya"</item>
+    <item msgid="8632513128515114092">"kontaktları oxuyun"</item>
+    <item msgid="3741042113569620272">"kontaktları dəyişin"</item>
+    <item msgid="4204420969709009931">"zəng jurnalı oxuyun"</item>
+    <item msgid="2260380357119423209">"zəng jurnalına dəyişiklik edin"</item>
+    <item msgid="6550710385014530934">"təqvimi oxuyun"</item>
+    <item msgid="3575906174264853951">"təqvimə dəyişiklik edin"</item>
+    <item msgid="4319843242568057174">"wi-fi skan"</item>
+    <item msgid="2981791890467303819">"bildiriş"</item>
+    <item msgid="6617825156152476692">"mobil skan"</item>
+    <item msgid="8865260890611559753">"Telefona zəng edin"</item>
+    <item msgid="3254999273961542982">"SMS oxuyun"</item>
+    <item msgid="7711446453028825171">"SMS yazın"</item>
+    <item msgid="6123238544099198034">"SMS alın"</item>
+    <item msgid="838342167431596036">"təcili SMS alın"</item>
+    <item msgid="8554432731560956686">"MMS alın"</item>
+    <item msgid="7464863464299515059">"WAP push əldə edin"</item>
+    <item msgid="310463075729606765">"SMS göndərin"</item>
+    <item msgid="7338021933527689514">"ICC SMS oxuyun"</item>
+    <item msgid="6130369335466613036">"ICC SMS yazın"</item>
+    <item msgid="6536865581421670942">"ayarları dəyişin"</item>
+    <item msgid="4547203129183558973">"yuxarıda çəkin"</item>
+    <item msgid="9080347512916542840">"giriş bildirişi"</item>
+    <item msgid="5332718516635907742">"kamera"</item>
+    <item msgid="6098422447246167852">"audio qeydəalın"</item>
+    <item msgid="9182794235292595296">"audio oxudun"</item>
+    <item msgid="8760743229597702019">"panonu oxuyun"</item>
+    <item msgid="2266923698240538544">"panoda dəyişiklik edin"</item>
+    <item msgid="1801619438618539275">"media düymələri"</item>
+    <item msgid="31588119965784465">"audio fokus"</item>
+    <item msgid="7565226799008076833">"master həcmi"</item>
+    <item msgid="5420704980305018295">"səs həcmi"</item>
+    <item msgid="5797363115508970204">"zəng həcmi"</item>
+    <item msgid="8233154098550715999">"media həcmi"</item>
+    <item msgid="5196715605078153950">"siqnal səsi"</item>
+    <item msgid="394030698764284577">"bildiriş həcmi"</item>
+    <item msgid="8952898972491680178">"bluetooth həcmi"</item>
+    <item msgid="8506227454543690851">"oyaq saxla"</item>
+    <item msgid="1108160036049727420">"məkanı monitor edin"</item>
+    <item msgid="1496205959751719491">"yüksək enerji məkanına nəzarət"</item>
+    <item msgid="3776296279910987380">"istifadə statistikası əldə edin"</item>
+    <item msgid="8827100324471975602">"mikrofonu susdurun/susdurmayın"</item>
+    <item msgid="6880736730520126864">"tostu göstərin"</item>
+    <item msgid="4933375960222609935">"layihə mediası"</item>
+    <item msgid="8357907018938895462">"VPN aktivləşdirin"</item>
+    <item msgid="8143812849911310973">"yazı divar kağızı"</item>
+    <item msgid="6266277260961066535">"köməkçi struktur"</item>
+    <item msgid="7715498149883482300">"köməkçi skrinşot"</item>
+    <item msgid="4046679376726313293">"telefon statusunu oxuyun"</item>
+    <item msgid="6329507266039719587">"Səsli məktub əlavə edin"</item>
+    <item msgid="7692440726415391408">"sip istifadə edin"</item>
+    <item msgid="8572453398128326267">"gedən zəngi idarə edin"</item>
+    <item msgid="7775674394089376306">"barmaq izi"</item>
+    <item msgid="3182815133441738779">"bədən sensorları"</item>
+    <item msgid="2793100005496829513">"şəbəkə yayımlarını oxuyun"</item>
+    <item msgid="2633626056029384366">"sınaq yeri"</item>
+    <item msgid="8356842191824684631">"yaddaşı oxuyun"</item>
+    <item msgid="5671906070163291500">"yaddaşı yazın"</item>
+    <item msgid="2791955098549340418">"ekranı yandırın"</item>
+    <item msgid="5599435119609178367">"hesabları əldə edin"</item>
+    <item msgid="1165623660533024666">"arka fonda işləyir"</item>
+    <item msgid="6423861043647911030">"əlçatımlılıq dərəcəsi"</item>
+  </string-array>
+    <!-- no translation found for app_ops_labels:41 (2464189519136248621) -->
+  <string-array name="long_press_timeout_selector_titles">
+    <item msgid="8950313530602254787">"Qısa"</item>
+    <item msgid="4816511817309094890">"Orta"</item>
+    <item msgid="8305084671259331134">"Uzun"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="6928465258504250174">"Defolt"</item>
+    <item msgid="4147246073737933622">"Sans-serif"</item>
+    <item msgid="3117680749167407907">"Sans-serif qatılaşmış"</item>
+    <item msgid="6529379119163117545">"Sans-serif monospace"</item>
+    <item msgid="1487203730637617924">"Serif"</item>
+    <item msgid="4937790671987480464">"Serif monospace"</item>
+    <item msgid="4448481989108928248">"Gündəlik"</item>
+    <item msgid="4627069151979553527">"Kursiv"</item>
+    <item msgid="6896773537705206194">"Kiçik böyüklər"</item>
+  </string-array>
+    <!-- no translation found for captioning_font_size_selector_titles:1 (5091603983404027034) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (176844712416932112) -->
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="3865198759294188069">"Defolt"</item>
+    <item msgid="6488643537808152001">"Heç biri"</item>
+    <item msgid="552332815156010137">"Kontur"</item>
+    <item msgid="7187891159463789272">"Kölgə salın"</item>
+    <item msgid="8019330250538856521">"Qaldırılmış"</item>
+    <item msgid="8987385315647049787">"Bunalımlı"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="313003243371588365">"25%"</item>
+    <item msgid="4665048002584838262">"50%"</item>
+    <item msgid="1874668269931014581">"75%"</item>
+    <item msgid="6462911487571123954">"100%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="326819345272910536">"Tətbiq defoltlarını istifadə edin"</item>
+    <item msgid="8611890312638868524">"Qara üstündə ağ"</item>
+    <item msgid="5891360837786277638">"Ağ üstündə qara"</item>
+    <item msgid="2798457065945456853">"Qara üstündə sarı"</item>
+    <item msgid="5799049811524553967">"Mavi üstündə sarı"</item>
+    <item msgid="3673930830658169860">"Fərdi"</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item msgid="6566768880689730097">"PPTP VPN"</item>
+    <item msgid="1349760781118368659">"Öncədən paylaşılmış açarlar ilə L2TP/IPSec VPN"</item>
+    <item msgid="6128519070545038358">"L2TP/IPSec VPN sertifikatlar"</item>
+    <item msgid="312397853907741968">"Öncədən paylaşılmış açarlar və Xauth identifikasiyasılı IPSec VPN"</item>
+    <item msgid="3319427315593649917">"Sertifikat və Xauth autentifikasiyalı IPSec VPN"</item>
+    <item msgid="8258927774145391041">"IPSec VPN sertifikatlarla və hibrid identifikasiyaları ilə"</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item msgid="2958623927055120839">"Heç biri"</item>
+    <item msgid="1157046369795346308">"Dərslik"</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item msgid="5408915841694583740">"Əlaqə kəsildi"</item>
+    <item msgid="8754480102834556765">"Başladılır..."</item>
+    <item msgid="3351334355574270250">"Qoşulur..."</item>
+    <item msgid="8303882153995748352">"Qoşuldu"</item>
+    <item msgid="9135049670787351881">"Zaman aşımı"</item>
+    <item msgid="2124868417182583926">"Uğursuz"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="1164265643455394443">"Soruş"</item>
+    <item msgid="7718817231348607934">"Heç vaxt icazə verməyin"</item>
+    <item msgid="8184570120217958741">"Həmişə icazə verin"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (708247372474061274) -->
+    <!-- no translation found for ram_states:4 (1567326459340152525) -->
+    <!-- no translation found for proc_stats_memory_states:3 (8577246509202964244) -->
+  <string-array name="proc_stats_process_states">
+    <item msgid="7560955722349181440">"Davamlı"</item>
+    <item msgid="167418068739176448">"Top fəaliyyət"</item>
+    <item msgid="4760813290195199773">"Önəmli (ön plan)"</item>
+    <item msgid="2328684826817647595">"Önəmli (arxa plan)"</item>
+    <item msgid="7746406490652867365">"Yedək"</item>
+    <item msgid="5597404364389196754">"Ağır çəki"</item>
+    <item msgid="1290888779300174556">"Xidmət (aktivdir)"</item>
+    <item msgid="7241098542073939046">"Xidmət (yenidən başlanır)"</item>
+    <item msgid="6610439017684111046">"Qəbuledici"</item>
+    <item msgid="7367606086319921117">"Əsas səhifə"</item>
+    <item msgid="3344660712396741826">"Son fəaliyyət"</item>
+    <item msgid="5006559348883303865">"Keşlənmiş (fəaliyyət)"</item>
+    <item msgid="8633480732468137525">"Keşlənmiş (fəaliyyət klienti)"</item>
+    <item msgid="6248998242443333892">"Keşlənmiş (boş)"</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item msgid="3151827842194201728">"Firuzəyi"</item>
+    <item msgid="3228505970082457852">"Göy"</item>
+    <item msgid="6590260735734795647">"İndiqo"</item>
+    <item msgid="3521763377357218577">"Bənövşəyi"</item>
+    <item msgid="5932337981182999919">"Çəhrayı"</item>
+    <item msgid="5642914536624000094">"Qırmızı"</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item msgid="2860293514533486236">"30 gündən köhnədir"</item>
+    <item msgid="8699273238891265610">"60 gündən köhnədir"</item>
+    <item msgid="8346279419423837266">"90 gündən köhnədir"</item>
+  </string-array>
+    <!-- no translation found for swipe_direction_titles:0 (6583090603341402282) -->
+    <!-- no translation found for swipe_direction_titles:1 (4965730704403236310) -->
+  <string-array name="swipe_direction_values">
+    <item msgid="5298569105095026382">"1"</item>
+    <item msgid="3118234477029486741">"0"</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item msgid="4329206416008519163">"Avtomatik silin"</item>
+    <item msgid="773943026484148895">"Limitli olaraq qəbul edin"</item>
+    <item msgid="1008268820118852416">"Limitisiz olaraq qəbul edin"</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item msgid="6545683814310036454">"İxtiyari MAC (defolt) istifadə edin"</item>
+    <item msgid="214234417308375326">"MAC cihazından istifadə edin"</item>
+  </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item msgid="7426878022650940844">"Xeyr"</item>
+    <item msgid="1930581185557754880">"Bəli"</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item msgid="699295711155561081">"Tünd"</item>
+    <item msgid="5079453644557603349">"İşıq"</item>
+  </string-array>
+  <string-array name="autofill_logging_level_entries">
+    <item msgid="6882729786516723474">"Deaktiv"</item>
+    <item msgid="4072198137051566919">"Sazlama"</item>
+    <item msgid="2473005316958868509">"Verbose"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="8444727359525554695">"Yalnız daxili"</item>
+    <item msgid="1161026694891024702">"Avtomatik"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="1823884522189328861">"GSM/WCDMA seçilib"</item>
+    <item msgid="7581481130337402578">"Yalnız GSM"</item>
+    <item msgid="8579197487913425819">"Yalnız WCDMA"</item>
+    <item msgid="8465243227505412498">"GSM/WCDMA avtomatik"</item>
+    <item msgid="9107479914166352132">"CDMA/EvDo avtomatik"</item>
+    <item msgid="4219607161971472471">"CDMA w/o EvDo"</item>
+    <item msgid="7278975240951052041">"Yalnız EvDo"</item>
+    <item msgid="2295969832276827854">"CDMA/EvDo/GSM/WCDMA"</item>
+    <item msgid="9059227943989034424">"CDMA + LTE/EvDo"</item>
+    <item msgid="463168068025354541">"GSM/WCDMA/LTE"</item>
+    <item msgid="1770755308983338311">"Qlobal"</item>
+    <item msgid="5713723042183940349">"LTE"</item>
+    <item msgid="8600184258612405670">"LTE / WCDMA"</item>
+    <item msgid="5638632460322750180">"Yalnız TDSCDMA"</item>
+    <item msgid="4346392996298714633">"TDSCDMA/WCDMA"</item>
+    <item msgid="5004811216708487615">"LTE/TDSCDMA"</item>
+    <item msgid="9191730167201068525">"TDSCDMA/GSM"</item>
+    <item msgid="5874623229495009031">"LTE/TDSCDMA/GSM"</item>
+    <item msgid="5096480046347789213">"TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2075445917638134012">"LTE/TDSCDMA/WCDMA"</item>
+    <item msgid="3353351554070857366">"LTE/TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2067289929099567494">"TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+    <item msgid="4959483620561891661">"LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item msgid="7691437408632563841">"RUIM/SIM"</item>
+    <item msgid="6219184455685527822">"NV"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item msgid="5675987537637081766">"Qlobal"</item>
+    <item msgid="7893851358184700811">"LTE / CDMA"</item>
+    <item msgid="1779116915491192719">"LTE / GSM / UMTS"</item>
+  </string-array>
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:0 (4760531919194480665) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:1 (7912365765185450743) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:2 (2104740586531949003) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:0 (852926015619722843) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:1 (3792510685855718883) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:2 (1377977453734193662) -->
+</resources>

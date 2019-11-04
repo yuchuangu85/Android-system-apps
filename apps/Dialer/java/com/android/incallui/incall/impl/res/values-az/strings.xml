@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Video zəng</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Xətdə axlayın</string>
+  <string name="incall_label_add_call">Zəng əlavə edin</string>
+  <string name="incall_label_mute">Susdurun</string>
+  <string name="incall_label_end_call">Zəngi bitirin</string>
+  <string name="incall_label_dialpad">Klaviatura</string>
+  <string name="incall_talkback_speaker_on">, aktivdir</string>
+  <string name="incall_talkback_speaker_off">, deaktivdir</string>
+  <string name="incall_label_merge">Birləşdir</string>
+  <string name="incall_label_manage">İdarə edin</string>
+  <string name="a11y_description_incall_label_manage_content">Zəng edənləri idarə edin</string>
+  <string name="incall_label_swap">Dəyişdirin</string>
+  <string name="incall_label_swap_sim">SIM-i dəyişin</string>
+  <string name="incall_note_sent">Qeyd göndərildi</string>
+</resources>

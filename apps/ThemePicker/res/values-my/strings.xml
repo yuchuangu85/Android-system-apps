@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"ပုံစံနှင့် နောက်ခံပုံများ"</string>
+    <string name="theme_title" msgid="2144932106319405101">"ပုံစံ"</string>
+    <string name="clock_title" msgid="2126046720254613991">"နာရီ"</string>
+    <string name="grid_title" msgid="2825094404523390773">"ဇယားကွက်"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"နောက်ခံ"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"အသုံးပြုရန်"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"တည်းဖြတ်ရန် တို့ပါ"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"လက်ရှိနောက်ခံပုံ ဆက်ထားရန်"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"အသုံးပြုရန်"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"စာမျက်နှာ <xliff:g id="ID_2">%2$d</xliff:g> မျက်နှာအနက် <xliff:g id="ID_1">%1$d</xliff:g> မျက်နှာ"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"ရှေ့သို့"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"ယခင်"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g> ကို လက်ရှိအသုံးပြုထားသည်"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g>၊ လက်ရှိ အသုံးပြုပြီး အစမ်းကြည့်ထားသည်"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g>၊ လက်ရှိ အစမ်းကြည့်ထားသည်"</string>
+    <string name="theme_description" msgid="3697012391785254635">"ဖောင့်- <xliff:g id="ID_1">%1$s</xliff:g>၊ သင်္ကေတများ- <xliff:g id="ID_2">%2$s</xliff:g>၊ ပုံသဏ္ဌာန်- <xliff:g id="ID_3">%3$s</xliff:g>၊ အရောင်- <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"မူရင်း"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"ဖောင့်"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"သင်္ကေတ"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"အရောင်"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"ပုံသဏ္ဌာန်"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"နောက်ခံ"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • ၁၂၃"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"မျက်နှာပြင်တိုင်းတွင် သင့်အကြိုက်ဆုံး ဖောင့်များ ထည့်ရန်"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"ပုံစံ အသုံပြုထားပါသည်"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"နာရီကို အသုံးပြုထားသည်"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"ဤပုံစံ အသုံးပြုရာတွင် ပြဿနာရှိသည်"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"ရှေ့သို့"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"ယခင်"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"စိတ်ကြိုက် <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"စိတ်ကြိုက် ပုံစံ"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"ဖျက်ရန်"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"ဖောင့်ရွေးပါ"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"သင်္ကေတများ ရွေးပါ"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"အရောင်ရွေးပါ"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"ပုံသဏ္ဌာန် ရွေးပါ"</string>
+    <string name="name_component_title" msgid="532425087968663437">"သင့်ပုံစံကို အမည်ပေးခြင်း"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"သင်္ကေတများ <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"\'စိတ်ကြိုက်\' အပြင်အဆင်ကို ဖျက်လိုသလား။"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"ဖျက်ရန်"</string>
+    <string name="cancel" msgid="4651030493668562067">"မလုပ်တော့"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"အပြင်အဆင်ဆိုင်ရာ နောက်ခံပုံ သတ်မှတ်ပါ"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"၎င်းအစား <xliff:g id="ID_1">%1$s</xliff:g> ကို သုံးမလား။"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"သင်ရွေးချယ်ထားသော အစိတ်အပိုင်းများသည် <xliff:g id="ID_1">%1$s</xliff:g> ပုံစံနှင့် ကိုက်ညီသည်။ ၎င်းအစား <xliff:g id="ID_2">%1$s</xliff:g> ကို သုံးလိုသလား။"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"<xliff:g id="ID_1">%1$s</xliff:g> သုံးရန်"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"မလိုပါ"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"<xliff:g id="ID_1">%1$s</xliff:g> နာရီ အစမ်းကြည့်ခြင်း"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"သည်းခံပါ။ တစ်ခုခု မှားသွားသည်။"</string>
+</resources>

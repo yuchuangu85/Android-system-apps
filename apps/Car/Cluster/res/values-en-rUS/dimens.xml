@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--                                   -->
+    <!-- Sensor value conversion constants -->
+    <!--                                   -->
+    <!-- Speed: meters per second to miles per hour -->
+    <item name="speed_factor" format="float" type="dimen">2.236936</item>
+    <!-- Distance: miles to meters -->
+    <item name="distance_factor" format="float" type="dimen">1609.344</item>
+</resources>

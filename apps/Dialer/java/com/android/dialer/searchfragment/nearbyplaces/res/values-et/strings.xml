@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Lähedalasuvad kohad</string>
+  <string name="search_location_permission">Teie läheduses olevate kohtade kohta kontaktteabe saamiseks andke juurdepääs oma asukohale.</string>
+  <string name="nearby_places_allow">Luba</string>
+  <string name="nearby_places_dismiss">Loobu</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">புதியது</string>
+  <string name="dialer_shortcut_add_contact_long">புதிய தொடர்பு</string>
+  <string name="dialer_shortcut_disabled_message">குறுக்குவழி வேலை இயங்கவில்லை. அகற்ற, இழுக்கவும்.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">தொடர்பு இல்லை.</string>
+  <string name="dialer_shortcut_no_permissions">அனுமதிகள் இல்லாமல் அழைக்க முடியாது.</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">%s வழியாக அழைக்கிறது</string>
+  <string name="incall_calling_on_same_carrier_template">%s (அதே தொலைத்தொடர்பு நிறுவனம்) இல் அழைக்கிறது</string>
+  <string name="incall_calling_on_recent_choice_template">%s (சமீபத்தில் தேர்வுசெய்த கேரியர்) இல் அழைக்கிறது</string>
+  <string name="incall_connecting">அழைக்கிறது…</string>
+  <string name="incall_connecting_assited_dialed">+%1$s (%2$s)ஐப் பயன்படுத்தி அழைக்கிறது…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) என்ற நாட்டின் குறியீட்டைப் பயன்படுத்துகிறது…</string>
+  <string name="incall_transferring">இடமாற்றுகிறது…</string>
+  <string name="incall_video_call_requesting">தொலைத்தொடர்பு நிறுவன வீடியோ அழைப்பு…</string>
+  <string name="incall_wifi_video_call_requesting">வைஃபையில் தொலைத்தொடர்பு வீடியோ அழைப்பு…</string>
+  <string name="incall_video_call_upgrade_request">தொலைத்தொடர்பு நிறுவன வீடியோவிற்கு மாறுகிறது…</string>
+  <string name="incall_video_call_request_failed">இணைக்க முடியவில்லை</string>
+  <string name="incall_video_call_request_rejected">அழைப்பு நிராகரிக்கப்பட்டது</string>
+  <string name="incall_video_call_request_timed_out">அழைப்பின் நேரம் முடிந்தது</string>
+  <string name="incall_hanging_up">துண்டிக்கிறது</string>
+  <string name="incall_call_ended">அழைப்பு முடிந்தது</string>
+  <string name="incall_remotely_held">ஹோல்டில் உள்ளது</string>
+  <string name="contact_grid_incoming_video_call">இவரிடமிருந்து தொலைத்தொடர்பு நிறுவன வீடியோ அழைப்பு</string>
+  <string name="contact_grid_incoming_wifi_video_call">இவரிடமிருந்து வைஃபையில் தொலைத்தொடர்பு வீடியோ அழைப்பு</string>
+  <string name="contact_grid_incoming_voice_call">அழைப்பு:</string>
+  <string name="contact_grid_incoming_work_call">அழைப்பு (பணி) :</string>
+  <string name="contact_grid_incoming_via_template">%s மூலம் உள்வரும் அழைப்பு</string>
+  <string name="contact_grid_incoming_suspected_spam">சந்தேகத்திற்குரிய ஸ்பேம் அழைப்பாளர்</string>
+  <string name="contact_grid_callback_number">இந்த ஃபோனின் எண்: %1$s</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">नम्बर छान्नुहोस्</string>
+  <string name="call_disambig_title">नम्बर छान्नुहोस्</string>
+  <string name="make_primary">यो छनौट याद राख्नुहोस्</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Birta alltaf viðvörun</string>
+  <string name="details">Þú ert að hringja í erlent númer og gjöld kunna að eiga við.</string>
+</resources>

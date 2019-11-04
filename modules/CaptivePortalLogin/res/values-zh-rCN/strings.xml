@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"直接使用此网络"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"不要使用此网络"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"登录到网络"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"登录%1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"您尝试加入的网络存在安全问题。"</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"例如，登录页面可能并不属于页面上显示的单位。"</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"仍然通过浏览器继续操作"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"该证书并非来自可信的授权中心。"</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"网站的名称与证书上的名称不一致。"</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"该证书已过期。"</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"该证书尚未生效。"</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"该证书的日期无效。"</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"该证书无效。"</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"未知证书错误。"</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"安全警告"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"查看证书"</string>
+    <string name="ok" msgid="6584612582120777209">"确定"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"地址："</string>
+    <string name="page_info" msgid="46593086046896385">"页面信息"</string>
+</resources>

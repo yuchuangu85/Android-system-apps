@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videopuhelu</string>
+  <string name="incall_label_rttcall">Puhelusta lähetettävä teksti</string>
+  <string name="incall_label_hold">Pitoon</string>
+  <string name="incall_label_add_call">Lisää puhelu</string>
+  <string name="incall_label_mute">Mykistä</string>
+  <string name="incall_label_end_call">Päätä puhelu</string>
+  <string name="incall_label_dialpad">Näppäimistö</string>
+  <string name="incall_talkback_speaker_on">, käytössä</string>
+  <string name="incall_talkback_speaker_off">, ei käytössä</string>
+  <string name="incall_label_merge">Yhdistä</string>
+  <string name="incall_label_manage">Hallinnoi</string>
+  <string name="a11y_description_incall_label_manage_content">Hallinnoi soittajia</string>
+  <string name="incall_label_swap">Vaihda</string>
+  <string name="incall_label_swap_sim">Vaihda SIM</string>
+  <string name="incall_note_sent">Muistiinpano lähetettiin.</string>
+</resources>

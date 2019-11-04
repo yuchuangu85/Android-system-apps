@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">సమీప స్థలాలు</string>
+  <string name="search_location_permission">మీ సమీపంలోని స్థలాల యొక్క సంప్రదింపు సమాచారం పొందడానికి, మీ స్థానానికి యాక్సెస్‌ను అనుమతించండి.</string>
+  <string name="nearby_places_allow">అనుమతించు</string>
+  <string name="nearby_places_dismiss">విస్మరించు</string>
+</resources>

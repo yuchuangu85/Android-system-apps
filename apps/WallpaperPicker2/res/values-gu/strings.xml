@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"વૉલપેપર"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"વૉલપેપરની કૅટેગરી"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"વૉલપેપર સેટ કરો"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"વૉલપેપર સેટ કરી રહ્યાં છીએ…"</string>
+    <string name="try_again" msgid="8278874823700921234">"ફરી પ્રયાસ કરો"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"વૉલપેપર સેટ કરવામાં અસમર્થ છીએ."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"વૉલપેપર લોડ કરવામાં અસમર્થ છીએ. છબી કાં તો દૂષિત છે અથવા તો અનુપલબ્ધ છે."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"સેટ કરેલું વૉલપેપર"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"દૈનિક વૉલપેપર"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"હોમ અને લૉક સ્ક્રીન"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"હોમ સ્ક્રીન"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"લૉક સ્ક્રીન"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"હોમ અને લૉક"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"વૉલપેપર સેટ કરો"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"હોમ સ્ક્રીન"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"લૉક સ્ક્રીન"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"હોમ સ્ક્રીન અને લૉક સ્ક્રીન"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"સતત બદલાતા રહેતા છબી વૉલપેપર"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"વર્તમાન વૉલપેપરને અહીં પ્રદર્શિત કરવા માટે, <xliff:g id="APP_NAME">%1$s</xliff:g>ને તમારા ઉપકરણના સ્ટોરેજનો ઍક્સેસ જરૂરી છે."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"વર્તમાન વૉલપેપરને અહીં પ્રદર્શિત કરવા માટે, વૉલપેપરને તમારા ઉપકરણના સ્ટોરેજનો ઍક્સેસ જરૂરી છે.\n\nઆ સેટિંગ બદલવા માટે, વૉલપેપર ઍપની માહિતીના પરવાનગીઓ વિભાગમાં જાઓ."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"ઍક્સેસની મંજૂરી આપો"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"સતત બદલાતા રહેતા વૉલપેપર માટે લાઇવ વૉલપેપર સેવા"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"દૈનિક વૉલપેપર"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"ચાલુ કરવા માટે ટૅપ કરો"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"વૉલપેપર દરરોજ આપમેળે બદલાશે. સેટઅપ પૂર્ણ કરવા માટે, આગલી સ્ક્રીન પર &lt;strong&gt;વૉલપેપર સેટ કરો&lt;/strong&gt; પર ટૅપ કરો."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"ભવિષ્યમાં માત્ર વાઇ-ફાઇ પર વૉલપેપર ડાઉનલોડ કરજો"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"આગળ વધો"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"પ્રથમ વૉલપેપર ડાઉનલોડ કરી રહ્યાં છીએ…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"પ્રથમ વૉલપેપર ડાઉનલોડ કરવામાં અસમર્થ રહ્યાં. કૃપા કરીને તમારી નેટવર્ક સેટિંગ ચેક કરો અને ફરી પ્રયાસ કરો."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"વૉલપેપર દરરોજ આપમેળે બદલાશે"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"સેટિંગ"</string>
+    <string name="explore" msgid="7468719504199497281">"શોધખોળ કરો"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"આગલું વૉલપેપર"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"આ ઉપકરણ પર વૉલપેપર સેટ કરવાની સુવિધા બંધ કરવામાં આવી છે"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"તમારા ઉપકરણ વ્યવસ્થાપકે વૉલપેપર સેટ કરવાની સુવિધા બંધ કરી છે"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"વૉલપેપર સફળતાપૂર્વક સેટ કર્યું"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"વૉલપેપર જોવા માટે તમારે ઇન્ટરનેટ કનેક્શન જરૂરી છે. કૃપા કરીને કનેક્ટ કરો અને ફરી પ્રયાસ કરો."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"હોમ સ્ક્રીન વૉલપેપરની વર્તમાનમાં સેટ થંબનેલ"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"લૉક સ્ક્રીન વૉલપેપરની વર્તમાનમાં સેટ થંબનેલ"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"વૉલપેપરની વર્તમાનમાં સેટ થંબનેલ"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"વૉલપેપરની થંબનેલ"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"હોમ સ્ક્રીન વૉલપેપર માટે શોધખોળ કરો"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"લૉક સ્ક્રીન વૉલપેપર માટે શોધખોળ કરો"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"દૈનિક હોમ સ્ક્રીન વૉલપેપર રિફ્રેશ કરો"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"દૈનિક વૉલપેપર રિફ્રેશ કરો"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"દૈનિક વૉલપેપર રિફ્રેશ કરી રહ્યાં છીએ…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"દૈનિક વૉલપેપર રિફ્રેશ કરવામાં નિષ્ફળ રહ્યાં. કૃપા કરીને તમારું નેટવર્ક કનેક્શન ચેક કરો અને ફરી પ્રયાસ કરો."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"વૉલપેપર માહિતી પૅનલ સંકુચિત કરો"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"વૉલપેપર માહિતી પૅનલ વિસ્તૃત કરો"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"ઉપકરણ પરના વૉલપેપર"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"ઉપકરણ પર"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Android વૉલપેપર"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"લાઇવ વૉલપેપર"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"મારા ફોટા"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"મારો ફોટો"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"વૉલપેપર"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"ઍપ ઇન્સ્ટૉલ કરવામાં આવી નથી."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"મધ્ય"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"મધ્યમાંથી કાપેલ"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"ખેંચેલ"</string>
+    <string name="preview" msgid="1774602101743861071">"પ્રીવ્યૂ કરો"</string>
+</resources>

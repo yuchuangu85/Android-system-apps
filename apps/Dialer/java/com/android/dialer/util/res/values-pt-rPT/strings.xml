@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Som predefinido (%1$s)</string>
+  <string name="ringtone_silent">Nenhum</string>
+  <string name="ringtone_unknown">Toque desconhecido</string>
+  <string name="activity_not_available">Não existe nenhuma aplicação para isso neste dispositivo</string>
+  <string name="outgoing_wps_warning">Efetuar uma chamada WPS irá desligar a sua chamada atual.</string>
+  <string name="dialog_continue">Continuar</string>
+  <string name="camera_privacy_text">Autorização da câmara ativada</string>
+</resources>

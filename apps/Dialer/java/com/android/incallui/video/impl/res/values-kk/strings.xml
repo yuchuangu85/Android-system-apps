@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Олардың бейнесі өшірулі</string>
+  <string name="videocall_remote_video_on">Олардың бейне құралы қосулы</string>
+  <string name="videocall_remotely_held">Қоңырау күту күйінде</string>
+  <string name="videocall_remotely_resumed">Қоңырауды жалғастырды</string>
+  <string name="videocall_charges_alert_dialog_description">Ұялы желі арқылы шалынған бейне қоңыраулар ұялы және дауыс минуттарының екеуін де пайдаланады. Ақы алынуы мүмкін.</string>
+  <string name="do_not_show_again">Қайта көрсету қажет емес</string>
+</resources>

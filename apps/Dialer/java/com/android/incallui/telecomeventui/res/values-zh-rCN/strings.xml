@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">每次都显示警告</string>
+  <string name="details">您要拨打的是国际电话，可能需要支付国际通话费用。</string>
+</resources>

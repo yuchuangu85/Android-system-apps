@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="sms_disambig_title">எண்ணைத் தேர்வுசெய்யவும்</string>
+  <string name="call_disambig_title">எண்ணைத் தேர்வுசெய்யவும்</string>
+  <string name="make_primary">இந்த விருப்பத்தை நினைவில்கொள்</string>
+</resources>

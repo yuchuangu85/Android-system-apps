@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Стандартен звук (%1$s)</string>
+  <string name="ringtone_silent">Без</string>
+  <string name="ringtone_unknown">Неизвестна мелодия</string>
+  <string name="activity_not_available">На устройството няма приложение за това действие</string>
+  <string name="outgoing_wps_warning">Ако извършите обаждане през WPS, текущото ви обаждане ще бъде прекъснато.</string>
+  <string name="dialog_continue">Напред</string>
+  <string name="camera_privacy_text">Активирано бе разрешението за камерата</string>
+</resources>

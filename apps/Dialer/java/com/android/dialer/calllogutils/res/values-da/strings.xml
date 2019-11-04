@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Indgående opkald</string>
+  <string name="type_incoming_pulled">Det indgående opkald blev viderestillet til en anden enhed</string>
+  <string name="type_outgoing">Udgående opkald</string>
+  <string name="type_outgoing_pulled">Det udgående opkald blev viderestillet til en anden enhed</string>
+  <string name="type_missed">Ubesvarede opkald</string>
+  <string name="type_incoming_video">Indgående videoopkald</string>
+  <string name="type_incoming_video_pulled">Det indgående videoopkald blev viderestillet til anden enhed</string>
+  <string name="type_outgoing_video">Udgående videoopkald</string>
+  <string name="type_outgoing_video_pulled">Det udgående videoopkald blev viderestillet til anden enhed</string>
+  <string name="type_missed_video">Ubesvaret videoopkald</string>
+  <string name="type_voicemail">Telefonsvarer</string>
+  <string name="type_rejected">Afvist opkald</string>
+  <string name="type_blocked">Blokeret opkald</string>
+  <string name="call_details_minutes_abbreviation">min.</string>
+  <string name="call_details_seconds_abbreviation">sek.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekund</item>
+    <item quantity="other">sekunder</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minut</item>
+    <item quantity="other">minutter</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Opkaldet blev besvaret på en anden enhed</string>
+  <string name="description_phone_account">på ^1</string>
+  <string name="description_via_number">via %1$s</string>
+  <string name="description_via_number_phone_account">til %1$s, via %2$s</string>
+  <string name="voicemail_string">Telefonsvarer</string>
+  <string name="just_now">Lige nu</string>
+  <string name="new_call_log_carrier_video">Video via mobilselskab</string>
+  <string name="new_call_log_duo_video">Video via Duo</string>
+  <string name="new_call_log_unknown">Ukendt</string>
+  <string name="new_call_log_secondary_blocked">Blokeret</string>
+  <string name="new_call_log_secondary_spam">Spam</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 opkald, og det seneste er et ubesvaret opkald fra ^2</item>
+    <item quantity="other">^1 opkald, og det seneste er et ubesvaret opkald fra ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 opkald, og det seneste er et besvaret opkald fra ^2</item>
+    <item quantity="other">^1 opkald, og det seneste er et besvaret opkald fra ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 opkald, og det seneste er et udgået opkald til ^2</item>
+    <item quantity="other">^1 opkald, og det seneste er et udgået opkald til ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 opkald, og det seneste er et blokeret opkald fra ^2</item>
+    <item quantity="other">^1 opkald, og det seneste er et blokeret opkald fra ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">på ^1,
+    via ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

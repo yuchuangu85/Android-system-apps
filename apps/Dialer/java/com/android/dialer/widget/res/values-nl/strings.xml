@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Schrijf zelf een bericht</string>
+  <string name="toolbar_close">Sluiten</string>
+  <string name="all_contacts_empty">Je hebt nog geen contacten</string>
+  <string name="all_contacts_empty_add_contact_action">Nieuw contact maken</string>
+  <string name="permission_single_turn_on">Inschakelen</string>
+  <string name="permission_no_contacts">Als je je contacten wilt bekijken, schakel je de machtiging voor Contacten in.</string>
+  <string name="add_contact_not_available">Geen app voor contacten beschikbaar</string>
+</resources>

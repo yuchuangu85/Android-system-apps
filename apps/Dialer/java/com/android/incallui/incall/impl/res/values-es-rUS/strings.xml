@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Videollamada</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Retener</string>
+  <string name="incall_label_add_call">Agregar llamada</string>
+  <string name="incall_label_mute">Silenciar</string>
+  <string name="incall_label_end_call">Finalizar llamada</string>
+  <string name="incall_label_dialpad">Teclado</string>
+  <string name="incall_talkback_speaker_on">, activado</string>
+  <string name="incall_talkback_speaker_off">, desactivado</string>
+  <string name="incall_label_merge">Combinar</string>
+  <string name="incall_label_manage">Administrar</string>
+  <string name="a11y_description_incall_label_manage_content">Administrar números</string>
+  <string name="incall_label_swap">Cambiar</string>
+  <string name="incall_label_swap_sim">Cambiar SIM</string>
+  <string name="incall_note_sent">Se envió la nota</string>
+</resources>

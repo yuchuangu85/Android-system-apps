@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">שיחה נכנסת</string>
+  <string name="type_incoming_pulled">השיחה הנכנסת הועברה למכשיר אחר</string>
+  <string name="type_outgoing">שיחה יוצאת</string>
+  <string name="type_outgoing_pulled">השיחה היוצאת הועברה למכשיר אחר</string>
+  <string name="type_missed">שיחה שלא נענתה</string>
+  <string name="type_incoming_video">שיחת וידאו נכנסת</string>
+  <string name="type_incoming_video_pulled">שיחת הווידאו הנכנסת הועברה למכשיר אחר</string>
+  <string name="type_outgoing_video">שיחת וידאו יוצאת</string>
+  <string name="type_outgoing_video_pulled">שיחת הווידאו היוצאת הועברה למכשיר אחר</string>
+  <string name="type_missed_video">שיחת וידאו שלא נענתה</string>
+  <string name="type_voicemail">דואר קולי</string>
+  <string name="type_rejected">שיחה שנדחתה</string>
+  <string name="type_blocked">שיחה שנחסמה</string>
+  <string name="call_details_minutes_abbreviation">דק\'</string>
+  <string name="call_details_seconds_abbreviation">שנ\'</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">שנייה</item>
+    <item quantity="two">שניות</item>
+    <item quantity="many">שניות</item>
+    <item quantity="other">שניות</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">דקה</item>
+    <item quantity="two">דקות</item>
+    <item quantity="many">דקות</item>
+    <item quantity="other">דקות</item>
+  </plurals>
+  <string name="type_answered_elsewhere">השיחה נענתה במכשיר אחר</string>
+  <string name="description_phone_account">בחשבון ^1</string>
+  <string name="description_via_number">דרך %1$s</string>
+  <string name="description_via_number_phone_account">בחשבון %1$s, דרך %2$s</string>
+  <string name="voicemail_string">דואר קולי</string>
+  <string name="just_now">הרגע</string>
+  <string name="new_call_log_carrier_video">שיחות וידאו דרך הספק הסלולרי</string>
+  <string name="new_call_log_duo_video">‏שיחות וידאו דרך Duo</string>
+  <string name="new_call_log_unknown">לא ידוע</string>
+  <string name="new_call_log_secondary_blocked">חסום</string>
+  <string name="new_call_log_secondary_spam">ספאם</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">שיחה אחת (^1) לא נענתה. מקור השיחה: ^2</item>
+    <item quantity="two">^1 שיחות. השיחה האחרונה לא נענתה. מקור השיחה: ^2</item>
+    <item quantity="many">^1 שיחות. השיחה האחרונה לא נענתה. מקור השיחה: ^2</item>
+    <item quantity="other">^1 שיחות. השיחה האחרונה לא נענתה. מקור השיחה: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">שיחה אחת (^1) נענתה. מקור השיחה: ^2</item>
+    <item quantity="two">^1 שיחות. השיחה האחרונה נענתה. מקור השיחה: ^2</item>
+    <item quantity="many">^1 שיחות. השיחה האחרונה נענתה. מקור השיחה: ^2</item>
+    <item quantity="other">^1 שיחות. השיחה האחרונה נענתה. מקור השיחה: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">שיחה יוצאת אחת (^1). יעד השיחה: ^2</item>
+    <item quantity="two">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת. יעד השיחה: ^2</item>
+    <item quantity="many">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת. יעד השיחה: ^2</item>
+    <item quantity="other">^1 שיחות. השיחה האחרונה הייתה שיחה יוצאת. יעד השיחה: ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">שיחה אחת (^1) נחסמה. מקור השיחה: ^2</item>
+    <item quantity="two">^1 שיחות. השיחה האחרונה נחסמה. מקור השיחה: ^2</item>
+    <item quantity="many">^1 שיחות. השיחה האחרונה נחסמה. מקור השיחה: ^2</item>
+    <item quantity="other">^1 שיחות. השיחה האחרונה נחסמה. מקור השיחה: ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">בחשבון ^1,
+    דרך ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

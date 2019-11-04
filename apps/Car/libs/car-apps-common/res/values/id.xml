@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="imageDownloadTask"/>
+    <item type="id" name="car_tab_item_icon"/>
+    <item type="id" name="car_tab_item_text"/>
+</resources>

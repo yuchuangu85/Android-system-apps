@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">Μετάβαση πίσω</string>
+  <string name="description_dialpad_overflow">Περισσότερες επιλογές</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">πληκτρολόγηση συν</string>
+  <string name="description_voicemail_button">κλήση αυτόματου τηλεφωνητή</string>
+  <string name="description_dial_button">κλήση</string>
+  <string name="dialog_voicemail_airplane_mode_message">Για κλήση αυτόματου τηλεφωνητή, πρώτα απενεργοποιήστε τη λειτουργία πτήσης.</string>
+  <string name="dialog_voicemail_not_ready_message">Για τη ρύθμιση του αυτόματου τηλεφωνητή, μεταβείτε στο στοιχείο Μενού &gt; Ρυθμίσεις.</string>
+  <string name="add_2sec_pause">Προσθήκη παύσης 2 δευτερολέπτων</string>
+  <string name="add_wait">Προσθήκη αναμονής</string>
+  <string name="dialer_useDtmfDialpad">Χρησιμοποιήστε το πληκτρολόγιο αφής ηχητικών τόνων</string>
+  <string name="dialer_returnToInCallScreen">Επιστροφή στην κλήση που βρίσκεται σε εξέλιξη</string>
+  <string name="dialer_addAnotherCall">Προσθήκη κλήσης</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">Φόρτωση από κάρτα SIM…</string>
+  <string name="simContacts_title">Επαφές στην κάρτα SIM</string>
+  <string name="menu_callNumber">Κλήση %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">Δεν είναι δυνατές οι κλήσεις έκτακτης ανάγκης μέσω Wi‑Fi</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">Δεν μπορείτε να καλέσετε αυτόν τον αριθμό</string>
+</resources>

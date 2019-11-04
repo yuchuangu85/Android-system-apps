@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="post_call_message">Esan zergatik deitu duzun</string>
+  <string name="post_call_message_1">Dei iezadazu. Premiazkoa da.</string>
+  <string name="post_call_message_2">Dei iezadazu denbora duzunean.</string>
+  <string name="post_call_message_3">Geroago hitz egin dezakegu, ez da premiazkoa.</string>
+  <string name="post_call_add_message">Gehitu mezua</string>
+  <string name="post_call_send_message">Bidali mezua</string>
+  <string name="post_call_message_sent">Bidali da mezua</string>
+  <string name="view">Ikusi</string>
+</resources>

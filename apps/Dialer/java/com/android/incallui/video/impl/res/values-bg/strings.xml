@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Видеото отсреща е изкл.</string>
+  <string name="videocall_remote_video_on">Видеото на другия участник е включено</string>
+  <string name="videocall_remotely_held">Задържано обаждане</string>
+  <string name="videocall_remotely_resumed">Възобновено обажд.</string>
+  <string name="videocall_charges_alert_dialog_description">Видеообажданията през мобилната мрежа ще използват и данни, и минути за разговори. Може да бъдете таксувани.</string>
+  <string name="do_not_show_again">Да не се показва отново</string>
+</resources>

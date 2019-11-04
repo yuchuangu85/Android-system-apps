@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Σύρετε από το εικονίδιο προς τα έξω για απόρριψη του μηνύματος</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Σύρετε από το εικονίδιο προς τα έξω για απάντηση ως φωνητική κλήση</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Σύρετε προς τα επάνω για απάντηση και κράτηση της κλήσης σε εξέλιξη</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Σύρετε προς τα επάνω για απάντηση και τερματισμό της κλήσης σε εξέλιξη</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Σύρετε από το εικονίδιο προς τα έξω για απάντηση και τερματισμό της κλήσης σε εξέλιξη</string>
+  <string name="call_incoming_message_custom">Συντάξτε το δικό σας…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Συντάξτε το δικό σας…</string>
+  <string name="call_incoming_custom_message_cancel">Ακύρωση</string>
+  <string name="call_incoming_custom_message_send">Αποστολή</string>
+  <string name="a11y_incoming_call_reject_with_sms">Απόρριψη αυτής της κλήσης με μήνυμα</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Απάντηση ως φωνητική κλήση</string>
+  <string name="a11y_incoming_call_answer_and_release">Απάντηση και τερματισμός κλήσης σε εξέλιξη</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Απόρριψη με μήνυμα</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Απάντηση ως φωνητική κλήση</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Απάντηση και τερματισμός κλήσης σε εξέλιξη</string>
+  <string name="call_incoming_video_is_off">Το βίντεο είναι ανενεργό</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Σύρετε με δύο δάχτυλα, προς τα επάνω για απάντηση και προς τα κάτω για απόρριψη.</string>
+  <string name="call_incoming_important">Σημαντικό</string>
+</resources>

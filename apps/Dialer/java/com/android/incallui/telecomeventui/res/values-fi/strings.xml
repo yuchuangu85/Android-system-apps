@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Näytä aina varoitus</string>
+  <string name="details">Olet soittamassa kansainväliseen numeroon. Puhelusta saatetaan periä maksuja.</string>
+</resources>

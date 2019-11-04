@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2019 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name" translatable="false">Bug Report</string>
+
+    <string name="bugreport_info_quit" translatable="false">Close</string>
+    <string name="bugreport_info_start" translatable="false">Start Bug Report</string>
+
+    <string name="bugreport_dialog_submit" translatable="false">Submit</string>
+    <string name="bugreport_dialog_cancel" translatable="false">Cancel</string>
+    <string name="bugreport_dialog_show_bugreports" translatable="false">Show Bug Reports</string>
+    <string name="bugreport_dialog_close" translatable="false">Close</string>
+    <string name="bugreport_dialog_title" translatable="false">Speak &amp; Describe The Issue</string>
+    <string name="bugreport_dialog_recording_finished" translatable="false">Recording finished</string>
+    <string name="bugreport_dialog_in_progress_title" translatable="false">A bug report is already being collected</string>
+    <string name="bugreport_dialog_in_progress_title_finished" translatable="false">A bug report has been collected</string>
+    <string name="bugreport_move_button_text" translatable="false">Move</string>
+    <string name="bugreport_upload_button_text" translatable="false">Upload</string>
+
+    <string name="toast_permissions_denied" translatable="false">Please grant permissions</string>
+    <string name="toast_bug_report_in_progress" translatable="false">Bug report already being collected</string>
+    <string name="toast_timed_out" translatable="false">Timed out, cancelling</string>
+    <string name="toast_status_failed" translatable="false">Bug report failed</string>
+    <string name="toast_status_finished" translatable="false">Bug report finished</string>
+    <string name="toast_status_pending_upload" translatable="false">Bug report ready for upload</string>
+    <string name="toast_status_screencap_failed" translatable="false">Screen capture failed</string>
+    <string name="toast_status_dump_state_failed" translatable="false">Dump state failed</string>
+
+    <!-- Notification strings -->
+    <string name="notification_bugreport_in_progress" translatable="false">Bug report is in progress</string>
+    <string name="notification_bugreport_finished_title" translatable="false">Bug report is collected</string>
+    <string name="notification_bugreport_manual_upload_finished_text" translatable="false">Please upload it when the car is parked</string>
+    <string name="notification_bugreport_auto_upload_finished_text" translatable="false">The report will be upload automatically</string>
+    <string name="notification_bugreport_channel_name" translatable="false">Bug report status channel</string>
+</resources>

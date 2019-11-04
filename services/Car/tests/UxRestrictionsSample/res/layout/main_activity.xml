@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- Section: Current Status -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/status_header"
+        android:layout_gravity="center"
+        android:padding="@dimen/section_padding"
+        android:textSize="@dimen/header_text_size"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <TextView
+        android:id="@+id/driving_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/driving_state"
+        android:textSize="@dimen/info_text_size"
+        android:layout_gravity="center"
+        android:padding="@dimen/section_padding"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <TextView
+        android:id="@+id/do_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/is_do_reqd"
+        android:textSize="@dimen/info_text_size"
+        android:padding="@dimen/section_padding"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <TextView
+        android:id="@+id/uxr_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/active_restrictions"
+        android:padding="@dimen/section_padding"
+        android:textSize="@dimen/info_text_size"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <TextView
+        android:id="@+id/show_uxr_config"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uxr_config_header"
+        android:padding="@dimen/section_padding"
+        android:textSize="@dimen/info_text_size"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <!-- Section: Available Actions -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:padding="@dimen/section_padding"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_header"
+        android:padding="@dimen/section_padding"
+        android:textSize="@dimen/header_text_size"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/toggle_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/section_padding"
+            android:padding="@dimen/section_padding"
+            android:text="@string/disable_uxr"
+            android:textAllCaps="false"
+            android:textSize="@dimen/info_text_size"/>
+        <Button
+            android:id="@+id/show_staged_config"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/section_padding"
+            android:padding="@dimen/section_padding"
+            android:text="@string/show_staged_config"
+            android:textAllCaps="false"
+            android:textSize="@dimen/info_text_size"/>
+        <Button
+            android:id="@+id/show_prod_config"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/section_padding"
+            android:padding="@dimen/section_padding"
+            android:text="@string/show_prod_config"
+            android:textAllCaps="false"
+            android:textSize="@dimen/info_text_size"/>
+        <Button
+            android:id="@+id/toggle_passenger_mode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/section_padding"
+            android:padding="@dimen/section_padding"
+            android:text="@string/enable_passenger_mode"
+            android:textAllCaps="false"
+            android:textSize="@dimen/info_text_size"/>
+    </LinearLayout>
+
+    <!-- Section: Save UX Restrictions For Next Boot -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="@dimen/section_padding"
+        android:layout_marginBottom="10dp"
+        android:background="@android:color/darker_gray"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save_uxr_config_header"
+        android:padding="@dimen/section_padding"
+        android:textSize="@dimen/header_text_size"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <Button
+        android:id="@+id/save_uxr_config"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/section_padding"
+        android:text="@string/save_uxr_config"
+        android:textSize="@dimen/info_text_size"/>
+</LinearLayout>
+
+
+

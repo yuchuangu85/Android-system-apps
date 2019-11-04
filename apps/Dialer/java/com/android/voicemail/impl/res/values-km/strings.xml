@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="vvm_unsupported_message_format">មិន​ស្គាល់​ប្រភេទ​សារ សូម​ហៅ​ទូរសព្ទ​ទៅ %s ដើម្បី​ស្ដាប់។</string>
+</resources>

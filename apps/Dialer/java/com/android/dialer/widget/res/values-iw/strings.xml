@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">כתוב הודעה מותאמת אישית</string>
+  <string name="toolbar_close">סגירה</string>
+  <string name="all_contacts_empty">עדיין אין לך אנשי קשר</string>
+  <string name="all_contacts_empty_add_contact_action">איש קשר חדש</string>
+  <string name="permission_single_turn_on">הפעלה</string>
+  <string name="permission_no_contacts">עליך להפעיל את ההרשאה \'אנשי קשר\' כדי להציג את אנשי הקשר שלך.</string>
+  <string name="add_contact_not_available">אין אף אפליקציה לניהול אנשי קשר</string>
+</resources>

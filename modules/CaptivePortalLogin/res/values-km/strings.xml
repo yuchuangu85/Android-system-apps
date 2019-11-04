@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"ប្រើ​បណ្ដាញ​នេះ​ជា"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"កុំ​ប្រើ​បណ្ដាញ​នេះ"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"ចូលទៅបណ្ដាញ"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"ចូលទៅ %1$s"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"បណ្តាញដែលអ្នកកំពុងព្យាយាមចូលមានបញ្ហាសុវត្ថិភាព។"</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"ឧបករណ៍៖ ទំព័រចូលនេះអាចនឹងមិនមែនជាកម្មសិទ្ធិរបស់ស្ថាប័នដែលបានបង្ហាញនេះទេ។"</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"យ៉ាងណាក៏ដោយនៅតែបន្តតាមរយៈកម្មវិធីរុករក"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"វិញ្ញាបនបត្រនេះ​មិនបានចេញ​ដោយ​អាជ្ញាធរដែល​គួរ​ឱ្យ​ទុកចិត្ត​ទេ។"</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"ឈ្មោះ​គេហទំព័រ​នេះ​មិន​ត្រូវនឹង​ឈ្មោះ​នៅលើវិញ្ញាបនបត្រទេ។"</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"វិញ្ញាបនបត្រនេះ​ផុត​កំណត់​ហើយ។"</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"វិញ្ញាបនបត្រនេះមិន​ទាន់​មាន​សុពលភាពនៅ​ឡើយ​ទេ។"</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"វិញ្ញាបនបត្រនេះ​មាន​កាល​បរិច្ឆេទដែលគ្មាន​សុពលភាព។"</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"វិញ្ញាបនបត្រនេះគ្មាន​សុពលភាពទេ។"</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"មានបញ្ហា​ដោយសារ​មិនស្គាល់វិញ្ញាបនបត្រ។"</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"ការព្រមានផ្នែកសុវត្ថិភាព"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"មើល​វិញ្ញាបនបត្រ"</string>
+    <string name="ok" msgid="6584612582120777209">"យល់ព្រម"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"អាសយដ្ឋាន៖"</string>
+    <string name="page_info" msgid="46593086046896385">"ព័ត៌មាន​ទំព័រ"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">รายชื่อติดต่อใหม่</string>
+  <string name="dialer_shortcut_add_contact_long">รายชื่อติดต่อใหม่</string>
+  <string name="dialer_shortcut_disabled_message">ปุ่มลัดไม่ทำงาน ลากเพื่อนำออก</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">ไม่มีรายชื่อติดต่อนี้แล้ว</string>
+  <string name="dialer_shortcut_no_permissions">ไม่สามารถโทรได้หากไม่ได้รับอนุญาต</string>
+</resources>

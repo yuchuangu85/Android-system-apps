@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ডিফল্ট শব্দ (%1$s)</string>
+  <string name="ringtone_silent">একবারও না</string>
+  <string name="ringtone_unknown">অজানা রিংটোন</string>
+  <string name="activity_not_available">এর জন্য এই ডিভাইসে কোনো অ্যাপ্লিকেশান নেই</string>
+  <string name="outgoing_wps_warning">একটি WPS কল করা হলে তা আপনার বিদ্যমান কলটি কেটে দেবে৷</string>
+  <string name="dialog_continue">চালিয়ে যান</string>
+  <string name="camera_privacy_text">ক্যামেরার অনুমতি সক্ষম করা হয়েছে</string>
+</resources>

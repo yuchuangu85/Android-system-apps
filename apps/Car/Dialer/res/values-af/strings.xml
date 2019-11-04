@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2015 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="phone_app_name" msgid="238824437273544459">"Foon"</string>
+    <string name="no_hfp" msgid="7371139867234667691">"Om jou oproep te voltooi, moet jy eers jou foon via Bluetooth aan jou motor koppel."</string>
+    <string name="bluetooth_unavailable" msgid="5258854283739591569">"Bluetooth is nie beskikbaar nie."</string>
+    <string name="bluetooth_disabled" msgid="1275246762067907843">"Skakel Bluetooth aan om oproepe te maak of te ontvang."</string>
+    <string name="bluetooth_unpaired" msgid="1600552386483652892">"Bind jou foon saam met die motor om oproepe te maak of te ontvang."</string>
+    <string name="connect_bluetooth_button_text" msgid="293188695227298042">"Koppel aan Bluetooth"</string>
+    <string name="emergency_button_text" msgid="3467659545392931727">"Noodgeval"</string>
+    <string name="emergency_call_description" msgid="6700161437750325693">"Noodoproep"</string>
+    <string name="error_contact_deleted" msgid="6356539067659368396">"Hierdie kontak is dalk uitgevee."</string>
+    <string name="error_invalid_phone_number" msgid="5349049631580646136">"Kan nie hierdie nommer skakel nie. Gaan dit na en probeer weer."</string>
+    <string name="decline_call" msgid="2505987200485272226">"Wys af"</string>
+    <string name="answer_call" msgid="3272474440561548115">"Antwoord"</string>
+    <string name="call_back" msgid="5745638356098600872">"Bel terug"</string>
+    <string name="audio_route_vehicle" msgid="6274519162997743620">"Voertuig se Bluetooth"</string>
+    <string name="audio_route_phone_speaker" msgid="407520293892557697">"Luidsprekerfoon"</string>
+    <string name="audio_route_handset" msgid="1100259514278439355">"Selfoon"</string>
+    <string name="dial_a_number" msgid="7432322177412387160">"Skakel \'n nommer"</string>
+    <string name="favorites_title" msgid="4767723901530488145">"Gunstelinge"</string>
+    <string name="call_history_title" msgid="1495905524218923242">"Oproepgeskiedenis"</string>
+    <string name="contacts_title" msgid="9201954388634537346">"Kontakte"</string>
+    <string name="dialpad_title" msgid="3746259645005208554">"Belblad"</string>
+    <string name="call_log_header_today" msgid="2069013936632793214">"Vandag"</string>
+    <string name="call_log_header_yesterday" msgid="4613686845163357847">"Gister"</string>
+    <string name="call_log_header_older" msgid="3971634717537073179">"Ouer"</string>
+    <string name="add_favorite_button" msgid="7914955940249767808">"Voeg \'n gunsteling by"</string>
+    <string name="favorites_empty" msgid="6712416359691979975">"Jy het nog geen gunstelinge bygevoeg nie"</string>
+    <string name="search_title" msgid="5412680850141871664">"Deursoek kontakte"</string>
+    <string name="search_hint" msgid="3099066132607042439">"Deursoek kontakte"</string>
+    <string name="type_multiple" msgid="3402949522797441236">"Veelvuldige"</string>
+    <string name="select_number_dialog_title" msgid="5770700626013782205">"Kies \'n foonnommer"</string>
+    <string name="select_number_dialog_just_once_button" msgid="1814381354393374660">"Net een keer"</string>
+    <string name="select_number_dialog_always_button" msgid="6862338683635863764">"Altyd"</string>
+    <string name="primary_number_description" msgid="7428950659304219592">"<xliff:g id="LABEL">%1$s</xliff:g>  – Verstek"</string>
+    <string name="in_call_notification_channel_name" msgid="1978093630512401778">"Kennisgewing van inkomende oproep"</string>
+    <string name="notification_incoming_call" msgid="1722904631804432389">"Inkomende oproep"</string>
+    <string name="missed_call_notification_channel_name" msgid="1135686963409691772">"Gemiste Oproep-kennisgewing"</string>
+    <string name="notification_missed_call" msgid="7127823385811396529">"Gemiste oproep"</string>
+    <string name="onhold_call_label" msgid="1937027519810985499">"Hou aan"</string>
+    <string name="setting_title" msgid="1296639422364732365">"Instellings"</string>
+    <string name="pref_start_page_title" msgid="1953465507368478503">"Beginskerm"</string>
+    <string name="sort_order_title" msgid="975104366728292702">"Kontakvolgorde"</string>
+    <string name="give_name_first_title" msgid="9036752103567139094">"Voornaam"</string>
+    <string name="family_name_first_title" msgid="7721976826282427987">"Van"</string>
+</resources>

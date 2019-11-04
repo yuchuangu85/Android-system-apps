@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">मागे नेव्हिगेट करा</string>
+  <string name="description_dialpad_overflow">अधिक पर्याय</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_image_button_plus">डायल प्‍लस</string>
+  <string name="description_voicemail_button">व्हॉइसमेलवर कॉल करा</string>
+  <string name="description_dial_button">डायल</string>
+  <string name="dialog_voicemail_airplane_mode_message">व्हॉइसमेलला कॉल करण्यासाठी, प्रथम विमान मोड बंद करा.</string>
+  <string name="dialog_voicemail_not_ready_message">व्हॉइसमेल सेट करण्‍यासाठी, मेनू &gt; सेटिंग्‍ज वर जा.</string>
+  <string name="add_2sec_pause">2-सेकंदांचा विराम जोडा</string>
+  <string name="add_wait">वाट पाहणे जोडा</string>
+  <string name="dialer_useDtmfDialpad">टच-टोन कीपॅड वापरा</string>
+  <string name="dialer_returnToInCallScreen">चालू असलेल्या कॉलवर परत जा</string>
+  <string name="dialer_addAnotherCall">कॉल जोडा</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">सिम कार्ड मधून लोड करत आहे…</string>
+  <string name="simContacts_title">सिम कार्ड संपर्क</string>
+  <string name="menu_callNumber">%s वर कॉल करा</string>
+  <string name="dialpad_hint_emergency_calling_not_available">वाय-फाय वरून आणीबाणी कॉल करू शकत नाही</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">या नंबरवर कॉल करू शकत नाही</string>
+</resources>

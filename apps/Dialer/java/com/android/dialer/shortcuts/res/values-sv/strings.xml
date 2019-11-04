@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">Ny kontakt</string>
+  <string name="dialer_shortcut_add_contact_long">Ny kontakt</string>
+  <string name="dialer_shortcut_disabled_message">Genvägen fungerar inte. Dra om du vill ta bort den.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontakten är inte längre tillgänglig.</string>
+  <string name="dialer_shortcut_no_permissions">Det går inte att ringa utan behörighet.</string>
+</resources>

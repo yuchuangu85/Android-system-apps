@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">ইনকামিং কল</string>
+  <string name="type_incoming_pulled">ইনকামিং কলটিকে অন্য ডিভাইসে স্থানান্তর করা হয়েছে</string>
+  <string name="type_outgoing">আউটগোয়িং কল</string>
+  <string name="type_outgoing_pulled">আউটগোয়িং কলটিকে অন্য ডিভাইসে স্থানান্তর করা হয়েছে</string>
+  <string name="type_missed">মিসড কল</string>
+  <string name="type_incoming_video">আগত ভিডিও কল</string>
+  <string name="type_incoming_video_pulled">ইনকামিং ভিডিও কলটিকে অন্য ডিভাইসে স্থানান্তর করা হয়েছে</string>
+  <string name="type_outgoing_video">আউটগোয়িং ভিডিও কল</string>
+  <string name="type_outgoing_video_pulled">আউটগোয়িং ভিডিও কলটিকে অন্য ডিভাইসে স্থানান্তর করা হয়েছে</string>
+  <string name="type_missed_video">মিস করা ভিডিও কল</string>
+  <string name="type_voicemail">ভয়েসমেল</string>
+  <string name="type_rejected">অস্বীকৃত কল</string>
+  <string name="type_blocked">অবরুদ্ধ কল</string>
+  <string name="call_details_minutes_abbreviation">মি.</string>
+  <string name="call_details_seconds_abbreviation">সে.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">সেকেন্ড</item>
+    <item quantity="other">সেকেন্ড</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">মিনিট</item>
+    <item quantity="other">মিনিট</item>
+  </plurals>
+  <string name="type_answered_elsewhere">অন্য ডিভাইসে কলটির উত্তর দেওয়া হয়েছে</string>
+  <string name="description_phone_account">^1 এ</string>
+  <string name="description_via_number">%1$s এর মাধ্যমে</string>
+  <string name="description_via_number_phone_account">%1$s এ, %2$s এর মাধ্যমে</string>
+  <string name="voicemail_string">ভয়েসমেল</string>
+  <string name="just_now">এখনই</string>
+  <string name="new_call_log_carrier_video">পরিষেবা প্রদানকারীতে ভিডিও</string>
+  <string name="new_call_log_duo_video">Duo ভিডিও</string>
+  <string name="new_call_log_unknown">অজানা</string>
+  <string name="new_call_log_secondary_blocked">ব্লক করা নম্বর</string>
+  <string name="new_call_log_secondary_spam">স্প্যাম</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1টি কল, শেষ কলটি ^2-এর, যেটি মিস করেছেন</item>
+    <item quantity="other">^1টি কল, শেষ কলটি ^2-এর, যেটি মিস করেছেন</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1টি কল, শেষ কলটি ^2-এর, যেটির উত্তর দিয়েছেন</item>
+    <item quantity="other">^1টি কল, শেষ কলটি ^2-এর, যেটির উত্তর দিয়েছেন</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1টি কল করেছেন, শেষ কলটি ^2-কে</item>
+    <item quantity="other">^1টি কল করেছেন, শেষ কলটি ^2-কে</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1টি কল, শেষ কলটি ^2-এর, যেটি আপনি ব্লক করেছেন</item>
+    <item quantity="other">^1টি কল, শেষ কলটি ^2-এর, যেটি আপনি ব্লক করেছেন</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1-এ,
+    ^2-এর মাধ্যমে</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2।</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3।</string>
+</resources>

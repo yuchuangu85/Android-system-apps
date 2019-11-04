@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Fərdi mesaj yazın</string>
+  <string name="toolbar_close">Bağlayın</string>
+  <string name="all_contacts_empty">Hələ heç bir kontakt yoxdur</string>
+  <string name="all_contacts_empty_add_contact_action">Yeni kontakt yaradın</string>
+  <string name="permission_single_turn_on">Aktiv edin</string>
+  <string name="permission_no_contacts">Kontaktları görmək üçün Kontakt icazəsini aktiv edin.</string>
+  <string name="add_contact_not_available">Kontakt tətbiqi əlçatan deyil</string>
+</resources>

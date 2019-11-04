@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright 2017 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginEnd="@dimen/bluetooth_pin_dialog_margin_end"
+        android:layout_marginStart="@dimen/bluetooth_pin_dialog_margin_start"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/message_below_pin"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/bluetooth_pin_dialog_section_height"
+            android:gravity="center_vertical"
+            android:textAppearance="?android:attr/textAppearanceMedium"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bluetooth_pin_dialog_section_height">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical">
+                <EditText
+                    android:id="@+id/text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword"
+                    android:maxLines="1"
+                    android:textAppearance="?android:attr/textAppearanceLarge"/>
+                <TextView
+                    android:id="@+id/pin_values_hint"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/bluetooth_pin_dialog_subtext_margin_top"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/bluetooth_pin_values_hint"
+                    android:textAppearance="?android:attr/textAppearanceMedium"/>
+            </LinearLayout>
+        </FrameLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bluetooth_pin_dialog_section_height">
+            <CheckBox
+                android:id="@+id/alphanumeric_pin"
+                android:layout_width="@dimen/icon_size"
+                android:layout_height="@dimen/icon_size"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:button="@drawable/ic_check_box"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/bluetooth_pin_dialog_text_margin_end"
+                android:layout_marginStart="@dimen/bluetooth_pin_dialog_text_margin_start"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:text="@string/bluetooth_enable_alphanumeric_pin"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bluetooth_pin_dialog_section_height">
+            <CheckBox
+                android:id="@+id/phonebook_sharing_message_entry_pin"
+                android:layout_width="@dimen/icon_size"
+                android:layout_height="@dimen/icon_size"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:button="@drawable/ic_check_box"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/bluetooth_pin_dialog_text_margin_end"
+                android:layout_marginStart="@dimen/bluetooth_pin_dialog_text_margin_start"
+                android:ellipsize="end"
+                android:gravity="center_vertical"
+                android:maxLines="1"
+                android:text="@string/bluetooth_pairing_shares_phonebook"
+                android:textAppearance="?android:attr/textAppearanceMedium"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Ханын зураг"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Ханийн зургийн ангилал"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Ханын зураг тохируулах"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Ханын зургийг тохируулж байна…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Дахин оролдох"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Ханын зургийг тохируулах боломжгүй байна."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Дэлгэцийн зургийг ачаалах боломжгүй байна. Зураг нь гэмтэлтэй буюу эсвэл ашиглах боломжгүй байна."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Одоогоор тохируулсан ханын зураг"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Өдөр тутмын ханын зураг"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Нүүр болон түгжигдсэн дэлгэц"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Үндсэн нүүр"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Түгжигдсэн дэлгэц"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Нүүр хуудас болон түгжээ"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Ханын зураг тохируулах"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Үндсэн нүүр"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Түгжигдсэн дэлгэц"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Үндсэн нүүр болон түгжих дэлгэц"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Ханын зургийг эргүүлж байна"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Одоогийн ханын зургийг энд харуулахын тулд <xliff:g id="APP_NAME">%1$s</xliff:g> таны төхөөрөмжийн санд хандах шаардлагатай байна."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Одоогийн ханын зургийг энд харуулахын тулд Ханын зураг таны төхөөрөмжийн санд хандах шаардлагатай байна.\n\nЭнэ тохиргоог өөрчлөх бол Ханын зургийн аппын мэдээллийн Зөвшөөрөл хэсэгт очно уу."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Хандалтыг зөвшөөрөх"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Ханын зургийг эргүүлэх хөдөлгөөнт ханын зургийн үйлчилгээ"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Өдөр тутмын ханын зураг"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Асаахын тулд товшино уу"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Ханын зургийг өдөр бүр автоматаар солино. Тохируулгыг дуусгахын тулд дараагийн дэлгэцийн &lt;strong&gt;Ханын зураг тохируулах&lt;/strong&gt; гэснийг товшино уу."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Цаашдын ханын зургийг зөвхөн Wi-Fi-р татах"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Үргэлжлүүлэх"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Эхний ханын зургийг татаж байна…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Эхний ханын зургийг татах боломжгүй байна. Сүлжээний тохиргоогоо шалгаад дахин оролдоно уу."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Ханын зургийг өдөр бүр автоматаар солино"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Тохиргоо"</string>
+    <string name="explore" msgid="7468719504199497281">"Судлах"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Дараагийн ханын зураг"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"Ханын зураг тохируулах тохиргоог энэ төхөөрөмжид идэвхгүй болгосон байна"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Таны төхөөрөмжийн админ ханын зураг тохируулах тохиргоог идэвхгүй болгосон байна"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Ханын зургийг амжилттай тохирууллаа"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Ханын зургийг харахын тулд танд интернэт холболт шаардлагатай. Интернэтэд холбогдоод дахин оролдоно уу."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Үндсэн нүүрэнд одоогоор тохируулсан ханын зургийн өнгөц зураг"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Түгжих дэлгэцэд одоогоор тохируулсан ханын зургийн өнгөц зураг"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Одоогоор тохируулсан ханын зургийн өнгөц зураг"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Ханын зургийн өнгөц зураг"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Үндсэн нүүрийн ханын зургийг судлах"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Түгжих дэлгэцийн ханын зургийг судлах"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Үндсэн нүүрийн өдөр тутмын ханын зургийг сэргээх"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Өдөр тутмын ханын зургийг сэргээх"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Өдөр тутмын ханын зургийг сэргээж байна…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Өдөр тутмын ханын зургийг сэргээж чадсангүй. Сүлжээний холболтоо шалгаад дахин оролдоно уу."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Ханын зургийн мэдээллийн самбарыг буулгах"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Ханын зургийн мэдээллийн самбарыг дэлгэх"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Төхөөрөмжийн ханын зураг"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"Төхөөрөмжид хадгалсан"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Андройдын ханын зураг"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Хөдөлгөөнт ханын зураг"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Миний зураг"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"Миний зураг"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Ханын зураг"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Аппыг суулгаагүй байна."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Гол хэсэг"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Голлуулж тайрах"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Сунгах"</string>
+    <string name="preview" msgid="1774602101743861071">"Урьдчилан үзэх"</string>
+</resources>

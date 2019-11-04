@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Móttekið símtal</string>
+  <string name="type_incoming_pulled">Móttekið símtal flutt í annað tæki</string>
+  <string name="type_outgoing">Hringt símtal</string>
+  <string name="type_outgoing_pulled">Hringt símtal flutt í annað tæki</string>
+  <string name="type_missed">Ósvarað símtal</string>
+  <string name="type_incoming_video">Myndsímtal berst</string>
+  <string name="type_incoming_video_pulled">Móttekið myndsímtal flutt í annað tæki</string>
+  <string name="type_outgoing_video">Myndsímtal hringt</string>
+  <string name="type_outgoing_video_pulled">Hringt myndsímtal flutt í annað tæki</string>
+  <string name="type_missed_video">Ósvarað myndsímtal</string>
+  <string name="type_voicemail">Talhólf</string>
+  <string name="type_rejected">Símtali hafnað</string>
+  <string name="type_blocked">Símtal á bannlista</string>
+  <string name="call_details_minutes_abbreviation">mín.</string>
+  <string name="call_details_seconds_abbreviation">sek.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekúnda</item>
+    <item quantity="other">sekúndur</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">mínúta</item>
+    <item quantity="other">mínútur</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Símtali svarað í öðru tæki</string>
+  <string name="description_phone_account">í gegnum ^1</string>
+  <string name="description_via_number">í gegnum %1$s</string>
+  <string name="description_via_number_phone_account">á %1$s, í gegnum %2$s</string>
+  <string name="voicemail_string">Talhólf</string>
+  <string name="just_now">Rétt í þessu</string>
+  <string name="new_call_log_carrier_video">Myndsímtal símafyrirtækis</string>
+  <string name="new_call_log_duo_video">Myndsímtal Duo</string>
+  <string name="new_call_log_unknown">Óþekkt</string>
+  <string name="new_call_log_secondary_blocked">Á bannlista</string>
+  <string name="new_call_log_secondary_spam">Ruslefni</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 símtal, það nýjasta er ósvarað símtal frá ^2</item>
+    <item quantity="other">^1 símtöl, það nýjasta er ósvarað símtal frá ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 símtal, það nýjasta er ósvarað símtal frá ^2</item>
+    <item quantity="other">^1 símtöl, það nýjasta er svarað símtal frá ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 símtal, það nýjasta er hringt símtal til ^2</item>
+    <item quantity="other">^1 símtöl, það nýjasta er hringt símtal til ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 símtal, það nýjasta er símtal frá ^2 sem lokað var á</item>
+    <item quantity="other">^1 símtöl, það nýjasta er símtal frá ^2 sem lokað var á</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">í ^1,
+    með ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">அழைப்பு விவரங்கள்</string>
+  <string name="delete">நீக்கு</string>
+  <string name="call_details_copy_number">எண்ணை நகலெடு</string>
+  <string name="call_details_edit_number">அழைப்பதற்கு முன் எண்ணைத் திருத்து</string>
+  <string name="call_details_report_call_id">துல்லியமற்ற எண் எனப் புகாரளி</string>
+  <string name="sent_a_photo">படம் அனுப்பப்பட்டது</string>
+  <string name="received_a_photo">படம் பெறப்பட்டது</string>
+  <string name="message_in_quotes">\"%1$s\"</string>
+  <string name="report_caller_id_dialog_title">தவறான எண் எனப் புகாரளி</string>
+  <string name="report_caller_id_failed">எண்ணைப் புகாரளிக்க முடியவில்லை</string>
+  <string name="report_caller_id_toast">எண் புகாரளிக்கப்பட்டது</string>
+  <string name="assisted_dialing_country_code_entry">அழைப்பை மேற்கொள்வதற்கான உதவி: பயன்படுத்திய நாட்டின் குறியீடு +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">அழைப்பை மேற்கொள்வதற்கான உதவி பயன்படுத்தப்பட்டது</string>
+  <string name="rtt_transcript_not_available">செய்தியிடல் வசதியுள்ள அழைப்புகளுக்கு மட்டுமே டிரான்ஸ்கிரிப்ட் கிடைக்கும்</string>
+  <string name="rtt_transcript_link">டிரான்ஸ்கிரிப்ட்டைக் காட்டு</string>
+</resources>

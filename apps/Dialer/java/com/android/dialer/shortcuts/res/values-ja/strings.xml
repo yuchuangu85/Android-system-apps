@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">新規連絡先</string>
+  <string name="dialer_shortcut_add_contact_long">新しい連絡先</string>
+  <string name="dialer_shortcut_disabled_message">このショートカットは無効になっています。ドラッグして削除してください。</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">この連絡先は利用できません</string>
+  <string name="dialer_shortcut_no_permissions">通話を発信するにはアクセスを許可する必要があります。</string>
+</resources>

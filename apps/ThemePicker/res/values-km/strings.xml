@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6995669566699638946">"រចនាប័ទ្ម និង​ផ្ទាំងរូបភាព"</string>
+    <string name="theme_title" msgid="2144932106319405101">"រចនាប័ទ្ម"</string>
+    <string name="clock_title" msgid="2126046720254613991">"នាឡិកា"</string>
+    <string name="grid_title" msgid="2825094404523390773">"ក្រឡា"</string>
+    <string name="wallpaper_title" msgid="6952635398953194544">"ផ្ទាំងរូបភាព"</string>
+    <string name="apply_theme_btn" msgid="6293081192321303991">"ប្រើ"</string>
+    <string name="edit_custom_theme_lbl" msgid="5211377705710775224">"ចុច ដើម្បី​កែ"</string>
+    <string name="keep_my_wallpaper" msgid="8012385376769568517">"រក្សាទុក​ផ្ទាំងរូបភាព​បច្ចុប្បន្ន"</string>
+    <string name="apply_btn" msgid="7965877231041987336">"ប្រើ"</string>
+    <string name="accessibility_preview_pager" msgid="3548503287402185430">"ទំព័រ <xliff:g id="ID_1">%1$d</xliff:g> នៃ <xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="next_page_content_description" msgid="5290226604542300962">"បន្ទាប់"</string>
+    <string name="previous_page_content_description" msgid="6025726405430262788">"មុន"</string>
+    <string name="option_applied_description" msgid="5022305212078053534">"<xliff:g id="ID_1">%1$s</xliff:g> ត្រូវបានប្រើ​បច្ចុប្បន្ននេះ"</string>
+    <string name="option_applied_previewed_description" msgid="5269654286638446858">"<xliff:g id="ID_1">%1$s</xliff:g> កំពុងត្រូវបានអនុវត្ត និង​មើលសាកល្បង​បច្ចុប្បន្ននេះ"</string>
+    <string name="option_previewed_description" msgid="3467217598865047661">"<xliff:g id="ID_1">%1$s</xliff:g> កំពុងត្រូវបាន​មើលសាកល្បង​បច្ចុប្បន្ននេះ"</string>
+    <string name="theme_description" msgid="3697012391785254635">"ពុម្ព​អក្សរ៖ <xliff:g id="ID_1">%1$s</xliff:g>, រូបតំណាង៖ <xliff:g id="ID_2">%2$s</xliff:g>, រូបរាង៖ <xliff:g id="ID_3">%3$s</xliff:g>, ពណ៌៖ <xliff:g id="ID_4">%4$s</xliff:g>"</string>
+    <string name="default_theme_title" msgid="2555741736622366797">"លំនាំដើម"</string>
+    <string name="preview_name_font" msgid="4465423899630037038">"ពុម្ពអក្សរ"</string>
+    <string name="preview_name_icon" msgid="6818927315316316440">"រូបតំណាង"</string>
+    <string name="preview_name_color" msgid="8776203144994416172">"ពណ៌"</string>
+    <string name="preview_name_shape" msgid="5676971146080968721">"រូបរាង"</string>
+    <string name="preview_name_wallpaper" msgid="1738652462949531828">"ផ្ទាំងរូបភាព"</string>
+    <string name="font_card_title" msgid="2343292653502548685">"ABC • abc • 123"</string>
+    <string name="font_card_body" msgid="6790525594503904468">"បញ្ចូលពុម្ព​អក្សរ​ដែលអ្នកចូលចិត្ត​ទៅគ្រប់អេក្រង់"</string>
+    <string name="grid_title_pattern" msgid="9188866567612607806">"<xliff:g id="ID_1">%1$d</xliff:g>x<xliff:g id="ID_2">%2$d</xliff:g>"</string>
+    <string name="applied_theme_msg" msgid="7348498271552054431">"បានប្រើ​រចនាប័ទ្ម"</string>
+    <string name="applied_clock_msg" msgid="1938218786265793285">"បានប្រើ​នាឡិកា"</string>
+    <string name="apply_theme_error_msg" msgid="791364062636538317">"មានបញ្ហា​ក្នុងការប្រើ​រចនាប័ទ្ម"</string>
+    <string name="custom_theme_next" msgid="6235420097213197301">"បន្ទាប់"</string>
+    <string name="custom_theme_previous" msgid="4941132112640503022">"មុន"</string>
+    <string name="custom_theme_title" msgid="2192300350332693631">"<xliff:g id="ID_1">%1$d</xliff:g> ផ្ទាល់ខ្លួន"</string>
+    <string name="custom_theme_fragment_title" msgid="6615547284702040280">"រចនាប័ទ្ម​ផ្ទាល់ខ្លួន"</string>
+    <string name="custom_theme_delete" msgid="4744494663184126202">"លុប"</string>
+    <string name="font_component_title" msgid="8800340833695292049">"ជ្រើសរើស​ពុម្ភអក្សរ"</string>
+    <string name="icon_component_title" msgid="5779787138399083903">"ជ្រើសរើស​រូបតំណាង"</string>
+    <string name="color_component_title" msgid="1194089273921078816">"ជ្រើសរើសពណ៌"</string>
+    <string name="shape_component_title" msgid="8366847436022025538">"ជ្រើសរើស​រូបរាង"</string>
+    <string name="name_component_title" msgid="532425087968663437">"ដាក់ឈ្មោះ​រចនាប័ទ្ម​របស់អ្នក"</string>
+    <string name="icon_component_label" msgid="2625784884001407944">"រូបតំណាង <xliff:g id="ID_1">%1$d</xliff:g>"</string>
+    <string name="delete_custom_theme_confirmation" msgid="4452137183628769394">"លុប​រចនាប័ទ្ម​ផ្ទាល់ខ្លួន?"</string>
+    <string name="delete_custom_theme_button" msgid="5102462988130208824">"លុប"</string>
+    <string name="cancel" msgid="4651030493668562067">"បោះបង់"</string>
+    <string name="set_theme_wallpaper_dialog_message" msgid="2179661027350908003">"កំណត់​ផ្ទាំងរូបភាព​រចនាប័ទ្ម​"</string>
+    <string name="use_style_instead_title" msgid="1578754995763917502">"ប្រើ <xliff:g id="ID_1">%1$s</xliff:g> ជំនួសវិញ?"</string>
+    <string name="use_style_instead_body" msgid="3051937045807471496">"សមាសធាតុ​ដែលអ្នកបាន​ជ្រើសរើសត្រូវ​នឹងរចនាប័ទ្ម <xliff:g id="ID_1">%1$s</xliff:g> ។ តើអ្នកចង់ប្រើ <xliff:g id="ID_2">%1$s</xliff:g> ជំនួសវិញដែរទេ?"</string>
+    <string name="use_style_button" msgid="1754493078383627019">"ប្រើ <xliff:g id="ID_1">%1$s</xliff:g>"</string>
+    <string name="no_thanks" msgid="7286616980115687627">"ទេ អរគុណ"</string>
+    <string name="clock_preview_content_description" msgid="5460561185905717460">"ការមើល​នាឡិកា <xliff:g id="ID_1">%1$s</xliff:g> សាកល្បង"</string>
+    <string name="something_went_wrong" msgid="529840112449799117">"អូ៎! មានអ្វីមួយខុសប្រក្រតី។"</string>
+</resources>

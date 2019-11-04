@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assist_action_play_label" msgid="6278705468288338172">"ચલાવો"</string>
+    <string name="action_mute_short" msgid="5239851786101022633">"મ્યૂટ કરો"</string>
+    <string name="action_mute_long" msgid="6846675719189989477">"વાતચીત મ્યૂટ કરો"</string>
+    <string name="action_unmute_short" msgid="7157822835069715986">"અનમ્યૂટ કરો"</string>
+    <string name="action_unmute_long" msgid="22482625837159466">"વાતચીત અનમ્યૂટ કરો"</string>
+    <string name="action_canned_reply" msgid="4045960823021872834">"\"હાલમાં ડ્રાઇવ કરું છું.\""</string>
+    <string name="canned_reply_message" msgid="7959257272917598063">"હાલમાં ડ્રાઇવ કરું છું."</string>
+    <string name="toast_message_sent_success" msgid="1159956191974273064">"સંદેશ સફળતાપૂર્વક મોકલ્યો."</string>
+    <string name="notification_service_label" msgid="7512186049723777468">"કાર નોટિફિકેશન સાંભળનાર સેવા"</string>
+    <string name="notifications" msgid="2865534625906329283">"નોટિફિકેશન કેન્દ્ર"</string>
+    <string name="clear_all" msgid="1845314281571237722">"બધું સાફ કરો"</string>
+    <string name="ellipsized_string" msgid="6993649229498857557">"…"</string>
+    <string name="show_more" msgid="7291378544926443344">"વધુ બતાવો"</string>
+    <string name="notification_header" msgid="324550431063568049">"નોટિફિકેશન"</string>
+    <string name="empty_notification_header" msgid="4928379791607839720">"કોઈ નોટિફિકેશન નથી"</string>
+    <string name="show_less" msgid="7342677676229302829">"ઓછું બતાવો"</string>
+    <string name="show_count_more" msgid="480555295700318609">" <xliff:g id="COUNT">%d</xliff:g>  વધુ બતાવો"</string>
+    <string name="message_unshown_count" msgid="2234421277246741233">" +<xliff:g id="COUNT">%d</xliff:g> વધુ"</string>
+    <plurals name="restricted_message_text" formatted="false" msgid="507312322886633308">
+      <item quantity="one"><xliff:g id="COUNT">%d</xliff:g> નવો સંદેશ</item>
+      <item quantity="other"><xliff:g id="COUNT">%d</xliff:g> નવા સંદેશા</item>
+    </plurals>
+</resources>

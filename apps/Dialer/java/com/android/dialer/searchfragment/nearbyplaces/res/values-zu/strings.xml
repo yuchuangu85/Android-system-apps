@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Izindawo eziseduze</string>
+  <string name="search_location_permission">Ukuze uthole ulwazi lokuxhumana ngezindawo eziseduze kwakho, vumela ukufinyelela endaweni yakho.</string>
+  <string name="nearby_places_allow">Vumela</string>
+  <string name="nearby_places_dismiss">Chitha</string>
+</resources>

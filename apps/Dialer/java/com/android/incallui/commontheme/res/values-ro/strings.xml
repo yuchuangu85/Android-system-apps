@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Încheiați apelul</string>
+  <string name="incall_content_description_muted">Dezactivat</string>
+  <string name="incall_content_description_unmuted">Activat</string>
+  <string name="incall_content_description_swap_calls">Comutați între apeluri</string>
+  <string name="incall_content_description_swap_sim">Schimbați SIM-ul</string>
+  <string name="incall_content_description_merge_calls">Îmbinați apelurile</string>
+  <string name="incall_content_description_earpiece">Casca dispozitivului</string>
+  <string name="incall_content_description_speaker">Difuzor</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Set căști-microfon cu fir</string>
+  <string name="incall_content_description_hold">Puneți apelul în așteptare</string>
+  <string name="incall_content_description_unhold">Reluați apelul</string>
+  <string name="incall_content_description_video_on">Imaginea video este activată</string>
+  <string name="incall_content_description_video_off">Imaginea video este dezactivată</string>
+  <string name="incall_content_description_swap_video">Schimbați imaginea video</string>
+  <string name="incall_label_speaker">Difuzor</string>
+  <string name="incall_label_audio">Sunet</string>
+</resources>

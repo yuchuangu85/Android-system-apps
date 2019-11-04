@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Package name [CHAR LIMIT=NONE]-->
+    <string name="app_name">Activity Stub</string>
+
+    <!-- Toast message displayed when a stub activity is launched. [CHAR LIMIT=NONE] -->
+    <string name="message_not_supported">No application can handle this action</string>
+
+    <!-- Stub name [CHAR LIMIT=NONE]-->
+    <string name="stub_name">None</string>
+
+</resources>

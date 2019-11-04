@@ -1,0 +1,11 @@
+# evs manager
+type evs_manager, domain, coredomain;
+hal_server_domain(evs_manager, hal_evs)
+hal_client_domain(evs_manager, hal_evs)
+
+# allow init to launch processes in this context
+type evs_manager_exec, exec_type, file_type, system_file_type;
+init_daemon_domain(evs_manager)
+
+# allow use of hwservices
+allow evs_manager hal_graphics_allocator_default:fd use;

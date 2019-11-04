@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Finalitza la trucada</string>
+  <string name="incall_content_description_muted">Silenciada</string>
+  <string name="incall_content_description_unmuted">No silenciada</string>
+  <string name="incall_content_description_swap_calls">Canvia de trucada</string>
+  <string name="incall_content_description_swap_sim">Canvia de SIM</string>
+  <string name="incall_content_description_merge_calls">Combina les trucades</string>
+  <string name="incall_content_description_earpiece">Auricular de microtelèfon</string>
+  <string name="incall_content_description_speaker">Altaveu</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Auriculars amb cable</string>
+  <string name="incall_content_description_hold">Posa la trucada en espera</string>
+  <string name="incall_content_description_unhold">Reprèn la trucada</string>
+  <string name="incall_content_description_video_on">Vídeo activat</string>
+  <string name="incall_content_description_video_off">Vídeo desactivat</string>
+  <string name="incall_content_description_swap_video">Canvia de vídeo</string>
+  <string name="incall_label_speaker">Altaveu</string>
+  <string name="incall_label_audio">So</string>
+</resources>

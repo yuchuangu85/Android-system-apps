@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package aae.trustagent;
+
+option java_package = "com.android.car.PhoneAuthProtos";
+option java_outer_classname = "PhoneAuthProto";
+
+message PhoneCredentials {
+  // Required field representing the escrow token that needs to be sent for authenticating the user
+  bytes escrow_token = 1;
+
+  // Required field representing the handle associated with the escrow token that needs to be sent
+  // for authenticating the user
+  bytes handle = 2;
+}

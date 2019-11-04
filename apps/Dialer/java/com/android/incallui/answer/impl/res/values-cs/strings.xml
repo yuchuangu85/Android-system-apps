@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Přejetím prstem od ikony hovor odmítnete a pošlete zprávu</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Přejetím prstem od ikony hovor přijmete jako hlasový hovor</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Přejetím prstem nahoru hovor přijmete a probíhající hovor podržíte</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Přejetím prstem nahoru hovor přijmete a podržený hovor ukončíte</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Přejetím prstem od ikony hovor přijmete a probíhající hovor ukončíte</string>
+  <string name="call_incoming_message_custom">Napište vlastní odpověď…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Napište vlastní odpověď…</string>
+  <string name="call_incoming_custom_message_cancel">Zrušit</string>
+  <string name="call_incoming_custom_message_send">Odeslat</string>
+  <string name="a11y_incoming_call_reject_with_sms">Odmítnout hovor a poslat zprávu</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Přijmout jako hlasový hovor</string>
+  <string name="a11y_incoming_call_answer_and_release">Přijmout hovor a ukončit probíhající hovor</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Odmítnout a poslat zprávu</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Přijmout jako hlasový hovor</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Přijmout hovor a ukončit probíhající hovor</string>
+  <string name="call_incoming_video_is_off">Video je vypnuté</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Přejetím dvěma prsty nahoru hovor přijmete. Přejetím dvěma prsty dolů jej odmítnete.</string>
+  <string name="call_incoming_important">Důležité</string>
+</resources>

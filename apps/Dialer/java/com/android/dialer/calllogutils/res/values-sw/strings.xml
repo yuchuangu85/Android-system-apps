@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Simu inayoingia</string>
+  <string name="type_incoming_pulled">Simu inayoingia imeelekezwa kwenye kifaa kingine</string>
+  <string name="type_outgoing">Simu uliyopiga</string>
+  <string name="type_outgoing_pulled">Simu unayopiga imeelekezwa kwenye kifaa kingine</string>
+  <string name="type_missed">Simu ambayo hukupokea</string>
+  <string name="type_incoming_video">Simu ya video inayoingia</string>
+  <string name="type_incoming_video_pulled">Simu ya video inayoingia imeelekezwa kwenye kifaa kingine</string>
+  <string name="type_outgoing_video">Simu ya video uliyopiga</string>
+  <string name="type_outgoing_video_pulled">Simu ya video unayopiga imeelekezwa kwenye kifaa kingine</string>
+  <string name="type_missed_video">Simu ya video ambayo hukupokea</string>
+  <string name="type_voicemail">Ujumbe wa sauti</string>
+  <string name="type_rejected">Simu iliyokataliwa</string>
+  <string name="type_blocked">Simu iliyozuiwa</string>
+  <string name="call_details_minutes_abbreviation">dak</string>
+  <string name="call_details_seconds_abbreviation">sek</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">\'%2$s\'%1$s \'%4$s\'%3$s</string>
+  <string name="call_duration_short_format_pattern">\'%2$s\'%1$s</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">Sekunde</item>
+    <item quantity="other">Sekunde</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">Dakika</item>
+    <item quantity="other">Dakika</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Simu uliyojibu kwenye kifaa kingine</string>
+  <string name="description_phone_account">kwenye ^1</string>
+  <string name="description_via_number">kupitia %1$s</string>
+  <string name="description_via_number_phone_account">kwenye %1$s, kupitia %2$s</string>
+  <string name="voicemail_string">Ujumbe wa sauti</string>
+  <string name="just_now">Sasa hivi</string>
+  <string name="new_call_log_carrier_video">Video kupitia mtoa huduma</string>
+  <string name="new_call_log_duo_video">Simu ya video ya Duo</string>
+  <string name="new_call_log_unknown">Haijulikani</string>
+  <string name="new_call_log_secondary_blocked">Zilizozuiwa</string>
+  <string name="new_call_log_secondary_spam">Taka</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">Simu ^1 kutoka kwa ^2 haikujibiwa</item>
+    <item quantity="other">Simu ^1, ya hivi punde ni simu kutoka kwa ^2 ambayo haikujibiwa</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">Simu ^1 kutoka kwa ^2 ilijibiwa</item>
+    <item quantity="other">Simu ^1, ya hivi punde ni simu kutoka kwa ^2 ambayo ilijibiwa</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">Simu ^1 aliyopigiwa ^2</item>
+    <item quantity="other">Simu ^1, ya hivi punde ni simu aliyopigiwa ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">Simu ^1 iliyozuiwa kutoka kwa ^2</item>
+    <item quantity="other">Simu ^1, ya hivi punde ni simu kutoka kwa ^2 ambayo imezuiwa</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">kwenye ^1, kupitia ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

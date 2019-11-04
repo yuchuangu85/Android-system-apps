@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Umsindo ozenzakalelayo (%1$s)</string>
+  <string name="ringtone_silent">Lutho</string>
+  <string name="ringtone_unknown">Ithoni yokukhala engaziwa</string>
+  <string name="activity_not_available">Alukho uhlelo lokusebenza lalokho kule divayisi</string>
+  <string name="outgoing_wps_warning">Ukwenza ikholi ye-WPS kuzonqamula ikholi yakho ekhona.</string>
+  <string name="dialog_continue">Qhubeka</string>
+  <string name="camera_privacy_text">Imvume yekhamera inikwe amandla</string>
+</resources>

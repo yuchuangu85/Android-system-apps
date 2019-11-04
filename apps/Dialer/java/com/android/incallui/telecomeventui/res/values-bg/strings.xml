@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Показване на предупреждение всеки път</string>
+  <string name="details">Обаждате се до номер в чужбина и това може да се таксува.</string>
+</resources>

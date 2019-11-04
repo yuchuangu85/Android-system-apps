@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_enable_wifi_calling_button">فعال کردن</string>
+  <string name="video_call_not_available_title">تماس ویدیویی درحال حاضر امکان‌پذیر نیست</string>
+  <string name="video_call_not_available_message">بعداً دوباره تماس بگیرید یا با تماس صوتی ادامه دهید.</string>
+  <string name="voice_call">تماس صوتی</string>
+</resources>

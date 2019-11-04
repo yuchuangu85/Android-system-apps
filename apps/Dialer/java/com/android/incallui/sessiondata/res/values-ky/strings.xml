@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">Сүрөттөрдү ачуу үчүн жооп бериңиз</string>
+  <string name="spam_message_text">Билдирүүнү ачуу үчүн жооп бериңиз</string>
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright (C) 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<!-- Used for the list of networks in the KS Connectivity Tab -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="fill_vertical"
+    android:orientation="horizontal"
+    android:weightSum="12">
+
+    <!-- Requested Active indicator -->
+    <View
+        android:id="@+id/network_active"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".1"
+        android:background="#ff3d3d">
+    </View>
+
+    <!-- Item NetId indicator -->
+    <TextView
+        android:id="@+id/network_id"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".9"
+        android:textSize="20sp"
+        android:textColor="#d4d4d4">
+    </TextView>
+
+    <!-- Set of network values we want to view -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="9">
+
+        <TextView
+            android:id="@+id/network_type"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_state"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_connected"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_available"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_roaming"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_iface"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/hw_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_ip_addresses"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_dns"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_domains"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_routes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_transports"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_capabilities"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+        <TextView
+            android:id="@+id/network_bandwidth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#d4d4d4">
+        </TextView>
+
+    </LinearLayout>
+
+    <!-- Buttons to trigger a request or something else -->
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:weightSum="3">
+
+        <Button android:id="@+id/network_request"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginBottom="2dp"
+                android:background="#505050"
+                android:text="Request"
+                android:textColor="#d4d4d4"/>
+
+        <Button android:id="@+id/network_default"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginBottom="2dp"
+                android:background="#505050"
+                android:text="Set Default"
+                android:textColor="#d4d4d4"/>
+
+        <Button android:id="@+id/network_report"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginBottom="2dp"
+                android:background="#505050"
+                android:text="Report"
+                android:textColor="#d4d4d4"/>
+
+    </LinearLayout>
+</LinearLayout>

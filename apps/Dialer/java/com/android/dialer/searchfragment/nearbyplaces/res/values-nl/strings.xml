@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Plaatsen in de buurt</string>
+  <string name="search_location_permission">Verleen toegang tot je locatie om contactgegevens te ontvangen voor plaatsen bij jou in de buurt.</string>
+  <string name="nearby_places_allow">Toestaan</string>
+  <string name="nearby_places_dismiss">Sluiten</string>
+</resources>

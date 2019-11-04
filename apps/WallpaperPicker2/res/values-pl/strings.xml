@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Tapety"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Kategorie tapet"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Ustaw tapetę"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Ustawiam tapetę…"</string>
+    <string name="try_again" msgid="8278874823700921234">"Spróbuj ponownie"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Nie można ustawić tapety."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Nie można załadować tapety. Obraz jest uszkodzony lub niedostępny."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Obecnie ustawiona"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Codzienna tapeta"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Ekran główny i ekran blokady"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Ekran główny"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Ekran blokady"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Ekran główny i ekran blokady"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Ustaw tapetę"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Ekran główny"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Ekran blokady"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Ekran główny i ekran blokady"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Tapeta z obracanym obrazem"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Aby wyświetlić tutaj bieżącą tapetę, <xliff:g id="APP_NAME">%1$s</xliff:g> musi mieć dostęp do pamięci urządzenia."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Aby wyświetlać tutaj aktualną tapetę, Tapety muszą mieć dostęp do pamięci urządzenia.\n\nTo ustawienie możesz zmienić w sekcji Uprawnienia w informacjach o aplikacji Tapety."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Zezwól na dostęp"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Animowane tapety dla tapet obracanych"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Codzienna tapeta"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Kliknij, by włączyć"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Tapeta będzie się automatycznie zmieniać każdego dnia. Aby zakończyć konfigurację, kliknij&lt;strong&gt;Ustaw tapetę&lt;/strong&gt; na kolejnym ekranie."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Pobieranie przyszłych tapet tylko przez Wi-Fi"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Dalej"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Pobieram pierwszą tapetę…"</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Nie można pobrać pierwszej tapety. Sprawdź ustawienia sieci i spróbuj ponownie."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Tapeta zmieni się automatycznie każdego dnia"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Ustawienia"</string>
+    <string name="explore" msgid="7468719504199497281">"Zobacz"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Następna tapeta"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"Opcja ustawiania tapety jest wyłączona na tym urządzeniu"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Administrator urządzenia wyłączył opcję ustawiania tapety"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Tapeta została ustawiona"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Aby wyświetlić tapety, musisz mieć połączenie z internetem. Połącz się i spróbuj jeszcze raz."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Miniatura aktualnie ustawionej tapety na ekranie głównym"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Miniatura aktualnie ustawionej tapety na ekranie blokady"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Miniatura aktualnie ustawionej tapety"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Miniatura tapety"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Przeglądaj tapety ekranu głównego"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Przeglądaj tapety ekranu blokady"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Odśwież codzienną tapetę na ekranie głównym"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Odśwież codzienną tapetę"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Odświeżam codzienną tapetę…"</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Nie udało się odświeżyć codziennej tapety. Sprawdź połączenie sieciowe i spróbuj ponownie."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Zwiń panel informacyjny tapety"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Rozwiń panel informacyjny tapety"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Tapety na urządzeniu"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"Na urządzeniu"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Tapety Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Animowane tapety"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Moje zdjęcia"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"Moje zdjęcie"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Tapeta"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Aplikacja nie jest zainstalowana."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Na środku"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Przycięta na środku"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Rozciągnięcie"</string>
+    <string name="preview" msgid="1774602101743861071">"Podgląd"</string>
+</resources>

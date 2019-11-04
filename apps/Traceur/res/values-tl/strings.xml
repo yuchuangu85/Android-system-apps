@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="system_tracing" msgid="4719188511746319848">"Pag-trace ng System"</string>
+    <string name="record_system_activity" msgid="4339462312915377825">"Itala ang aktibidad ng system at suriin ito sa ibang pagkakataon para mapahusay ang performance"</string>
+    <string name="record_trace" msgid="6416875085186661845">"Mag-record ng trace"</string>
+    <string name="trace_debuggable_applications" msgid="7957069895298887899">"Mag-trace ng mga nade-debug na application"</string>
+    <string name="categories" msgid="2280163673538611008">"Mga Kategorya"</string>
+    <string name="restore_default_categories" msgid="5090536794637169521">"I-restore ang mga default na kategorya"</string>
+    <string name="default_categories_restored" msgid="6861683793680564181">"Na-restore ang mga default na kategorya"</string>
+    <string name="default_categories" msgid="2117679794687799407">"Default"</string>
+    <plurals name="num_categories_selected" formatted="false" msgid="963928263524652497">
+      <item quantity="one">%d ang napili</item>
+      <item quantity="other">%d ang napili</item>
+    </plurals>
+    <string name="applications" msgid="521776761270770549">"Mga Application"</string>
+    <string name="no_debuggable_apps" msgid="4386209254520471208">"Walang available na nade-debug na application"</string>
+    <string name="buffer_size" msgid="3944311026715111454">"Laki ng buffer ng Per-CPU"</string>
+    <string name="show_quick_settings_tile" msgid="4971147332635291585">"Ipakita ang tile ng Mga Mabilisang Setting"</string>
+    <string name="saving_trace" msgid="1468692734770800541">"Sine-save ang trace"</string>
+    <string name="trace_saved" msgid="5869970594780992309">"Na-save ang trace"</string>
+    <string name="tap_to_share" msgid="6766732404489536899">"I-tap para ibahagi ang iyong trace"</string>
+    <string name="stop_tracing" msgid="8916938308534164152">"Ihinto ang pag-trace"</string>
+    <string name="tracing_categories_unavailable" msgid="5609076391417077752">"Hindi available ang ilang kategorya ng pag-trace:"</string>
+    <string name="trace_is_being_recorded" msgid="5947378146009337469">"Nire-record ang trace"</string>
+    <string name="tap_to_stop_tracing" msgid="6533282719573871806">"I-tap upang ihinto ang pag-trace"</string>
+    <string name="clear_saved_traces" msgid="4809195654452260944">"I-clear ang mga naka-save na trace"</string>
+    <string name="clear_saved_traces_question" msgid="2184026613055303818">"I-clear ang mga naka-save na trace?"</string>
+    <string name="all_traces_will_be_deleted" msgid="6646545462206955920">"Made-delete ang lahat ng trace sa /data/local/traces"</string>
+    <string name="clear" msgid="5484761795406948056">"I-clear"</string>
+    <string name="system_traces_storage_title" msgid="8294090839883366871">"Mga trace ng system"</string>
+    <string name="keywords" msgid="736547007949049535">"systrace, trace, performance"</string>
+    <string name="share_trace" msgid="4528525067822044385">"Ibahagi ang trace?"</string>
+    <string name="system_trace_sensitive_data" msgid="3069389866696009549">"Ang mga file ng Pag-trace ng System ay maaaring may sensitibong data ng system at app (gaya ng paggamit ng app). Ibahagi lang ang mga trace ng system sa mga tao at app na pinakakatiwalaan mo."</string>
+    <string name="share" msgid="8443979083706282338">"Ibahagi"</string>
+    <string name="dont_show_again" msgid="6662492041164390600">"Huwag ipakitang muli"</string>
+    <string name="use_perfetto_beta" msgid="2725630143916520160">"Gamitin ang Perfetto (beta)"</string>
+    <string name="long_traces" msgid="5110949471775966329">"Mga long trace"</string>
+    <string name="long_traces_summary" msgid="419034282946761469">"Tuloy-tuloy na sine-save sa storage ng device"</string>
+    <string name="max_long_trace_size" msgid="1943788179787181241">"Maximum na laki ng long trace"</string>
+    <string name="max_long_trace_duration" msgid="8009837944364246785">"Maximum na tagal ng long trace"</string>
+    <string name="two_hundred_mb" msgid="4950018549725084512">"200 MB"</string>
+    <string name="one_gb" msgid="590396985168692037">"1 GB"</string>
+    <string name="five_gb" msgid="7883941043220621649">"5 GB"</string>
+    <string name="ten_gb" msgid="4150452462544299276">"10 GB"</string>
+    <string name="twenty_gb" msgid="5717308686812140465">"20 GB"</string>
+    <string name="ten_minutes" msgid="7039181194343961324">"10 minuto"</string>
+    <string name="thirty_minutes" msgid="2575810799813531395">"30 minuto"</string>
+    <string name="one_hour" msgid="5219232935307966891">"1 oras"</string>
+    <string name="eight_hours" msgid="3207620892104451552">"8 oras"</string>
+    <string name="twelve_hours" msgid="4647143276394563496">"12 oras"</string>
+    <string name="twentyfour_hours" msgid="2789663313550030791">"24 na oras"</string>
+    <string name="four_thousand_kb" msgid="5156346740862105703">"4096 KB"</string>
+    <string name="eight_thousand_kb" msgid="8815334985638334081">"8192 KB"</string>
+    <string name="sixteen_thousand_kb" msgid="7342517169232459259">"16384 KB"</string>
+    <string name="thirtytwo_thousand_kb" msgid="654328198799196150">"32768 KB"</string>
+    <string name="sixtyfive_thousand_kb" msgid="8168144138598305306">"65536 KB"</string>
+</resources>

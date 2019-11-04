@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Afișați avertismentul de fiecare dată</string>
+  <string name="details">Apelați un număr internațional și se pot aplica taxe.</string>
+</resources>

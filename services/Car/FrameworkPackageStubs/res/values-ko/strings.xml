@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="6179574017413146651">"활동 스텁"</string>
+    <string name="message_not_supported" msgid="133939962837892495">"이 작업을 처리할 수 있는 애플리케이션이 없음"</string>
+    <string name="stub_name" msgid="3987164490218189006">"없음"</string>
+</resources>

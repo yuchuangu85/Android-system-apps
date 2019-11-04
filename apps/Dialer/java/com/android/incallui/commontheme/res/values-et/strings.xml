@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Kõne lõpetamine</string>
+  <string name="incall_content_description_muted">Vaigistatud</string>
+  <string name="incall_content_description_unmuted">Vaigistus on tühistatud</string>
+  <string name="incall_content_description_swap_calls">Kõne vahetamine</string>
+  <string name="incall_content_description_swap_sim">SIM-kaardi muutmine</string>
+  <string name="incall_content_description_merge_calls">Kõnede ühendamine</string>
+  <string name="incall_content_description_earpiece">Käsitelefoni kuular</string>
+  <string name="incall_content_description_speaker">Kõlar</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Juhtmega peakomplekt</string>
+  <string name="incall_content_description_hold">Kõne ootele</string>
+  <string name="incall_content_description_unhold">Jätka kõnet</string>
+  <string name="incall_content_description_video_on">Video on sees</string>
+  <string name="incall_content_description_video_off">Video on väljas</string>
+  <string name="incall_content_description_swap_video">Video vahetamine</string>
+  <string name="incall_label_speaker">Kõlar</string>
+  <string name="incall_label_audio">Heli</string>
+</resources>

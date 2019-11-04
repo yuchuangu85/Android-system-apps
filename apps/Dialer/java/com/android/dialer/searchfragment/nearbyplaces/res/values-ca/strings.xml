@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Llocs propers</string>
+  <string name="search_location_permission">Permet l\'accés a la teva ubicació per obtenir la informació de contacte dels llocs propers.</string>
+  <string name="nearby_places_allow">Permet</string>
+  <string name="nearby_places_dismiss">Ignora</string>
+</resources>

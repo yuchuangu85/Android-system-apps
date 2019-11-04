@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">ວິດີໂອຂອງເຂົາເຈົ້າປິດຢູ່</string>
+  <string name="videocall_remote_video_on">ເຂົາເຈົ້າເປີດວິດີໂອຢູ່</string>
+  <string name="videocall_remotely_held">ພັກສາຍຢູ່</string>
+  <string name="videocall_remotely_resumed">ສືບຕໍ່ສາຍແລ້ວ</string>
+  <string name="videocall_charges_alert_dialog_description">ການໂທວິດີໂອຜ່ານເຄືອຂ່າຍມືຖືຈະໃຊ້ທັງນາທີໂທສຽງ ແລະ ອິນເຕີເນັດມືຖື. ອາດມີຄ່າບໍລິການ.</string>
+  <string name="do_not_show_again">ບໍ່ຕ້ອງສະແດງອີກ</string>
+</resources>

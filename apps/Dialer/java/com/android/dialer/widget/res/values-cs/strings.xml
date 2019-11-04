@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">Napište vlastní zprávu</string>
+  <string name="toolbar_close">Zavřít</string>
+  <string name="all_contacts_empty">Zatím nemáte žádné kontakty</string>
+  <string name="all_contacts_empty_add_contact_action">Vytvořit nový kontakt</string>
+  <string name="permission_single_turn_on">Povolit</string>
+  <string name="permission_no_contacts">Pokud chcete zobrazit kontakty, povolte aplikaci přístup ke Kontaktům.</string>
+  <string name="add_contact_not_available">Není k dispozici žádná aplikace pro práci s kontakty</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="custom_message_hint">カスタム メッセージを入力</string>
+  <string name="toolbar_close">閉じる</string>
+  <string name="all_contacts_empty">連絡先はありません</string>
+  <string name="all_contacts_empty_add_contact_action">新しい連絡先を作成</string>
+  <string name="permission_single_turn_on">ON にする</string>
+  <string name="permission_no_contacts">連絡先を表示するには、連絡先へのアクセスを許可する設定を ON にしてください。</string>
+  <string name="add_contact_not_available">利用できる連絡先アプリがありません</string>
+</resources>

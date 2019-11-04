@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Үндсэн дуу (%1$s)</string>
+  <string name="ringtone_silent">Байхгүй</string>
+  <string name="ringtone_unknown">Үл мэдэгдэх хонхны ая</string>
+  <string name="activity_not_available">Энэхүү төхөөрөмж дээр тухайн үйлдлийг гүйцэтгэх апликейшн байхгүй байна.</string>
+  <string name="outgoing_wps_warning">WPS дуудлага хийвэл одоо байгаа дуудлагыг таслах болно.</string>
+  <string name="dialog_continue">Үргэлжлүүлэх</string>
+  <string name="camera_privacy_text">Камерын зөвшөөрлийг идэвхжүүлсэн</string>
+</resources>

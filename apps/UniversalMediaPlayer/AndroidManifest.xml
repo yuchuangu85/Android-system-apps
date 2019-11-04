@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2018 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.pump">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:name=".app.PumpApplication"
+        android:label="Personal Universal MediaPlayer"
+        android:theme="@style/PumpTheme"
+        android:icon="@null"
+        android:supportsRtl="true"
+        android:allowBackup="false"
+        android:appCategory="video">
+
+        <activity
+            android:name=".activity.PumpActivity"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".activity.ActivityStarterActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+
+        <activity
+            android:name=".activity.ArtistDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.AlbumDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.GenreDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.PlaylistDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.MovieDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.SeriesDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.OtherDetailsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name=".activity.AudioPlayerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <!-- TODO(b/123768134) Investigate which schemes, mime types, etc to support -->
+                <data android:scheme="content"/>
+                <data android:mimeType="audio/*"/>
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".activity.VideoPlayerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <!-- TODO(b/123768100) Investigate which schemes, mime types, etc to support -->
+                <data android:scheme="content"/>
+                <data android:mimeType="video/*"/>
+            </intent-filter>
+
+        </activity>
+
+        <!-- TODO(b/123711288) Handle music app intents;
+                  https://developer.android.com/reference/android/content/Intent.html#CATEGORY_APP_MUSIC
+                  https://developer.android.com/reference/android/provider/MediaStore.html#INTENT_ACTION_MUSIC_PLAYER -->
+
+        <!-- TODO(b/123711069) Handle play from search;
+                  https://developer.android.com/guide/components/intents-common#PlaySearch
+                  https://developer.android.com/reference/android/provider/MediaStore.html#INTENT_ACTION_MEDIA_PLAY_FROM_SEARCH
+                  https://developer.android.com/reference/android/provider/MediaStore#INTENT_ACTION_MEDIA_SEARCH
+                  https://developer.android.com/reference/android/provider/MediaStore#INTENT_ACTION_TEXT_OPEN_FROM_SEARCH
+                  https://developer.android.com/reference/android/provider/MediaStore#INTENT_ACTION_VIDEO_PLAY_FROM_SEARCH -->
+
+    </application>
+
+</manifest>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">ఇన్‌కమింగ్ కాల్</string>
+  <string name="type_incoming_pulled">ఇన్‌కమింగ్ కాల్ మరొక పరికరానికి బదిలీ చేయబడింది</string>
+  <string name="type_outgoing">అవుట్‌గోయింగ్ కాల్</string>
+  <string name="type_outgoing_pulled">అవుట్‌గోయింగ్ కాల్ మరొక పరికరానికి బదిలీ చేయబడింది</string>
+  <string name="type_missed">సమాధానమివ్వని కాల్</string>
+  <string name="type_incoming_video">ఇన్‌కమింగ్ వీడియో కాల్</string>
+  <string name="type_incoming_video_pulled">ఇన్‌కమింగ్ వీడియో కాల్ మరొక పరికరానికి బదిలీ చేయబడింది</string>
+  <string name="type_outgoing_video">అవుట్‌గోయింగ్ వీడియో కాల్</string>
+  <string name="type_outgoing_video_pulled">అవుట్‌గోయింగ్ వీడియో కాల్ మరొక పరికరానికి బదిలీ చేయబడింది</string>
+  <string name="type_missed_video">సమాధానమివ్వని వీడియో కాల్‌</string>
+  <string name="type_voicemail">వాయిస్ మెయిల్</string>
+  <string name="type_rejected">నిరాకరించిన కాల్</string>
+  <string name="type_blocked">బ్లాక్ చేసిన కాల్</string>
+  <string name="call_details_minutes_abbreviation">ని</string>
+  <string name="call_details_seconds_abbreviation">సె</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">సెకను</item>
+    <item quantity="other">సెకన్లు</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">నిమిషం</item>
+    <item quantity="other">నిమిషాలు</item>
+  </plurals>
+  <string name="type_answered_elsewhere">కాల్‌కి మరొక పరికరంలో సమాధానం ఇవ్వబడింది</string>
+  <string name="description_phone_account">^1లో</string>
+  <string name="description_via_number">%1$s ద్వారా</string>
+  <string name="description_via_number_phone_account">%1$sలో, %2$s ద్వారా</string>
+  <string name="voicemail_string">వాయిస్ మెయిల్</string>
+  <string name="just_now">ఇప్పుడే</string>
+  <string name="new_call_log_carrier_video">క్యారియర్ వీడియో</string>
+  <string name="new_call_log_duo_video">Duo వీడియో</string>
+  <string name="new_call_log_unknown">తెలియదు</string>
+  <string name="new_call_log_secondary_blocked">బ్లాక్ చేయబడింది</string>
+  <string name="new_call_log_secondary_spam">స్పామ్</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2 నుండి ^1 మిస్డ్ కాల్</item>
+    <item quantity="other">^2 నుండి ^1 కాల్‌లు, తాజాది మిస్డ్ కాల్</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2 నుండి ^1 సమాధానం ఇచ్చిన కాల్</item>
+    <item quantity="other">^2 నుండి ^1 కాల్‌లు, తాజాది సమాధానం ఇచ్చిన కాల్</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^2కు ^1 అవుట్‌గోయింగ్ కాల్</item>
+    <item quantity="other">^2కు ^1 కాల్‌లు, తాజాది అవుట్‌గోయింగ్ కాల్‌లు</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2 నుండి ^1 బ్లాక్ చేయబడిన కాల్</item>
+    <item quantity="other">^2 నుండి ^1 కాల్‌లు, తాజాది బ్లాక్ చేయబడిన కాల్</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1లో,
+    ^2 ద్వారా</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

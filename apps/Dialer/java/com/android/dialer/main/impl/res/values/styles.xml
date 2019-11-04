@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2017 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License
+  -->
+<resources>
+
+  <!-- Activities should use this theme as their style -->
+  <style name="MainActivityTheme" parent="MainActivityThemeBase"/>
+
+  <style name="MainActivityTheme.Dark" parent="MainActivityTheme.Dark"/>
+
+  <!-- Used as a procy for values-v27/styles.xml -->
+  <style name="MainActivityThemeBase" parent="Dialer.ThemeBase.NoActionBar">
+    <!-- Required for actionmode/multiselect to render properly. -->
+    <!-- TODO(a bug): Check to see if we can remove this after NewVoicemailFragment launches -->
+    <item name="actionModeStyle">@style/MainActionModeStyle</item>
+    <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    <item name="dialpad_style">@style/Dialpad.Themed</item>
+  </style>
+
+  <style name="MainActivityThemeBase.Dark" parent="Dialer.Dark.ThemeBase.NoActionBar">
+    <!-- Required for actionmode/multiselect to render properly. -->
+    <!-- TODO(a bug): Check to see if we can remove this after NewVoicemailFragment launches -->
+    <item name="actionModeStyle">@style/MainActionModeStyle</item>
+    <item name="actionBarTheme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    <item name="dialpad_style">@style/Dialpad.Themed</item>
+  </style>
+
+  <!-- Colors our actionbar in action mode to dialer theme color. -->
+  <style name="MainActionModeStyle" parent="@style/Widget.AppCompat.ActionMode">
+    <item name="background">?android:attr/colorPrimary</item>
+    <item name="titleTextStyle">@style/ActionModeTitleTextStyle</item>
+  </style>
+
+  <!-- Colors our actionbar text in action mode to dialer white text color. -->
+  <style name="ActionModeTitleTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionMode.Title">
+    <item name="android:textColor">?android:attr/textColorPrimary</item>
+  </style>
+</resources>

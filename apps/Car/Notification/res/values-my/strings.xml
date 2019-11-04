@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Copyright (C) 2018 The Android Open Source Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assist_action_play_label" msgid="6278705468288338172">"ဖွင့်ရန်"</string>
+    <string name="action_mute_short" msgid="5239851786101022633">"ဖျောက်ထားရန်"</string>
+    <string name="action_mute_long" msgid="6846675719189989477">"စကားဝိုင်းကို အသံပိတ်ထားရန်"</string>
+    <string name="action_unmute_short" msgid="7157822835069715986">"ပြန်ဖွင့်ပါ"</string>
+    <string name="action_unmute_long" msgid="22482625837159466">"စကားဝိုင်းကို အသံပြန်ဖွင့်ရန်"</string>
+    <string name="action_canned_reply" msgid="4045960823021872834">"\"ယခု ကားမောင်းနေသည်။\""</string>
+    <string name="canned_reply_message" msgid="7959257272917598063">"ကျွန်ုပ် ယခု ကားမောင်းနေသည်။"</string>
+    <string name="toast_message_sent_success" msgid="1159956191974273064">"မက်ဆေ့ဂျ် ပို့ပြီးပါပြီ။"</string>
+    <string name="notification_service_label" msgid="7512186049723777468">"ကားအကြောင်းကြားချက် နားဆင်စနစ် ဝန်ဆောင်မှု"</string>
+    <string name="notifications" msgid="2865534625906329283">"အကြောင်းကြားချက် စင်တာ"</string>
+    <string name="clear_all" msgid="1845314281571237722">"အားလုံး ဖယ်ရန်"</string>
+    <string name="ellipsized_string" msgid="6993649229498857557">"…"</string>
+    <string name="show_more" msgid="7291378544926443344">"နောက်ထပ် ပြရန်"</string>
+    <string name="notification_header" msgid="324550431063568049">"အကြောင်းကြားချက်များ"</string>
+    <string name="empty_notification_header" msgid="4928379791607839720">"အကြောင်းကြားချက် မရှိ"</string>
+    <string name="show_less" msgid="7342677676229302829">"လျှော့ပြရန်"</string>
+    <string name="show_count_more" msgid="480555295700318609">"<xliff:g id="COUNT">%d</xliff:g> ခု ထပ်ပြရန်"</string>
+    <string name="message_unshown_count" msgid="2234421277246741233">" +<xliff:g id="COUNT">%d</xliff:g> ခု ထပ်ရှိ"</string>
+    <plurals name="restricted_message_text" formatted="false" msgid="507312322886633308">
+      <item quantity="other">မက်ဆေ့ဂျ်သစ် <xliff:g id="COUNT">%d</xliff:g> စောင်</item>
+      <item quantity="one">မက်ဆေ့ဂျ်သစ် ၁ စောင်</item>
+    </plurals>
+</resources>

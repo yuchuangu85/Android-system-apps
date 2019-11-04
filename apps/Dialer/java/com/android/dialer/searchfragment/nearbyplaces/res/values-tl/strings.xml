@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Mga kalapit na lugar</string>
+  <string name="search_location_permission">Upang makakuha ng impormasyon ng contact para sa mga lugar na malapit sa iyo, magbigay ng access sa iyong lokasyon.</string>
+  <string name="nearby_places_allow">Payagan</string>
+  <string name="nearby_places_dismiss">I-dismiss</string>
+</resources>

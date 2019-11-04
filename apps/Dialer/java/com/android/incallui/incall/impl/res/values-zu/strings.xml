@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Ikholi yevidiyo ye-Hangout</string>
+  <string name="incall_label_rttcall">I-RTT</string>
+  <string name="incall_label_hold">Bamba</string>
+  <string name="incall_label_add_call">Engeza ikholi</string>
+  <string name="incall_label_mute">Thulisa</string>
+  <string name="incall_label_end_call">Qeda ikholi</string>
+  <string name="incall_label_dialpad">Ikhiphedi</string>
+  <string name="incall_talkback_speaker_on">, ivuliwe</string>
+  <string name="incall_talkback_speaker_off">, ivaliwe</string>
+  <string name="incall_label_merge">Hlanganisa</string>
+  <string name="incall_label_manage">Phatha</string>
+  <string name="a11y_description_incall_label_manage_content">Phatha abashayi</string>
+  <string name="incall_label_swap">Shintsha</string>
+  <string name="incall_label_swap_sim">Shintsha i-SIM</string>
+  <string name="incall_note_sent">Inothi lithunyelwe</string>
+</resources>

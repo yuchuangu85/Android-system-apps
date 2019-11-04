@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Jasotako deia</string>
+  <string name="type_incoming_pulled">Beste gailu batera transferitu da jasotako deia</string>
+  <string name="type_outgoing">Egindako deia</string>
+  <string name="type_outgoing_pulled">Beste gailu batera transferitu da egindako deia</string>
+  <string name="type_missed">Dei galdua</string>
+  <string name="type_incoming_video">Jasotako bideo-deia</string>
+  <string name="type_incoming_video_pulled">Beste gailu batera transferitu da jasotako bideo-deia</string>
+  <string name="type_outgoing_video">Egindako bideo-deia</string>
+  <string name="type_outgoing_video_pulled">Beste gailu batera transferitu da egindako bideo-deia</string>
+  <string name="type_missed_video">Bideo-dei galdua</string>
+  <string name="type_voicemail">Erantzungailua</string>
+  <string name="type_rejected">Baztertutako deia</string>
+  <string name="type_blocked">Blokeatutako deia</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' \'eta\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">segundo</item>
+    <item quantity="other">segundo</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minutu</item>
+    <item quantity="other">minutu</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Beste gailu batean erantzun zaio deiari</string>
+  <string name="description_phone_account">^1 kontuan</string>
+  <string name="description_via_number">%1$s bidez</string>
+  <string name="description_via_number_phone_account">%1$s kontuan, %2$s bidez</string>
+  <string name="voicemail_string">Erantzungailua</string>
+  <string name="just_now">Oraintxe</string>
+  <string name="new_call_log_carrier_video">Operadorearen bideo-deia</string>
+  <string name="new_call_log_duo_video">Duo bideo-deia</string>
+  <string name="new_call_log_unknown">Ezezaguna</string>
+  <string name="new_call_log_secondary_blocked">Blokeatutakoak</string>
+  <string name="new_call_log_secondary_spam">Spama</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 dei galdu (^2)</item>
+    <item quantity="other">^1 dei (azken deia ^2 erabiltzailearen dei galdua da)</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">Erantzundako ^1 dei (^2)</item>
+    <item quantity="other">^1 dei (azken deia ^2 erabiltzaileari erantzundako deia da)</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">Egindako ^1 dei (^2)</item>
+    <item quantity="other">^1 dei (azken deia ^2 erabiltzaileari egindako deia da)</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">Blokeatutako ^1 dei (^2)</item>
+    <item quantity="other">^1 dei (azken deia ^2 erabiltzailearen blokeatutako deia da)</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 txartela,
+    ^2 zenbakiaren bidez</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

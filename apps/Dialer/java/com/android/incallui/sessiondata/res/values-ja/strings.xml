@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="spam_photo_text">応答して写真を表示</string>
+  <string name="spam_message_text">応答してメッセージを表示</string>
+</resources>

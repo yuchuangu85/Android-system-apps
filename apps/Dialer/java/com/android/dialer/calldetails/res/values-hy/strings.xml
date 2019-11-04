@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">Զանգի մանրամասները</string>
+  <string name="delete">Ջնջել</string>
+  <string name="call_details_copy_number">Պատճենել համարը</string>
+  <string name="call_details_edit_number">Փոփոխել համարը զանգելուց առաջ</string>
+  <string name="call_details_report_call_id">Հաղորդել սխալ համարի մասին</string>
+  <string name="sent_a_photo">Ուղարկվել է լուսանկար</string>
+  <string name="received_a_photo">Ստացվել է լուսանկար</string>
+  <string name="message_in_quotes">«%1$s»</string>
+  <string name="report_caller_id_dialog_title">Հաղորդում սխալ համարի մասին</string>
+  <string name="report_caller_id_failed">Չհաջողվեց ուղարկել հաղորդումը</string>
+  <string name="report_caller_id_toast">Հաղորդումն ուղարկվեց</string>
+  <string name="assisted_dialing_country_code_entry">Օգնություն համարհավաքման ժամանակ. օգտագործվող կոդը՝ +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">Օգտագործվեց օգնությունը համարհավաքման ժամանակ</string>
+  <string name="rtt_transcript_not_available">Տառադրումը հասանելի է միայն հաղորդագրություններով զանգերի համար</string>
+  <string name="rtt_transcript_link">Տեսնել տառադրումը</string>
+</resources>

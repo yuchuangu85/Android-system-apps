@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Qeda ikholi</string>
+  <string name="incall_content_description_muted">Kuthulisiwe</string>
+  <string name="incall_content_description_unmuted">Kususwe ukuthula</string>
+  <string name="incall_content_description_swap_calls">Shintsha amakholi</string>
+  <string name="incall_content_description_swap_sim">Shintsha i-SIM</string>
+  <string name="incall_content_description_merge_calls">Hlanganisa amakholi</string>
+  <string name="incall_content_description_earpiece">Ucezulwendlebe lwe-Handset</string>
+  <string name="incall_content_description_speaker">Isipikha</string>
+  <string name="incall_content_description_bluetooth">I-Bluetooth</string>
+  <string name="incall_content_description_headset">I-headset enezincingo</string>
+  <string name="incall_content_description_hold">Bamba ikholi</string>
+  <string name="incall_content_description_unhold">Qhubekisa ikholi</string>
+  <string name="incall_content_description_video_on">Ividiyo ivuliwe</string>
+  <string name="incall_content_description_video_off">Ividiyo ivaliwe</string>
+  <string name="incall_content_description_swap_video">Shintsha ividiyo</string>
+  <string name="incall_label_speaker">Isipikha</string>
+  <string name="incall_label_audio">Umsindo</string>
+</resources>

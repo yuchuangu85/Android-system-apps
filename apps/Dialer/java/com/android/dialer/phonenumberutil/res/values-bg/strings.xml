@@ -1,0 +1,4 @@
+<resources>
+  <string name="private_num_verizon">Ограничен</string>
+  <string name="private_num_non_verizon">Частен номер</string>
+</resources>

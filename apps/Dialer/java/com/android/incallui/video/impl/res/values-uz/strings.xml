@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">Suhbatdosh video kamerasi o‘chiq</string>
+  <string name="videocall_remote_video_on">Suhbatdosh kamerasi yoniq</string>
+  <string name="videocall_remotely_held">Kutish holatida</string>
+  <string name="videocall_remotely_resumed">Qo‘ng‘iroq tiklandi</string>
+  <string name="videocall_charges_alert_dialog_description">Mobil tarmoq orqali amalga oshirilgan video chaqiruvlar uchun ham mobil aloqa daqiqalari va ham internet trafigi sarflanadi. Chaqiruv uchun haq olinishi mumkin.</string>
+  <string name="do_not_show_again">Boshqa ko‘rsatilmasin</string>
+</resources>

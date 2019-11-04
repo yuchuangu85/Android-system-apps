@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Prikaži upozorenje svaki put</string>
+  <string name="details">Upućujete međunarodni poziv i možda se naplaćuju dodatne naknade.</string>
+</resources>

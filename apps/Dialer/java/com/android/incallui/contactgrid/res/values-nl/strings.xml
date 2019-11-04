@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Bellen via %s</string>
+  <string name="incall_calling_on_same_carrier_template">Op dezelfde provider %s bellen</string>
+  <string name="incall_calling_on_recent_choice_template">Op recente keuze %s bellen</string>
+  <string name="incall_connecting">Bellen…</string>
+  <string name="incall_connecting_assited_dialed">Bellen met +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">+%1$s (%2$s) gebruiken…</string>
+  <string name="incall_transferring">Overzetten…</string>
+  <string name="incall_video_call_requesting">Videogesprek via provider…</string>
+  <string name="incall_wifi_video_call_requesting">Wifi-videogesprek via provider…</string>
+  <string name="incall_video_call_upgrade_request">Overschakelen naar videogesprek via provider…</string>
+  <string name="incall_video_call_request_failed">Kan geen verbinding maken</string>
+  <string name="incall_video_call_request_rejected">Oproep geweigerd</string>
+  <string name="incall_video_call_request_timed_out">Time-out tijdens oproep</string>
+  <string name="incall_hanging_up">Ophangen</string>
+  <string name="incall_call_ended">Oproep beëindigd</string>
+  <string name="incall_remotely_held">In de wacht</string>
+  <string name="contact_grid_incoming_video_call">Videogesprek via je provider met</string>
+  <string name="contact_grid_incoming_wifi_video_call">Wifi-videogesprek via je provider met</string>
+  <string name="contact_grid_incoming_voice_call">Oproep van</string>
+  <string name="contact_grid_incoming_work_call">Zakelijke oproep van</string>
+  <string name="contact_grid_incoming_via_template">Inkomend via %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Vermoedelijke spambeller</string>
+  <string name="contact_grid_callback_number">Dit telefoonnummer: %1$s</string>
+</resources>

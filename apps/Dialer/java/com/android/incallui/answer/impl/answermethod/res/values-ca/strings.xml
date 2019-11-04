@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_answer">Llisca cap amunt per respondre</string>
+  <string name="call_incoming_swipe_to_reject">Llisca cap avall per rebutjar</string>
+  <string name="a11y_incoming_call_swipe_to_answer">Llisca cap amunt amb dos dits per respondre a la trucada o cap avall per rebutjar-la</string>
+  <string name="call_incoming_will_disconnect">Si respons a aquesta trucada, la videotrucada finalitzarà</string>
+  <string name="a11y_call_incoming_decline_description">Rebutja</string>
+  <string name="call_incoming_decline">Rebutja</string>
+  <string name="a11y_call_incoming_answer_description">Respon</string>
+  <string name="call_incoming_answer">Respon</string>
+</resources>

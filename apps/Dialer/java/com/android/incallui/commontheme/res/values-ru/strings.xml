@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Завершить вызов</string>
+  <string name="incall_content_description_muted">Звук выключен</string>
+  <string name="incall_content_description_unmuted">Звук включен</string>
+  <string name="incall_content_description_swap_calls">Переключиться на другой вызов</string>
+  <string name="incall_content_description_swap_sim">Сменить SIM-карту</string>
+  <string name="incall_content_description_merge_calls">Объединить вызовы</string>
+  <string name="incall_content_description_earpiece">Динамик телефона</string>
+  <string name="incall_content_description_speaker">Динамик</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Проводная гарнитура</string>
+  <string name="incall_content_description_hold">Удерживать вызов</string>
+  <string name="incall_content_description_unhold">Возобновить вызов</string>
+  <string name="incall_content_description_video_on">Камера включена</string>
+  <string name="incall_content_description_video_off">Камера выключена</string>
+  <string name="incall_content_description_swap_video">Включить/выключить камеру</string>
+  <string name="incall_label_speaker">Динамик</string>
+  <string name="incall_label_audio">Звук</string>
+</resources>

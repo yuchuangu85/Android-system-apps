@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="call_details">ზარის დეტალები</string>
+  <string name="delete">წაშლა</string>
+  <string name="call_details_copy_number">ნომრის კოპირება</string>
+  <string name="call_details_edit_number">ნომრის რედაქტირება დარეკვამდე</string>
+  <string name="call_details_report_call_id">არაზუსტი ნომრის შეტყობინება</string>
+  <string name="sent_a_photo">ფოტო გაიგზავნა</string>
+  <string name="received_a_photo">მიღებულია ფოტო</string>
+  <string name="message_in_quotes">„%1$s“</string>
+  <string name="report_caller_id_dialog_title">არასწორი ნომრის შეტყობინება</string>
+  <string name="report_caller_id_failed">ნომრის შეტყობინება ვერ მოხერხდა</string>
+  <string name="report_caller_id_toast">ნომერი შეტყობინებულია</string>
+  <string name="assisted_dialing_country_code_entry">აკრეფის დახმარება: გამოყენებულია ქვეყნის კოდი +%1$s</string>
+  <string name="assisted_dialing_country_code_entry_failure">გამოყენებულია აკრეფის დახმარება</string>
+  <string name="rtt_transcript_not_available">ტრანსკრიპტები ხელმისაწვდომია მხოლოდ ზარებისთვის შეტყობინებებით</string>
+  <string name="rtt_transcript_link">ტრანსკრიპტის ნახვა</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Favoritos</string>
+  <string name="suggestions_header">Frequentes</string>
+  <string name="speed_dial_add_button_text">Adicionar</string>
+  <string name="speed_dial_remember_this_choice">Lembrar esta escolha</string>
+  <string name="speed_dial_disambig_dialog_title">Escolha o tipo de chamada</string>
+  <string name="disambig_option_video_call">Videochamada</string>
+  <string name="disambig_option_voice_call">Ligar</string>
+  <string name="add_favorite_activity_title">Adicionar favorito</string>
+  <string name="contact_menu_voice_call">Chamada de Voz</string>
+  <string name="contact_menu_video_call">Videochamada</string>
+  <string name="contact_menu_message">Mensagem</string>
+  <string name="contact_menu_remove">Remover</string>
+  <string name="contact_menu_contact_info">Info. contacto</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Adicionar favorito</string>
+  <string name="speed_dial_contacts_permission_description">Para ativar a marcação rápida, ative a autorização Contactos.</string>
+  <string name="speed_dial_turn_on_contacts_permission">Ativar</string>
+  <string name="speed_dial_no_contacts_description">Não adicionou ainda nenhum favorito</string>
+  <string name="speed_dial_no_contacts_action_text">Adicionar favorito</string>
+  <string name="speed_dial_remove_favorites">Remover dos favoritos</string>
+</resources>

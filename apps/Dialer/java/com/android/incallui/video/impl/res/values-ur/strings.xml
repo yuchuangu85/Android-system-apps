@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="videocall_remote_video_off">ان کی ویڈیو آف ہے</string>
+  <string name="videocall_remote_video_on">ان کی ویڈیو آن ہے</string>
+  <string name="videocall_remotely_held">کال ہولڈ پر ہے</string>
+  <string name="videocall_remotely_resumed">کال دوبارہ شروع ہو گئی</string>
+  <string name="videocall_charges_alert_dialog_description">موبائل نیٹ ورک پر کی گئی ویڈیو کالز ڈیٹا اور صوتی منٹ دونوں کا استعمال کرتی ہیں۔ چارجز لاگو ہوسکتے ہیں۔</string>
+  <string name="do_not_show_again">دوبارہ نہ دکھائیں</string>
+</resources>

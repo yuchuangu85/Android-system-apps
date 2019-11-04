@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">අවට ස්ථාන</string>
+  <string name="search_location_permission">ඔබ අසල ස්ථාන සඳහා සම්බන්ධතා තොරතුරු ලබා ගැනීමට, ඔබේ ස්ථානයට ප්‍රවේශය ඉඩ දෙන්න.</string>
+  <string name="nearby_places_allow">ඉඩ දෙන්න</string>
+  <string name="nearby_places_dismiss">ඉවත ලන්න</string>
+</resources>

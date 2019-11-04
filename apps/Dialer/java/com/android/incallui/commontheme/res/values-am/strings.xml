@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">ጥሪ ጨርስ</string>
+  <string name="incall_content_description_muted">ድምፀ-ከል ተደርጎበታል</string>
+  <string name="incall_content_description_unmuted">ድምጸ-ከል ተነስቷል</string>
+  <string name="incall_content_description_swap_calls">ጥሪዎች አገላብጥ</string>
+  <string name="incall_content_description_swap_sim">ሲም ቀይር</string>
+  <string name="incall_content_description_merge_calls">ጥሪዎችን አዋህድ</string>
+  <string name="incall_content_description_earpiece">የስልክ እጀታ ማዳመጫ</string>
+  <string name="incall_content_description_speaker">የድምጽ ማጉያ</string>
+  <string name="incall_content_description_bluetooth">ብሉቱዝ</string>
+  <string name="incall_content_description_headset">ባለ ገመድ ማዳመጫ</string>
+  <string name="incall_content_description_hold">ጥሪ ይዘህ ቆይ</string>
+  <string name="incall_content_description_unhold">ጥሪ ከቆመበት ቀጥል</string>
+  <string name="incall_content_description_video_on">ቪዲዮ በርቷል</string>
+  <string name="incall_content_description_video_off">ቪዲዮ ጠፍቷል</string>
+  <string name="incall_content_description_swap_video">ቪዲዮ አገላብጥ</string>
+  <string name="incall_label_speaker">የድምጽ ማጉያ</string>
+  <string name="incall_label_audio">ድምፅ</string>
+</resources>

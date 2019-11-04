@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">ការ​ហៅ​ចូល</string>
+  <string name="type_incoming_pulled">ការ​ហៅ​ចូល​ត្រូវ​បាន​បញ្ជូន​ទៅ​ឧបករណ៍​ផ្សេង</string>
+  <string name="type_outgoing">ការ​ហៅ​ចេញ</string>
+  <string name="type_outgoing_pulled">ការ​ហៅ​ចេញ​ត្រូវ​បាន​បញ្ជូន​ទៅ​ឧបករណ៍​ផ្សេង</string>
+  <string name="type_missed">ខកខាន​ទទួល</string>
+  <string name="type_incoming_video">ការ​ហៅចូល​តាម​​វីដេអូ​</string>
+  <string name="type_incoming_video_pulled">ការ​ហៅ​ចូល​ត្រូវ​បាន​បញ្ជូន​ទៅ​ឧបករណ៍​ផ្សេង</string>
+  <string name="type_outgoing_video">ការ​ហៅចេញ​​​តាម​វីដេអូ</string>
+  <string name="type_outgoing_video_pulled">ការ​ហៅ​ចេញ​ត្រូវ​បាន​បញ្ជូន​ទៅ​ឧបករណ៍​ផ្សេង</string>
+  <string name="type_missed_video">ការ​ហៅ​តាម​វីដេអូ​ដែល​បាន​ខកខាន</string>
+  <string name="type_voicemail">សារ​ជា​សំឡេង</string>
+  <string name="type_rejected">ការហៅដែលបានបដិសេធ</string>
+  <string name="type_blocked">ការហៅដែលបានទប់ស្កាត់</string>
+  <string name="call_details_minutes_abbreviation">នាទី</string>
+  <string name="call_details_seconds_abbreviation">វិនាទី</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s\'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">វិនាទី</item>
+    <item quantity="other">វិនាទី</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">នាទី</item>
+    <item quantity="other">នាទី</item>
+  </plurals>
+  <string name="type_answered_elsewhere">បាន​ឆ្លើយ​ការ​ហៅ​នៅ​លើ​ឧបករណ៍​ផ្សេង​ទៀត</string>
+  <string name="description_phone_account">នៅ ^1</string>
+  <string name="description_via_number">តាមរយៈ %1$s</string>
+  <string name="description_via_number_phone_account">នៅ​លើ %1$s តាមរយៈ %2$s</string>
+  <string name="voicemail_string">សារ​ជា​សំឡេង</string>
+  <string name="just_now">អម្បាញ់មិញ</string>
+  <string name="new_call_log_carrier_video">វីដេអូ​តាម​ក្រុមហ៊ុន​សេវា​ទូរសព្ទ</string>
+  <string name="new_call_log_duo_video">វីដេអូ​តាម Duo</string>
+  <string name="new_call_log_unknown">មិន​ស្គាល់</string>
+  <string name="new_call_log_secondary_blocked">បាន​ទប់ស្កាត់</string>
+  <string name="new_call_log_secondary_spam">សារ​ឥត​បាន​ការ</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">ខកខាន​ទទួលការហៅទូរសព្ទ ^1 ដងពី ^2</item>
+    <item quantity="other">ការហៅ​ទូរសព្ទ ^1 ដង ចុងក្រោយ​បំផុត គឺ​ការហៅ​ដែល​ខកខាន​ពី ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">ការហៅ​​បាន​ឆ្លើយ ^1 ដងពី ^2</item>
+    <item quantity="other">ការហៅ​ទូរសព្ទ ^1 ដង ចុងក្រោយ​បំផុត គឺ​ការហៅ​ដែល​បាន​ឆ្លើយ​ពី ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">ការហៅ​ចេញ ^1 ទៅ​កាន់ ^2</item>
+    <item quantity="other">ការហៅ​ទូរសព្ទ ^1 ដង ចុងក្រោយ​បំផុត គឺ​ជា​ការហៅ​ចេញ​ទៅ​កាន់ ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">ការហៅ​បាន​ទប់ស្កាត់ ^1 ដងពី ^2</item>
+    <item quantity="other">ការហៅ​ទូរសព្ទ ^1 ដង ចុងក្រោយ​បំផុត គឺ​ជា​ការហៅ​ដែល​បាន​ទប់ស្កាត់​ពី ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">នៅ​លើ ^1
+    តាមរយៈ ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2 ។</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3 ។</string>
+</resources>

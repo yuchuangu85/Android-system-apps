@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">សំឡេង​លំនាំដើម (%1$s)</string>
+  <string name="ringtone_silent">គ្មាន</string>
+  <string name="ringtone_unknown">សំឡេង​រោទ៍​មិន​ស្គាល់</string>
+  <string name="activity_not_available">មិនមានកម្មវិធីសម្រាប់សកម្មភាពនេះនៅលើឧបករណ៍នេះទេ</string>
+  <string name="outgoing_wps_warning">ការ​ហៅ​ចេញ​​ដោយ​ប្រើ​សេវា WPS នឹង​ផ្ដាច់​ការ​ហៅ​ដែល​មាន​​របស់​អ្នក។</string>
+  <string name="dialog_continue">បន្ត</string>
+  <string name="camera_privacy_text">បានបើក​ការអនុញ្ញាត​កាមេរ៉ា</string>
+</resources>

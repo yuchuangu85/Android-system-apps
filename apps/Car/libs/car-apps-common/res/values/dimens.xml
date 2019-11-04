@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2016, The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <item name="letter_to_tile_ratio" format="fraction" type="fraction">67%</item>
+
+    <dimen name="fab_focused_stroke_width">8dp</dimen>
+    <dimen name="fab_focused_growth">1.2dp</dimen>
+
+    <dimen name="touch_target_size">@*android:dimen/car_touch_target_size</dimen>
+
+    <!-- Control Bar - typically at the bottom of the application's space. -->
+    <dimen name="control_bar_height">128dp</dimen>
+    <dimen name="control_bar_margin_x">@*android:dimen/car_margin</dimen>
+    <dimen name="control_bar_margin_bottom">@*android:dimen/car_padding_2</dimen>
+    <dimen name="control_bar_button_size">76dp</dimen>
+    <dimen name="control_bar_button_slot_height">@dimen/control_bar_height</dimen>
+    <dimen name="control_bar_button_slot_width">@dimen/control_bar_button_size</dimen>
+    <dimen name="control_bar_elevation">0dp</dimen>
+    <dimen name="control_bar_button_padding">16dp</dimen>
+    <dimen name="control_bar_button_background_radius">38dp</dimen>
+
+    <!-- Overflow button in control Bar -->
+    <dimen name="overflow_button_icon_size">44dp</dimen>
+    <dimen name="overflow_button_icon_background_size">54dp</dimen>
+
+    <!-- Minimized Control Bar -->
+    <dimen name="minimized_control_bar_height">128dp</dimen>
+    <dimen name="minimized_control_bar_content_tile_size">96dp</dimen>
+    <dimen name="minimized_control_bar_radius">0dp</dimen>
+    <dimen name="minimized_control_bar_margin_x">0dp</dimen>
+    <dimen name="minimized_control_bar_margin_bottom">0dp</dimen>
+    <dimen name="minimized_control_bar_edge_padding">@*android:dimen/car_padding_4</dimen>
+    <dimen name="minimized_control_bar_text_padding">@*android:dimen/car_padding_3</dimen>
+    <dimen name="minimized_control_bar_button_padding">@*android:dimen/car_padding_5</dimen>
+    <dimen name="minimized_control_bar_button_size">76dp</dimen>
+
+    <!-- Tabs -->
+    <dimen name="car_tab_width">135dp</dimen>
+    <dimen name="car_tab_padding_x">12dp</dimen>
+    <dimen name="car_tab_icon_size">36dp</dimen>
+
+    <!-- Letter spacing -->
+    <item name="letter_spacing_display1" format="float" type="dimen">0.0</item>
+    <item name="letter_spacing_display2" format="float" type="dimen">0.0</item>
+    <item name="letter_spacing_display3" format="float" type="dimen">0.0</item>
+    <item name="letter_spacing_body1" format="float" type="dimen">0.0</item>
+    <item name="letter_spacing_body2" format="float" type="dimen">0.0</item>
+    <item name="letter_spacing_body3" format="float" type="dimen">0.0</item>
+
+    <!-- Default Scroll Bar for PagedRecyclerView -->
+    <dimen name="car_scroll_bar_button_size">@*android:dimen/car_touch_target_size</dimen>
+    <dimen name="car_scroll_bar_thumb_width">@*android:dimen/car_seekbar_height</dimen>
+    <dimen name="car_scroll_bar_separator_margin">@*android:dimen/car_padding_2</dimen>
+    <dimen name="car_scroll_bar_margin">@*android:dimen/car_margin</dimen>
+    <item name="button_disabled_alpha" format="float" type="dimen">0.2</item>
+    <item name="scroller_milliseconds_per_inch" format="float" type="dimen">150</item>
+    <item name="scroller_deceleration_time_divisor" format="float" type="dimen">0.45</item>
+    <item name="scroller_interpolator_factor" format="float" type="dimen">1.8</item>
+
+    <!-- Target size for the background bitmap to blur (in pixels) -->
+    <integer name="background_bitmap_target_size_px">64</integer>
+    <!-- Value used to blur background images, the blur radius is P * (W + H)/2.
+        The computed blur radius is capped at 25 pixels. -->
+    <item name="background_bitmap_blur_percent" format="float" type="dimen">0.05</item>
+
+    <!-- Dialog and button -->
+    <dimen name="dialog_max_width">706dp</dimen>
+    <dimen name="hero_button_max_width">@dimen/dialog_max_width</dimen>
+    <dimen name="hero_button_min_width">@dimen/touch_target_size</dimen>
+    <dimen name="hero_button_height">@dimen/touch_target_size</dimen>
+    <dimen name="hero_button_corner_radius">38dp</dimen>
+
+</resources>

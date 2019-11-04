@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">نیا رابطہ</string>
+  <string name="dialer_shortcut_add_contact_long">نیا رابطہ</string>
+  <string name="dialer_shortcut_disabled_message">شارٹ کٹ کام نہیں کر رہا۔ ہٹانے کیلئے گھسیٹیں۔</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">رابطہ اب مزید دستیاب نہیں رہا۔</string>
+  <string name="dialer_shortcut_no_permissions">اجازتوں کے بغیر کال نہیں ہو سکتی۔</string>
+</resources>

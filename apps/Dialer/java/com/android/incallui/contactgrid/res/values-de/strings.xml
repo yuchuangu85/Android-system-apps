@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="incall_calling_via_template">Anruf über %s</string>
+  <string name="incall_calling_on_same_carrier_template">Anruf über den gleichen Anbieter (%s)</string>
+  <string name="incall_calling_on_recent_choice_template">Anruf über zuletzt verwendeten Anbieter (%s)</string>
+  <string name="incall_connecting">Anruf wird getätigt…</string>
+  <string name="incall_connecting_assited_dialed">Anruf über +%1$s (%2$s)…</string>
+  <string name="incall_connecting_assited_dialed_component">Verwendete Nummer: +%1$s (%2$s)…</string>
+  <string name="incall_transferring">Übertragung wird durchgeführt…</string>
+  <string name="incall_video_call_requesting">Videoanruf über Mobilfunkanbieter…</string>
+  <string name="incall_wifi_video_call_requesting">Videoanruf über WLAN…</string>
+  <string name="incall_video_call_upgrade_request">Zu Video über Mobilfunkanbieter wechseln…</string>
+  <string name="incall_video_call_request_failed">Kein Verbindungsaufbau möglich</string>
+  <string name="incall_video_call_request_rejected">Anruf abgelehnt</string>
+  <string name="incall_video_call_request_timed_out">Zeitüberschreitung bei Anruf</string>
+  <string name="incall_hanging_up">Auflegen</string>
+  <string name="incall_call_ended">Anruf beendet</string>
+  <string name="incall_remotely_held">Anruf wird gehalten</string>
+  <string name="contact_grid_incoming_video_call">Videoanruf über Mobilfunkanbieter von</string>
+  <string name="contact_grid_incoming_wifi_video_call">WLAN-Videoanruf von</string>
+  <string name="contact_grid_incoming_voice_call">Anruf von</string>
+  <string name="contact_grid_incoming_work_call">Geschäftlicher Anruf von</string>
+  <string name="contact_grid_incoming_via_template">Eingehender Anruf über %s</string>
+  <string name="contact_grid_incoming_suspected_spam">Möglicher Spamanrufer</string>
+  <string name="contact_grid_callback_number">Eigene Telefonnummer: %1$s</string>
+</resources>

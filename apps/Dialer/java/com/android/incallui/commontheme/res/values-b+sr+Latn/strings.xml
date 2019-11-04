@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_content_description_end_call">Završi poziv</string>
+  <string name="incall_content_description_muted">Zvuk je isključen</string>
+  <string name="incall_content_description_unmuted">Zvuk je uključen</string>
+  <string name="incall_content_description_swap_calls">Zameni pozive</string>
+  <string name="incall_content_description_swap_sim">Promenite SIM</string>
+  <string name="incall_content_description_merge_calls">Objedini pozive</string>
+  <string name="incall_content_description_earpiece">Slušalica telefona</string>
+  <string name="incall_content_description_speaker">Zvučnik</string>
+  <string name="incall_content_description_bluetooth">Bluetooth</string>
+  <string name="incall_content_description_headset">Žičane slušalice</string>
+  <string name="incall_content_description_hold">Stavi poziv na čekanje</string>
+  <string name="incall_content_description_unhold">Nastavi poziv</string>
+  <string name="incall_content_description_video_on">Uključi video</string>
+  <string name="incall_content_description_video_off">Isključi video</string>
+  <string name="incall_content_description_swap_video">Zameni video</string>
+  <string name="incall_label_speaker">Zvučnik</string>
+  <string name="incall_label_audio">Zvuk</string>
+</resources>

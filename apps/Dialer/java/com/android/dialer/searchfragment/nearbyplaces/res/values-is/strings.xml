@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Staðir í nágrenninu</string>
+  <string name="search_location_permission">Til að fá samskiptaupplýsingar fyrir staði í nágrenninu skaltu leyfa aðgang að staðsetningu.</string>
+  <string name="nearby_places_allow">Leyfa</string>
+  <string name="nearby_places_dismiss">Hunsa</string>
+</resources>

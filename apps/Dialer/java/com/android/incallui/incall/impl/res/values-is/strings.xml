@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="incall_label_videocall">Myndsímtal</string>
+  <string name="incall_label_rttcall">RTT</string>
+  <string name="incall_label_hold">Setja í bið</string>
+  <string name="incall_label_add_call">Bæta við</string>
+  <string name="incall_label_mute">Hljóð af</string>
+  <string name="incall_label_end_call">Ljúka</string>
+  <string name="incall_label_dialpad">Talnaborð</string>
+  <string name="incall_talkback_speaker_on">, kveikt</string>
+  <string name="incall_talkback_speaker_off">, slökkt</string>
+  <string name="incall_label_merge">Sameina</string>
+  <string name="incall_label_manage">Stjórna</string>
+  <string name="a11y_description_incall_label_manage_content">Hafa umsjón með hringjendum</string>
+  <string name="incall_label_swap">Skipta milli</string>
+  <string name="incall_label_swap_sim">Breyta SIM</string>
+  <string name="incall_note_sent">Glósa send</string>
+</resources>

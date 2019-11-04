@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">Csúsztassa el az ujját az ikonról az üzenettel való elutasításhoz</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">Csúsztassa el az ujját az ikonról a hanghívásként való fogadáshoz</string>
+  <string name="call_incoming_default_label_answer_and_release_second">Csúsztassa felfelé az ujját a hívás fogadásához és a folyamatban lévő hívás tartásához</string>
+  <string name="call_incoming_default_label_answer_and_release_third">Csúsztassa felfelé az ujját a hívás fogadásához és a várakoztatott hívás befejezéséhez</string>
+  <string name="call_incoming_swipe_to_answer_and_release">Csúsztassa el az ujját az ikontól a hívásfogadáshoz és a folyamatban lévő hívás befejezéséhez</string>
+  <string name="call_incoming_message_custom">Saját válasz írása…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">Saját válasz írása…</string>
+  <string name="call_incoming_custom_message_cancel">Mégse</string>
+  <string name="call_incoming_custom_message_send">Küldés</string>
+  <string name="a11y_incoming_call_reject_with_sms">Hívás elutasítása üzenettel</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">Fogadás hanghívásként</string>
+  <string name="a11y_incoming_call_answer_and_release">Hívásfogadás és a folyamatban lévő hívás befejezése</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">Elutasítás üzenettel</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">Fogadás hanghívásként</string>
+  <string name="a11y_description_incoming_call_answer_and_release">Hívásfogadás és a folyamatban lévő hívás befejezése</string>
+  <string name="call_incoming_video_is_off">A videokép ki van kapcsolva</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">Csúsztassa felfelé két ujját a hívás fogadásához. Csúsztassa lefelé két ujját a hívás elutasításához.</string>
+  <string name="call_incoming_important">Fontos</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">N. kont.</string>
+  <string name="dialer_shortcut_add_contact_long">Naujas kontaktas</string>
+  <string name="dialer_shortcut_disabled_message">Spartusis klavišas neveikia. Nuvilkite, kad pašalintumėte.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">Kontaktas nebepasiekiamas.</string>
+  <string name="dialer_shortcut_no_permissions">Negalima skambinti be leidimų.</string>
+</resources>

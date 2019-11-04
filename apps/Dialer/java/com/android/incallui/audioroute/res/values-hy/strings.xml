@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="audioroute_bluetooth">Bluetooth</string>
+  <string name="audioroute_speaker">Բարձրախոս</string>
+  <string name="audioroute_phone">Հեռախոս</string>
+  <string name="audioroute_headset">Լարային ականջակալ</string>
+</resources>

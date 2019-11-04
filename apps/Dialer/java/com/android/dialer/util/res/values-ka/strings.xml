@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">ნაგულისხმები ხმა (%1$s)</string>
+  <string name="ringtone_silent">არცერთი</string>
+  <string name="ringtone_unknown">უცნობი ზარი</string>
+  <string name="activity_not_available">ამ მოწყობილობაზე არ არის შესაბამისი აპლიკაცია</string>
+  <string name="outgoing_wps_warning">WPS ზარის განხორციელება თქვენს მიმდინარე ზარს გათიშავს.</string>
+  <string name="dialog_continue">გაგრძელება</string>
+  <string name="camera_privacy_text">კამერაზე წვდომის ნებართვა ჩართულია</string>
+</resources>

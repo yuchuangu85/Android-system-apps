@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" msgid="5832002141924282426">"CaptivePortalLogin"</string>
+    <string name="action_use_network" msgid="8239049683838236305">"현재 상태로 이 네트워크 사용"</string>
+    <string name="action_do_not_use_network" msgid="6324702363356892396">"이 네트워크 사용 안함"</string>
+    <string name="action_bar_label" msgid="2023171629563754892">"네트워크에 로그인"</string>
+    <string name="action_bar_title" msgid="2566334512545554724">"%1$s에 로그인"</string>
+    <string name="ssl_error_warning" msgid="494203210316238046">"가입하려는 네트워크에 보안 문제가 있습니다."</string>
+    <string name="ssl_error_example" msgid="4574594291839092653">"예를 들어 로그인 페이지가 표시된 조직에 속하지 않을 수 있습니다."</string>
+    <string name="ssl_error_continue" msgid="1167243324376748637">"브라우저를 통해 계속하기"</string>
+    <string name="ssl_error_untrusted" msgid="5183246242332501768">"신뢰할 수 있는 인증 기관에서 발급한 인증서가 아닙니다."</string>
+    <string name="ssl_error_mismatch" msgid="5260665486390938291">"사이트 이름이 인증서상의 이름과 일치하지 않습니다."</string>
+    <string name="ssl_error_expired" msgid="9098912817349951268">"인증서가 만료되었습니다."</string>
+    <string name="ssl_error_not_yet_valid" msgid="4625726491067509546">"인증서가 아직 유효하지 않습니다."</string>
+    <string name="ssl_error_date_invalid" msgid="8113750623774526439">"인증서의 날짜가 잘못되었습니다."</string>
+    <string name="ssl_error_invalid" msgid="5977636322438777389">"인증서가 잘못되었습니다."</string>
+    <string name="ssl_error_unknown" msgid="3751419329218834886">"알 수 없는 인증서 오류입니다."</string>
+    <string name="ssl_security_warning_title" msgid="7912335118289529802">"보안 경고"</string>
+    <string name="ssl_error_view_certificate" msgid="3447891108083278449">"인증서 보기"</string>
+    <string name="ok" msgid="6584612582120777209">"확인"</string>
+    <string name="page_info_address" msgid="1290683284404217554">"주소:"</string>
+    <string name="page_info" msgid="46593086046896385">"페이지 정보"</string>
+</resources>

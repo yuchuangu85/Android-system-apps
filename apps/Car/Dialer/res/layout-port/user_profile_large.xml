@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+  http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/user_profile_avatar"
+        android:layout_width="@dimen/in_call_avatar_icon_size"
+        android:layout_height="@dimen/in_call_avatar_icon_size"
+        android:scaleType="fitCenter" />
+    <TextView
+        android:id="@+id/user_profile_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.InCallUserTitle"
+        android:paddingTop="@dimen/in_call_margin_between_avatar_and_text"
+        android:singleLine="true"/>
+    <TextView
+        android:id="@+id/user_profile_phone_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.InCallUserPhoneNumber"
+        android:singleLine="true"
+        android:paddingTop="@dimen/in_call_phone_number_margin_top"/>
+
+    <!-- A textView without a fixed width will call requestLayout() every time its text is changed -->
+    <!-- So we have to make this Chronometer match_parent to avoid redrawing the whole screen -->
+    <Chronometer
+        android:id="@+id/user_profile_call_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.InCallState"
+        android:singleLine="true"
+        android:paddingTop="@dimen/in_call_state_margin_top"
+        android:gravity="center"/>
+</LinearLayout>

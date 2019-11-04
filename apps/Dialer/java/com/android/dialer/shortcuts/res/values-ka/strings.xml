@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <string name="dialer_shortcut_add_contact_short">ახალ.კონტ.</string>
+  <string name="dialer_shortcut_add_contact_long">ახალი კონტაქტი</string>
+  <string name="dialer_shortcut_disabled_message">მალსახმობი არ მუშაობს. ჩაავლეთ წასაშლელად.</string>
+  <string name="dialer_shortcut_contact_not_found_or_has_no_number">კონტაქტი ხელმისაწვდომი აღარ არის.</string>
+  <string name="dialer_shortcut_no_permissions">ნებართვების გარეშე დარეკვა შეუძლებელია.</string>
+</resources>

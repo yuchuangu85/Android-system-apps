@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="enableSMSDeliveryReports" value="false"/>
+    <boolean name="enableMMSDeliveryReports" value="false"/>
+    <boolean name="enableMMSReadReports" value="false"/>
+    <boolean name="carrier_volte_available_bool" value="true"/>
+    <boolean name="support_conference_call_bool" value="false"/>
+    <boolean name="allow_emergency_numbers_in_call_log_bool" value="true"/>
+    <boolean name="allow_emergency_video_calls_bool" value="true"/>
+    <int name="maxImageHeight" value="1944"/>
+    <int name="maxMessageSize" value="1048576"/>
+    <int name="maxImageWidth" value="2592"/>
+    <int name="carrier_instant_lettering_length_limit_int" value="16"/>
+    <string name="carrier_instant_lettering_invalid_chars_string">[\n]</string>
+    <string name="carrier_instant_lettering_escaped_chars_string">"\</string>
+    <string name="carrier_instant_lettering_encoding_string">EUC-KR</string>
+</carrier_config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Sauti chaguo msingi (%1$s)</string>
+  <string name="ringtone_silent">Isilie</string>
+  <string name="ringtone_unknown">Mlio usiojulikana</string>
+  <string name="activity_not_available">Hakuna programu kwa ajili ya hiyo kwenye kifaa hiki</string>
+  <string name="outgoing_wps_warning">Ukipiga simu ya WPS, simu inayoendelea sasa itakatwa.</string>
+  <string name="dialog_continue">Endelea</string>
+  <string name="camera_privacy_text">Ruhusa ya kufikia kamera imetolewa kiotomatiki</string>
+</resources>

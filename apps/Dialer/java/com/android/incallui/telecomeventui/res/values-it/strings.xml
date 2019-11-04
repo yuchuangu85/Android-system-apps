@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="always_warn">Mostra l\'avviso ogni volta</string>
+  <string name="details">Stai chiamando un numero internazionale. Potrebbero essere applicate tariffe.</string>
+</resources>

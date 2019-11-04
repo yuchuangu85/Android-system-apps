@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2019 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+    <item msgid="3431380197378148950">"América"</item>
+    <item msgid="4791956477275129121">"Europa"</item>
+    <item msgid="3812126832016254559">"África"</item>
+    <item msgid="2765816300353408280">"Asia"</item>
+    <item msgid="6683489385344409742">"Australia"</item>
+    <item msgid="5194868215515664953">"Pacífico"</item>
+    <item msgid="7044520255415007865">"Todo"</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item msgid="8596143519087753804">"15 segundos"</item>
+    <item msgid="772029947136115322">"30 segundos"</item>
+    <item msgid="8743663928349474087">"1 minuto"</item>
+    <item msgid="1506508631223164814">"2 minutos"</item>
+    <item msgid="8664703938127907662">"5 minutos"</item>
+    <item msgid="5827960506924849753">"10 minutos"</item>
+    <item msgid="6677424950124253938">"30 minutos"</item>
+  </string-array>
+    <!-- no translation found for dream_timeout_entries:1 (2517785806387977252) -->
+    <!-- no translation found for dream_timeout_entries:5 (2788593551142462622) -->
+    <!-- no translation found for dream_timeout_entries:6 (8012672183888404961) -->
+    <!-- no translation found for lock_after_timeout_entries:2 (5558060663472279597) -->
+    <!-- no translation found for lock_after_timeout_entries:6 (4376575879222393045) -->
+    <!-- no translation found for lock_after_timeout_entries:7 (811192536981678974) -->
+  <string-array name="entries_font_size">
+    <item msgid="2340391964816059553">"Pequeña"</item>
+    <item msgid="591935967183159581">"Predeterminado"</item>
+    <item msgid="1714184661981538355">"Grande"</item>
+    <item msgid="6195563047686707484">"Lo más grande posible"</item>
+  </string-array>
+    <!-- no translation found for wifi_status:1 (4157625910392775808) -->
+  <string-array name="wifi_status_with_ssid">
+    <item msgid="4853670665485437464"></item>
+    <item msgid="6816207058895999545">"Buscando..."</item>
+    <item msgid="8058143476674427024">"Estableciendo conexión con <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="7547609081339573756">"Autenticando con <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="5145158315060185414">"Obteniendo dirección IP de <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="3283243151651124831">"Conectado a <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+    <item msgid="6600156231416890902">"Suspendido"</item>
+    <item msgid="4133290864821295785">"Desconectando de <xliff:g id="NETWORK_NAME">%1$s</xliff:g>..."</item>
+    <item msgid="3980154971187953257">"Desconectado"</item>
+    <item msgid="2847316776634969068">"Con error"</item>
+    <item msgid="4390990424746035383">"Bloqueada"</item>
+    <item msgid="3618248791367063949">"Inhabilitando conexión inestable temporalmente..."</item>
+  </string-array>
+    <!-- no translation found for wifi_tether_security:0 (5586343370515598801) -->
+    <!-- no translation found for wifi_tether_security:1 (6136336549994615745) -->
+  <string-array name="wifi_p2p_wps_setup">
+    <item msgid="5390235347963255303">"Botón WPS"</item>
+    <item msgid="7401896200768713930">"PIN del otro dispositivo"</item>
+    <item msgid="4526848028011846710">"PIN del dispositivo"</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item msgid="8741947238021758201">"Conectada"</item>
+    <item msgid="983792611851499732">"Invitado"</item>
+    <item msgid="5438273405428201793">"Con error"</item>
+    <item msgid="4646663015449312554">"Disponible"</item>
+    <item msgid="3230556734162006146">"Fuera del alcance"</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item msgid="8247986727324120082">"2 minutos"</item>
+    <item msgid="2759776603549270587">"5 minutos"</item>
+    <item msgid="167772676068860015">"1 hora"</item>
+    <item msgid="5985477119043628504">"Siempre visible"</item>
+  </string-array>
+    <!-- no translation found for bluetooth_max_connected_audio_devices:2 (5318020123964299318) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:3 (6429260054182662738) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:4 (1644506614010085798) -->
+    <!-- no translation found for wifi_signal:0 (1709949377823900951) -->
+  <string-array name="data_usage_data_range">
+    <item msgid="8986775481492954015">"Últimos 30 días"</item>
+    <item msgid="3211287705232736964">"Establecer ciclo uso..."</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item msgid="1266031014388516303">"Tiempo de uso"</item>
+    <item msgid="2784401352592276015">"Último uso"</item>
+    <item msgid="249854287216326349">"Nombre de la aplicación"</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item msgid="5538816743897530343">"PEAP"</item>
+    <item msgid="336771389015263226">"TLS"</item>
+    <item msgid="2124951724092063376">"TTLS"</item>
+    <item msgid="7427377376024106344">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="8934819312374410084">"Ninguna"</item>
+    <item msgid="8655686691660180616">"MSCHAPV2"</item>
+    <item msgid="1354245862267605928">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:0 (7122038588318037831) -->
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:2 (6333849991499980140) -->
+  <string-array name="wifi_phase2_entries">
+    <item msgid="5865367433072785952">"Ninguna"</item>
+    <item msgid="7901133332272818442">"PAP"</item>
+    <item msgid="8549879045980332977">"MSCHAP"</item>
+    <item msgid="7330627471456865502">"MSCHAPV2"</item>
+    <item msgid="6255179395132581882">"GTC"</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item msgid="2717196390555072244">"Protocolo DHCP"</item>
+    <item msgid="4377002609760712163">"Estático"</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item msgid="9032900195127165132">"Ninguna"</item>
+    <item msgid="1464741437353223198">"Manual"</item>
+    <item msgid="5793600062487886090">"Proxy autoconfigurado"</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item msgid="7099647881902405997">"Ninguna"</item>
+    <item msgid="1950796738039490374">"PAP"</item>
+    <item msgid="8166687999538788787">"CHAP"</item>
+    <item msgid="1276004657191968988">"PAP o CHAP"</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item msgid="4179023087537182757">"IPv4"</item>
+    <item msgid="9148582221081416020">"IPv6"</item>
+    <item msgid="4094895508821270572">"IPv4/IPv6"</item>
+  </string-array>
+    <!-- no translation found for bearer_entries:1 (2740477081395679090) -->
+    <!-- no translation found for mvno_type_entries:0 (6984770764726663331) -->
+    <!-- no translation found for mvno_type_entries:2 (7556656048009090524) -->
+  <string-array name="app_install_location_entries">
+    <item msgid="6621866711026016227">"Almacenamiento de dispositivo interno"</item>
+    <item msgid="3186681694079967527">"Tarjeta SD extraíble"</item>
+    <item msgid="6902033473986647035">"Selección del sistema"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="1102693344156734891">"Ubicación"</item>
+    <item msgid="6842381562497597649">"Personal"</item>
+    <item msgid="3966700236695683444">"Mensajes"</item>
+    <item msgid="8563996233342430477">"Multimedia"</item>
+    <item msgid="5323851085993963783">"Dispositivo"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="2585253854462134715">"ubicación común"</item>
+    <item msgid="1830619568689922920">"ubicación precisa"</item>
+    <item msgid="3317274469481923141">"GPS"</item>
+    <item msgid="8931785990160383356">"vibrar"</item>
+    <item msgid="8632513128515114092">"consultar contactos"</item>
+    <item msgid="3741042113569620272">"modificar los contactos"</item>
+    <item msgid="4204420969709009931">"leer el registro de llamadas"</item>
+    <item msgid="2260380357119423209">"modificar el registro de llamadas"</item>
+    <item msgid="6550710385014530934">"leer calendario"</item>
+    <item msgid="3575906174264853951">"modificar el calendario"</item>
+    <item msgid="4319843242568057174">"búsqueda de Wi-Fi"</item>
+    <item msgid="2981791890467303819">"notificación"</item>
+    <item msgid="6617825156152476692">"búsqueda de red móvil"</item>
+    <item msgid="8865260890611559753">"llamar a un teléfono"</item>
+    <item msgid="3254999273961542982">"leer SMS"</item>
+    <item msgid="7711446453028825171">"escribir SMS"</item>
+    <item msgid="6123238544099198034">"recibir SMS"</item>
+    <item msgid="838342167431596036">"recibir SMS de emergencia"</item>
+    <item msgid="8554432731560956686">"recibir MMS"</item>
+    <item msgid="7464863464299515059">"recibir WAP Push"</item>
+    <item msgid="310463075729606765">"enviar SMS"</item>
+    <item msgid="7338021933527689514">"leer SMS ICC"</item>
+    <item msgid="6130369335466613036">"escribir SMS ICC"</item>
+    <item msgid="6536865581421670942">"modificar la configuración"</item>
+    <item msgid="4547203129183558973">"dibujar en parte superior"</item>
+    <item msgid="9080347512916542840">"acceder a las notificaciones"</item>
+    <item msgid="5332718516635907742">"cámara"</item>
+    <item msgid="6098422447246167852">"grabar audio"</item>
+    <item msgid="9182794235292595296">"reproducir audio"</item>
+    <item msgid="8760743229597702019">"leer portapapeles"</item>
+    <item msgid="2266923698240538544">"modificar portapapeles"</item>
+    <item msgid="1801619438618539275">"botones multimedia"</item>
+    <item msgid="31588119965784465">"foco de audio"</item>
+    <item msgid="7565226799008076833">"volumen principal"</item>
+    <item msgid="5420704980305018295">"volumen de la voz"</item>
+    <item msgid="5797363115508970204">"volumen del tono"</item>
+    <item msgid="8233154098550715999">"volumen de multimedia"</item>
+    <item msgid="5196715605078153950">"volumen de la alarma"</item>
+    <item msgid="394030698764284577">"volumen de las notificaciones"</item>
+    <item msgid="8952898972491680178">"volumen de Bluetooth"</item>
+    <item msgid="8506227454543690851">"mantener activo"</item>
+    <item msgid="1108160036049727420">"controlar ubicación"</item>
+    <item msgid="1496205959751719491">"supervisar ubicación de alta potencia"</item>
+    <item msgid="3776296279910987380">"obtener estadísticas de uso"</item>
+    <item msgid="8827100324471975602">"silenciar/activar micrófono"</item>
+    <item msgid="6880736730520126864">"mostrar notificación emergente"</item>
+    <item msgid="4933375960222609935">"proyectar contenido multimedia"</item>
+    <item msgid="8357907018938895462">"activar VPN"</item>
+    <item msgid="8143812849911310973">"editar fondo de pantalla"</item>
+    <item msgid="6266277260961066535">"proporcionar asistencia a estructura"</item>
+    <item msgid="7715498149883482300">"proporcionar asistencia a captura de pantalla"</item>
+    <item msgid="4046679376726313293">"leer el estado del teléfono"</item>
+    <item msgid="6329507266039719587">"añadir buzón de voz"</item>
+    <item msgid="7692440726415391408">"utilizar SIP"</item>
+    <item msgid="8572453398128326267">"procesar llamada saliente"</item>
+    <item msgid="7775674394089376306">"huella digital"</item>
+    <item msgid="3182815133441738779">"sensores corporales"</item>
+    <item msgid="2793100005496829513">"leer difusiones móviles"</item>
+    <item msgid="2633626056029384366">"ubicación simulada"</item>
+    <item msgid="8356842191824684631">"almacenamiento de lectura"</item>
+    <item msgid="5671906070163291500">"almacenamiento de escritura"</item>
+    <item msgid="2791955098549340418">"activar pantalla"</item>
+    <item msgid="5599435119609178367">"obtener cuentas"</item>
+    <item msgid="1165623660533024666">"ejecutar en segundo plano"</item>
+    <item msgid="6423861043647911030">"volumen de accesibilidad"</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item msgid="7892361636570580123">"Ubicación"</item>
+    <item msgid="6656077694190491067">"Ubicación"</item>
+    <item msgid="8790228218278477369">"Ubicación"</item>
+    <item msgid="7836406246005211990">"Vibrar"</item>
+    <item msgid="3951439024549922598">"Consultar contactos"</item>
+    <item msgid="8802152411647068">"Modificar los contactos"</item>
+    <item msgid="229544934599698735">"Leer el registro de llamadas"</item>
+    <item msgid="7396102294405899613">"Modificar el registro de llamadas"</item>
+    <item msgid="3597797992398484655">"Leer calendario"</item>
+    <item msgid="2705975774250907343">"Modificar el calendario"</item>
+    <item msgid="4668747371441932697">"Ubicación"</item>
+    <item msgid="1487578921720243646">"Publicar notificación"</item>
+    <item msgid="4636080349724146638">"Ubicación"</item>
+    <item msgid="673510900286463926">"Llamar a un teléfono"</item>
+    <item msgid="542083422784609790">"Leer SMS/MMS"</item>
+    <item msgid="1033780373029588436">"Escribir SMS/MMS"</item>
+    <item msgid="5647111115517787488">"Recibir SMS/MMS"</item>
+    <item msgid="8591105601108455893">"Recibir SMS/MMS"</item>
+    <item msgid="7730995008517841903">"Recibir SMS/MMS"</item>
+    <item msgid="2613033109026626086">"Recibir SMS/MMS"</item>
+    <item msgid="3037159047591081136">"Enviar SMS/MMS"</item>
+    <item msgid="4726682243833913568">"Leer SMS/MMS"</item>
+    <item msgid="6555678522277865572">"Escribir SMS/MMS"</item>
+    <item msgid="6981734935578130884">"Modificar la configuración"</item>
+    <item msgid="8705854389991425629">"Dibujar en parte superior"</item>
+    <item msgid="5861356020344153651">"Acceder a las notificaciones"</item>
+    <item msgid="78432174621628659">"Cámara"</item>
+    <item msgid="3986116419882154794">"Grabar audio"</item>
+    <item msgid="4516840825756409490">"Reproducir audio"</item>
+    <item msgid="6811712502798183957">"Leer portapapeles"</item>
+    <item msgid="2780369012602289114">"Modificar portapapeles"</item>
+    <item msgid="2331359440170850868">"Botones multimedia"</item>
+    <item msgid="6133599737122751231">"Foco de audio"</item>
+    <item msgid="6844485713404805301">"Volumen principal"</item>
+    <item msgid="1600379420669104929">"Volumen de la voz"</item>
+    <item msgid="6296768210470214866">"Volumen del tono"</item>
+    <item msgid="510690696071629241">"Volumen de multimedia"</item>
+    <item msgid="406861638631430109">"Volumen de la alarma"</item>
+    <item msgid="4715864795872233884">"Volumen de notificaciones"</item>
+    <item msgid="2311478519251301183">"Volumen de Bluetooth"</item>
+    <item msgid="5133991377896747027">"Activo"</item>
+    <item msgid="2464189519136248621">"Ubicación"</item>
+    <item msgid="2062677934050803037">"Ubicación"</item>
+    <item msgid="1735171933192715957">"Obtener estadísticas de uso"</item>
+    <item msgid="1014093788778383554">"Silenciar/activar micrófono"</item>
+    <item msgid="4199297950608622850">"Mostrar notificación emergente"</item>
+    <item msgid="2527962435313398821">"Proyectar contenido multimedia"</item>
+    <item msgid="5117506254221861929">"Activar VPN"</item>
+    <item msgid="8291198322681891160">"Editar fondo de pantalla"</item>
+    <item msgid="7106921284621230961">"Proporcionar asistencia a estructura"</item>
+    <item msgid="4496533640894624799">"Proporcionar asistencia a captura de pantalla"</item>
+    <item msgid="2598847264853993611">"Leer el estado del teléfono"</item>
+    <item msgid="9215610846802973353">"Añadir buzón de voz"</item>
+    <item msgid="9186411956086478261">"Utilizar SIP"</item>
+    <item msgid="6884763100104539558">"Procesar llamada saliente"</item>
+    <item msgid="125513972170580692">"Huella digital"</item>
+    <item msgid="2556071024281275619">"Sensores corporales"</item>
+    <item msgid="617168514928339387">"Leer difusiones móviles"</item>
+    <item msgid="7134693570516523585">"Ubicación simulada"</item>
+    <item msgid="7224489175375229399">"Almacenamiento de lectura"</item>
+    <item msgid="8472735063903258202">"Almacenamiento de escritura"</item>
+    <item msgid="4069276819909595110">"Activar pantalla"</item>
+    <item msgid="1228338896751121025">"Obtener cuentas"</item>
+    <item msgid="3181581793459233672">"Ejecutar en segundo plano"</item>
+    <item msgid="2340936043025374076">"Volumen de accesibilidad"</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item msgid="8950313530602254787">"Breve"</item>
+    <item msgid="4816511817309094890">"Media"</item>
+    <item msgid="8305084671259331134">"Largo"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="6928465258504250174">"Predeterminado"</item>
+    <item msgid="4147246073737933622">"Sans-serif"</item>
+    <item msgid="3117680749167407907">"Sans-serif condensed"</item>
+    <item msgid="6529379119163117545">"Sans-serif monospace"</item>
+    <item msgid="1487203730637617924">"Serif"</item>
+    <item msgid="4937790671987480464">"Serif monospace"</item>
+    <item msgid="4448481989108928248">"Casual"</item>
+    <item msgid="4627069151979553527">"Cursiva"</item>
+    <item msgid="6896773537705206194">"Versalitas"</item>
+  </string-array>
+    <!-- no translation found for captioning_font_size_selector_titles:1 (5091603983404027034) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (176844712416932112) -->
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="3865198759294188069">"Predeterminado"</item>
+    <item msgid="6488643537808152001">"Ninguna"</item>
+    <item msgid="552332815156010137">"Contorno"</item>
+    <item msgid="7187891159463789272">"Sombra paralela"</item>
+    <item msgid="8019330250538856521">"Elevado"</item>
+    <item msgid="8987385315647049787">"Hundido"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="313003243371588365">"25%"</item>
+    <item msgid="4665048002584838262">"50%"</item>
+    <item msgid="1874668269931014581">"75%"</item>
+    <item msgid="6462911487571123954">"100%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="326819345272910536">"Predeterminado"</item>
+    <item msgid="8611890312638868524">"Blanco sobre negro"</item>
+    <item msgid="5891360837786277638">"Negro sobre blanco"</item>
+    <item msgid="2798457065945456853">"Amarillo sobre negro"</item>
+    <item msgid="5799049811524553967">"Amarillo sobre azul"</item>
+    <item msgid="3673930830658169860">"Personalizado"</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item msgid="6566768880689730097">"Red privada virtual PPTP"</item>
+    <item msgid="1349760781118368659">"Red privada virtual L2TP/IPSec con claves precompartidas"</item>
+    <item msgid="6128519070545038358">"Red privada virtual L2TP/IPSec con certificados"</item>
+    <item msgid="312397853907741968">"Red privada virtual IPSec con claves precompartidas y autenticación XAuth"</item>
+    <item msgid="3319427315593649917">"Red privada virtual IPSec con certificados y autenticación XAuth"</item>
+    <item msgid="8258927774145391041">"Red privada virtual IPSec con certificados y autenticación híbrida"</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item msgid="2958623927055120839">"Ninguno"</item>
+    <item msgid="1157046369795346308">"Manual"</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item msgid="5408915841694583740">"Desconectado"</item>
+    <item msgid="8754480102834556765">"Iniciando..."</item>
+    <item msgid="3351334355574270250">"Conectando…"</item>
+    <item msgid="8303882153995748352">"Conectada"</item>
+    <item msgid="9135049670787351881">"Tiempo de espera"</item>
+    <item msgid="2124868417182583926">"Con error"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="1164265643455394443">"Preguntar"</item>
+    <item msgid="7718817231348607934">"No permitir nunca"</item>
+    <item msgid="8184570120217958741">"Permitir siempre"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (708247372474061274) -->
+    <!-- no translation found for ram_states:4 (1567326459340152525) -->
+    <!-- no translation found for proc_stats_memory_states:3 (8577246509202964244) -->
+  <string-array name="proc_stats_process_states">
+    <item msgid="7560955722349181440">"Persistente"</item>
+    <item msgid="167418068739176448">"Actividad principal"</item>
+    <item msgid="4760813290195199773">"Importante (en primer plano)"</item>
+    <item msgid="2328684826817647595">"Importante (en segundo plano)"</item>
+    <item msgid="7746406490652867365">"Copia de seguridad"</item>
+    <item msgid="5597404364389196754">"Peso pesado"</item>
+    <item msgid="1290888779300174556">"Servicio (en ejecución)"</item>
+    <item msgid="7241098542073939046">"Servicio (reiniciando)"</item>
+    <item msgid="6610439017684111046">"Receptor"</item>
+    <item msgid="7367606086319921117">"Inicio"</item>
+    <item msgid="3344660712396741826">"Última actividad"</item>
+    <item msgid="5006559348883303865">"En caché (actividad)"</item>
+    <item msgid="8633480732468137525">"En caché (cliente de actividad)"</item>
+    <item msgid="6248998242443333892">"En caché (vacío)"</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item msgid="3151827842194201728">"Verde azulado"</item>
+    <item msgid="3228505970082457852">"Azul"</item>
+    <item msgid="6590260735734795647">"Índigo"</item>
+    <item msgid="3521763377357218577">"Violeta"</item>
+    <item msgid="5932337981182999919">"Rosa"</item>
+    <item msgid="5642914536624000094">"Rojo"</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item msgid="2860293514533486236">"Más de 30 días de antigüedad"</item>
+    <item msgid="8699273238891265610">"Más de 60 días de antigüedad"</item>
+    <item msgid="8346279419423837266">"Más de 90 días de antigüedad"</item>
+  </string-array>
+    <!-- no translation found for swipe_direction_titles:0 (6583090603341402282) -->
+    <!-- no translation found for swipe_direction_titles:1 (4965730704403236310) -->
+  <string-array name="swipe_direction_values">
+    <item msgid="5298569105095026382">"1"</item>
+    <item msgid="3118234477029486741">"0"</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item msgid="4329206416008519163">"Detectar automáticamente"</item>
+    <item msgid="773943026484148895">"Tratar como red de uso medido"</item>
+    <item msgid="1008268820118852416">"Tratar como red de uso no medido"</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item msgid="6545683814310036454">"Usar dirección MAC aleatoria (predeterminado)"</item>
+    <item msgid="214234417308375326">"Usar dirección MAC del dispositivo"</item>
+  </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item msgid="7426878022650940844">"No"</item>
+    <item msgid="1930581185557754880">"Sí"</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item msgid="699295711155561081">"Oscuro"</item>
+    <item msgid="5079453644557603349">"Claro"</item>
+  </string-array>
+  <string-array name="autofill_logging_level_entries">
+    <item msgid="6882729786516723474">"Desactivado"</item>
+    <item msgid="4072198137051566919">"Depurar"</item>
+    <item msgid="2473005316958868509">"Detallado"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="8444727359525554695">"Solo sistema doméstico"</item>
+    <item msgid="1161026694891024702">"Automática"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="1823884522189328861">"Preferencia: GSM o WCDMA"</item>
+    <item msgid="7581481130337402578">"Solo GSM"</item>
+    <item msgid="8579197487913425819">"Solo WCDMA"</item>
+    <item msgid="8465243227505412498">"GSM o WCDMA (automático)"</item>
+    <item msgid="9107479914166352132">"CDMA o EvDo (automático)"</item>
+    <item msgid="4219607161971472471">"CDMA sin EvDo"</item>
+    <item msgid="7278975240951052041">"Solo EvDo"</item>
+    <item msgid="2295969832276827854">"CDMA, EvDo, GSM o WCDMA"</item>
+    <item msgid="9059227943989034424">"CDMA y LTE o EvDo"</item>
+    <item msgid="463168068025354541">"GSM, WCDMA o LTE"</item>
+    <item msgid="1770755308983338311">"Global"</item>
+    <item msgid="5713723042183940349">"LTE"</item>
+    <item msgid="8600184258612405670">"LTE o WCDMA"</item>
+    <item msgid="5638632460322750180">"Solo TD-SCDMA"</item>
+    <item msgid="4346392996298714633">"TD-SCDMA o WCDMA"</item>
+    <item msgid="5004811216708487615">"LTE o TD-SCDMA"</item>
+    <item msgid="9191730167201068525">"TD-SCDMA o GSM"</item>
+    <item msgid="5874623229495009031">"LTE, TD-SCDMA o GSM"</item>
+    <item msgid="5096480046347789213">"TD-SCDMA, GSM o WCDMA"</item>
+    <item msgid="2075445917638134012">"LTE, TD-SCDMA o WCDMA"</item>
+    <item msgid="3353351554070857366">"LTE, TD-SCDMA, GSM o WCDMA"</item>
+    <item msgid="2067289929099567494">"TD-SCDMA, CDMA, EvDo, GSM o WCDMA"</item>
+    <item msgid="4959483620561891661">"LTE, TD-SCDMA, CDMA, EvDo, GSM o WCDMA"</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item msgid="7691437408632563841">"RUIM/SIM"</item>
+    <item msgid="6219184455685527822">"NV"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item msgid="5675987537637081766">"Global"</item>
+    <item msgid="7893851358184700811">"LTE o CDMA"</item>
+    <item msgid="1779116915491192719">"LTE, GSM o UMTS"</item>
+  </string-array>
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:0 (4760531919194480665) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:1 (7912365765185450743) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:2 (2104740586531949003) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:0 (852926015619722843) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:1 (3792510685855718883) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:2 (1377977453734193662) -->
+</resources>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+     Copyright (C) 2017 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wallpaper_app_name" msgid="1719889291772891695">"Mandhari"</string>
+    <!-- no translation found for app_name (8773648973927541493) -->
+    <skip />
+    <string name="select_wallpaper_label" msgid="6989581259339646085">"Aina za mandhari"</string>
+    <string name="set_wallpaper_button_text" msgid="4426286890442731310">"Weka Mandhari"</string>
+    <string name="set_wallpaper_progress_message" msgid="7986528287618716715">"Inaweka mandhari..."</string>
+    <string name="try_again" msgid="8278874823700921234">"Jaribu tena"</string>
+    <string name="set_wallpaper_error_message" msgid="6819986999041085130">"Imeshindwa kuweka mandhari."</string>
+    <string name="load_wallpaper_error_message" msgid="7913278480467707374">"Imeshindwa kupakia mandhari. Picha imeharibika au haipatikani."</string>
+    <string name="static_wallpaper_presentation_mode_message" msgid="417940227049360906">"Mandhari yaliyopo"</string>
+    <string name="rotating_wallpaper_presentation_mode_message" msgid="3361676041605733288">"Mandhari ya kila siku"</string>
+    <string name="wallpaper_destination_both" msgid="1124197176741944063">"Skrini ya Kwanza na Iliyofungwa"</string>
+    <string name="home_screen_message" msgid="106444102822522813">"Skrini ya kwanza"</string>
+    <string name="lock_screen_message" msgid="1534506081955058013">"Skrini iliyofungwa"</string>
+    <string name="home_and_lock_short_label" msgid="2937922943541927983">"Skrini ya Kwanza na Iliyofungwa"</string>
+    <string name="set_wallpaper_dialog_message" msgid="6114951028768599417">"Weka mandhari"</string>
+    <string name="set_wallpaper_home_screen_destination" msgid="7315594722013109354">"Skrini ya kwanza"</string>
+    <string name="set_wallpaper_lock_screen_destination" msgid="6224685559375417945">"Skrini iliyofungwa"</string>
+    <string name="set_wallpaper_both_destination" msgid="6967226064958263939">"Skrini ya kwanza na skrini iliyofungwa"</string>
+    <string name="no_backup_image_wallpaper_label" msgid="6316627676107284851">"Mandhari ya Picha Yanayozunguka"</string>
+    <string name="permission_needed_explanation" msgid="139166837541426823">"Ili kuonyesha mandhari yanayotumika kwa sasa hapa, <xliff:g id="APP_NAME">%1$s</xliff:g> inahitaji idhini ya kufikia hifadhi ya kifaa chako."</string>
+    <string name="permission_needed_explanation_go_to_settings" msgid="3923551582092599609">"Ili kuonyesha hapa mandhari yaliyopo sasa, programu ya Mandhari inahitaji ruhusa ya kufikia hifadhi ya kifaa chako.\n\nIli kubadilisha mipangilio hii, nenda kwenye sehemu ya Ruhusa katika maelezo ya programu ya Mandhari."</string>
+    <string name="permission_needed_allow_access_button_label" msgid="1943133660612924306">"Toa idhini ya ufikiaji"</string>
+    <string name="no_backup_image_wallpaper_description" msgid="8303268619408738057">"Huduma ya mandhari hai kwa ajili ya mandhari yanayozunguka"</string>
+    <string name="daily_refresh_tile_title" msgid="3270456074558525091">"Mandhari ya kila siku"</string>
+    <string name="daily_refresh_tile_subtitle" msgid="3976682014885446443">"Gusa ili uwashe"</string>
+    <string name="start_rotation_dialog_body_live_wallpaper_needed" msgid="5132580257563846082">"Mandhari yatabadilika kiotomatiki kila siku. Ili ukamilishe kuweka mipangilio, gusa &lt;strong&gt;Weka mandhari&lt;/strong&gt; kwenye skrini inayofuata."</string>
+    <string name="start_rotation_dialog_wifi_only_option_message" msgid="3126269859713666225">"Pakua mandhari ya siku za baadaye kupitia Wi-Fi pekee"</string>
+    <string name="start_rotation_dialog_continue" msgid="276678987852274872">"Endelea"</string>
+    <string name="start_rotation_progress_message" msgid="7872623873682262083">"Inapakua mandhari ya kwanza..."</string>
+    <string name="start_rotation_error_message" msgid="3053799836719618972">"Imeshindwa kupakua mandhari ya kwanza. Tafadhali kagua mipangilio ya mtandao wako kisha ujaribu tena."</string>
+    <string name="start_rotation_dialog_body" msgid="7903554799046364916">"Mandhari yatabadilika kiotomatiki kila siku"</string>
+    <string name="settings_button_label" msgid="8724734130079207955">"Mipangilio"</string>
+    <string name="explore" msgid="7468719504199497281">"Gundua"</string>
+    <string name="next_wallpaper" msgid="3911873152952596232">"Mandhari yanayofuata"</string>
+    <string name="wallpaper_disabled_message" msgid="7309484130562148185">"Kipengele cha kuweka mandhari kimezimwa kwenye kifaa hiki"</string>
+    <string name="wallpaper_disabled_by_administrator_message" msgid="1551430406714747884">"Kipengele cha kuweka mandhari kimezimwa na msimamizi wa kifaa chako"</string>
+    <string name="wallpaper_set_successfully_message" msgid="2958998799111688578">"Imeweka mandhari"</string>
+    <string name="wallpapers_unavailable_offline_message" msgid="8136405438621689532">"Unahitaji muunganisho wa Intaneti ili uweze kutazama mandhari. Tafadhali unganisha kisha ujaribu tena."</string>
+    <string name="currently_set_home_wallpaper_thumbnail" msgid="4022381436821898917">"Kijipicha cha mandhari yaliyopo ya skrini ya mwanzo"</string>
+    <string name="currently_set_lock_wallpaper_thumbnail" msgid="2094209303934569997">"Kijipicha cha mandhari yaliyopo ya skrini iliyofungwa"</string>
+    <string name="currently_set_wallpaper_thumbnail" msgid="8651887838745545107">"Kijipicha cha mandhari yaliyopo"</string>
+    <string name="wallpaper_thumbnail" msgid="569931475923605974">"Kijipicha cha mandhari"</string>
+    <string name="explore_home_screen" msgid="8756346794535765482">"Gundua mandhari ya skrini ya kwanza"</string>
+    <string name="explore_lock_screen" msgid="268938342103703665">"Gundua mandhari ya skrini iliyofungwa"</string>
+    <string name="refresh_daily_wallpaper_home_content_description" msgid="2770445044556164259">"Onyesha upya mandhari ya skrini ya kwanza ya kila siku"</string>
+    <string name="refresh_daily_wallpaper_content_description" msgid="4362142658237147583">"Onyesha upya mandhari ya kila siku"</string>
+    <string name="refreshing_daily_wallpaper_dialog_message" msgid="1975910873362855761">"Inaonyesha upya mandhari ya kila siku..."</string>
+    <string name="refresh_daily_wallpaper_failed_message" msgid="4749879993812557166">"Imeshindwa kuonyesha upya mandhari ya kila siku. Tafadhali kagua muunganisho wako kisha ujaribu tena."</string>
+    <string name="collapse_attribution_panel" msgid="4367971404848122275">"Kunja kidirisha cha maelezo ya mandhari"</string>
+    <string name="expand_attribution_panel" msgid="6975094181456095915">"Panua kidirisha cha maelezo ya mandhari"</string>
+    <string name="on_device_wallpapers_category_title" msgid="805819102071369004">"Mandhari yaliyo kwenye kifaa"</string>
+    <string name="on_device_wallpapers_category_title_desktop" msgid="316919420410065369">"Kwenye kifaa"</string>
+    <string name="on_device_wallpaper_title" msgid="5262564748034629524">"Mandhari ya Android"</string>
+    <string name="live_wallpapers_category_title" msgid="1814374812192366349">"Mandhari hai"</string>
+    <string name="my_photos_category_title" msgid="4294567122144565273">"Picha zangu"</string>
+    <string name="my_photos_generic_wallpaper_title" msgid="7002867526154631172">"Picha yangu"</string>
+    <string name="fallback_wallpaper_title" msgid="6154655421012506001">"Mandhari"</string>
+    <string name="app_not_found" msgid="4431461707854088231">"Programu haijasakinishwa."</string>
+    <string name="center_wallpaper_position" msgid="4166894762352288883">"Katikati"</string>
+    <string name="center_crop_wallpaper_position" msgid="1681980019815343348">"Punguza katikati"</string>
+    <string name="stretch_wallpaper_position" msgid="5002680983147456935">"Panua"</string>
+    <string name="preview" msgid="1774602101743861071">"Kagua kwanza"</string>
+</resources>

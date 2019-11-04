@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/*
+**
+** Copyright 2019 The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="timezone_filters">
+    <item msgid="3431380197378148950">"美洲"</item>
+    <item msgid="4791956477275129121">"歐洲"</item>
+    <item msgid="3812126832016254559">"非洲"</item>
+    <item msgid="2765816300353408280">"亞洲"</item>
+    <item msgid="6683489385344409742">"澳洲"</item>
+    <item msgid="5194868215515664953">"太平洋"</item>
+    <item msgid="7044520255415007865">"全部"</item>
+  </string-array>
+  <string-array name="screen_timeout_entries">
+    <item msgid="8596143519087753804">"15 秒"</item>
+    <item msgid="772029947136115322">"30 秒"</item>
+    <item msgid="8743663928349474087">"1 分鐘"</item>
+    <item msgid="1506508631223164814">"2 分鐘"</item>
+    <item msgid="8664703938127907662">"5 分鐘"</item>
+    <item msgid="5827960506924849753">"10 分鐘"</item>
+    <item msgid="6677424950124253938">"30 分鐘"</item>
+  </string-array>
+    <!-- no translation found for dream_timeout_entries:1 (2517785806387977252) -->
+    <!-- no translation found for dream_timeout_entries:5 (2788593551142462622) -->
+    <!-- no translation found for dream_timeout_entries:6 (8012672183888404961) -->
+    <!-- no translation found for lock_after_timeout_entries:2 (5558060663472279597) -->
+    <!-- no translation found for lock_after_timeout_entries:6 (4376575879222393045) -->
+    <!-- no translation found for lock_after_timeout_entries:7 (811192536981678974) -->
+  <string-array name="entries_font_size">
+    <item msgid="2340391964816059553">"小"</item>
+    <item msgid="591935967183159581">"預設"</item>
+    <item msgid="1714184661981538355">"大"</item>
+    <item msgid="6195563047686707484">"最大"</item>
+  </string-array>
+    <!-- no translation found for wifi_status:1 (4157625910392775808) -->
+  <string-array name="wifi_status_with_ssid">
+    <item msgid="4853670665485437464"></item>
+    <item msgid="6816207058895999545">"正在掃瞄…"</item>
+    <item msgid="8058143476674427024">"正在連線到 <xliff:g id="NETWORK_NAME">%1$s</xliff:g>…"</item>
+    <item msgid="7547609081339573756">"正在取得 <xliff:g id="NETWORK_NAME">%1$s</xliff:g> 的授權..."</item>
+    <item msgid="5145158315060185414">"正在從 <xliff:g id="NETWORK_NAME">%1$s</xliff:g> 取得 IP 位址..."</item>
+    <item msgid="3283243151651124831">"已連線到 <xliff:g id="NETWORK_NAME">%1$s</xliff:g>"</item>
+    <item msgid="6600156231416890902">"已暫停"</item>
+    <item msgid="4133290864821295785">"正在中斷 <xliff:g id="NETWORK_NAME">%1$s</xliff:g> 連線…"</item>
+    <item msgid="3980154971187953257">"已中斷連線"</item>
+    <item msgid="2847316776634969068">"不成功"</item>
+    <item msgid="4390990424746035383">"已封鎖"</item>
+    <item msgid="3618248791367063949">"目前正暫時避開欠佳的連線"</item>
+  </string-array>
+    <!-- no translation found for wifi_tether_security:0 (5586343370515598801) -->
+    <!-- no translation found for wifi_tether_security:1 (6136336549994615745) -->
+  <string-array name="wifi_p2p_wps_setup">
+    <item msgid="5390235347963255303">"按鍵"</item>
+    <item msgid="7401896200768713930">"來自對端裝置的 PIN"</item>
+    <item msgid="4526848028011846710">"從這部裝置產生的 PIN"</item>
+  </string-array>
+  <string-array name="wifi_p2p_status">
+    <item msgid="8741947238021758201">"已連接"</item>
+    <item msgid="983792611851499732">"已邀請"</item>
+    <item msgid="5438273405428201793">"不成功"</item>
+    <item msgid="4646663015449312554">"可用"</item>
+    <item msgid="3230556734162006146">"超出範圍"</item>
+  </string-array>
+  <string-array name="bluetooth_visibility_timeout_entries">
+    <item msgid="8247986727324120082">"2 分鐘"</item>
+    <item msgid="2759776603549270587">"5 分鐘"</item>
+    <item msgid="167772676068860015">"1 小時"</item>
+    <item msgid="5985477119043628504">"永不逾時"</item>
+  </string-array>
+    <!-- no translation found for bluetooth_max_connected_audio_devices:2 (5318020123964299318) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:3 (6429260054182662738) -->
+    <!-- no translation found for bluetooth_max_connected_audio_devices:4 (1644506614010085798) -->
+    <!-- no translation found for wifi_signal:0 (1709949377823900951) -->
+  <string-array name="data_usage_data_range">
+    <item msgid="8986775481492954015">"最近 30 天"</item>
+    <item msgid="3211287705232736964">"設定用量週期…"</item>
+  </string-array>
+  <string-array name="usage_stats_display_order_types">
+    <item msgid="1266031014388516303">"使用時間"</item>
+    <item msgid="2784401352592276015">"上次使用時間"</item>
+    <item msgid="249854287216326349">"應用程式名稱"</item>
+  </string-array>
+  <string-array name="wifi_eap_entries">
+    <item msgid="5538816743897530343">"PEAP"</item>
+    <item msgid="336771389015263226">"TLS"</item>
+    <item msgid="2124951724092063376">"TTLS"</item>
+    <item msgid="7427377376024106344">"PWD"</item>
+  </string-array>
+  <string-array name="wifi_peap_phase2_entries">
+    <item msgid="8934819312374410084">"無"</item>
+    <item msgid="8655686691660180616">"MSCHAPV2"</item>
+    <item msgid="1354245862267605928">"GTC"</item>
+  </string-array>
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:0 (7122038588318037831) -->
+    <!-- no translation found for wifi_peap_phase2_entries_with_sim_auth:2 (6333849991499980140) -->
+  <string-array name="wifi_phase2_entries">
+    <item msgid="5865367433072785952">"無"</item>
+    <item msgid="7901133332272818442">"PAP"</item>
+    <item msgid="8549879045980332977">"MSCHAP"</item>
+    <item msgid="7330627471456865502">"MSCHAPV2"</item>
+    <item msgid="6255179395132581882">"GTC"</item>
+  </string-array>
+  <string-array name="wifi_ip_settings">
+    <item msgid="2717196390555072244">"DHCP"</item>
+    <item msgid="4377002609760712163">"靜態"</item>
+  </string-array>
+  <string-array name="wifi_proxy_settings">
+    <item msgid="9032900195127165132">"無"</item>
+    <item msgid="1464741437353223198">"手動"</item>
+    <item msgid="5793600062487886090">"Proxy 自動設定"</item>
+  </string-array>
+  <string-array name="apn_auth_entries">
+    <item msgid="7099647881902405997">"無"</item>
+    <item msgid="1950796738039490374">"PAP"</item>
+    <item msgid="8166687999538788787">"CHAP"</item>
+    <item msgid="1276004657191968988">"PAP 或 CHAP"</item>
+  </string-array>
+  <string-array name="apn_protocol_entries">
+    <item msgid="4179023087537182757">"IPv4"</item>
+    <item msgid="9148582221081416020">"IPv6"</item>
+    <item msgid="4094895508821270572">"IPv4/IPv6"</item>
+  </string-array>
+    <!-- no translation found for bearer_entries:1 (2740477081395679090) -->
+    <!-- no translation found for mvno_type_entries:0 (6984770764726663331) -->
+    <!-- no translation found for mvno_type_entries:2 (7556656048009090524) -->
+  <string-array name="app_install_location_entries">
+    <item msgid="6621866711026016227">"內部裝置儲存空間"</item>
+    <item msgid="3186681694079967527">"卸除式 SD 卡"</item>
+    <item msgid="6902033473986647035">"讓系統決定"</item>
+  </string-array>
+  <string-array name="app_ops_categories">
+    <item msgid="1102693344156734891">"位置"</item>
+    <item msgid="6842381562497597649">"個人"</item>
+    <item msgid="3966700236695683444">"短訊"</item>
+    <item msgid="8563996233342430477">"媒體"</item>
+    <item msgid="5323851085993963783">"裝置"</item>
+  </string-array>
+  <string-array name="app_ops_summaries">
+    <item msgid="2585253854462134715">"約略位置"</item>
+    <item msgid="1830619568689922920">"精確位置"</item>
+    <item msgid="3317274469481923141">"全球衛星定位系統 (GPS)"</item>
+    <item msgid="8931785990160383356">"震動"</item>
+    <item msgid="8632513128515114092">"讀取通訊錄"</item>
+    <item msgid="3741042113569620272">"修改通訊錄"</item>
+    <item msgid="4204420969709009931">"讀取通話記錄"</item>
+    <item msgid="2260380357119423209">"修改通話記錄"</item>
+    <item msgid="6550710385014530934">"讀取日曆"</item>
+    <item msgid="3575906174264853951">"修改日曆"</item>
+    <item msgid="4319843242568057174">"Wi-Fi 掃瞄"</item>
+    <item msgid="2981791890467303819">"通知"</item>
+    <item msgid="6617825156152476692">"手機掃瞄"</item>
+    <item msgid="8865260890611559753">"撥打電話"</item>
+    <item msgid="3254999273961542982">"讀取 SMS"</item>
+    <item msgid="7711446453028825171">"寫入 SMS"</item>
+    <item msgid="6123238544099198034">"接收 SMS"</item>
+    <item msgid="838342167431596036">"接收緊急 SMS"</item>
+    <item msgid="8554432731560956686">"接收 MMS"</item>
+    <item msgid="7464863464299515059">"接收 WAP PUSH 短訊"</item>
+    <item msgid="310463075729606765">"傳送 SMS"</item>
+    <item msgid="7338021933527689514">"讀取 ICC SMS"</item>
+    <item msgid="6130369335466613036">"寫入 ICC SMS"</item>
+    <item msgid="6536865581421670942">"修改設定"</item>
+    <item msgid="4547203129183558973">"在上面繪圖"</item>
+    <item msgid="9080347512916542840">"存取通知"</item>
+    <item msgid="5332718516635907742">"相機"</item>
+    <item msgid="6098422447246167852">"錄製音效"</item>
+    <item msgid="9182794235292595296">"播放音效"</item>
+    <item msgid="8760743229597702019">"讀取剪貼簿"</item>
+    <item msgid="2266923698240538544">"修改剪貼簿"</item>
+    <item msgid="1801619438618539275">"媒體按鈕"</item>
+    <item msgid="31588119965784465">"音頻焦點"</item>
+    <item msgid="7565226799008076833">"主音量"</item>
+    <item msgid="5420704980305018295">"語音音量"</item>
+    <item msgid="5797363115508970204">"鈴聲音量"</item>
+    <item msgid="8233154098550715999">"媒體音量"</item>
+    <item msgid="5196715605078153950">"鬧鐘音量"</item>
+    <item msgid="394030698764284577">"通知音量"</item>
+    <item msgid="8952898972491680178">"藍牙音量"</item>
+    <item msgid="8506227454543690851">"保持啟用"</item>
+    <item msgid="1108160036049727420">"監測位置"</item>
+    <item msgid="1496205959751719491">"監控高耗電量定位功能"</item>
+    <item msgid="3776296279910987380">"取得使用統計資料"</item>
+    <item msgid="8827100324471975602">"關閉/開啟麥克風"</item>
+    <item msgid="6880736730520126864">"顯示 Toast"</item>
+    <item msgid="4933375960222609935">"投影媒體"</item>
+    <item msgid="8357907018938895462">"啟用 VPN"</item>
+    <item msgid="8143812849911310973">"撰寫桌布"</item>
+    <item msgid="6266277260961066535">"輔助結構"</item>
+    <item msgid="7715498149883482300">"輔助螢幕擷取畫面"</item>
+    <item msgid="4046679376726313293">"讀取手機狀態"</item>
+    <item msgid="6329507266039719587">"新增留言"</item>
+    <item msgid="7692440726415391408">"使用 SIP"</item>
+    <item msgid="8572453398128326267">"處理撥出的通話"</item>
+    <item msgid="7775674394089376306">"指紋"</item>
+    <item msgid="3182815133441738779">"人體感應器"</item>
+    <item msgid="2793100005496829513">"讀取區域廣播"</item>
+    <item msgid="2633626056029384366">"模擬位置"</item>
+    <item msgid="8356842191824684631">"讀取儲存空間"</item>
+    <item msgid="5671906070163291500">"寫入儲存空間"</item>
+    <item msgid="2791955098549340418">"開啟螢幕"</item>
+    <item msgid="5599435119609178367">"取得帳戶"</item>
+    <item msgid="1165623660533024666">"在背景中執行"</item>
+    <item msgid="6423861043647911030">"無障礙功能音量"</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item msgid="7892361636570580123">"位置"</item>
+    <item msgid="6656077694190491067">"位置"</item>
+    <item msgid="8790228218278477369">"位置"</item>
+    <item msgid="7836406246005211990">"震動"</item>
+    <item msgid="3951439024549922598">"讀取通訊錄"</item>
+    <item msgid="8802152411647068">"修改通訊錄"</item>
+    <item msgid="229544934599698735">"讀取通話記錄"</item>
+    <item msgid="7396102294405899613">"修改通話記錄"</item>
+    <item msgid="3597797992398484655">"讀取日曆"</item>
+    <item msgid="2705975774250907343">"修改日曆"</item>
+    <item msgid="4668747371441932697">"位置"</item>
+    <item msgid="1487578921720243646">"發佈通知"</item>
+    <item msgid="4636080349724146638">"位置"</item>
+    <item msgid="673510900286463926">"撥打電話"</item>
+    <item msgid="542083422784609790">"讀取 SMS/MMS"</item>
+    <item msgid="1033780373029588436">"寫入 SMS/MMS"</item>
+    <item msgid="5647111115517787488">"接收 SMS/MMS"</item>
+    <item msgid="8591105601108455893">"接收 SMS/MMS"</item>
+    <item msgid="7730995008517841903">"接收 SMS/MMS"</item>
+    <item msgid="2613033109026626086">"接收 SMS/MMS"</item>
+    <item msgid="3037159047591081136">"傳送 SMS/MMS"</item>
+    <item msgid="4726682243833913568">"讀取 SMS/MMS"</item>
+    <item msgid="6555678522277865572">"寫入 SMS/MMS"</item>
+    <item msgid="6981734935578130884">"修改設定"</item>
+    <item msgid="8705854389991425629">"在上面繪圖"</item>
+    <item msgid="5861356020344153651">"存取通知"</item>
+    <item msgid="78432174621628659">"相機"</item>
+    <item msgid="3986116419882154794">"錄製音效"</item>
+    <item msgid="4516840825756409490">"播放音效"</item>
+    <item msgid="6811712502798183957">"讀取剪貼簿"</item>
+    <item msgid="2780369012602289114">"修改剪貼簿"</item>
+    <item msgid="2331359440170850868">"媒體按鈕"</item>
+    <item msgid="6133599737122751231">"音頻焦點"</item>
+    <item msgid="6844485713404805301">"主音量"</item>
+    <item msgid="1600379420669104929">"語音音量"</item>
+    <item msgid="6296768210470214866">"鈴聲音量"</item>
+    <item msgid="510690696071629241">"媒體音量"</item>
+    <item msgid="406861638631430109">"鬧鐘音量"</item>
+    <item msgid="4715864795872233884">"通知音量"</item>
+    <item msgid="2311478519251301183">"藍牙音量"</item>
+    <item msgid="5133991377896747027">"保持啟用"</item>
+    <item msgid="2464189519136248621">"位置"</item>
+    <item msgid="2062677934050803037">"位置"</item>
+    <item msgid="1735171933192715957">"取得使用統計資料"</item>
+    <item msgid="1014093788778383554">"關閉/開啟麥克風"</item>
+    <item msgid="4199297950608622850">"顯示 Toast"</item>
+    <item msgid="2527962435313398821">"投影媒體"</item>
+    <item msgid="5117506254221861929">"啟用 VPN"</item>
+    <item msgid="8291198322681891160">"撰寫桌布"</item>
+    <item msgid="7106921284621230961">"輔助結構"</item>
+    <item msgid="4496533640894624799">"輔助螢幕擷取畫面"</item>
+    <item msgid="2598847264853993611">"讀取手機狀態"</item>
+    <item msgid="9215610846802973353">"新增留言"</item>
+    <item msgid="9186411956086478261">"使用 SIP"</item>
+    <item msgid="6884763100104539558">"處理撥出的通話"</item>
+    <item msgid="125513972170580692">"指紋"</item>
+    <item msgid="2556071024281275619">"人體感應器"</item>
+    <item msgid="617168514928339387">"讀取區域廣播"</item>
+    <item msgid="7134693570516523585">"模擬位置"</item>
+    <item msgid="7224489175375229399">"讀取儲存空間"</item>
+    <item msgid="8472735063903258202">"寫入儲存空間"</item>
+    <item msgid="4069276819909595110">"開啟螢幕"</item>
+    <item msgid="1228338896751121025">"取得帳戶"</item>
+    <item msgid="3181581793459233672">"在背景中執行"</item>
+    <item msgid="2340936043025374076">"無障礙功能音量"</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_titles">
+    <item msgid="8950313530602254787">"短"</item>
+    <item msgid="4816511817309094890">"中"</item>
+    <item msgid="8305084671259331134">"長"</item>
+  </string-array>
+  <string-array name="captioning_typeface_selector_titles">
+    <item msgid="6928465258504250174">"預設"</item>
+    <item msgid="4147246073737933622">"Sans-serif"</item>
+    <item msgid="3117680749167407907">"Sans-serif condensed"</item>
+    <item msgid="6529379119163117545">"Sans-serif 等寬字型"</item>
+    <item msgid="1487203730637617924">"Serif"</item>
+    <item msgid="4937790671987480464">"Serif 等寬字型"</item>
+    <item msgid="4448481989108928248">"行書"</item>
+    <item msgid="4627069151979553527">"草書"</item>
+    <item msgid="6896773537705206194">"小楷"</item>
+  </string-array>
+    <!-- no translation found for captioning_font_size_selector_titles:1 (5091603983404027034) -->
+    <!-- no translation found for captioning_font_size_selector_titles:2 (176844712416932112) -->
+  <string-array name="captioning_edge_type_selector_titles">
+    <item msgid="3865198759294188069">"預設"</item>
+    <item msgid="6488643537808152001">"無"</item>
+    <item msgid="552332815156010137">"外框"</item>
+    <item msgid="7187891159463789272">"投射陰影"</item>
+    <item msgid="8019330250538856521">"凸出"</item>
+    <item msgid="8987385315647049787">"內凹"</item>
+  </string-array>
+  <string-array name="captioning_opacity_selector_titles">
+    <item msgid="313003243371588365">"25%"</item>
+    <item msgid="4665048002584838262">"50%"</item>
+    <item msgid="1874668269931014581">"75%"</item>
+    <item msgid="6462911487571123954">"100%"</item>
+  </string-array>
+  <string-array name="captioning_preset_selector_titles">
+    <item msgid="326819345272910536">"使用應用程式預設樣式"</item>
+    <item msgid="8611890312638868524">"黑底白字"</item>
+    <item msgid="5891360837786277638">"白底黑字"</item>
+    <item msgid="2798457065945456853">"黑底黃字"</item>
+    <item msgid="5799049811524553967">"藍底黃字"</item>
+    <item msgid="3673930830658169860">"自訂"</item>
+  </string-array>
+  <string-array name="vpn_types_long">
+    <item msgid="6566768880689730097">"PPTP VPN"</item>
+    <item msgid="1349760781118368659">"L2TP/IPSec VPN (預先共用密鑰)"</item>
+    <item msgid="6128519070545038358">"L2TP/IPSec VPN (憑證)"</item>
+    <item msgid="312397853907741968">"IPSec VPN (預先共用密鑰和 Xauth 驗證)"</item>
+    <item msgid="3319427315593649917">"IPSec VPN (憑證和 Xauth 驗證)"</item>
+    <item msgid="8258927774145391041">"IPSec VPN (憑證和混合驗證)"</item>
+  </string-array>
+  <string-array name="vpn_proxy_settings">
+    <item msgid="2958623927055120839">"無"</item>
+    <item msgid="1157046369795346308">"手動"</item>
+  </string-array>
+  <string-array name="vpn_states">
+    <item msgid="5408915841694583740">"已中斷連線"</item>
+    <item msgid="8754480102834556765">"正在初始..."</item>
+    <item msgid="3351334355574270250">"正在連線..."</item>
+    <item msgid="8303882153995748352">"已連接"</item>
+    <item msgid="9135049670787351881">"逾時"</item>
+    <item msgid="2124868417182583926">"不成功"</item>
+  </string-array>
+  <string-array name="security_settings_premium_sms_values">
+    <item msgid="1164265643455394443">"詢問"</item>
+    <item msgid="7718817231348607934">"永不允許"</item>
+    <item msgid="8184570120217958741">"永遠允許"</item>
+  </string-array>
+    <!-- no translation found for ram_states:0 (708247372474061274) -->
+    <!-- no translation found for ram_states:4 (1567326459340152525) -->
+    <!-- no translation found for proc_stats_memory_states:3 (8577246509202964244) -->
+  <string-array name="proc_stats_process_states">
+    <item msgid="7560955722349181440">"持續"</item>
+    <item msgid="167418068739176448">"重大活動"</item>
+    <item msgid="4760813290195199773">"重要 (前景)"</item>
+    <item msgid="2328684826817647595">"重要 (背景)"</item>
+    <item msgid="7746406490652867365">"備份"</item>
+    <item msgid="5597404364389196754">"高負載"</item>
+    <item msgid="1290888779300174556">"服務 (執行中)"</item>
+    <item msgid="7241098542073939046">"服務 (重新啟動中)"</item>
+    <item msgid="6610439017684111046">"接收器"</item>
+    <item msgid="7367606086319921117">"首頁"</item>
+    <item msgid="3344660712396741826">"最近活動"</item>
+    <item msgid="5006559348883303865">"快取 (活動)"</item>
+    <item msgid="8633480732468137525">"快取 (活動使用者端)"</item>
+    <item msgid="6248998242443333892">"快取 (清空)"</item>
+  </string-array>
+  <string-array name="color_picker">
+    <item msgid="3151827842194201728">"藍綠色"</item>
+    <item msgid="3228505970082457852">"藍色"</item>
+    <item msgid="6590260735734795647">"靛藍色"</item>
+    <item msgid="3521763377357218577">"紫色"</item>
+    <item msgid="5932337981182999919">"粉紅色"</item>
+    <item msgid="5642914536624000094">"紅色"</item>
+  </string-array>
+  <string-array name="automatic_storage_management_days">
+    <item msgid="2860293514533486236">"超過 30 天"</item>
+    <item msgid="8699273238891265610">"超過 60 天"</item>
+    <item msgid="8346279419423837266">"超過 90 天"</item>
+  </string-array>
+    <!-- no translation found for swipe_direction_titles:0 (6583090603341402282) -->
+    <!-- no translation found for swipe_direction_titles:1 (4965730704403236310) -->
+  <string-array name="swipe_direction_values">
+    <item msgid="5298569105095026382">"1"</item>
+    <item msgid="3118234477029486741">"0"</item>
+  </string-array>
+  <string-array name="wifi_metered_entries">
+    <item msgid="4329206416008519163">"自動偵測"</item>
+    <item msgid="773943026484148895">"設定為按用量收費"</item>
+    <item msgid="1008268820118852416">"設定為非按用量收費"</item>
+  </string-array>
+  <string-array name="wifi_privacy_entries">
+    <item msgid="6545683814310036454">"使用隨機 MAC (預設)"</item>
+    <item msgid="214234417308375326">"使用 MAC 裝置"</item>
+  </string-array>
+  <string-array name="wifi_hidden_entries">
+    <item msgid="7426878022650940844">"否"</item>
+    <item msgid="1930581185557754880">"是"</item>
+  </string-array>
+  <string-array name="dark_ui_mode_entries">
+    <item msgid="699295711155561081">"深色"</item>
+    <item msgid="5079453644557603349">"淺色"</item>
+  </string-array>
+  <string-array name="autofill_logging_level_entries">
+    <item msgid="6882729786516723474">"關閉"</item>
+    <item msgid="4072198137051566919">"偵錯"</item>
+    <item msgid="2473005316958868509">"詳細"</item>
+  </string-array>
+  <string-array name="cdma_system_select_choices">
+    <item msgid="8444727359525554695">"僅限住宅電話"</item>
+    <item msgid="1161026694891024702">"自動"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices">
+    <item msgid="1823884522189328861">"首選 GSM/WCDMA"</item>
+    <item msgid="7581481130337402578">"只限 GSM"</item>
+    <item msgid="8579197487913425819">"只限 WCDMA"</item>
+    <item msgid="8465243227505412498">"GSM/WCDMA 自動切換"</item>
+    <item msgid="9107479914166352132">"CDMA/EvDo 自動切換"</item>
+    <item msgid="4219607161971472471">"CDMA (沒有 EvDo)"</item>
+    <item msgid="7278975240951052041">"只限 EvDo"</item>
+    <item msgid="2295969832276827854">"CDMA/EvDo/GSM/WCDMA"</item>
+    <item msgid="9059227943989034424">"CDMA + LTE/EvDo"</item>
+    <item msgid="463168068025354541">"GSM/WCDMA/LTE"</item>
+    <item msgid="1770755308983338311">"全球"</item>
+    <item msgid="5713723042183940349">"LTE"</item>
+    <item msgid="8600184258612405670">"LTE/WCDMA"</item>
+    <item msgid="5638632460322750180">"只限 TDSCDMA"</item>
+    <item msgid="4346392996298714633">"TDSCDMA/WCDMA"</item>
+    <item msgid="5004811216708487615">"LTE/TDSCDMA"</item>
+    <item msgid="9191730167201068525">"TDSCDMA/GSM"</item>
+    <item msgid="5874623229495009031">"LTE/TDSCDMA/GSM"</item>
+    <item msgid="5096480046347789213">"TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2075445917638134012">"LTE/TDSCDMA/WCDMA"</item>
+    <item msgid="3353351554070857366">"LTE/TDSCDMA/GSM/WCDMA"</item>
+    <item msgid="2067289929099567494">"TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+    <item msgid="4959483620561891661">"LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA"</item>
+  </string-array>
+  <string-array name="cdma_subscription_choices">
+    <item msgid="7691437408632563841">"RUIM/SIM"</item>
+    <item msgid="6219184455685527822">"NV"</item>
+  </string-array>
+  <string-array name="preferred_network_mode_choices_world_mode">
+    <item msgid="5675987537637081766">"全球"</item>
+    <item msgid="7893851358184700811">"LTE/CDMA"</item>
+    <item msgid="1779116915491192719">"LTE/GSM/UMTS"</item>
+  </string-array>
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:0 (4760531919194480665) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:1 (7912365765185450743) -->
+    <!-- no translation found for enhanced_4g_lte_mode_title_variant:2 (2104740586531949003) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:0 (852926015619722843) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:1 (3792510685855718883) -->
+    <!-- no translation found for enhanced_4g_lte_mode_sumary_variant:2 (1377977453734193662) -->
+</resources>

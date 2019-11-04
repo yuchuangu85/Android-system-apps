@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="call_incoming_swipe_to_decline_with_message">செய்தியுடன் நிராகரிக்க, ஐகானிலிருந்து ஸ்வைப் செய்யவும்</string>
+  <string name="call_incoming_swipe_to_answer_video_as_audio">ஆடியோ அழைப்பில் பதிலளிக்க, ஐகானிலிருந்து ஸ்வைப் செய்யவும்</string>
+  <string name="call_incoming_default_label_answer_and_release_second">உள்வரும் அழைப்பிற்குப் பதிலளித்து, செயலிலுள்ள அழைப்பை ஹோல்டில் வைக்க, மேலே ஸ்வைப் செய்யவும்</string>
+  <string name="call_incoming_default_label_answer_and_release_third">உள்வரும் அழைப்பிற்குப் பதிலளித்து, ஹோல்டில் உள்ள அழைப்பை முடிக்க, மேலே ஸ்வைப் செய்யவும்</string>
+  <string name="call_incoming_swipe_to_answer_and_release">உள்வரும் அழைப்பிற்குப் பதிலளித்து, செயலில் உள்ள அழைப்பை முடிக்க, ஐகானிலிருந்து ஸ்வைப் செய்யவும்</string>
+  <string name="call_incoming_message_custom">நீங்களே எழுதவும்…</string>
+  <string name="call_incoming_respond_via_sms_custom_message">நீங்களே எழுதவும்…</string>
+  <string name="call_incoming_custom_message_cancel">ரத்துசெய்</string>
+  <string name="call_incoming_custom_message_send">அனுப்பு</string>
+  <string name="a11y_incoming_call_reject_with_sms">செய்தி அனுப்பி இந்த அழைப்பை நிராகரி</string>
+  <string name="a11y_incoming_call_answer_video_as_audio">ஆடியோ அழைப்பில் பதிலளி</string>
+  <string name="a11y_incoming_call_answer_and_release">உள்வரும் அழைப்பிற்குப் பதிலளித்து, செயலில் உள்ள அழைப்பை முடி</string>
+  <string name="a11y_description_incoming_call_reject_with_sms">செய்தியுடன் நிராகரி</string>
+  <string name="a11y_description_incoming_call_answer_video_as_audio">ஆடியோ அழைப்பில் பதிலளி</string>
+  <string name="a11y_description_incoming_call_answer_and_release">உள்வரும் அழைப்பிற்குப் பதிலளித்து, செயலில் உள்ள அழைப்பை முடிக்கும்</string>
+  <string name="call_incoming_video_is_off">வீடியோ முடக்கப்பட்டுள்ளது</string>
+  <string name="a11y_incoming_call_swipe_gesture_prompt">பதிலளிக்க, இரு விரல்களால் மேலே ஸ்வைப் செய்யவும். நிராகரிக்க, இரு விரல்களால் கீழே ஸ்வைப் செய்யவும்.</string>
+  <string name="call_incoming_important">முக்கிய அழைப்பு</string>
+</resources>

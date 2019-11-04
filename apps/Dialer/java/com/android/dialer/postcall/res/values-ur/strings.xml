@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="post_call_message">بولیں کہ آپ نے کال کیوں کی</string>
+  <string name="post_call_message_1">یہ ارجنٹ ہے۔ مجھے واپس کال کریں۔</string>
+  <string name="post_call_message_2">جب آپ کے پاس کچھ وقت ہو تو مجھے واپس کال کریں۔</string>
+  <string name="post_call_message_3">ارجنٹ نہیں ہے، ہم بعد میں چیٹ کر سکتے ہیں۔</string>
+  <string name="post_call_add_message">پیغام شامل کریں</string>
+  <string name="post_call_send_message">پیغام بھیجیں</string>
+  <string name="post_call_message_sent">پیغام بھیج دیا گیا</string>
+  <string name="view">دیکھیں</string>
+</resources>

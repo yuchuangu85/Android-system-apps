@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="favorites_header">Gogokoak</string>
+  <string name="suggestions_header">Maiz erabilitakoak</string>
+  <string name="speed_dial_add_button_text">Gehitu</string>
+  <string name="speed_dial_remember_this_choice">Gogoratu aukera hau</string>
+  <string name="speed_dial_disambig_dialog_title">Aukeratu dei mota</string>
+  <string name="disambig_option_video_call">Bideo-deia</string>
+  <string name="disambig_option_voice_call">Deitu</string>
+  <string name="add_favorite_activity_title">Gehitu gogokoa</string>
+  <string name="contact_menu_voice_call">Ahots-deia</string>
+  <string name="contact_menu_video_call">Bideo-deia</string>
+  <string name="contact_menu_message">Mezua</string>
+  <string name="contact_menu_remove">Kendu</string>
+  <string name="contact_menu_contact_info">Harremanetarako informazioa</string>
+  <string name="suggested_contact_bottom_sheet_add_favorite_option">Gehitu gogokoa</string>
+  <string name="speed_dial_contacts_permission_description">Markatze bizkorra gaitzeko, aktibatu Kontaktuak erabiltzeko baimena.</string>
+  <string name="speed_dial_turn_on_contacts_permission">Aktibatu</string>
+  <string name="speed_dial_no_contacts_description">Ez duzu gehitu gogokorik oraindik</string>
+  <string name="speed_dial_no_contacts_action_text">Gehitu gogokoa</string>
+  <string name="speed_dial_remove_favorites">Kendu gogokoetatik</string>
+</resources>

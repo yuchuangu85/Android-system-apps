@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">Dohodni klic</string>
+  <string name="type_incoming_pulled">Dohodni klic je bil prenesen v drugo napravo</string>
+  <string name="type_outgoing">Odhodni klic</string>
+  <string name="type_outgoing_pulled">Odhodni klic je bil prenesen v drugo napravo</string>
+  <string name="type_missed">Neodgovorjeni klic</string>
+  <string name="type_incoming_video">Dohodni videoklic</string>
+  <string name="type_incoming_video_pulled">Dohodni videoklic je bil prenesen v drugo napravo</string>
+  <string name="type_outgoing_video">Odhodni videoklic</string>
+  <string name="type_outgoing_video_pulled">Odhodni videoklic je bil prenesen v drugo napravo</string>
+  <string name="type_missed_video">Nedogovorjeni videoklic</string>
+  <string name="type_voicemail">Odzivnik</string>
+  <string name="type_rejected">Zavrnjen klic</string>
+  <string name="type_blocked">Blokiran klic</string>
+  <string name="call_details_minutes_abbreviation">min</string>
+  <string name="call_details_seconds_abbreviation">s</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s \'%2$s\' %3$s \'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">sekunde</item>
+    <item quantity="two">sekunde</item>
+    <item quantity="few">sekunde</item>
+    <item quantity="other">sekunde</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">minute</item>
+    <item quantity="two">minute</item>
+    <item quantity="few">minute</item>
+    <item quantity="other">minute</item>
+  </plurals>
+  <string name="type_answered_elsewhere">Klic je bil sprejet v drugi napravi</string>
+  <string name="description_phone_account">v računu ^1</string>
+  <string name="description_via_number">prek številke %1$s</string>
+  <string name="description_via_number_phone_account">v računu %1$s, prek številke %2$s</string>
+  <string name="voicemail_string">Odzivnik</string>
+  <string name="just_now">Pravkar</string>
+  <string name="new_call_log_carrier_video">Videoklic prek operaterja</string>
+  <string name="new_call_log_duo_video">Videoklic Duo</string>
+  <string name="new_call_log_unknown">Neznano</string>
+  <string name="new_call_log_secondary_blocked">Blokirano</string>
+  <string name="new_call_log_secondary_spam">Neželeno</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^1 klic, zadnji od njih je neodgovorjen dohodni klic stika ^2</item>
+    <item quantity="two">^1 klica, zadnji od njih je neodgovorjen dohodni klic stika ^2</item>
+    <item quantity="few">^1 klici, zadnji od njih je neodgovorjen dohodni klic stika ^2</item>
+    <item quantity="other">^1 klicev, zadnji od njih je neodgovorjen dohodni klic stika ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^1 klic, zadnji od njih je sprejet dohodni klic stika ^2</item>
+    <item quantity="two">^1 klica, zadnji od njih je sprejet dohodni klic stika ^2</item>
+    <item quantity="few">^1 klici, zadnji od njih je sprejet dohodni klic stika ^2</item>
+    <item quantity="other">^1 klicev, zadnji od njih je sprejet dohodni klic stika ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^1 klic, zadnji od njih je odhodni klic stika ^2</item>
+    <item quantity="two">^1 klica, zadnji od njih je odhodni klic stika ^2</item>
+    <item quantity="few">^1 klici, zadnji od njih je odhodni klic stika ^2</item>
+    <item quantity="other">^1 klicev, zadnji od njih je odhodni klic stika ^2</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^1 klic, zadnji od njih je blokiran dohodni klic stika ^2</item>
+    <item quantity="two">^1 klica, zadnji od njih je blokiran dohodni klic stika ^2</item>
+    <item quantity="few">^1 klici, zadnji od njih je blokiran dohodni klic stika ^2</item>
+    <item quantity="other">^1 klicev, zadnji od njih je blokiran dohodni klic stika ^2</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">v računu ^1,
+    prek številke ^2</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

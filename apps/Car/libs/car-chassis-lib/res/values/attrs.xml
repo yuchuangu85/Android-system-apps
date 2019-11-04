@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <declare-styleable name="ChassisToolbar">
+        <!-- The title of the toolbar, only displayed in certain conditions -->
+        <attr name="title" format="string"/>
+        <!-- The logo drawable for the toolbar. Appears when there's no back/close button shown -->
+        <attr name="logo" format="reference"/>
+        <!-- The hint for the search bar in the toolbar -->
+        <attr name="searchHint" format="string"/>
+        <!-- The buttons to display, as an array of layout ids. Use @layout/chassis_toolbar_search_button and @layout/chassis_toolbar_settings_button for the search and settings buttons -->
+        <attr name="buttons" format="reference"/>
+        <!-- Whether or not to show the custom buttons while searching. If using chassis_toolbar_search_button, or any other layout with a view with the id of "search", it will always be hidden. -->
+        <attr name="showButtonsWhileSearching" format="boolean"/>
+    </declare-styleable>
+
+    <!-- Theme attribute to specifying a default style for all chassisToolbars -->
+    <attr name="chassisToolbarStyle" format="reference"/>
+</resources>

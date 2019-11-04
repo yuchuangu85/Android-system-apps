@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="type_incoming">ഇന്‍‌കമിംഗ് കോള്‍</string>
+  <string name="type_incoming_pulled">മറ്റൊരു ഉപകരണത്തിലേക്ക് ഇൻകമിംഗ് കോൾ കൈമാറി</string>
+  <string name="type_outgoing">വിളിച്ച കോൾ</string>
+  <string name="type_outgoing_pulled">മറ്റൊരു ഉപകരണത്തിലേക്ക് ഔട്ട്‌ഗോയിംഗ് കോൾ കൈമാറി</string>
+  <string name="type_missed">മിസ്ഡ് കോള്‍</string>
+  <string name="type_incoming_video">ഇൻകമിംഗ് വീഡിയോ കോൾ</string>
+  <string name="type_incoming_video_pulled">മറ്റൊരു ഉപകരണത്തിലേക്ക് ഇൻകമിംഗ് വീഡിയോ കോൾ കൈമാറി</string>
+  <string name="type_outgoing_video">വിളിച്ച വീഡിയോ കോൾ</string>
+  <string name="type_outgoing_video_pulled">മറ്റൊരു ഉപകരണത്തിലേക്ക് ഔട്ട്‌ഗോയിംഗ് വീഡിയോ കോൾ കൈമാറി</string>
+  <string name="type_missed_video">വീഡിയോ കോൾ നഷ്‌ടമായി</string>
+  <string name="type_voicemail">വോയ്‌സ്‌മെയിൽ</string>
+  <string name="type_rejected">നിരസിച്ച കോൾ</string>
+  <string name="type_blocked">ബ്ലോക്കുചെയ്ത കോൾ</string>
+  <string name="call_details_minutes_abbreviation">മി.</string>
+  <string name="call_details_seconds_abbreviation">സെ.</string>
+  <string name="a11y_call_duration_format">%1$d %2$s %3$d %4$s</string>
+  <string name="a11y_call_duration_short_format">%1$d %2$s</string>
+  <string name="call_duration_format_pattern">%1$s\'%2$s\' %3$s\'%4$s\'</string>
+  <string name="call_duration_short_format_pattern">%1$s \'%2$s\'</string>
+  <plurals name="a11y_seconds">
+    <item quantity="one">സെക്കൻഡ്</item>
+    <item quantity="other">സെക്കൻഡ്</item>
+  </plurals>
+  <plurals name="a11y_minutes">
+    <item quantity="one">മിനിറ്റ്</item>
+    <item quantity="other">മിനിറ്റ്</item>
+  </plurals>
+  <string name="type_answered_elsewhere">മറ്റൊരു ഉപകരണത്തിൽ കോളിന് മറുപടി നൽകി</string>
+  <string name="description_phone_account">^1 എന്നതിൽ</string>
+  <string name="description_via_number">%1$s നമ്പർ വഴി</string>
+  <string name="description_via_number_phone_account">%2$s നമ്പർ വഴി, %1$s അക്കൗണ്ടിൽ</string>
+  <string name="voicemail_string">വോയ്‌സ്‌മെയിൽ</string>
+  <string name="just_now">ഇപ്പോൾ</string>
+  <string name="new_call_log_carrier_video">കാരിയർ വീഡിയോ</string>
+  <string name="new_call_log_duo_video">Duo വീഡിയോ</string>
+  <string name="new_call_log_unknown">അജ്ഞാതം</string>
+  <string name="new_call_log_secondary_blocked">ബ്ലോക്ക് ചെയ്‌തു</string>
+  <string name="new_call_log_secondary_spam">സ്‌പാം</string>
+  <plurals name="a11y_new_call_log_entry_missed_call">
+    <item quantity="one">^2-ൽ നിന്ന് ^1 മിസ്‌ഡ് കോൾ</item>
+    <item quantity="other">^1 കോളുകൾ, ഏറ്റവും പുതിയത് ^2-ൽ നിന്നുള്ള മിസ്‌ഡ് കോളാണ്</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_answered_call">
+    <item quantity="one">^2-ൽ നിന്ന് ^1 മറുപടി നൽകിയ കോൾ</item>
+    <item quantity="other">^1 കോളുകൾ, ഏറ്റവും പുതിയത് ^2-ൽ നിന്ന് മറുപടി നൽകിയ കോളാണ്</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_outgoing_call">
+    <item quantity="one">^2-ലേക്ക് ^1 ഔട്ട്‌ഗോയിംഗ് കോൾ</item>
+    <item quantity="other">^1 കോളുകൾ, ഏറ്റവും പുതിയത് ^2-ലേക്കുള്ള ഔട്ട്‌ഗോയിംഗ് കോളാണ്</item>
+  </plurals>
+  <plurals name="a11y_new_call_log_entry_blocked_call">
+    <item quantity="one">^2-ൽ നിന്നുള്ള ^1 ബ്ലോക്ക് ചെയ്‌ത കോൾ</item>
+    <item quantity="other">^1 കോളുകൾ, ഏറ്റവും പുതിയത് ^2-ൽ നിന്നുള്ള ബ്ലോക്ക് ചെയ്‌ത കോൾ</item>
+  </plurals>
+  <string name="a11y_new_call_log_entry_phone_account">^1 നമ്പർ വഴി,
+    ^2 അക്കൗണ്ടിൽ</string>
+  <string name="a11y_new_call_log_entry_full_description_without_phone_account_info">^1, ^2.</string>
+  <string name="a11y_new_call_log_entry_full_description_with_phone_account_info">^1, ^2, ^3.</string>
+</resources>

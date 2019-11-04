@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="default_notification_description">Vaikeheli (%1$s)</string>
+  <string name="ringtone_silent">Puudub</string>
+  <string name="ringtone_unknown">Tundmatu helin</string>
+  <string name="activity_not_available">Seadmes pole selleks sobilikku rakendust</string>
+  <string name="outgoing_wps_warning">WPS-kõne tegemisel katkestatakse teie praegune kõne.</string>
+  <string name="dialog_continue">Jätka</string>
+  <string name="camera_privacy_text">Kaameraluba on antud</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="nearby_places">Lugares próximos</string>
+  <string name="search_location_permission">Para obter información de contacto dos lugares que están cerca de ti, permite o acceso á túa localización.</string>
+  <string name="nearby_places_allow">Permitir</string>
+  <string name="nearby_places_dismiss">Ignorar</string>
+</resources>

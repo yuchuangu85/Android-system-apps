@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="description_dialpad_back">ย้อนกลับ</string>
+  <string name="description_dialpad_overflow">ตัวเลือกเพิ่มเติม</string>
+  <string name="description_delete_button">ลบถอยหลัง</string>
+  <string name="description_image_button_plus">กดปุ่มเครื่องหมายบวก</string>
+  <string name="description_voicemail_button">เรียกใช้ข้อความเสียง</string>
+  <string name="description_dial_button">หมุนหมายเลข</string>
+  <string name="dialog_voicemail_airplane_mode_message">หากต้องการฟังข้อความเสียง ให้ปิดโหมดใช้งานบนเครื่องบินก่อน</string>
+  <string name="dialog_voicemail_not_ready_message">หากต้องการตั้งค่าข้อความเสียง ให้ไปที่เมนู &gt; การตั้งค่า</string>
+  <string name="add_2sec_pause">เพิ่มช่วงคั่น 2 วินาที</string>
+  <string name="add_wait">เพิ่มการรอ</string>
+  <string name="dialer_useDtmfDialpad">ใช้ปุ่มกดแบบมีเสียง</string>
+  <string name="dialer_returnToInCallScreen">กลับไปคุยสายต่อ</string>
+  <string name="dialer_addAnotherCall">เพิ่มการโทร</string>
+  <string name="imei">IMEI</string>
+  <string name="meid">MEID</string>
+  <string name="simContacts_emptyLoading">กำลังโหลดจากซิมการ์ด…</string>
+  <string name="simContacts_title">รายชื่อติดต่อในซิมการ์ด</string>
+  <string name="menu_callNumber">โทร %s</string>
+  <string name="dialpad_hint_emergency_calling_not_available">โทรหาหมายเลขฉุกเฉินผ่าน Wi‑Fi ไม่ได้</string>
+  <string msgid="4313552620858880999" name="dialog_phone_call_prohibited_message">ไม่สามารถโทรไปยังหมายเลขนี้</string>
+</resources>
