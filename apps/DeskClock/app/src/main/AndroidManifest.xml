@@ -22,6 +22,8 @@
     <original-package android:name="com.android.alarmclock" />
     <original-package android:name="com.android.deskclock" />
 
+    <uses-sdk android:minSdkVersion="23" android:targetSdkVersion="30" />
+
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.VIBRATE" />
@@ -29,6 +31,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
 
     <!-- WRITE_SETTINGS is required to record the upcoming alarm prior to L -->
     <uses-permission
